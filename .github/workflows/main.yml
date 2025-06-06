@@ -39,7 +39,7 @@ jobs:
       # Run as a mlflow project
       - name: Run mlflow project
         run: |
-          mlflow run MLproject/modelling.py --env-manager=local 
+          mlflow run MLproject --env-manager=local -P n_estimators=505 -P max_depth=35 -P input_file=train_pca.csv
  
       # Save models to GitHub Repository
       - name: Save mlruns to repo
