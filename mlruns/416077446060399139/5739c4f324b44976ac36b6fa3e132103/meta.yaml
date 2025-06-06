@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/416077446060399139/5739c4f324b44976ac36b6fa3e132103/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '416077446060399139'
+lifecycle_stage: active
+run_id: 5739c4f324b44976ac36b6fa3e132103
+run_name: hilarious-asp-136
+run_uuid: 5739c4f324b44976ac36b6fa3e132103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749207138347
+status: 1
+tags: []
+user_id: boyhe

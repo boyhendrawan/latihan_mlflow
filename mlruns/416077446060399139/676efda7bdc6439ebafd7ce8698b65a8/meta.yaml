@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/416077446060399139/676efda7bdc6439ebafd7ce8698b65a8/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '416077446060399139'
+lifecycle_stage: active
+run_id: 676efda7bdc6439ebafd7ce8698b65a8
+run_name: bouncy-zebra-454
+run_uuid: 676efda7bdc6439ebafd7ce8698b65a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749207138347
+status: 1
+tags: []
+user_id: boyhe
