@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fab9f83bb9674a72aeccfabec9d8bcc0/artifacts
+end_time: 1749323815100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fab9f83bb9674a72aeccfabec9d8bcc0
+run_name: carefree-robin-696
+run_uuid: fab9f83bb9674a72aeccfabec9d8bcc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749323676789
+status: 3
+tags: []
+user_id: runner
