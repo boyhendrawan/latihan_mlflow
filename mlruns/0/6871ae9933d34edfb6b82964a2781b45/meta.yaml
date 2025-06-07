@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6871ae9933d34edfb6b82964a2781b45/artifacts
+end_time: 1749313397923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6871ae9933d34edfb6b82964a2781b45
+run_name: kindly-hare-884
+run_uuid: 6871ae9933d34edfb6b82964a2781b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749313260411
+status: 3
+tags: []
+user_id: runner
