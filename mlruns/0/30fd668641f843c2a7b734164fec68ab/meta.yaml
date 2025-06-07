@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/30fd668641f843c2a7b734164fec68ab/artifacts
+end_time: 1749290353756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30fd668641f843c2a7b734164fec68ab
+run_name: entertaining-hog-286
+run_uuid: 30fd668641f843c2a7b734164fec68ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749290216343
+status: 3
+tags: []
+user_id: runner
