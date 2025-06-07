@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c698a9b644149f2a2f654de97b92c00/artifacts
+end_time: 1749288250251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c698a9b644149f2a2f654de97b92c00
+run_name: overjoyed-boar-787
+run_uuid: 5c698a9b644149f2a2f654de97b92c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749288115125
+status: 3
+tags: []
+user_id: runner
