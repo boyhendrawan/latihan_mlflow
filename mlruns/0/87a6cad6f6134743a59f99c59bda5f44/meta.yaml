@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/87a6cad6f6134743a59f99c59bda5f44/artifacts
+end_time: 1749335802837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87a6cad6f6134743a59f99c59bda5f44
+run_name: shivering-elk-843
+run_uuid: 87a6cad6f6134743a59f99c59bda5f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749335666060
+status: 3
+tags: []
+user_id: runner
