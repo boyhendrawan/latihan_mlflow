@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/124d8a871a5847a8be243b7b684a41fc/artifacts
+end_time: 1749308562580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 124d8a871a5847a8be243b7b684a41fc
+run_name: defiant-seal-269
+run_uuid: 124d8a871a5847a8be243b7b684a41fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749308426801
+status: 3
+tags: []
+user_id: runner
