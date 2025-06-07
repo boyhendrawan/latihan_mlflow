@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfac0343bfda42edadee42113b8d99cc/artifacts
+end_time: 1749302634162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfac0343bfda42edadee42113b8d99cc
+run_name: amusing-rook-841
+run_uuid: cfac0343bfda42edadee42113b8d99cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749302495531
+status: 3
+tags: []
+user_id: runner
