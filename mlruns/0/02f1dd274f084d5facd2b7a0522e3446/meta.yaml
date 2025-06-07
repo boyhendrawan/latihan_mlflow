@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02f1dd274f084d5facd2b7a0522e3446/artifacts
+end_time: 1749323042936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02f1dd274f084d5facd2b7a0522e3446
+run_name: upbeat-ant-428
+run_uuid: 02f1dd274f084d5facd2b7a0522e3446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749322907082
+status: 3
+tags: []
+user_id: runner
