@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5390efa355864aae8e1700390020d86e/artifacts
+end_time: 1749284032857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5390efa355864aae8e1700390020d86e
+run_name: able-ram-213
+run_uuid: 5390efa355864aae8e1700390020d86e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749283894274
+status: 3
+tags: []
+user_id: runner
