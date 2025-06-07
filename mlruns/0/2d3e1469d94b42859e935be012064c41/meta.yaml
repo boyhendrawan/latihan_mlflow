@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d3e1469d94b42859e935be012064c41/artifacts
+end_time: 1749323428838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d3e1469d94b42859e935be012064c41
+run_name: secretive-donkey-323
+run_uuid: 2d3e1469d94b42859e935be012064c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749323291786
+status: 3
+tags: []
+user_id: runner
