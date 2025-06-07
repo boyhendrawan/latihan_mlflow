@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a166ff8d39b94399a3fe21bbf7ae615d/artifacts
+end_time: 1749293597014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a166ff8d39b94399a3fe21bbf7ae615d
+run_name: dashing-snake-216
+run_uuid: a166ff8d39b94399a3fe21bbf7ae615d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749293461284
+status: 3
+tags: []
+user_id: runner
