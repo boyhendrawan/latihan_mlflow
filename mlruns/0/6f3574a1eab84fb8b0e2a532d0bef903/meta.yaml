@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6f3574a1eab84fb8b0e2a532d0bef903/artifacts
+end_time: 1749312814352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f3574a1eab84fb8b0e2a532d0bef903
+run_name: nimble-zebra-640
+run_uuid: 6f3574a1eab84fb8b0e2a532d0bef903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749312677674
+status: 3
+tags: []
+user_id: runner
