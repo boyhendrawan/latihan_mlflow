@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f40b7e0cbd964469b7dd7e341ea942b0/artifacts
+end_time: 1749274432241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f40b7e0cbd964469b7dd7e341ea942b0
+run_name: secretive-vole-456
+run_uuid: f40b7e0cbd964469b7dd7e341ea942b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749274295336
+status: 3
+tags: []
+user_id: runner
