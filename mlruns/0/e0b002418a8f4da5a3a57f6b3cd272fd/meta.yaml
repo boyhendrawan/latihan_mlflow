@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0b002418a8f4da5a3a57f6b3cd272fd/artifacts
+end_time: 1749317246443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b002418a8f4da5a3a57f6b3cd272fd
+run_name: delicate-wolf-41
+run_uuid: e0b002418a8f4da5a3a57f6b3cd272fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749317110675
+status: 3
+tags: []
+user_id: runner
