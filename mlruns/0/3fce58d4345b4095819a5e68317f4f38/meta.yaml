@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fce58d4345b4095819a5e68317f4f38/artifacts
+end_time: 1749283645210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fce58d4345b4095819a5e68317f4f38
+run_name: victorious-eel-73
+run_uuid: 3fce58d4345b4095819a5e68317f4f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749283509000
+status: 3
+tags: []
+user_id: runner
