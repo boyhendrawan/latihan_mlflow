@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b51aadcfea940f3aa1f2fe24b7b0c41/artifacts
+end_time: 1749338141772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b51aadcfea940f3aa1f2fe24b7b0c41
+run_name: valuable-crow-675
+run_uuid: 6b51aadcfea940f3aa1f2fe24b7b0c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338006320
+status: 3
+tags: []
+user_id: runner
