@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/402b0bb8f6314d2284914b8e47083f83/artifacts
+end_time: 1749277702401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 402b0bb8f6314d2284914b8e47083f83
+run_name: zealous-asp-733
+run_uuid: 402b0bb8f6314d2284914b8e47083f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749277565925
+status: 3
+tags: []
+user_id: runner
