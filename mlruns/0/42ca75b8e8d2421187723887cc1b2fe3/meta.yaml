@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/42ca75b8e8d2421187723887cc1b2fe3/artifacts
+end_time: 1749294747657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42ca75b8e8d2421187723887cc1b2fe3
+run_name: agreeable-shrew-782
+run_uuid: 42ca75b8e8d2421187723887cc1b2fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749294611227
+status: 3
+tags: []
+user_id: runner
