@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ea1974ba624a4cd19f619a629ac97266/artifacts
+end_time: 1749294556691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea1974ba624a4cd19f619a629ac97266
+run_name: languid-ram-831
+run_uuid: ea1974ba624a4cd19f619a629ac97266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749294420138
+status: 3
+tags: []
+user_id: runner
