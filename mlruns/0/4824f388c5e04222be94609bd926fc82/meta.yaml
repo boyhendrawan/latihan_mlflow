@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4824f388c5e04222be94609bd926fc82/artifacts
+end_time: 1749298204281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4824f388c5e04222be94609bd926fc82
+run_name: gaudy-ray-452
+run_uuid: 4824f388c5e04222be94609bd926fc82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749298069369
+status: 3
+tags: []
+user_id: runner
