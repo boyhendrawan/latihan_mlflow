@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/17b158b1a7a24c7e83793b017500a68b/artifacts
+end_time: 1749274622448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b158b1a7a24c7e83793b017500a68b
+run_name: amazing-fawn-196
+run_uuid: 17b158b1a7a24c7e83793b017500a68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749274486755
+status: 3
+tags: []
+user_id: runner
