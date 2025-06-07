@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8e39cf7919c9408bb82f5c3a92eaaa17/artifacts
+end_time: 1749317437707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e39cf7919c9408bb82f5c3a92eaaa17
+run_name: abundant-stag-940
+run_uuid: 8e39cf7919c9408bb82f5c3a92eaaa17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749317301643
+status: 3
+tags: []
+user_id: runner
