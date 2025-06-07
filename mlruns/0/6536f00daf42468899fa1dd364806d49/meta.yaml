@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6536f00daf42468899fa1dd364806d49/artifacts
+end_time: 1749336388498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6536f00daf42468899fa1dd364806d49
+run_name: monumental-foal-817
+run_uuid: 6536f00daf42468899fa1dd364806d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749336248577
+status: 3
+tags: []
+user_id: runner
