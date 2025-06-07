@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe57ec17888f4c969c9ddbf4f35b21ac/artifacts
+end_time: 1749314171910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe57ec17888f4c969c9ddbf4f35b21ac
+run_name: thundering-snipe-129
+run_uuid: fe57ec17888f4c969c9ddbf4f35b21ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749314034861
+status: 3
+tags: []
+user_id: runner
