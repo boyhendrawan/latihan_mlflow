@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6c0a42e63b7b431ba821878834e7cff8/artifacts
+end_time: 1749283839624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c0a42e63b7b431ba821878834e7cff8
+run_name: rare-ray-663
+run_uuid: 6c0a42e63b7b431ba821878834e7cff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749283703149
+status: 3
+tags: []
+user_id: runner
