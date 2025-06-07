@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0ec9c59a066b41a4862cf6623150457a/artifacts
+end_time: 1749311068395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ec9c59a066b41a4862cf6623150457a
+run_name: abundant-elk-452
+run_uuid: 0ec9c59a066b41a4862cf6623150457a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749310931157
+status: 3
+tags: []
+user_id: runner
