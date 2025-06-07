@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d677c1072c064024b687d45410e35859/artifacts
+end_time: 1749307027173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d677c1072c064024b687d45410e35859
+run_name: smiling-fowl-223
+run_uuid: d677c1072c064024b687d45410e35859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749306890614
+status: 3
+tags: []
+user_id: runner
