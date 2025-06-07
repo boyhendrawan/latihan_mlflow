@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6a5e2a965f5424ca02e93160375cb00/artifacts
+end_time: 1749329826077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6a5e2a965f5424ca02e93160375cb00
+run_name: hilarious-shark-529
+run_uuid: f6a5e2a965f5424ca02e93160375cb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749329689781
+status: 3
+tags: []
+user_id: runner
