@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/489e4c6eb2314fff8a7e2d854f3a67fc/artifacts
+end_time: 1749297237525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 489e4c6eb2314fff8a7e2d854f3a67fc
+run_name: efficient-wolf-292
+run_uuid: 489e4c6eb2314fff8a7e2d854f3a67fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749297100346
+status: 3
+tags: []
+user_id: runner
