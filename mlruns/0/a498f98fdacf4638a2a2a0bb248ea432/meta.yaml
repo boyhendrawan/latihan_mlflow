@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a498f98fdacf4638a2a2a0bb248ea432/artifacts
+end_time: 1749282500914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a498f98fdacf4638a2a2a0bb248ea432
+run_name: sedate-hare-194
+run_uuid: a498f98fdacf4638a2a2a0bb248ea432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749282364973
+status: 3
+tags: []
+user_id: runner
