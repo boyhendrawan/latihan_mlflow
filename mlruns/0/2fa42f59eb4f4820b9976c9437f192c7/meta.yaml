@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2fa42f59eb4f4820b9976c9437f192c7/artifacts
+end_time: 1749292455460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa42f59eb4f4820b9976c9437f192c7
+run_name: dazzling-conch-541
+run_uuid: 2fa42f59eb4f4820b9976c9437f192c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749292318516
+status: 3
+tags: []
+user_id: runner
