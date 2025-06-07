@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/40db5186e9de4776adf62f55f29110da/artifacts
+end_time: 1749281737693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40db5186e9de4776adf62f55f29110da
+run_name: nimble-shad-689
+run_uuid: 40db5186e9de4776adf62f55f29110da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749281601367
+status: 3
+tags: []
+user_id: runner
