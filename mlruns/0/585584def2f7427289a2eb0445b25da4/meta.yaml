@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/585584def2f7427289a2eb0445b25da4/artifacts
+end_time: 1749312226881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585584def2f7427289a2eb0445b25da4
+run_name: masked-fly-291
+run_uuid: 585584def2f7427289a2eb0445b25da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749312090215
+status: 3
+tags: []
+user_id: runner
