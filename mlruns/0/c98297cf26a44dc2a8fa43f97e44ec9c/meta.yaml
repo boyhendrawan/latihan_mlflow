@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c98297cf26a44dc2a8fa43f97e44ec9c/artifacts
+end_time: 1749329632617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c98297cf26a44dc2a8fa43f97e44ec9c
+run_name: handsome-shrimp-627
+run_uuid: c98297cf26a44dc2a8fa43f97e44ec9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749329496778
+status: 3
+tags: []
+user_id: runner
