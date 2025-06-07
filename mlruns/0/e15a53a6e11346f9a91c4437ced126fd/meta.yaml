@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e15a53a6e11346f9a91c4437ced126fd/artifacts
+end_time: 1749335994471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15a53a6e11346f9a91c4437ced126fd
+run_name: caring-zebra-550
+run_uuid: e15a53a6e11346f9a91c4437ced126fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749335858658
+status: 3
+tags: []
+user_id: runner
