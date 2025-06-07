@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/633595e2b2e9454c9ef956c1ad0e169e/artifacts
+end_time: 1749326936556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 633595e2b2e9454c9ef956c1ad0e169e
+run_name: clumsy-squid-418
+run_uuid: 633595e2b2e9454c9ef956c1ad0e169e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749326800198
+status: 3
+tags: []
+user_id: runner
