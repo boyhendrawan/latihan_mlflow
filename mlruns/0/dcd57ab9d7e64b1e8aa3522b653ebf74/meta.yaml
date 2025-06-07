@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcd57ab9d7e64b1e8aa3522b653ebf74/artifacts
+end_time: 1749338521107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcd57ab9d7e64b1e8aa3522b653ebf74
+run_name: sincere-goat-224
+run_uuid: dcd57ab9d7e64b1e8aa3522b653ebf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338385377
+status: 3
+tags: []
+user_id: runner
