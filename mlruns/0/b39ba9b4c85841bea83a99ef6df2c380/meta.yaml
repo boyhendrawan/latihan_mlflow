@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b39ba9b4c85841bea83a99ef6df2c380/artifacts
+end_time: 1749311260996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b39ba9b4c85841bea83a99ef6df2c380
+run_name: bright-hare-904
+run_uuid: b39ba9b4c85841bea83a99ef6df2c380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749311125346
+status: 3
+tags: []
+user_id: runner
