@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/774b09fac6854941aa9fdc5bbed893eb/artifacts
+end_time: 1749308757856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 774b09fac6854941aa9fdc5bbed893eb
+run_name: learned-sow-166
+run_uuid: 774b09fac6854941aa9fdc5bbed893eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749308621667
+status: 3
+tags: []
+user_id: runner
