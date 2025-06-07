@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d0d8e4f0e1949249503b1dac1048b68/artifacts
+end_time: 1749289970933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d0d8e4f0e1949249503b1dac1048b68
+run_name: entertaining-hen-262
+run_uuid: 0d0d8e4f0e1949249503b1dac1048b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749289835206
+status: 3
+tags: []
+user_id: runner
