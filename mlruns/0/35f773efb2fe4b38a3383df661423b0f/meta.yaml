@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/35f773efb2fe4b38a3383df661423b0f/artifacts
+end_time: 1749324007371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35f773efb2fe4b38a3383df661423b0f
+run_name: adorable-lynx-850
+run_uuid: 35f773efb2fe4b38a3383df661423b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749323871331
+status: 3
+tags: []
+user_id: runner
