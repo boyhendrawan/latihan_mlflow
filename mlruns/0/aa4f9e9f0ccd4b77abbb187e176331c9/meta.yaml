@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa4f9e9f0ccd4b77abbb187e176331c9/artifacts
+end_time: 1749276355997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4f9e9f0ccd4b77abbb187e176331c9
+run_name: silent-crow-759
+run_uuid: aa4f9e9f0ccd4b77abbb187e176331c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749276216503
+status: 3
+tags: []
+user_id: runner
