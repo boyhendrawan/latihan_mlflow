@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d527ad2a83d4a63a4eeaf0ca3b6206f/artifacts
+end_time: 1749328283001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d527ad2a83d4a63a4eeaf0ca3b6206f
+run_name: flawless-dog-85
+run_uuid: 0d527ad2a83d4a63a4eeaf0ca3b6206f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749328146999
+status: 3
+tags: []
+user_id: runner
