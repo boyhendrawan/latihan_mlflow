@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf13e52d681e412087dc621c4a12fac5/artifacts
+end_time: 1749309527642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf13e52d681e412087dc621c4a12fac5
+run_name: placid-mouse-812
+run_uuid: cf13e52d681e412087dc621c4a12fac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749309389887
+status: 3
+tags: []
+user_id: runner
