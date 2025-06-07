@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9bc8360076e341f7b0e2d19e6ca8858b/artifacts
+end_time: 1749276928159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bc8360076e341f7b0e2d19e6ca8858b
+run_name: burly-dog-685
+run_uuid: 9bc8360076e341f7b0e2d19e6ca8858b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749276791995
+status: 3
+tags: []
+user_id: runner
