@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28c0b7629ab34a97a3e362b814b0605e/artifacts
+end_time: 1749295888634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c0b7629ab34a97a3e362b814b0605e
+run_name: suave-cod-944
+run_uuid: 28c0b7629ab34a97a3e362b814b0605e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749295751979
+status: 3
+tags: []
+user_id: runner
