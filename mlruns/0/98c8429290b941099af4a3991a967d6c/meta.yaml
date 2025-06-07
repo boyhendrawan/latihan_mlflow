@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98c8429290b941099af4a3991a967d6c/artifacts
+end_time: 1749335036249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c8429290b941099af4a3991a967d6c
+run_name: rogue-sow-71
+run_uuid: 98c8429290b941099af4a3991a967d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749334899939
+status: 3
+tags: []
+user_id: runner
