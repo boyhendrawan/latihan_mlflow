@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3bbc58a862047fab875df7b7e9a9a63/artifacts
+end_time: 1749319938347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3bbc58a862047fab875df7b7e9a9a63
+run_name: delicate-doe-848
+run_uuid: e3bbc58a862047fab875df7b7e9a9a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749319802280
+status: 3
+tags: []
+user_id: runner
