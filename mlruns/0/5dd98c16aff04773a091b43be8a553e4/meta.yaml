@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5dd98c16aff04773a091b43be8a553e4/artifacts
+end_time: 1749293027415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd98c16aff04773a091b43be8a553e4
+run_name: unleashed-ox-279
+run_uuid: 5dd98c16aff04773a091b43be8a553e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749292891106
+status: 3
+tags: []
+user_id: runner
