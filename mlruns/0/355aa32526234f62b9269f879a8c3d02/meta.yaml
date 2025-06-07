@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/355aa32526234f62b9269f879a8c3d02/artifacts
+end_time: 1749319172441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 355aa32526234f62b9269f879a8c3d02
+run_name: bittersweet-gnat-642
+run_uuid: 355aa32526234f62b9269f879a8c3d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749319034659
+status: 3
+tags: []
+user_id: runner
