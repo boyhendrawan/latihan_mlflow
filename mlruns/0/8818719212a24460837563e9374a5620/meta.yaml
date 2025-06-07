@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8818719212a24460837563e9374a5620/artifacts
+end_time: 1749333111428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8818719212a24460837563e9374a5620
+run_name: skittish-stork-750
+run_uuid: 8818719212a24460837563e9374a5620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749332976714
+status: 3
+tags: []
+user_id: runner
