@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6389d24ec0af4155ae786041e88dd15c/artifacts
+end_time: 1749315900132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6389d24ec0af4155ae786041e88dd15c
+run_name: capable-crane-131
+run_uuid: 6389d24ec0af4155ae786041e88dd15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749315764338
+status: 3
+tags: []
+user_id: runner
