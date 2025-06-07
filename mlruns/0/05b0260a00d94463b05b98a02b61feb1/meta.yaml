@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05b0260a00d94463b05b98a02b61feb1/artifacts
+end_time: 1749315517239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05b0260a00d94463b05b98a02b61feb1
+run_name: grandiose-shad-540
+run_uuid: 05b0260a00d94463b05b98a02b61feb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749315380500
+status: 3
+tags: []
+user_id: runner
