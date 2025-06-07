@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e5802583c6848e4a29886dfaab5c289/artifacts
+end_time: 1749310684035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e5802583c6848e4a29886dfaab5c289
+run_name: rare-grouse-229
+run_uuid: 2e5802583c6848e4a29886dfaab5c289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749310545363
+status: 3
+tags: []
+user_id: runner
