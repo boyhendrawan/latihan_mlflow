@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/440d4efaa5d147349c96227580b560b6/artifacts
+end_time: 1749309333277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 440d4efaa5d147349c96227580b560b6
+run_name: serious-kite-511
+run_uuid: 440d4efaa5d147349c96227580b560b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749309196284
+status: 3
+tags: []
+user_id: runner
