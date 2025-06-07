@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d1360cb9cf945cc9ee4888fd1515590/artifacts
+end_time: 1749316287609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d1360cb9cf945cc9ee4888fd1515590
+run_name: suave-gnat-889
+run_uuid: 4d1360cb9cf945cc9ee4888fd1515590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749316149832
+status: 3
+tags: []
+user_id: runner
