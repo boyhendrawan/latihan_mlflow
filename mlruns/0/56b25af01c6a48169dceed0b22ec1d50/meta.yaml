@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/56b25af01c6a48169dceed0b22ec1d50/artifacts
+end_time: 1749314364558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56b25af01c6a48169dceed0b22ec1d50
+run_name: redolent-duck-744
+run_uuid: 56b25af01c6a48169dceed0b22ec1d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749314227417
+status: 3
+tags: []
+user_id: runner
