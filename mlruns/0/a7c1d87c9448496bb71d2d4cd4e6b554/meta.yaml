@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7c1d87c9448496bb71d2d4cd4e6b554/artifacts
+end_time: 1749285576176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7c1d87c9448496bb71d2d4cd4e6b554
+run_name: bemused-moth-774
+run_uuid: a7c1d87c9448496bb71d2d4cd4e6b554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749285440613
+status: 3
+tags: []
+user_id: runner
