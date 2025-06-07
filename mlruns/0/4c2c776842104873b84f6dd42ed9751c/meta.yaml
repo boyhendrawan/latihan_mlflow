@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c2c776842104873b84f6dd42ed9751c/artifacts
+end_time: 1749327517373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c2c776842104873b84f6dd42ed9751c
+run_name: judicious-colt-675
+run_uuid: 4c2c776842104873b84f6dd42ed9751c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749327380304
+status: 3
+tags: []
+user_id: runner
