@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/212420d60211431a996a4f18ca875503/artifacts
+end_time: 1749300123695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 212420d60211431a996a4f18ca875503
+run_name: redolent-wren-924
+run_uuid: 212420d60211431a996a4f18ca875503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749299987031
+status: 3
+tags: []
+user_id: runner
