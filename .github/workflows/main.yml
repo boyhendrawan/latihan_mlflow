@@ -43,7 +43,7 @@ jobs:
       #test the secret code
       - name: Debug secrets
         run: |
-          echo "USERNAME=${{ secrets.USERNAME }}"
+          echo "USERNAME=${{ secrets.username }}"
           echo "EMAIL=${{ secrets.EMAIL }}"
           echo "GH_PAT=${{ secrets.GH_PAT }}"
       # Save models to GitHub Repository
