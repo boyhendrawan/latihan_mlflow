@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ddb93b3c56f4020baf3cd1c89b27f6d/artifacts
+end_time: 1749283077122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ddb93b3c56f4020baf3cd1c89b27f6d
+run_name: charming-smelt-678
+run_uuid: 4ddb93b3c56f4020baf3cd1c89b27f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749282940303
+status: 3
+tags: []
+user_id: runner
