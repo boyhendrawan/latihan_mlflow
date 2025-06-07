@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34e159c3a99744e7957940f8687fd5b0/artifacts
+end_time: 1749331578683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e159c3a99744e7957940f8687fd5b0
+run_name: vaunted-whale-405
+run_uuid: 34e159c3a99744e7957940f8687fd5b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749331442400
+status: 3
+tags: []
+user_id: runner
