@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/57d9b3e23c4b4108b0e3da3565d4fccf/artifacts
+end_time: 1749340051200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57d9b3e23c4b4108b0e3da3565d4fccf
+run_name: worried-koi-252
+run_uuid: 57d9b3e23c4b4108b0e3da3565d4fccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749339915238
+status: 3
+tags: []
+user_id: runner
