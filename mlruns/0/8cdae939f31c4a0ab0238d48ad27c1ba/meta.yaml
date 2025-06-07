@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8cdae939f31c4a0ab0238d48ad27c1ba/artifacts
+end_time: 1749301676130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cdae939f31c4a0ab0238d48ad27c1ba
+run_name: colorful-eel-276
+run_uuid: 8cdae939f31c4a0ab0238d48ad27c1ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749301538980
+status: 3
+tags: []
+user_id: runner
