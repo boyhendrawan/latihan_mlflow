@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dfa582f8b54f40f797a1fa20e24a71dd/artifacts
+end_time: 1749331771017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa582f8b54f40f797a1fa20e24a71dd
+run_name: unruly-bass-356
+run_uuid: dfa582f8b54f40f797a1fa20e24a71dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749331634842
+status: 3
+tags: []
+user_id: runner
