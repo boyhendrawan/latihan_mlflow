@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/602fc405ebb64874950f365c8ab5dc24/artifacts
+end_time: 1749336583637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 602fc405ebb64874950f365c8ab5dc24
+run_name: selective-trout-381
+run_uuid: 602fc405ebb64874950f365c8ab5dc24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749336443513
+status: 3
+tags: []
+user_id: runner
