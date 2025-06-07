@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e07dcaf011d4808b783185c84dbbce0/artifacts
+end_time: 1749325195548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e07dcaf011d4808b783185c84dbbce0
+run_name: classy-frog-512
+run_uuid: 5e07dcaf011d4808b783185c84dbbce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749325059800
+status: 3
+tags: []
+user_id: runner
