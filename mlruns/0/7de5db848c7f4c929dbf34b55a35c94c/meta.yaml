@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7de5db848c7f4c929dbf34b55a35c94c/artifacts
+end_time: 1749316670761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de5db848c7f4c929dbf34b55a35c94c
+run_name: grandiose-doe-412
+run_uuid: 7de5db848c7f4c929dbf34b55a35c94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749316533967
+status: 3
+tags: []
+user_id: runner
