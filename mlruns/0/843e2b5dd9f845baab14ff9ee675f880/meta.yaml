@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/843e2b5dd9f845baab14ff9ee675f880/artifacts
+end_time: 1749306835401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 843e2b5dd9f845baab14ff9ee675f880
+run_name: useful-worm-89
+run_uuid: 843e2b5dd9f845baab14ff9ee675f880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749306699274
+status: 3
+tags: []
+user_id: runner
