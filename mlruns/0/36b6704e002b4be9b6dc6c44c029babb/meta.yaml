@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36b6704e002b4be9b6dc6c44c029babb/artifacts
+end_time: 1749290734951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36b6704e002b4be9b6dc6c44c029babb
+run_name: polite-swan-107
+run_uuid: 36b6704e002b4be9b6dc6c44c029babb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749290597406
+status: 3
+tags: []
+user_id: runner
