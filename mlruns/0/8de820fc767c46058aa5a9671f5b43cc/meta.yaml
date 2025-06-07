@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8de820fc767c46058aa5a9671f5b43cc/artifacts
+end_time: 1749299355265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de820fc767c46058aa5a9671f5b43cc
+run_name: inquisitive-rook-542
+run_uuid: 8de820fc767c46058aa5a9671f5b43cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749299218881
+status: 3
+tags: []
+user_id: runner
