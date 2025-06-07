@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b815967c36a48d0b44edaec22430846/artifacts
+end_time: 1749332727857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b815967c36a48d0b44edaec22430846
+run_name: casual-squirrel-799
+run_uuid: 6b815967c36a48d0b44edaec22430846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749332592232
+status: 3
+tags: []
+user_id: runner
