@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8893094f37c14cad8b007436273750a1/artifacts
+end_time: 1749302060963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8893094f37c14cad8b007436273750a1
+run_name: treasured-pig-849
+run_uuid: 8893094f37c14cad8b007436273750a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749301923624
+status: 3
+tags: []
+user_id: runner
