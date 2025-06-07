@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c8c1075b09374cedb911474e76f31253/artifacts
+end_time: 1749331962322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c1075b09374cedb911474e76f31253
+run_name: trusting-asp-58
+run_uuid: c8c1075b09374cedb911474e76f31253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749331826211
+status: 3
+tags: []
+user_id: runner
