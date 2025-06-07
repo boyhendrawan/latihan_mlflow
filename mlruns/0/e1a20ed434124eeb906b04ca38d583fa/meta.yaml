@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e1a20ed434124eeb906b04ca38d583fa/artifacts
+end_time: 1749299930103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1a20ed434124eeb906b04ca38d583fa
+run_name: clumsy-bass-873
+run_uuid: e1a20ed434124eeb906b04ca38d583fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749299794024
+status: 3
+tags: []
+user_id: runner
