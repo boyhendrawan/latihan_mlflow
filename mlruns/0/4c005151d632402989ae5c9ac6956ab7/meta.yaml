@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c005151d632402989ae5c9ac6956ab7/artifacts
+end_time: 1749299740055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c005151d632402989ae5c9ac6956ab7
+run_name: illustrious-deer-836
+run_uuid: 4c005151d632402989ae5c9ac6956ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749299603343
+status: 3
+tags: []
+user_id: runner
