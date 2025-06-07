@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a0bb8ebb851e4ef184371ef86136a337/artifacts
+end_time: 1749313587875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0bb8ebb851e4ef184371ef86136a337
+run_name: polite-skink-20
+run_uuid: a0bb8ebb851e4ef184371ef86136a337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749313452114
+status: 3
+tags: []
+user_id: runner
