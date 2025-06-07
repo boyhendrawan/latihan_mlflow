@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba5f96fa83394403831820c217b7fdef/artifacts
+end_time: 1749304152727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba5f96fa83394403831820c217b7fdef
+run_name: stately-shrike-709
+run_uuid: ba5f96fa83394403831820c217b7fdef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749304016768
+status: 3
+tags: []
+user_id: runner
