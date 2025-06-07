@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e62122bb39646aea468f2ed9aa012dd/artifacts
+end_time: 1749276545014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e62122bb39646aea468f2ed9aa012dd
+run_name: secretive-fly-332
+run_uuid: 2e62122bb39646aea468f2ed9aa012dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749276409183
+status: 3
+tags: []
+user_id: runner
