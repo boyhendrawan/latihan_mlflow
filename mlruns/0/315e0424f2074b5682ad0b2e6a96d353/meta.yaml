@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/315e0424f2074b5682ad0b2e6a96d353/artifacts
+end_time: 1749330400421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315e0424f2074b5682ad0b2e6a96d353
+run_name: nosy-dog-983
+run_uuid: 315e0424f2074b5682ad0b2e6a96d353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749330264493
+status: 3
+tags: []
+user_id: runner
