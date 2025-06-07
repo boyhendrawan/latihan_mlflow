@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98b8f279f4454ca5ba22749a27ad5704/artifacts
+end_time: 1749328093756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98b8f279f4454ca5ba22749a27ad5704
+run_name: nebulous-snake-488
+run_uuid: 98b8f279f4454ca5ba22749a27ad5704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749327957488
+status: 3
+tags: []
+user_id: runner
