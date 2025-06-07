@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5d9cfc33cf24568a7521ceef1f52048/artifacts
+end_time: 1749322467151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d9cfc33cf24568a7521ceef1f52048
+run_name: delightful-stork-902
+run_uuid: d5d9cfc33cf24568a7521ceef1f52048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749322331751
+status: 3
+tags: []
+user_id: runner
