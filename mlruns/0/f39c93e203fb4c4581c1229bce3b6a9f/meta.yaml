@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f39c93e203fb4c4581c1229bce3b6a9f/artifacts
+end_time: 1749335232480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f39c93e203fb4c4581c1229bce3b6a9f
+run_name: luminous-moose-149
+run_uuid: f39c93e203fb4c4581c1229bce3b6a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749335095874
+status: 3
+tags: []
+user_id: runner
