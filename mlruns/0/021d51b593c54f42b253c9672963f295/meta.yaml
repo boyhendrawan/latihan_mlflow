@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/021d51b593c54f42b253c9672963f295/artifacts
+end_time: 1749281928095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 021d51b593c54f42b253c9672963f295
+run_name: rare-donkey-20
+run_uuid: 021d51b593c54f42b253c9672963f295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749281792300
+status: 3
+tags: []
+user_id: runner
