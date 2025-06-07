@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ac079907d4004851bf7a76f166588486/artifacts
+end_time: 1749304918946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac079907d4004851bf7a76f166588486
+run_name: ambitious-trout-185
+run_uuid: ac079907d4004851bf7a76f166588486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749304782419
+status: 3
+tags: []
+user_id: runner
