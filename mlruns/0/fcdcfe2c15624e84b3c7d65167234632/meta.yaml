@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fcdcfe2c15624e84b3c7d65167234632/artifacts
+end_time: 1749291115343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcdcfe2c15624e84b3c7d65167234632
+run_name: amazing-cow-885
+run_uuid: fcdcfe2c15624e84b3c7d65167234632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749290978806
+status: 3
+tags: []
+user_id: runner
