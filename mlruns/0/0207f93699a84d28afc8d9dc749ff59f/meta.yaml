@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0207f93699a84d28afc8d9dc749ff59f/artifacts
+end_time: 1749281546879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0207f93699a84d28afc8d9dc749ff59f
+run_name: stately-moose-592
+run_uuid: 0207f93699a84d28afc8d9dc749ff59f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749281410645
+status: 3
+tags: []
+user_id: runner
