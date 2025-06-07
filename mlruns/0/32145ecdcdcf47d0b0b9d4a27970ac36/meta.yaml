@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/32145ecdcdcf47d0b0b9d4a27970ac36/artifacts
+end_time: 1749273851403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32145ecdcdcf47d0b0b9d4a27970ac36
+run_name: upset-shrimp-185
+run_uuid: 32145ecdcdcf47d0b0b9d4a27970ac36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749273715018
+status: 3
+tags: []
+user_id: runner
