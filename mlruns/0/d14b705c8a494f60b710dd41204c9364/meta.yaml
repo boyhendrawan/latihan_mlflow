@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d14b705c8a494f60b710dd41204c9364/artifacts
+end_time: 1749277892965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d14b705c8a494f60b710dd41204c9364
+run_name: mercurial-fawn-668
+run_uuid: d14b705c8a494f60b710dd41204c9364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749277757258
+status: 3
+tags: []
+user_id: runner
