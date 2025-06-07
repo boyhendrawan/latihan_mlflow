@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b2dc2cda41864e258cd0beb846389552/artifacts
+end_time: 1749286342533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2dc2cda41864e258cd0beb846389552
+run_name: rogue-sheep-798
+run_uuid: b2dc2cda41864e258cd0beb846389552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749286205696
+status: 3
+tags: []
+user_id: runner
