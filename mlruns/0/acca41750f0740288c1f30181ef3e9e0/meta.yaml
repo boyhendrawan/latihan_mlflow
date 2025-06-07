@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/acca41750f0740288c1f30181ef3e9e0/artifacts
+end_time: 1749328475887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acca41750f0740288c1f30181ef3e9e0
+run_name: abrasive-doe-87
+run_uuid: acca41750f0740288c1f30181ef3e9e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749328338236
+status: 3
+tags: []
+user_id: runner
