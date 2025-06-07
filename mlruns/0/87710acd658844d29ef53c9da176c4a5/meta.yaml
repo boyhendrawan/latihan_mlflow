@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/87710acd658844d29ef53c9da176c4a5/artifacts
+end_time: 1749305493315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87710acd658844d29ef53c9da176c4a5
+run_name: merciful-flea-782
+run_uuid: 87710acd658844d29ef53c9da176c4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749305355788
+status: 3
+tags: []
+user_id: runner
