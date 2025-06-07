@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b47663f1d2d942d391026abad9c9a1f0/artifacts
+end_time: 1749299163159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b47663f1d2d942d391026abad9c9a1f0
+run_name: salty-ram-219
+run_uuid: b47663f1d2d942d391026abad9c9a1f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749299026954
+status: 3
+tags: []
+user_id: runner
