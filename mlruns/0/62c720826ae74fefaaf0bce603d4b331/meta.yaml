@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62c720826ae74fefaaf0bce603d4b331/artifacts
+end_time: 1749319558728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62c720826ae74fefaaf0bce603d4b331
+run_name: trusting-smelt-586
+run_uuid: 62c720826ae74fefaaf0bce603d4b331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749319422843
+status: 3
+tags: []
+user_id: runner
