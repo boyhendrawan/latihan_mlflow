@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ebe28a61ed094bbba62e1ccaf5a2850e/artifacts
+end_time: 1749292263852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe28a61ed094bbba62e1ccaf5a2850e
+run_name: rebellious-lark-138
+run_uuid: ebe28a61ed094bbba62e1ccaf5a2850e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749292126828
+status: 3
+tags: []
+user_id: runner
