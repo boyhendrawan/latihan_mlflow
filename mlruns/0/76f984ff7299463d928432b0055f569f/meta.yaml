@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/76f984ff7299463d928432b0055f569f/artifacts
+end_time: 1749333880616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76f984ff7299463d928432b0055f569f
+run_name: painted-koi-975
+run_uuid: 76f984ff7299463d928432b0055f569f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749333744880
+status: 3
+tags: []
+user_id: runner
