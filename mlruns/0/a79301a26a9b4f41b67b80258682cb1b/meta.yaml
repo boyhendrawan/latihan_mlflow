@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a79301a26a9b4f41b67b80258682cb1b/artifacts
+end_time: 1749275780705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a79301a26a9b4f41b67b80258682cb1b
+run_name: gregarious-fowl-18
+run_uuid: a79301a26a9b4f41b67b80258682cb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749275644925
+status: 3
+tags: []
+user_id: runner
