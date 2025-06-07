@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca502db018064e108ad59ab52e1f051c/artifacts
+end_time: 1749323621854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca502db018064e108ad59ab52e1f051c
+run_name: unique-fly-674
+run_uuid: ca502db018064e108ad59ab52e1f051c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749323486207
+status: 3
+tags: []
+user_id: runner
