@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c8f914ae52864e5aac72ee0cda0299cf/artifacts
+end_time: 1749285383484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8f914ae52864e5aac72ee0cda0299cf
+run_name: kindly-dolphin-135
+run_uuid: c8f914ae52864e5aac72ee0cda0299cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749285244825
+status: 3
+tags: []
+user_id: runner
