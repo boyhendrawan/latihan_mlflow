@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05dfcae1930840d5a169b98eb248df4d/artifacts
+end_time: 1749296082723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05dfcae1930840d5a169b98eb248df4d
+run_name: amusing-wasp-55
+run_uuid: 05dfcae1930840d5a169b98eb248df4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749295945070
+status: 3
+tags: []
+user_id: runner
