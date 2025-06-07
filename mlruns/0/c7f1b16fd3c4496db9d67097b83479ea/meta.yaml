@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c7f1b16fd3c4496db9d67097b83479ea/artifacts
+end_time: 1749314558347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f1b16fd3c4496db9d67097b83479ea
+run_name: exultant-whale-517
+run_uuid: c7f1b16fd3c4496db9d67097b83479ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749314420139
+status: 3
+tags: []
+user_id: runner
