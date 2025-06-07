@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe9601ad0166478aa6c5d40f83c5f604/artifacts
+end_time: 1749274819994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe9601ad0166478aa6c5d40f83c5f604
+run_name: efficient-vole-217
+run_uuid: fe9601ad0166478aa6c5d40f83c5f604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749274681229
+status: 3
+tags: []
+user_id: runner
