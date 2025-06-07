@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfd363a6848141a9845f2f3a701677e4/artifacts
+end_time: 1749292071873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd363a6848141a9845f2f3a701677e4
+run_name: nervous-cow-174
+run_uuid: cfd363a6848141a9845f2f3a701677e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749291936414
+status: 3
+tags: []
+user_id: runner
