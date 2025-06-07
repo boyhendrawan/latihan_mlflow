@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7f36c580fc0a46a7aae3d328429e05cd/artifacts
+end_time: 1749304728047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f36c580fc0a46a7aae3d328429e05cd
+run_name: clean-stag-873
+run_uuid: 7f36c580fc0a46a7aae3d328429e05cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749304592192
+status: 3
+tags: []
+user_id: runner
