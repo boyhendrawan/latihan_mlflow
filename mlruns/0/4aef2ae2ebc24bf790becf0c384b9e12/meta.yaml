@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4aef2ae2ebc24bf790becf0c384b9e12/artifacts
+end_time: 1749303407888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4aef2ae2ebc24bf790becf0c384b9e12
+run_name: useful-lark-732
+run_uuid: 4aef2ae2ebc24bf790becf0c384b9e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749303269590
+status: 3
+tags: []
+user_id: runner
