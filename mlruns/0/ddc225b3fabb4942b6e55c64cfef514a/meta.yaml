@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ddc225b3fabb4942b6e55c64cfef514a/artifacts
+end_time: 1749278083989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddc225b3fabb4942b6e55c64cfef514a
+run_name: adventurous-bat-194
+run_uuid: ddc225b3fabb4942b6e55c64cfef514a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749277948062
+status: 3
+tags: []
+user_id: runner
