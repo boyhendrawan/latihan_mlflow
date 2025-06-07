@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/81a82fbbd2394170b152735773a4f108/artifacts
+end_time: 1749319749034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81a82fbbd2394170b152735773a4f108
+run_name: luxuriant-lamb-346
+run_uuid: 81a82fbbd2394170b152735773a4f108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749319612803
+status: 3
+tags: []
+user_id: runner
