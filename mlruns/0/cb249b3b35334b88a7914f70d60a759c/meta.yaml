@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb249b3b35334b88a7914f70d60a759c/artifacts
+end_time: 1749314938408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb249b3b35334b88a7914f70d60a759c
+run_name: glamorous-gull-810
+run_uuid: cb249b3b35334b88a7914f70d60a759c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749314801344
+status: 3
+tags: []
+user_id: runner
