@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1a0a276405284122bcdded4236194c24/artifacts
+end_time: 1749303597722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a0a276405284122bcdded4236194c24
+run_name: whimsical-ox-206
+run_uuid: 1a0a276405284122bcdded4236194c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749303461351
+status: 3
+tags: []
+user_id: runner
