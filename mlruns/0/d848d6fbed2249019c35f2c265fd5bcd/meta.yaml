@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d848d6fbed2249019c35f2c265fd5bcd/artifacts
+end_time: 1749339667656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d848d6fbed2249019c35f2c265fd5bcd
+run_name: funny-skunk-360
+run_uuid: d848d6fbed2249019c35f2c265fd5bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749339529505
+status: 3
+tags: []
+user_id: runner
