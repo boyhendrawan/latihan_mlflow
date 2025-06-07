@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c3f29c04382e45b89f24910426e82488/artifacts
+end_time: 1749289010444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f29c04382e45b89f24910426e82488
+run_name: clean-fox-328
+run_uuid: c3f29c04382e45b89f24910426e82488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749288873805
+status: 3
+tags: []
+user_id: runner
