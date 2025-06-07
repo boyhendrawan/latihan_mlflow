@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04d11c3bc0144b06b8ccc77ffd225830/artifacts
+end_time: 1749326550709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04d11c3bc0144b06b8ccc77ffd225830
+run_name: orderly-zebra-744
+run_uuid: 04d11c3bc0144b06b8ccc77ffd225830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749326411912
+status: 3
+tags: []
+user_id: runner
