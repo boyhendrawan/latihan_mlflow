@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2da61bd7a9104cef9ea8d17e296ee956/artifacts
+end_time: 1749280396991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2da61bd7a9104cef9ea8d17e296ee956
+run_name: languid-foal-273
+run_uuid: 2da61bd7a9104cef9ea8d17e296ee956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280260700
+status: 3
+tags: []
+user_id: runner
