@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdcbdc47671844668c2809fcc4e77fca/artifacts
+end_time: 1749278666142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdcbdc47671844668c2809fcc4e77fca
+run_name: painted-steed-22
+run_uuid: fdcbdc47671844668c2809fcc4e77fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749278530341
+status: 3
+tags: []
+user_id: runner
