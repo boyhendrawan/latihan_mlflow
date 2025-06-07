@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51a2c755dcbf47f2aaeaf9217b4b4706/artifacts
+end_time: 1749278858164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51a2c755dcbf47f2aaeaf9217b4b4706
+run_name: useful-duck-853
+run_uuid: 51a2c755dcbf47f2aaeaf9217b4b4706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749278722086
+status: 3
+tags: []
+user_id: runner
