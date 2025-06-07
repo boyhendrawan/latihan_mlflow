@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/400f6f72901c4a9aaba21458c0626893/artifacts
+end_time: 1749300891789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 400f6f72901c4a9aaba21458c0626893
+run_name: traveling-worm-157
+run_uuid: 400f6f72901c4a9aaba21458c0626893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749300755807
+status: 3
+tags: []
+user_id: runner
