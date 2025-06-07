@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3e619f5db6064102a5ffc2e51ab2be40/artifacts
+end_time: 1749289392605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e619f5db6064102a5ffc2e51ab2be40
+run_name: nimble-hound-302
+run_uuid: 3e619f5db6064102a5ffc2e51ab2be40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749289257109
+status: 3
+tags: []
+user_id: runner
