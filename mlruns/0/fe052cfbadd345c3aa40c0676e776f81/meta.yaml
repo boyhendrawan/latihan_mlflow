@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe052cfbadd345c3aa40c0676e776f81/artifacts
+end_time: 1749302250611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe052cfbadd345c3aa40c0676e776f81
+run_name: intelligent-cub-31
+run_uuid: fe052cfbadd345c3aa40c0676e776f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749302113552
+status: 3
+tags: []
+user_id: runner
