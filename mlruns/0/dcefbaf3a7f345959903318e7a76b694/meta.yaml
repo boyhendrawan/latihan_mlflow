@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcefbaf3a7f345959903318e7a76b694/artifacts
+end_time: 1749288819814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcefbaf3a7f345959903318e7a76b694
+run_name: defiant-goose-777
+run_uuid: dcefbaf3a7f345959903318e7a76b694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749288681195
+status: 3
+tags: []
+user_id: runner
