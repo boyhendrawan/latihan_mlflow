@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/863ecc4e18354acdae25fdf3a75746b4/artifacts
+end_time: 1749329248228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863ecc4e18354acdae25fdf3a75746b4
+run_name: youthful-skink-761
+run_uuid: 863ecc4e18354acdae25fdf3a75746b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749329110536
+status: 3
+tags: []
+user_id: runner
