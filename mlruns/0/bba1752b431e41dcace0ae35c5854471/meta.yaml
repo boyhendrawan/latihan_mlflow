@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bba1752b431e41dcace0ae35c5854471/artifacts
+end_time: 1749281167466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba1752b431e41dcace0ae35c5854471
+run_name: grandiose-donkey-105
+run_uuid: bba1752b431e41dcace0ae35c5854471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749281031380
+status: 3
+tags: []
+user_id: runner
