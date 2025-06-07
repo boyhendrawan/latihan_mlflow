@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8d3ebcd1c554465e99ddf406a4755eb4/artifacts
+end_time: 1749333686492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d3ebcd1c554465e99ddf406a4755eb4
+run_name: classy-moose-284
+run_uuid: 8d3ebcd1c554465e99ddf406a4755eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749333550196
+status: 3
+tags: []
+user_id: runner
