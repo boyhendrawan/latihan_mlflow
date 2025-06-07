@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c729b0c521b64c519124dd1f908e86e5/artifacts
+end_time: 1749308373757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c729b0c521b64c519124dd1f908e86e5
+run_name: glamorous-shark-56
+run_uuid: c729b0c521b64c519124dd1f908e86e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749308237554
+status: 3
+tags: []
+user_id: runner
