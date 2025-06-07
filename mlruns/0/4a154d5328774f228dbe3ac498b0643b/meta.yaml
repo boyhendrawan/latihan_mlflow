@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a154d5328774f228dbe3ac498b0643b/artifacts
+end_time: 1749291495198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a154d5328774f228dbe3ac498b0643b
+run_name: bald-snipe-313
+run_uuid: 4a154d5328774f228dbe3ac498b0643b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749291359910
+status: 3
+tags: []
+user_id: runner
