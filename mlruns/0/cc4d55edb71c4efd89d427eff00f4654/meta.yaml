@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc4d55edb71c4efd89d427eff00f4654/artifacts
+end_time: 1749336775159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc4d55edb71c4efd89d427eff00f4654
+run_name: caring-dove-308
+run_uuid: cc4d55edb71c4efd89d427eff00f4654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749336638262
+status: 3
+tags: []
+user_id: runner
