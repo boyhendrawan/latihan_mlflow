@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/49f3e9769e284195872a07d96c1fa66f/artifacts
+end_time: 1749278278899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49f3e9769e284195872a07d96c1fa66f
+run_name: persistent-steed-798
+run_uuid: 49f3e9769e284195872a07d96c1fa66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749278142456
+status: 3
+tags: []
+user_id: runner
