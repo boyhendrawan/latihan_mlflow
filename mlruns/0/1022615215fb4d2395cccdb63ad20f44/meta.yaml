@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1022615215fb4d2395cccdb63ad20f44/artifacts
+end_time: 1749320328157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1022615215fb4d2395cccdb63ad20f44
+run_name: awesome-sheep-481
+run_uuid: 1022615215fb4d2395cccdb63ad20f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749320191530
+status: 3
+tags: []
+user_id: runner
