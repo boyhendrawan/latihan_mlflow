@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a48ffa65ae3c4085a1e4d3d5a946e2fa/artifacts
+end_time: 1749273469635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a48ffa65ae3c4085a1e4d3d5a946e2fa
+run_name: calm-elk-398
+run_uuid: a48ffa65ae3c4085a1e4d3d5a946e2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749273333776
+status: 3
+tags: []
+user_id: runner
