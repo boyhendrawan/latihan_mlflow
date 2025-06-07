@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/751696bfba9949c3b38b8cdb36c10cad/artifacts
+end_time: 1749334846739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 751696bfba9949c3b38b8cdb36c10cad
+run_name: stylish-snake-705
+run_uuid: 751696bfba9949c3b38b8cdb36c10cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749334709460
+status: 3
+tags: []
+user_id: runner
