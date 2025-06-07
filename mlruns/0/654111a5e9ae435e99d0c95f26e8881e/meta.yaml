@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/654111a5e9ae435e99d0c95f26e8881e/artifacts
+end_time: 1749328668641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 654111a5e9ae435e99d0c95f26e8881e
+run_name: wise-lark-852
+run_uuid: 654111a5e9ae435e99d0c95f26e8881e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749328531912
+status: 3
+tags: []
+user_id: runner
