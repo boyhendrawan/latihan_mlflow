@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08841cbfb502410fb2802b0094455b69/artifacts
+end_time: 1749298587525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08841cbfb502410fb2802b0094455b69
+run_name: glamorous-calf-53
+run_uuid: 08841cbfb502410fb2802b0094455b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749298451380
+status: 3
+tags: []
+user_id: runner
