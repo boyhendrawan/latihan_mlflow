@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/811634ebd1a74725b61223123109a78e/artifacts
+end_time: 1749322659349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 811634ebd1a74725b61223123109a78e
+run_name: exultant-penguin-451
+run_uuid: 811634ebd1a74725b61223123109a78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749322523465
+status: 3
+tags: []
+user_id: runner
