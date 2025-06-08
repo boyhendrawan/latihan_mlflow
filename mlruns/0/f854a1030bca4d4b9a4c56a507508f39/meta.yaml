@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f854a1030bca4d4b9a4c56a507508f39/artifacts
+end_time: 1749391023308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f854a1030bca4d4b9a4c56a507508f39
+run_name: peaceful-chimp-299
+run_uuid: f854a1030bca4d4b9a4c56a507508f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749390886646
+status: 3
+tags: []
+user_id: runner
