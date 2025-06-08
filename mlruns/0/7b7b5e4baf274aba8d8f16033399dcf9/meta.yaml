@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b7b5e4baf274aba8d8f16033399dcf9/artifacts
+end_time: 1749394898781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b7b5e4baf274aba8d8f16033399dcf9
+run_name: funny-eel-274
+run_uuid: 7b7b5e4baf274aba8d8f16033399dcf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749394760881
+status: 3
+tags: []
+user_id: runner
