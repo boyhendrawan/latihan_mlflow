@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c0c64fa7434440d987a90a43aa9d21b/artifacts
+end_time: 1749425910761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c0c64fa7434440d987a90a43aa9d21b
+run_name: casual-croc-561
+run_uuid: 0c0c64fa7434440d987a90a43aa9d21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749425772918
+status: 3
+tags: []
+user_id: runner
