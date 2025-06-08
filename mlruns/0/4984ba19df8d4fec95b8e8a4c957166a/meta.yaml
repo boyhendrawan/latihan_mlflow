@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4984ba19df8d4fec95b8e8a4c957166a/artifacts
+end_time: 1749368344189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4984ba19df8d4fec95b8e8a4c957166a
+run_name: rare-mole-404
+run_uuid: 4984ba19df8d4fec95b8e8a4c957166a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749368206102
+status: 3
+tags: []
+user_id: runner
