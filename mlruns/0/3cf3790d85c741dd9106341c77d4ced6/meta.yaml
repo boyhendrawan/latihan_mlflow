@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3cf3790d85c741dd9106341c77d4ced6/artifacts
+end_time: 1749417839839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cf3790d85c741dd9106341c77d4ced6
+run_name: popular-boar-784
+run_uuid: 3cf3790d85c741dd9106341c77d4ced6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749417703684
+status: 3
+tags: []
+user_id: runner
