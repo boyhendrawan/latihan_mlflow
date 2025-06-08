@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae3c2c29d7a740cab763d41acbc23669/artifacts
+end_time: 1749388135847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae3c2c29d7a740cab763d41acbc23669
+run_name: whimsical-fish-528
+run_uuid: ae3c2c29d7a740cab763d41acbc23669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749387999115
+status: 3
+tags: []
+user_id: runner
