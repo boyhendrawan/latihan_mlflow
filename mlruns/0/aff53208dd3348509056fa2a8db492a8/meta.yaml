@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aff53208dd3348509056fa2a8db492a8/artifacts
+end_time: 1749364680660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aff53208dd3348509056fa2a8db492a8
+run_name: nosy-hen-185
+run_uuid: aff53208dd3348509056fa2a8db492a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749364543064
+status: 3
+tags: []
+user_id: runner
