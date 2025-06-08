@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/feb7848c84cc43318482706db6636e76/artifacts
+end_time: 1749350050774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feb7848c84cc43318482706db6636e76
+run_name: rogue-wasp-44
+run_uuid: feb7848c84cc43318482706db6636e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749349914410
+status: 3
+tags: []
+user_id: runner
