@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c267ab0e180f459691154ccb5e41f25f/artifacts
+end_time: 1749342964167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c267ab0e180f459691154ccb5e41f25f
+run_name: industrious-bear-74
+run_uuid: c267ab0e180f459691154ccb5e41f25f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749342826922
+status: 3
+tags: []
+user_id: runner
