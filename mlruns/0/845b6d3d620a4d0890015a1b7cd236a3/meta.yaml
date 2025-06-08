@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/845b6d3d620a4d0890015a1b7cd236a3/artifacts
+end_time: 1749412252362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 845b6d3d620a4d0890015a1b7cd236a3
+run_name: clumsy-rook-357
+run_uuid: 845b6d3d620a4d0890015a1b7cd236a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749412116488
+status: 3
+tags: []
+user_id: runner
