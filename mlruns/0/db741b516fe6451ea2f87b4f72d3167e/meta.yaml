@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db741b516fe6451ea2f87b4f72d3167e/artifacts
+end_time: 1749422255791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db741b516fe6451ea2f87b4f72d3167e
+run_name: shivering-shark-984
+run_uuid: db741b516fe6451ea2f87b4f72d3167e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749422119186
+status: 3
+tags: []
+user_id: runner
