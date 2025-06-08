@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/058313c8d4954a898ea1f8e12413d874/artifacts
+end_time: 1749407236924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 058313c8d4954a898ea1f8e12413d874
+run_name: skittish-wolf-991
+run_uuid: 058313c8d4954a898ea1f8e12413d874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749407100729
+status: 3
+tags: []
+user_id: runner
