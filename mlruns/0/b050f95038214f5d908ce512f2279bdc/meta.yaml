@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b050f95038214f5d908ce512f2279bdc/artifacts
+end_time: 1749402040540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b050f95038214f5d908ce512f2279bdc
+run_name: adventurous-worm-297
+run_uuid: b050f95038214f5d908ce512f2279bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401900320
+status: 3
+tags: []
+user_id: runner
