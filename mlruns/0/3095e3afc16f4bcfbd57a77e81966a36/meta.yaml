@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3095e3afc16f4bcfbd57a77e81966a36/artifacts
+end_time: 1749372775760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3095e3afc16f4bcfbd57a77e81966a36
+run_name: placid-vole-519
+run_uuid: 3095e3afc16f4bcfbd57a77e81966a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749372634385
+status: 3
+tags: []
+user_id: runner
