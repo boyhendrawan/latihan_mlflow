@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fecbec51427d4785af7068d185482ef6/artifacts
+end_time: 1749387750102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fecbec51427d4785af7068d185482ef6
+run_name: rebellious-cat-494
+run_uuid: fecbec51427d4785af7068d185482ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749387613488
+status: 3
+tags: []
+user_id: runner
