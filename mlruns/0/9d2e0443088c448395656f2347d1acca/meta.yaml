@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d2e0443088c448395656f2347d1acca/artifacts
+end_time: 1749357373034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d2e0443088c448395656f2347d1acca
+run_name: amazing-stag-134
+run_uuid: 9d2e0443088c448395656f2347d1acca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749357236250
+status: 3
+tags: []
+user_id: runner
