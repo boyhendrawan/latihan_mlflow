@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/76aaa03a2ebb49dda8d89da5ab0292af/artifacts
+end_time: 1749354684581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76aaa03a2ebb49dda8d89da5ab0292af
+run_name: nosy-zebra-388
+run_uuid: 76aaa03a2ebb49dda8d89da5ab0292af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749354547797
+status: 3
+tags: []
+user_id: runner
