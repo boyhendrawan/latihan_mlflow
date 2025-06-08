@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7051564d0111498e83bb4738de38b851/artifacts
+end_time: 1749418224564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7051564d0111498e83bb4738de38b851
+run_name: loud-shoat-531
+run_uuid: 7051564d0111498e83bb4738de38b851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749418088121
+status: 3
+tags: []
+user_id: runner
