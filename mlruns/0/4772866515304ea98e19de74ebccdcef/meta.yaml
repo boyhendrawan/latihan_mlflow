@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4772866515304ea98e19de74ebccdcef/artifacts
+end_time: 1749378914467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4772866515304ea98e19de74ebccdcef
+run_name: rebellious-rat-607
+run_uuid: 4772866515304ea98e19de74ebccdcef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378777254
+status: 3
+tags: []
+user_id: runner
