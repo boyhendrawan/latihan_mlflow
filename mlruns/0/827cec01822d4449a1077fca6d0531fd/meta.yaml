@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/827cec01822d4449a1077fca6d0531fd/artifacts
+end_time: 1749420533001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 827cec01822d4449a1077fca6d0531fd
+run_name: resilient-robin-40
+run_uuid: 827cec01822d4449a1077fca6d0531fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749420394124
+status: 3
+tags: []
+user_id: runner
