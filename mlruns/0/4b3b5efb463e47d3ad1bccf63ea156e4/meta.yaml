@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4b3b5efb463e47d3ad1bccf63ea156e4/artifacts
+end_time: 1749384663034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b3b5efb463e47d3ad1bccf63ea156e4
+run_name: rogue-stork-665
+run_uuid: 4b3b5efb463e47d3ad1bccf63ea156e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749384526325
+status: 3
+tags: []
+user_id: runner
