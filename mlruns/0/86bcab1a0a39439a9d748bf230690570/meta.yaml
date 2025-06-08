@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/86bcab1a0a39439a9d748bf230690570/artifacts
+end_time: 1749397602191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86bcab1a0a39439a9d748bf230690570
+run_name: aged-sponge-638
+run_uuid: 86bcab1a0a39439a9d748bf230690570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749397465716
+status: 3
+tags: []
+user_id: runner
