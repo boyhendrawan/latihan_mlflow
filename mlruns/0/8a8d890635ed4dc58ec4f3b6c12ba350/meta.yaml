@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8a8d890635ed4dc58ec4f3b6c12ba350/artifacts
+end_time: 1749424752860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a8d890635ed4dc58ec4f3b6c12ba350
+run_name: bittersweet-duck-362
+run_uuid: 8a8d890635ed4dc58ec4f3b6c12ba350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749424615955
+status: 3
+tags: []
+user_id: runner
