@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/116c940d0c824c429bb06f39494384b0/artifacts
+end_time: 1749395477611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 116c940d0c824c429bb06f39494384b0
+run_name: shivering-jay-249
+run_uuid: 116c940d0c824c429bb06f39494384b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749395339119
+status: 3
+tags: []
+user_id: runner
