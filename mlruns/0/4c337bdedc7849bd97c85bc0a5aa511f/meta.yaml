@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c337bdedc7849bd97c85bc0a5aa511f/artifacts
+end_time: 1749406460344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c337bdedc7849bd97c85bc0a5aa511f
+run_name: powerful-ray-369
+run_uuid: 4c337bdedc7849bd97c85bc0a5aa511f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749406324076
+status: 3
+tags: []
+user_id: runner
