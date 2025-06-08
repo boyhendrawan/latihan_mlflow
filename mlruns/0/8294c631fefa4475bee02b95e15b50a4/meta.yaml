@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8294c631fefa4475bee02b95e15b50a4/artifacts
+end_time: 1749382941587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8294c631fefa4475bee02b95e15b50a4
+run_name: languid-moth-738
+run_uuid: 8294c631fefa4475bee02b95e15b50a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749382805824
+status: 3
+tags: []
+user_id: runner
