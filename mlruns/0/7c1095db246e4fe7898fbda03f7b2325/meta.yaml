@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7c1095db246e4fe7898fbda03f7b2325/artifacts
+end_time: 1749381207645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c1095db246e4fe7898fbda03f7b2325
+run_name: delicate-rat-647
+run_uuid: 7c1095db246e4fe7898fbda03f7b2325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749381071171
+status: 3
+tags: []
+user_id: runner
