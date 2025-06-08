@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be77ec6397884c84a1967f0877edf803/artifacts
+end_time: 1749340818581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be77ec6397884c84a1967f0877edf803
+run_name: luminous-gull-343
+run_uuid: be77ec6397884c84a1967f0877edf803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749340682741
+status: 3
+tags: []
+user_id: runner
