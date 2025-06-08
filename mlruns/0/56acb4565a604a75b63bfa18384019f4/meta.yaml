@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/56acb4565a604a75b63bfa18384019f4/artifacts
+end_time: 1749398368058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56acb4565a604a75b63bfa18384019f4
+run_name: hilarious-frog-950
+run_uuid: 56acb4565a604a75b63bfa18384019f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749398230789
+status: 3
+tags: []
+user_id: runner
