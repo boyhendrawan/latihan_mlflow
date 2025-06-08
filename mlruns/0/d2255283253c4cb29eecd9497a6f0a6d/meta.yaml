@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d2255283253c4cb29eecd9497a6f0a6d/artifacts
+end_time: 1749387940985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2255283253c4cb29eecd9497a6f0a6d
+run_name: blushing-perch-818
+run_uuid: d2255283253c4cb29eecd9497a6f0a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749387804775
+status: 3
+tags: []
+user_id: runner
