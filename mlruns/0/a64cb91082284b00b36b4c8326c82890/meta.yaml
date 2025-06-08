@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a64cb91082284b00b36b4c8326c82890/artifacts
+end_time: 1749354303219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a64cb91082284b00b36b4c8326c82890
+run_name: sincere-smelt-717
+run_uuid: a64cb91082284b00b36b4c8326c82890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749354167079
+status: 3
+tags: []
+user_id: runner
