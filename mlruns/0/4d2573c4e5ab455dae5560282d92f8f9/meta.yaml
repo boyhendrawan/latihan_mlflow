@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d2573c4e5ab455dae5560282d92f8f9/artifacts
+end_time: 1749391408802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d2573c4e5ab455dae5560282d92f8f9
+run_name: kindly-tern-341
+run_uuid: 4d2573c4e5ab455dae5560282d92f8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749391271656
+status: 3
+tags: []
+user_id: runner
