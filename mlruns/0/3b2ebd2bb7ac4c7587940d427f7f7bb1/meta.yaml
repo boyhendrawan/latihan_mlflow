@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b2ebd2bb7ac4c7587940d427f7f7bb1/artifacts
+end_time: 1749400680515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b2ebd2bb7ac4c7587940d427f7f7bb1
+run_name: bald-elk-888
+run_uuid: 3b2ebd2bb7ac4c7587940d427f7f7bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749400543943
+status: 3
+tags: []
+user_id: runner
