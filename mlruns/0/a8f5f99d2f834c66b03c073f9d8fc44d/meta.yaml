@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a8f5f99d2f834c66b03c073f9d8fc44d/artifacts
+end_time: 1749404735189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8f5f99d2f834c66b03c073f9d8fc44d
+run_name: marvelous-elk-495
+run_uuid: a8f5f99d2f834c66b03c073f9d8fc44d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749404598444
+status: 3
+tags: []
+user_id: runner
