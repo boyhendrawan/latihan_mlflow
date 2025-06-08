@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb9a88ae44c94339ab9af3ff32b8ca8f/artifacts
+end_time: 1749393545967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb9a88ae44c94339ab9af3ff32b8ca8f
+run_name: agreeable-ram-330
+run_uuid: fb9a88ae44c94339ab9af3ff32b8ca8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749393409519
+status: 3
+tags: []
+user_id: runner
