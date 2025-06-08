@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d8c0141fb0a4dfe9c5c719bf77e58d5/artifacts
+end_time: 1749426678699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d8c0141fb0a4dfe9c5c719bf77e58d5
+run_name: bouncy-cat-181
+run_uuid: 9d8c0141fb0a4dfe9c5c719bf77e58d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749426541969
+status: 3
+tags: []
+user_id: runner
