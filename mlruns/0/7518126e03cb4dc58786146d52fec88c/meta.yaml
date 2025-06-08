@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7518126e03cb4dc58786146d52fec88c/artifacts
+end_time: 1749343582734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7518126e03cb4dc58786146d52fec88c
+run_name: powerful-bat-682
+run_uuid: 7518126e03cb4dc58786146d52fec88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749343446218
+status: 3
+tags: []
+user_id: runner
