@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/52f49f8e36894c17a84b0b87ca8d822c/artifacts
+end_time: 1749370463366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52f49f8e36894c17a84b0b87ca8d822c
+run_name: crawling-moth-683
+run_uuid: 52f49f8e36894c17a84b0b87ca8d822c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749370327095
+status: 3
+tags: []
+user_id: runner
