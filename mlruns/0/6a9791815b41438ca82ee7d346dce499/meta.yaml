@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6a9791815b41438ca82ee7d346dce499/artifacts
+end_time: 1749401651352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a9791815b41438ca82ee7d346dce499
+run_name: charming-mole-525
+run_uuid: 6a9791815b41438ca82ee7d346dce499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401514504
+status: 3
+tags: []
+user_id: runner
