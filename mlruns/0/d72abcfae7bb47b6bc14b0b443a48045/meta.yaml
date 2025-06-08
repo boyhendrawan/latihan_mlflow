@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d72abcfae7bb47b6bc14b0b443a48045/artifacts
+end_time: 1749341413847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72abcfae7bb47b6bc14b0b443a48045
+run_name: bald-chimp-729
+run_uuid: d72abcfae7bb47b6bc14b0b443a48045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749341268893
+status: 3
+tags: []
+user_id: runner
