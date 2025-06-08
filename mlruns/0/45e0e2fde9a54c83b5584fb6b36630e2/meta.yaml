@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45e0e2fde9a54c83b5584fb6b36630e2/artifacts
+end_time: 1749387173593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45e0e2fde9a54c83b5584fb6b36630e2
+run_name: casual-wren-326
+run_uuid: 45e0e2fde9a54c83b5584fb6b36630e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749387037923
+status: 3
+tags: []
+user_id: runner
