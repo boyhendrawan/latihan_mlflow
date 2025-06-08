@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4dbec7d4e21f4c5ca6c9565a92dfbb26/artifacts
+end_time: 1749420914140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dbec7d4e21f4c5ca6c9565a92dfbb26
+run_name: placid-auk-157
+run_uuid: 4dbec7d4e21f4c5ca6c9565a92dfbb26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749420777487
+status: 3
+tags: []
+user_id: runner
