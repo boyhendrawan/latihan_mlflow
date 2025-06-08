@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c8ec27097dc04896acc9bd09997e7d8f/artifacts
+end_time: 1749364094601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8ec27097dc04896acc9bd09997e7d8f
+run_name: intrigued-fox-715
+run_uuid: c8ec27097dc04896acc9bd09997e7d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749363958885
+status: 3
+tags: []
+user_id: runner
