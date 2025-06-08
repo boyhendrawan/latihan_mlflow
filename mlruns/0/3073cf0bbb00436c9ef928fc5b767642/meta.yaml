@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3073cf0bbb00436c9ef928fc5b767642/artifacts
+end_time: 1749418033059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3073cf0bbb00436c9ef928fc5b767642
+run_name: popular-hen-79
+run_uuid: 3073cf0bbb00436c9ef928fc5b767642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749417895070
+status: 3
+tags: []
+user_id: runner
