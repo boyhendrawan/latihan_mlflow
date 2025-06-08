@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba1038229ee3431099a6cd23811ea801/artifacts
+end_time: 1749365448874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba1038229ee3431099a6cd23811ea801
+run_name: silent-gnat-835
+run_uuid: ba1038229ee3431099a6cd23811ea801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749365312404
+status: 3
+tags: []
+user_id: runner
