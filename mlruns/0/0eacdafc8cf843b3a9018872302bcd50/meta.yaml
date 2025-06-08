@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0eacdafc8cf843b3a9018872302bcd50/artifacts
+end_time: 1749341606449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0eacdafc8cf843b3a9018872302bcd50
+run_name: welcoming-asp-602
+run_uuid: 0eacdafc8cf843b3a9018872302bcd50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749341469699
+status: 3
+tags: []
+user_id: runner
