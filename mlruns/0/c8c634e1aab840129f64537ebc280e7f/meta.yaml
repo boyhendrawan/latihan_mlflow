@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c8c634e1aab840129f64537ebc280e7f/artifacts
+end_time: 1749369689277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c634e1aab840129f64537ebc280e7f
+run_name: overjoyed-jay-880
+run_uuid: c8c634e1aab840129f64537ebc280e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749369551257
+status: 3
+tags: []
+user_id: runner
