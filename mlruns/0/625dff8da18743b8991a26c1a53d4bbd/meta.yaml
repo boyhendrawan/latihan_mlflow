@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/625dff8da18743b8991a26c1a53d4bbd/artifacts
+end_time: 1749401263947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 625dff8da18743b8991a26c1a53d4bbd
+run_name: rebellious-grub-510
+run_uuid: 625dff8da18743b8991a26c1a53d4bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401127066
+status: 3
+tags: []
+user_id: runner
