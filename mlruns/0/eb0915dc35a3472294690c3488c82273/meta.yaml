@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eb0915dc35a3472294690c3488c82273/artifacts
+end_time: 1749352949336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb0915dc35a3472294690c3488c82273
+run_name: gentle-cub-970
+run_uuid: eb0915dc35a3472294690c3488c82273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749352812820
+status: 3
+tags: []
+user_id: runner
