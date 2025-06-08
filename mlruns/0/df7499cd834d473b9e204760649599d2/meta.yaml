@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df7499cd834d473b9e204760649599d2/artifacts
+end_time: 1749410325334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df7499cd834d473b9e204760649599d2
+run_name: mysterious-koi-147
+run_uuid: df7499cd834d473b9e204760649599d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749410188067
+status: 3
+tags: []
+user_id: runner
