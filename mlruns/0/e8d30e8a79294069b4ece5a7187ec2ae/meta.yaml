@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8d30e8a79294069b4ece5a7187ec2ae/artifacts
+end_time: 1749384856410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8d30e8a79294069b4ece5a7187ec2ae
+run_name: thundering-ox-219
+run_uuid: e8d30e8a79294069b4ece5a7187ec2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749384718529
+status: 3
+tags: []
+user_id: runner
