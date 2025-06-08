@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29c9ed08f28f44c6b1e272f70d1a2895/artifacts
+end_time: 1749412058497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c9ed08f28f44c6b1e272f70d1a2895
+run_name: masked-lynx-163
+run_uuid: 29c9ed08f28f44c6b1e272f70d1a2895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749411922746
+status: 3
+tags: []
+user_id: runner
