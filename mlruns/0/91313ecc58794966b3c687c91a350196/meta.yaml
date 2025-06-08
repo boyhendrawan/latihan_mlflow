@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/91313ecc58794966b3c687c91a350196/artifacts
+end_time: 1749374500338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91313ecc58794966b3c687c91a350196
+run_name: shivering-fox-792
+run_uuid: 91313ecc58794966b3c687c91a350196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749374363952
+status: 3
+tags: []
+user_id: runner
