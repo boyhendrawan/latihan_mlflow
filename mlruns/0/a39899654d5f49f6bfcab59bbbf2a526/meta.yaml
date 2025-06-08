@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a39899654d5f49f6bfcab59bbbf2a526/artifacts
+end_time: 1749356413202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39899654d5f49f6bfcab59bbbf2a526
+run_name: powerful-vole-235
+run_uuid: a39899654d5f49f6bfcab59bbbf2a526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749356276271
+status: 3
+tags: []
+user_id: runner
