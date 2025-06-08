@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/410131425cb84f8d8004ffa2ab919ae1/artifacts
+end_time: 1749360636225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 410131425cb84f8d8004ffa2ab919ae1
+run_name: mercurial-wolf-873
+run_uuid: 410131425cb84f8d8004ffa2ab919ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749360499853
+status: 3
+tags: []
+user_id: runner
