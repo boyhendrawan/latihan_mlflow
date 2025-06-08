@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d3f87ee7cda4d2284896146fc758d65/artifacts
+end_time: 1749421868335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d3f87ee7cda4d2284896146fc758d65
+run_name: mysterious-wolf-463
+run_uuid: 0d3f87ee7cda4d2284896146fc758d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749421731605
+status: 3
+tags: []
+user_id: runner
