@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/18a53c6f59d34b9c89c28da16d666276/artifacts
+end_time: 1749375267915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18a53c6f59d34b9c89c28da16d666276
+run_name: loud-pig-924
+run_uuid: 18a53c6f59d34b9c89c28da16d666276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749375131777
+status: 3
+tags: []
+user_id: runner
