@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/145f816a46a040a7ac6aea500c7cb218/artifacts
+end_time: 1749366791044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145f816a46a040a7ac6aea500c7cb218
+run_name: orderly-goat-20
+run_uuid: 145f816a46a040a7ac6aea500c7cb218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749366654258
+status: 3
+tags: []
+user_id: runner
