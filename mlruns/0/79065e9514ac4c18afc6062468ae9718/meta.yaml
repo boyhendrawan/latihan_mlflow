@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/79065e9514ac4c18afc6062468ae9718/artifacts
+end_time: 1749410911394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79065e9514ac4c18afc6062468ae9718
+run_name: big-chimp-859
+run_uuid: 79065e9514ac4c18afc6062468ae9718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749410774073
+status: 3
+tags: []
+user_id: runner
