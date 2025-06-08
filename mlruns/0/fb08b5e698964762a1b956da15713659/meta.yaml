@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb08b5e698964762a1b956da15713659/artifacts
+end_time: 1749411298394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb08b5e698964762a1b956da15713659
+run_name: capable-smelt-617
+run_uuid: fb08b5e698964762a1b956da15713659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749411161647
+status: 3
+tags: []
+user_id: runner
