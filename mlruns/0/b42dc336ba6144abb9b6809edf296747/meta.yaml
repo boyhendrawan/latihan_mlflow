@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b42dc336ba6144abb9b6809edf296747/artifacts
+end_time: 1749406270034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b42dc336ba6144abb9b6809edf296747
+run_name: nervous-boar-397
+run_uuid: b42dc336ba6144abb9b6809edf296747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749406132749
+status: 3
+tags: []
+user_id: runner
