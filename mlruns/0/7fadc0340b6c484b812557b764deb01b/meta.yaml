@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7fadc0340b6c484b812557b764deb01b/artifacts
+end_time: 1749379690791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fadc0340b6c484b812557b764deb01b
+run_name: spiffy-sponge-704
+run_uuid: 7fadc0340b6c484b812557b764deb01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749379553582
+status: 3
+tags: []
+user_id: runner
