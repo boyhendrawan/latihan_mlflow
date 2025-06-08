@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/30c54bc8eead48b59820fecf4f3f544c/artifacts
+end_time: 1749380647569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30c54bc8eead48b59820fecf4f3f544c
+run_name: honorable-croc-300
+run_uuid: 30c54bc8eead48b59820fecf4f3f544c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749380513452
+status: 3
+tags: []
+user_id: runner
