@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/434a9810dcb5472d8b8018379b3eb214/artifacts
+end_time: 1749354113376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 434a9810dcb5472d8b8018379b3eb214
+run_name: bedecked-yak-46
+run_uuid: 434a9810dcb5472d8b8018379b3eb214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749353977289
+status: 3
+tags: []
+user_id: runner
