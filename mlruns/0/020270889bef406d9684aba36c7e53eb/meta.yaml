@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/020270889bef406d9684aba36c7e53eb/artifacts
+end_time: 1749422832794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020270889bef406d9684aba36c7e53eb
+run_name: honorable-shoat-740
+run_uuid: 020270889bef406d9684aba36c7e53eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749422695465
+status: 3
+tags: []
+user_id: runner
