@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/819c7e52efe148b6bcd27fc9b272777c/artifacts
+end_time: 1749345898024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 819c7e52efe148b6bcd27fc9b272777c
+run_name: sincere-elk-24
+run_uuid: 819c7e52efe148b6bcd27fc9b272777c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749345761664
+status: 3
+tags: []
+user_id: runner
