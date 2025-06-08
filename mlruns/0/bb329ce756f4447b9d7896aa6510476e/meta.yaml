@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bb329ce756f4447b9d7896aa6510476e/artifacts
+end_time: 1749362158848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb329ce756f4447b9d7896aa6510476e
+run_name: gentle-gull-174
+run_uuid: bb329ce756f4447b9d7896aa6510476e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749362023261
+status: 3
+tags: []
+user_id: runner
