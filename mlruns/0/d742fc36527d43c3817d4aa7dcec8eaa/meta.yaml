@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d742fc36527d43c3817d4aa7dcec8eaa/artifacts
+end_time: 1749347069710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d742fc36527d43c3817d4aa7dcec8eaa
+run_name: languid-wren-524
+run_uuid: d742fc36527d43c3817d4aa7dcec8eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749346931596
+status: 3
+tags: []
+user_id: runner
