@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a57ab45c72294d878fd748b9a9c3c2cb/artifacts
+end_time: 1749379496876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a57ab45c72294d878fd748b9a9c3c2cb
+run_name: welcoming-snipe-906
+run_uuid: a57ab45c72294d878fd748b9a9c3c2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749379360024
+status: 3
+tags: []
+user_id: runner
