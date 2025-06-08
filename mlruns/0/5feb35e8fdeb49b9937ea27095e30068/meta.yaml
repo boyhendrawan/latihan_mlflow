@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5feb35e8fdeb49b9937ea27095e30068/artifacts
+end_time: 1749392765501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5feb35e8fdeb49b9937ea27095e30068
+run_name: sedate-wolf-503
+run_uuid: 5feb35e8fdeb49b9937ea27095e30068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749392628395
+status: 3
+tags: []
+user_id: runner
