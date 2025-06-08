@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/adafe446fa6b4f1b9fd0022bc8a44dd5/artifacts
+end_time: 1749378723272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adafe446fa6b4f1b9fd0022bc8a44dd5
+run_name: resilient-ram-534
+run_uuid: adafe446fa6b4f1b9fd0022bc8a44dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378586979
+status: 3
+tags: []
+user_id: runner
