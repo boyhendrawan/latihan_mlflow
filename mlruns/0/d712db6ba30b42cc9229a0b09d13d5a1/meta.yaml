@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d712db6ba30b42cc9229a0b09d13d5a1/artifacts
+end_time: 1749352174822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d712db6ba30b42cc9229a0b09d13d5a1
+run_name: wistful-calf-982
+run_uuid: d712db6ba30b42cc9229a0b09d13d5a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749352037357
+status: 3
+tags: []
+user_id: runner
