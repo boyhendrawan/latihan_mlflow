@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b527332dfc0c464da0a7d341c2d9f530/artifacts
+end_time: 1749415531375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b527332dfc0c464da0a7d341c2d9f530
+run_name: unleashed-mole-141
+run_uuid: b527332dfc0c464da0a7d341c2d9f530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749415393873
+status: 3
+tags: []
+user_id: runner
