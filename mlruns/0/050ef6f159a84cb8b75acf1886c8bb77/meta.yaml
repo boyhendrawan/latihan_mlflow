@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/050ef6f159a84cb8b75acf1886c8bb77/artifacts
+end_time: 1749342575346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 050ef6f159a84cb8b75acf1886c8bb77
+run_name: unleashed-goose-794
+run_uuid: 050ef6f159a84cb8b75acf1886c8bb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749342438194
+status: 3
+tags: []
+user_id: runner
