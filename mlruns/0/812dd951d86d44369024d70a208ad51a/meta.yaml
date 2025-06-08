@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/812dd951d86d44369024d70a208ad51a/artifacts
+end_time: 1749386009330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 812dd951d86d44369024d70a208ad51a
+run_name: luminous-turtle-996
+run_uuid: 812dd951d86d44369024d70a208ad51a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749385871187
+status: 3
+tags: []
+user_id: runner
