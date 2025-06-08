@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a65decab6b1471ca71d161329a13d4a/artifacts
+end_time: 1749381976570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a65decab6b1471ca71d161329a13d4a
+run_name: spiffy-yak-461
+run_uuid: 3a65decab6b1471ca71d161329a13d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749381839566
+status: 3
+tags: []
+user_id: runner
