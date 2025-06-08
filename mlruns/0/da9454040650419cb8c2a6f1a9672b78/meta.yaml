@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/da9454040650419cb8c2a6f1a9672b78/artifacts
+end_time: 1749390638340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9454040650419cb8c2a6f1a9672b78
+run_name: adventurous-dove-940
+run_uuid: da9454040650419cb8c2a6f1a9672b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749390500786
+status: 3
+tags: []
+user_id: runner
