@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0572150e81ac420b872d7ce41e4fdc40/artifacts
+end_time: 1749377957837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0572150e81ac420b872d7ce41e4fdc40
+run_name: nimble-swan-619
+run_uuid: 0572150e81ac420b872d7ce41e4fdc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749377819639
+status: 3
+tags: []
+user_id: runner
