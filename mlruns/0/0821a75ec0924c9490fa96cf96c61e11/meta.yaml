@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0821a75ec0924c9490fa96cf96c61e11/artifacts
+end_time: 1749395862527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0821a75ec0924c9490fa96cf96c61e11
+run_name: zealous-ox-156
+run_uuid: 0821a75ec0924c9490fa96cf96c61e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749395727337
+status: 3
+tags: []
+user_id: runner
