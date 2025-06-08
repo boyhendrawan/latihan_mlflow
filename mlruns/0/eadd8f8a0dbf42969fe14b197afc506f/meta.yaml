@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eadd8f8a0dbf42969fe14b197afc506f/artifacts
+end_time: 1749346488686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eadd8f8a0dbf42969fe14b197afc506f
+run_name: amusing-lamb-835
+run_uuid: eadd8f8a0dbf42969fe14b197afc506f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749346347435
+status: 3
+tags: []
+user_id: runner
