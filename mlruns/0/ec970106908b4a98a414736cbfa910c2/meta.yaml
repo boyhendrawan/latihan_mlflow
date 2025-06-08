@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ec970106908b4a98a414736cbfa910c2/artifacts
+end_time: 1749385816104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec970106908b4a98a414736cbfa910c2
+run_name: upset-hen-396
+run_uuid: ec970106908b4a98a414736cbfa910c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749385680238
+status: 3
+tags: []
+user_id: runner
