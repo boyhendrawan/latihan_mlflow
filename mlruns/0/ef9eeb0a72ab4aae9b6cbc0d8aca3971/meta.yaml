@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef9eeb0a72ab4aae9b6cbc0d8aca3971/artifacts
+end_time: 1749356794538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9eeb0a72ab4aae9b6cbc0d8aca3971
+run_name: resilient-skink-193
+run_uuid: ef9eeb0a72ab4aae9b6cbc0d8aca3971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749356657993
+status: 3
+tags: []
+user_id: runner
