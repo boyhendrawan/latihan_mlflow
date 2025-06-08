@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a2a4ba607b545e3b9a34726d5b6ea6f/artifacts
+end_time: 1749359106190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a2a4ba607b545e3b9a34726d5b6ea6f
+run_name: hilarious-bat-167
+run_uuid: 4a2a4ba607b545e3b9a34726d5b6ea6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749358969173
+status: 3
+tags: []
+user_id: runner
