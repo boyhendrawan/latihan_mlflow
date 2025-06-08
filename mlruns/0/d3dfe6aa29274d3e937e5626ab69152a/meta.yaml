@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d3dfe6aa29274d3e937e5626ab69152a/artifacts
+end_time: 1749343774033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3dfe6aa29274d3e937e5626ab69152a
+run_name: calm-auk-349
+run_uuid: d3dfe6aa29274d3e937e5626ab69152a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749343638205
+status: 3
+tags: []
+user_id: runner
