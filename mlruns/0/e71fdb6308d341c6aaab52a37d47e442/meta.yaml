@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e71fdb6308d341c6aaab52a37d47e442/artifacts
+end_time: 1749377383343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71fdb6308d341c6aaab52a37d47e442
+run_name: auspicious-snake-327
+run_uuid: e71fdb6308d341c6aaab52a37d47e442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749377246209
+status: 3
+tags: []
+user_id: runner
