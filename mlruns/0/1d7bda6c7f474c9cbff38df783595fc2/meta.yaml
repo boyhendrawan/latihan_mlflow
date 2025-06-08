@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d7bda6c7f474c9cbff38df783595fc2/artifacts
+end_time: 1749351216916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d7bda6c7f474c9cbff38df783595fc2
+run_name: invincible-vole-889
+run_uuid: 1d7bda6c7f474c9cbff38df783595fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749351079898
+status: 3
+tags: []
+user_id: runner
