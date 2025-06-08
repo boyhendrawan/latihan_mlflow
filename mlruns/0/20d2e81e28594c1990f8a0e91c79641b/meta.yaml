@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/20d2e81e28594c1990f8a0e91c79641b/artifacts
+end_time: 1749416688454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d2e81e28594c1990f8a0e91c79641b
+run_name: enthused-snail-484
+run_uuid: 20d2e81e28594c1990f8a0e91c79641b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749416550419
+status: 3
+tags: []
+user_id: runner
