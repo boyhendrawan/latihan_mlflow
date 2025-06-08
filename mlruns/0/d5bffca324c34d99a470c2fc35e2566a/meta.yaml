@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5bffca324c34d99a470c2fc35e2566a/artifacts
+end_time: 1749404927541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5bffca324c34d99a470c2fc35e2566a
+run_name: clean-shrew-734
+run_uuid: d5bffca324c34d99a470c2fc35e2566a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749404790595
+status: 3
+tags: []
+user_id: runner
