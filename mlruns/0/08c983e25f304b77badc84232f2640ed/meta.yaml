@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08c983e25f304b77badc84232f2640ed/artifacts
+end_time: 1749353717062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08c983e25f304b77badc84232f2640ed
+run_name: abrasive-ape-402
+run_uuid: 08c983e25f304b77badc84232f2640ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749353580447
+status: 3
+tags: []
+user_id: runner
