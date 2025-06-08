@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c24ff6be5d9a4dc784e9b32fc2837472/artifacts
+end_time: 1749396251992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c24ff6be5d9a4dc784e9b32fc2837472
+run_name: treasured-mole-708
+run_uuid: c24ff6be5d9a4dc784e9b32fc2837472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749396115675
+status: 3
+tags: []
+user_id: runner
