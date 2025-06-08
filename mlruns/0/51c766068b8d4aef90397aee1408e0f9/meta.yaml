@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51c766068b8d4aef90397aee1408e0f9/artifacts
+end_time: 1749349281151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c766068b8d4aef90397aee1408e0f9
+run_name: bold-goose-322
+run_uuid: 51c766068b8d4aef90397aee1408e0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749349144020
+status: 3
+tags: []
+user_id: runner
