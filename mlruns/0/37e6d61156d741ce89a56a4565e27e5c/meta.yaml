@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/37e6d61156d741ce89a56a4565e27e5c/artifacts
+end_time: 1749416878822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37e6d61156d741ce89a56a4565e27e5c
+run_name: luminous-skunk-71
+run_uuid: 37e6d61156d741ce89a56a4565e27e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749416742424
+status: 3
+tags: []
+user_id: runner
