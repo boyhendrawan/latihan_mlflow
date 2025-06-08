@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a0ee71e3e2c47f993ef17f0fbac6a58/artifacts
+end_time: 1749352752069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a0ee71e3e2c47f993ef17f0fbac6a58
+run_name: sedate-squirrel-629
+run_uuid: 0a0ee71e3e2c47f993ef17f0fbac6a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749352616149
+status: 3
+tags: []
+user_id: runner
