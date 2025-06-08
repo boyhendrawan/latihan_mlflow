@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36385509e39f4da68c78195e07853ebf/artifacts
+end_time: 1749387557084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36385509e39f4da68c78195e07853ebf
+run_name: brawny-owl-911
+run_uuid: 36385509e39f4da68c78195e07853ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749387420491
+status: 3
+tags: []
+user_id: runner
