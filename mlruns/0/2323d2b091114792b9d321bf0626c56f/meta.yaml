@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2323d2b091114792b9d321bf0626c56f/artifacts
+end_time: 1749358335077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2323d2b091114792b9d321bf0626c56f
+run_name: capricious-lynx-752
+run_uuid: 2323d2b091114792b9d321bf0626c56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749358197225
+status: 3
+tags: []
+user_id: runner
