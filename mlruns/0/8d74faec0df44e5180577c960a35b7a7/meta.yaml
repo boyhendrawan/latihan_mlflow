@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8d74faec0df44e5180577c960a35b7a7/artifacts
+end_time: 1749423410076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d74faec0df44e5180577c960a35b7a7
+run_name: enchanting-tern-862
+run_uuid: 8d74faec0df44e5180577c960a35b7a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749423273628
+status: 3
+tags: []
+user_id: runner
