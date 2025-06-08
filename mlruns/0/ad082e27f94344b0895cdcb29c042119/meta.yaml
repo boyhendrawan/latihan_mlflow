@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ad082e27f94344b0895cdcb29c042119/artifacts
+end_time: 1749425714519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad082e27f94344b0895cdcb29c042119
+run_name: orderly-ape-667
+run_uuid: ad082e27f94344b0895cdcb29c042119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749425577771
+status: 3
+tags: []
+user_id: runner
