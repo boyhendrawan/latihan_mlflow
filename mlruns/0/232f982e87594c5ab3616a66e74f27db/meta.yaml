@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/232f982e87594c5ab3616a66e74f27db/artifacts
+end_time: 1749359485659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 232f982e87594c5ab3616a66e74f27db
+run_name: selective-quail-673
+run_uuid: 232f982e87594c5ab3616a66e74f27db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749359352013
+status: 3
+tags: []
+user_id: runner
