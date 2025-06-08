@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33373d756fca4afbab063c217d46ea92/artifacts
+end_time: 1749408199685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33373d756fca4afbab063c217d46ea92
+run_name: likeable-fox-324
+run_uuid: 33373d756fca4afbab063c217d46ea92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749408063148
+status: 3
+tags: []
+user_id: runner
