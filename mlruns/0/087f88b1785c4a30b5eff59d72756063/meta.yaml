@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/087f88b1785c4a30b5eff59d72756063/artifacts
+end_time: 1749343390670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087f88b1785c4a30b5eff59d72756063
+run_name: delicate-owl-527
+run_uuid: 087f88b1785c4a30b5eff59d72756063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749343252631
+status: 3
+tags: []
+user_id: runner
