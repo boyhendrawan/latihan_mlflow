@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcfa0776562f4c5292cffae729194c9f/artifacts
+end_time: 1749404156624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcfa0776562f4c5292cffae729194c9f
+run_name: gaudy-quail-172
+run_uuid: dcfa0776562f4c5292cffae729194c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749404020859
+status: 3
+tags: []
+user_id: runner
