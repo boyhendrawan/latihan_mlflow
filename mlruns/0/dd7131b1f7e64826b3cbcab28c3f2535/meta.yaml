@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dd7131b1f7e64826b3cbcab28c3f2535/artifacts
+end_time: 1749391599343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd7131b1f7e64826b3cbcab28c3f2535
+run_name: wise-mule-347
+run_uuid: dd7131b1f7e64826b3cbcab28c3f2535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749391463017
+status: 3
+tags: []
+user_id: runner
