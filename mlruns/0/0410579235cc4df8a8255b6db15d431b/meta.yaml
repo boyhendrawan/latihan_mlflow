@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0410579235cc4df8a8255b6db15d431b/artifacts
+end_time: 1749405314790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0410579235cc4df8a8255b6db15d431b
+run_name: dazzling-shrike-727
+run_uuid: 0410579235cc4df8a8255b6db15d431b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749405176776
+status: 3
+tags: []
+user_id: runner
