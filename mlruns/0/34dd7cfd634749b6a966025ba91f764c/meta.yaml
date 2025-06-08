@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34dd7cfd634749b6a966025ba91f764c/artifacts
+end_time: 1749371811358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34dd7cfd634749b6a966025ba91f764c
+run_name: luxuriant-shrike-256
+run_uuid: 34dd7cfd634749b6a966025ba91f764c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749371672746
+status: 3
+tags: []
+user_id: runner
