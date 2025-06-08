@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5324a181d7a84928adda412e3c651414/artifacts
+end_time: 1749406652389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5324a181d7a84928adda412e3c651414
+run_name: monumental-mare-55
+run_uuid: 5324a181d7a84928adda412e3c651414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749406514895
+status: 3
+tags: []
+user_id: runner
