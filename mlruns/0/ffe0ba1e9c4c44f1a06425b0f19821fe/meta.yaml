@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ffe0ba1e9c4c44f1a06425b0f19821fe/artifacts
+end_time: 1749344356173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffe0ba1e9c4c44f1a06425b0f19821fe
+run_name: adaptable-snail-329
+run_uuid: ffe0ba1e9c4c44f1a06425b0f19821fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749344219962
+status: 3
+tags: []
+user_id: runner
