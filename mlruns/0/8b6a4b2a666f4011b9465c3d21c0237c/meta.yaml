@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b6a4b2a666f4011b9465c3d21c0237c/artifacts
+end_time: 1749357179905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b6a4b2a666f4011b9465c3d21c0237c
+run_name: placid-hen-968
+run_uuid: 8b6a4b2a666f4011b9465c3d21c0237c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749357043189
+status: 3
+tags: []
+user_id: runner
