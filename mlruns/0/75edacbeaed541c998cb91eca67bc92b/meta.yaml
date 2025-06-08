@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/75edacbeaed541c998cb91eca67bc92b/artifacts
+end_time: 1749378146822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75edacbeaed541c998cb91eca67bc92b
+run_name: stately-boar-762
+run_uuid: 75edacbeaed541c998cb91eca67bc92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378011091
+status: 3
+tags: []
+user_id: runner
