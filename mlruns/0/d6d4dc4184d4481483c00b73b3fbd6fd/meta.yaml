@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d6d4dc4184d4481483c00b73b3fbd6fd/artifacts
+end_time: 1749422638500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d4dc4184d4481483c00b73b3fbd6fd
+run_name: languid-cow-22
+run_uuid: d6d4dc4184d4481483c00b73b3fbd6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749422501762
+status: 3
+tags: []
+user_id: runner
