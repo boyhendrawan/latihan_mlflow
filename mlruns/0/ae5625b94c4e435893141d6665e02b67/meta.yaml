@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae5625b94c4e435893141d6665e02b67/artifacts
+end_time: 1749423984923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae5625b94c4e435893141d6665e02b67
+run_name: burly-perch-87
+run_uuid: ae5625b94c4e435893141d6665e02b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749423848371
+status: 3
+tags: []
+user_id: runner
