@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d17a24c6ab9249ce8dc396290b93d10a/artifacts
+end_time: 1749399905725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d17a24c6ab9249ce8dc396290b93d10a
+run_name: resilient-sow-625
+run_uuid: d17a24c6ab9249ce8dc396290b93d10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749399768615
+status: 3
+tags: []
+user_id: runner
