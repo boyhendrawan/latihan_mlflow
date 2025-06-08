@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4fbc85335974412aa73f35fb3e2fdfc3/artifacts
+end_time: 1749342183850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fbc85335974412aa73f35fb3e2fdfc3
+run_name: painted-mole-110
+run_uuid: 4fbc85335974412aa73f35fb3e2fdfc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749342047967
+status: 3
+tags: []
+user_id: runner
