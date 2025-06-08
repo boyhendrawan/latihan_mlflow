@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4130eee1f50e4d1994ea7960be298c26/artifacts
+end_time: 1749418607586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4130eee1f50e4d1994ea7960be298c26
+run_name: flawless-duck-364
+run_uuid: 4130eee1f50e4d1994ea7960be298c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749418472306
+status: 3
+tags: []
+user_id: runner
