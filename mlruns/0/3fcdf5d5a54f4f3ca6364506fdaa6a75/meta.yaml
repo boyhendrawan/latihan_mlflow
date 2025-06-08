@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fcdf5d5a54f4f3ca6364506fdaa6a75/artifacts
+end_time: 1749397983495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fcdf5d5a54f4f3ca6364506fdaa6a75
+run_name: skillful-kit-471
+run_uuid: 3fcdf5d5a54f4f3ca6364506fdaa6a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749397847693
+status: 3
+tags: []
+user_id: runner
