@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d45c2c0da3124c868af5cba2b4eaf09f/artifacts
+end_time: 1749347261182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d45c2c0da3124c868af5cba2b4eaf09f
+run_name: masked-shark-988
+run_uuid: d45c2c0da3124c868af5cba2b4eaf09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749347124343
+status: 3
+tags: []
+user_id: runner
