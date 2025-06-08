@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8540202753e47bca571f9153de414ea/artifacts
+end_time: 1749390252449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8540202753e47bca571f9153de414ea
+run_name: funny-auk-175
+run_uuid: e8540202753e47bca571f9153de414ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749390115419
+status: 3
+tags: []
+user_id: runner
