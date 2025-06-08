@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3f440d80065142a4ababa3bbd823f6bc/artifacts
+end_time: 1749402425175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f440d80065142a4ababa3bbd823f6bc
+run_name: suave-chimp-50
+run_uuid: 3f440d80065142a4ababa3bbd823f6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749402291359
+status: 3
+tags: []
+user_id: runner
