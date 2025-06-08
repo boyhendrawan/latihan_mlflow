@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3d01376ac8e94e2d94fbbee57b72a7b5/artifacts
+end_time: 1749426485898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d01376ac8e94e2d94fbbee57b72a7b5
+run_name: delightful-fowl-831
+run_uuid: 3d01376ac8e94e2d94fbbee57b72a7b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749426349539
+status: 3
+tags: []
+user_id: runner
