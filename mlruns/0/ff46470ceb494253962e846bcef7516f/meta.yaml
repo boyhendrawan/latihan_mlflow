@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff46470ceb494253962e846bcef7516f/artifacts
+end_time: 1749368150522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff46470ceb494253962e846bcef7516f
+run_name: burly-pig-324
+run_uuid: ff46470ceb494253962e846bcef7516f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749368015368
+status: 3
+tags: []
+user_id: runner
