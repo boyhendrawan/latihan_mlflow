@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d909c1fac93349a1880ff886a96263ef/artifacts
+end_time: 1749358910499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d909c1fac93349a1880ff886a96263ef
+run_name: upset-shark-464
+run_uuid: d909c1fac93349a1880ff886a96263ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749358774775
+status: 3
+tags: []
+user_id: runner
