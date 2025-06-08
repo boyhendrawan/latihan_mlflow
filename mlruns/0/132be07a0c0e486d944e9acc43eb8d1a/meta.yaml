@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/132be07a0c0e486d944e9acc43eb8d1a/artifacts
+end_time: 1749385430669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 132be07a0c0e486d944e9acc43eb8d1a
+run_name: caring-asp-855
+run_uuid: 132be07a0c0e486d944e9acc43eb8d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749385293106
+status: 3
+tags: []
+user_id: runner
