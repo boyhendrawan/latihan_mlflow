@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2981b91d060b4073b6a98241d80fd304/artifacts
+end_time: 1749367944190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2981b91d060b4073b6a98241d80fd304
+run_name: enthused-horse-253
+run_uuid: 2981b91d060b4073b6a98241d80fd304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749367806345
+status: 3
+tags: []
+user_id: runner
