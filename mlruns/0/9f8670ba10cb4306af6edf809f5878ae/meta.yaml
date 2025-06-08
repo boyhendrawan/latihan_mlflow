@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9f8670ba10cb4306af6edf809f5878ae/artifacts
+end_time: 1749370270942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8670ba10cb4306af6edf809f5878ae
+run_name: welcoming-hog-711
+run_uuid: 9f8670ba10cb4306af6edf809f5878ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749370132163
+status: 3
+tags: []
+user_id: runner
