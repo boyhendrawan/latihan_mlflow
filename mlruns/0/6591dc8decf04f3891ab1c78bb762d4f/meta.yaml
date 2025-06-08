@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6591dc8decf04f3891ab1c78bb762d4f/artifacts
+end_time: 1749372579016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6591dc8decf04f3891ab1c78bb762d4f
+run_name: illustrious-grub-355
+run_uuid: 6591dc8decf04f3891ab1c78bb762d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749372442808
+status: 3
+tags: []
+user_id: runner
