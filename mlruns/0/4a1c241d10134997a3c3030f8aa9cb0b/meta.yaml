@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4a1c241d10134997a3c3030f8aa9cb0b/artifacts
+end_time: 1749413981719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a1c241d10134997a3c3030f8aa9cb0b
+run_name: hilarious-elk-812
+run_uuid: 4a1c241d10134997a3c3030f8aa9cb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749413844932
+status: 3
+tags: []
+user_id: runner
