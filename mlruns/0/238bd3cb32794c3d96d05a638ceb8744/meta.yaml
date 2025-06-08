@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/238bd3cb32794c3d96d05a638ceb8744/artifacts
+end_time: 1749426874747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 238bd3cb32794c3d96d05a638ceb8744
+run_name: mysterious-cow-707
+run_uuid: 238bd3cb32794c3d96d05a638ceb8744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749426738004
+status: 3
+tags: []
+user_id: runner
