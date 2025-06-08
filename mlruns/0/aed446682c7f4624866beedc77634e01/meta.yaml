@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aed446682c7f4624866beedc77634e01/artifacts
+end_time: 1749407817371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aed446682c7f4624866beedc77634e01
+run_name: sedate-lynx-739
+run_uuid: aed446682c7f4624866beedc77634e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749407681059
+status: 3
+tags: []
+user_id: runner
