@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d1addf6d1c948658d39f19cf984d94f/artifacts
+end_time: 1749344554703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d1addf6d1c948658d39f19cf984d94f
+run_name: gifted-shoat-258
+run_uuid: 5d1addf6d1c948658d39f19cf984d94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749344416501
+status: 3
+tags: []
+user_id: runner
