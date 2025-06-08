@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5dc3f95018bc49a0a370541089519aae/artifacts
+end_time: 1749379303534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dc3f95018bc49a0a370541089519aae
+run_name: useful-hen-367
+run_uuid: 5dc3f95018bc49a0a370541089519aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749379165265
+status: 3
+tags: []
+user_id: runner
