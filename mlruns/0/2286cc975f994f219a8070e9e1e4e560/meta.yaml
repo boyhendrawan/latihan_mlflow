@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2286cc975f994f219a8070e9e1e4e560/artifacts
+end_time: 1749411677042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2286cc975f994f219a8070e9e1e4e560
+run_name: vaunted-ox-193
+run_uuid: 2286cc975f994f219a8070e9e1e4e560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749411540741
+status: 3
+tags: []
+user_id: runner
