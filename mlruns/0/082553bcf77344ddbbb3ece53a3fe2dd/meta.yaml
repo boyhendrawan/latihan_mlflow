@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/082553bcf77344ddbbb3ece53a3fe2dd/artifacts
+end_time: 1749347451258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 082553bcf77344ddbbb3ece53a3fe2dd
+run_name: funny-rat-659
+run_uuid: 082553bcf77344ddbbb3ece53a3fe2dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749347315122
+status: 3
+tags: []
+user_id: runner
