@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dbcbd9de41874731b5785c21fd7d467b/artifacts
+end_time: 1749413405955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbcbd9de41874731b5785c21fd7d467b
+run_name: dapper-elk-963
+run_uuid: dbcbd9de41874731b5785c21fd7d467b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749413270321
+status: 3
+tags: []
+user_id: runner
