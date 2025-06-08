@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d8ccde8c2c764a00a718d8e6e29dd54a/artifacts
+end_time: 1749412826795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ccde8c2c764a00a718d8e6e29dd54a
+run_name: honorable-sheep-481
+run_uuid: d8ccde8c2c764a00a718d8e6e29dd54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749412690151
+status: 3
+tags: []
+user_id: runner
