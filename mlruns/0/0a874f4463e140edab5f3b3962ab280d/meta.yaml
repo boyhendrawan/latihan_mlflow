@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a874f4463e140edab5f3b3962ab280d/artifacts
+end_time: 1749359869424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a874f4463e140edab5f3b3962ab280d
+run_name: fortunate-cat-964
+run_uuid: 0a874f4463e140edab5f3b3962ab280d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749359732613
+status: 3
+tags: []
+user_id: runner
