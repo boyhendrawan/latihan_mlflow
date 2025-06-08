@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/325f5a25db2249779a8d36b6e25f7f2d/artifacts
+end_time: 1749367170626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 325f5a25db2249779a8d36b6e25f7f2d
+run_name: upset-duck-66
+run_uuid: 325f5a25db2249779a8d36b6e25f7f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749367035852
+status: 3
+tags: []
+user_id: runner
