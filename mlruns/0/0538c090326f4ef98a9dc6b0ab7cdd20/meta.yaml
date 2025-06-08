@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0538c090326f4ef98a9dc6b0ab7cdd20/artifacts
+end_time: 1749355068581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0538c090326f4ef98a9dc6b0ab7cdd20
+run_name: secretive-snake-611
+run_uuid: 0538c090326f4ef98a9dc6b0ab7cdd20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749354932827
+status: 3
+tags: []
+user_id: runner
