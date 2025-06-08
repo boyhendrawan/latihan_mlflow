@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/92b5fa21ae024223b6f8b5fd27f80488/artifacts
+end_time: 1749383901421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92b5fa21ae024223b6f8b5fd27f80488
+run_name: nebulous-steed-569
+run_uuid: 92b5fa21ae024223b6f8b5fd27f80488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749383765146
+status: 3
+tags: []
+user_id: runner
