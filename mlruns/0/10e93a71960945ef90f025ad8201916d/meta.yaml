@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10e93a71960945ef90f025ad8201916d/artifacts
+end_time: 1749383708634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e93a71960945ef90f025ad8201916d
+run_name: unequaled-bee-697
+run_uuid: 10e93a71960945ef90f025ad8201916d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749383572208
+status: 3
+tags: []
+user_id: runner
