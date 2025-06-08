@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/614fbb67f10242d39ec703ac7f1bbed3/artifacts
+end_time: 1749343197328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 614fbb67f10242d39ec703ac7f1bbed3
+run_name: caring-cod-470
+run_uuid: 614fbb67f10242d39ec703ac7f1bbed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749343060952
+status: 3
+tags: []
+user_id: runner
