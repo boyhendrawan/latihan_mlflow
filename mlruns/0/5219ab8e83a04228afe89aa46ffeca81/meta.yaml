@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5219ab8e83a04228afe89aa46ffeca81/artifacts
+end_time: 1749408008866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5219ab8e83a04228afe89aa46ffeca81
+run_name: wise-stork-359
+run_uuid: 5219ab8e83a04228afe89aa46ffeca81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749407872685
+status: 3
+tags: []
+user_id: runner
