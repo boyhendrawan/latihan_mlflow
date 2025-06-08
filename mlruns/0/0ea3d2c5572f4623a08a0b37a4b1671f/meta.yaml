@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0ea3d2c5572f4623a08a0b37a4b1671f/artifacts
+end_time: 1749368539215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ea3d2c5572f4623a08a0b37a4b1671f
+run_name: nebulous-yak-836
+run_uuid: 0ea3d2c5572f4623a08a0b37a4b1671f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749368401907
+status: 3
+tags: []
+user_id: runner
