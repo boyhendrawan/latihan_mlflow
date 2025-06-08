@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3d6a44cad67b448d9fc614fbd64e2c0e/artifacts
+end_time: 1749414177202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d6a44cad67b448d9fc614fbd64e2c0e
+run_name: learned-shoat-285
+run_uuid: 3d6a44cad67b448d9fc614fbd64e2c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749414039471
+status: 3
+tags: []
+user_id: runner
