@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be7190efe3384633a22853b60c4109fe/artifacts
+end_time: 1749366981501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be7190efe3384633a22853b60c4109fe
+run_name: omniscient-squid-126
+run_uuid: be7190efe3384633a22853b60c4109fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749366845037
+status: 3
+tags: []
+user_id: runner
