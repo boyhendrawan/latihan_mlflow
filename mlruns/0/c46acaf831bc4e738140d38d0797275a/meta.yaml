@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c46acaf831bc4e738140d38d0797275a/artifacts
+end_time: 1749395670396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46acaf831bc4e738140d38d0797275a
+run_name: stylish-hawk-380
+run_uuid: c46acaf831bc4e738140d38d0797275a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749395533946
+status: 3
+tags: []
+user_id: runner
