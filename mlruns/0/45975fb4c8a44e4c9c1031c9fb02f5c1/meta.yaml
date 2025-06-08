@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45975fb4c8a44e4c9c1031c9fb02f5c1/artifacts
+end_time: 1749346092683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45975fb4c8a44e4c9c1031c9fb02f5c1
+run_name: amusing-slug-124
+run_uuid: 45975fb4c8a44e4c9c1031c9fb02f5c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749345955560
+status: 3
+tags: []
+user_id: runner
