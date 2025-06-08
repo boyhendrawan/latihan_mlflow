@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/135c1572c24249a4810d926decedd139/artifacts
+end_time: 1749424177483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 135c1572c24249a4810d926decedd139
+run_name: receptive-hen-994
+run_uuid: 135c1572c24249a4810d926decedd139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749424040705
+status: 3
+tags: []
+user_id: runner
