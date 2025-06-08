@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee0e95b4f34e400c95ae00ca810b3087/artifacts
+end_time: 1749425328028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee0e95b4f34e400c95ae00ca810b3087
+run_name: casual-yak-105
+run_uuid: ee0e95b4f34e400c95ae00ca810b3087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749425192297
+status: 3
+tags: []
+user_id: runner
