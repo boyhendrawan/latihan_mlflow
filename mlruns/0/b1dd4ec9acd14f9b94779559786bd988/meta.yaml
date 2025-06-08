@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b1dd4ec9acd14f9b94779559786bd988/artifacts
+end_time: 1749401458812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1dd4ec9acd14f9b94779559786bd988
+run_name: painted-gnat-775
+run_uuid: b1dd4ec9acd14f9b94779559786bd988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401321948
+status: 3
+tags: []
+user_id: runner
