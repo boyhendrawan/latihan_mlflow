@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/154caf903d9c417bbae07144875d56f7/artifacts
+end_time: 1749364875324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 154caf903d9c417bbae07144875d56f7
+run_name: delicate-smelt-34
+run_uuid: 154caf903d9c417bbae07144875d56f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749364738648
+status: 3
+tags: []
+user_id: runner
