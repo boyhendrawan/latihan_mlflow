@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b370c50ff7f43b59ecd1d9629996827/artifacts
+end_time: 1749407041645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b370c50ff7f43b59ecd1d9629996827
+run_name: lyrical-finch-347
+run_uuid: 3b370c50ff7f43b59ecd1d9629996827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749406905992
+status: 3
+tags: []
+user_id: runner
