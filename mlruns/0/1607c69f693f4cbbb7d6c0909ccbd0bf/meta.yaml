@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1607c69f693f4cbbb7d6c0909ccbd0bf/artifacts
+end_time: 1749412444381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1607c69f693f4cbbb7d6c0909ccbd0bf
+run_name: magnificent-loon-74
+run_uuid: 1607c69f693f4cbbb7d6c0909ccbd0bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749412307642
+status: 3
+tags: []
+user_id: runner
