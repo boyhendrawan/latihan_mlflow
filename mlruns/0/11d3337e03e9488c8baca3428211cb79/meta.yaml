@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/11d3337e03e9488c8baca3428211cb79/artifacts
+end_time: 1749390830086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11d3337e03e9488c8baca3428211cb79
+run_name: painted-zebra-589
+run_uuid: 11d3337e03e9488c8baca3428211cb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749390693543
+status: 3
+tags: []
+user_id: runner
