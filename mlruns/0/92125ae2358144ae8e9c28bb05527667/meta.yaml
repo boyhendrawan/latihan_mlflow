@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/92125ae2358144ae8e9c28bb05527667/artifacts
+end_time: 1749403387347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92125ae2358144ae8e9c28bb05527667
+run_name: intrigued-goose-387
+run_uuid: 92125ae2358144ae8e9c28bb05527667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749403250351
+status: 3
+tags: []
+user_id: runner
