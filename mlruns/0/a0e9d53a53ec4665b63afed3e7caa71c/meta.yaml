@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a0e9d53a53ec4665b63afed3e7caa71c/artifacts
+end_time: 1749382358583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0e9d53a53ec4665b63afed3e7caa71c
+run_name: smiling-midge-344
+run_uuid: a0e9d53a53ec4665b63afed3e7caa71c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749382222751
+status: 3
+tags: []
+user_id: runner
