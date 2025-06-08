@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b891b0305ea45ad8652c665f512141c/artifacts
+end_time: 1749422446909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b891b0305ea45ad8652c665f512141c
+run_name: melodic-bug-954
+run_uuid: 3b891b0305ea45ad8652c665f512141c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749422311065
+status: 3
+tags: []
+user_id: runner
