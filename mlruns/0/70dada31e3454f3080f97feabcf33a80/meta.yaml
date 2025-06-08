@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/70dada31e3454f3080f97feabcf33a80/artifacts
+end_time: 1749361208090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70dada31e3454f3080f97feabcf33a80
+run_name: monumental-dove-509
+run_uuid: 70dada31e3454f3080f97feabcf33a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749361072286
+status: 3
+tags: []
+user_id: runner
