@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/86af54976719475a8d12596566aafddd/artifacts
+end_time: 1749400875568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86af54976719475a8d12596566aafddd
+run_name: mysterious-cat-75
+run_uuid: 86af54976719475a8d12596566aafddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749400737435
+status: 3
+tags: []
+user_id: runner
