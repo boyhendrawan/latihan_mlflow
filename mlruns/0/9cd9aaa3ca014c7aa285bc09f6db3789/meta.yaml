@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9cd9aaa3ca014c7aa285bc09f6db3789/artifacts
+end_time: 1749361019713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd9aaa3ca014c7aa285bc09f6db3789
+run_name: handsome-goat-107
+run_uuid: 9cd9aaa3ca014c7aa285bc09f6db3789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749360882881
+status: 3
+tags: []
+user_id: runner
