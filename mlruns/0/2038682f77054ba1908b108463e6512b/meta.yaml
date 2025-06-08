@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2038682f77054ba1908b108463e6512b/artifacts
+end_time: 1749418992894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2038682f77054ba1908b108463e6512b
+run_name: magnificent-croc-199
+run_uuid: 2038682f77054ba1908b108463e6512b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749418856351
+status: 3
+tags: []
+user_id: runner
