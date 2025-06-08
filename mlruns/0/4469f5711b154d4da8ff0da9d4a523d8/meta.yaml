@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4469f5711b154d4da8ff0da9d4a523d8/artifacts
+end_time: 1749371621059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4469f5711b154d4da8ff0da9d4a523d8
+run_name: sneaky-penguin-814
+run_uuid: 4469f5711b154d4da8ff0da9d4a523d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749371482269
+status: 3
+tags: []
+user_id: runner
