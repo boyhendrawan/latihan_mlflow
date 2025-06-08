@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb89b02e1656469b82064dd2ef58cbfc/artifacts
+end_time: 1749409748445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb89b02e1656469b82064dd2ef58cbfc
+run_name: intrigued-stag-315
+run_uuid: cb89b02e1656469b82064dd2ef58cbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749409610644
+status: 3
+tags: []
+user_id: runner
