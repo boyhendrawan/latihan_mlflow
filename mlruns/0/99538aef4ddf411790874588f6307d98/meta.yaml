@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/99538aef4ddf411790874588f6307d98/artifacts
+end_time: 1749397213645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99538aef4ddf411790874588f6307d98
+run_name: traveling-grub-903
+run_uuid: 99538aef4ddf411790874588f6307d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749397077572
+status: 3
+tags: []
+user_id: runner
