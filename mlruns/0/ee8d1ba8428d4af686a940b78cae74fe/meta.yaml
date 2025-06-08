@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee8d1ba8428d4af686a940b78cae74fe/artifacts
+end_time: 1749365834881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8d1ba8428d4af686a940b78cae74fe
+run_name: invincible-duck-801
+run_uuid: ee8d1ba8428d4af686a940b78cae74fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749365698798
+status: 3
+tags: []
+user_id: runner
