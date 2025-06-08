@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/010043bf6b15468ca7a0b34dd05775dd/artifacts
+end_time: 1749367750975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 010043bf6b15468ca7a0b34dd05775dd
+run_name: spiffy-crane-665
+run_uuid: 010043bf6b15468ca7a0b34dd05775dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749367612392
+status: 3
+tags: []
+user_id: runner
