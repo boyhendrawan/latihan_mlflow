@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee8c2d767c194bb7bc163159e92ff3d2/artifacts
+end_time: 1749372388590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8c2d767c194bb7bc163159e92ff3d2
+run_name: bald-wren-519
+run_uuid: ee8c2d767c194bb7bc163159e92ff3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749372250091
+status: 3
+tags: []
+user_id: runner
