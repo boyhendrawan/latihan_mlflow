@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/84fa26bb042e40e0aab8a2e143e5da32/artifacts
+end_time: 1749363512388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84fa26bb042e40e0aab8a2e143e5da32
+run_name: angry-crow-730
+run_uuid: 84fa26bb042e40e0aab8a2e143e5da32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749363373830
+status: 3
+tags: []
+user_id: runner
