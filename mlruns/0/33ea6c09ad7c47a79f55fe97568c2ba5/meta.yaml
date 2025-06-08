@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33ea6c09ad7c47a79f55fe97568c2ba5/artifacts
+end_time: 1749362349512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33ea6c09ad7c47a79f55fe97568c2ba5
+run_name: capable-squid-496
+run_uuid: 33ea6c09ad7c47a79f55fe97568c2ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749362213182
+status: 3
+tags: []
+user_id: runner
