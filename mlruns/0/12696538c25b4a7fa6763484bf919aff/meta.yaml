@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/12696538c25b4a7fa6763484bf919aff/artifacts
+end_time: 1749368732008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12696538c25b4a7fa6763484bf919aff
+run_name: gregarious-loon-253
+run_uuid: 12696538c25b4a7fa6763484bf919aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749368595572
+status: 3
+tags: []
+user_id: runner
