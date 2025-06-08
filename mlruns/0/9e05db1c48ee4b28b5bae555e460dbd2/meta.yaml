@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9e05db1c48ee4b28b5bae555e460dbd2/artifacts
+end_time: 1749410134209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e05db1c48ee4b28b5bae555e460dbd2
+run_name: rebellious-conch-312
+run_uuid: 9e05db1c48ee4b28b5bae555e460dbd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749409997385
+status: 3
+tags: []
+user_id: runner
