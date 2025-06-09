@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4b1153bf6a204d8986ca49aed829ab6b/artifacts
+end_time: 1749456704365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b1153bf6a204d8986ca49aed829ab6b
+run_name: bright-seal-466
+run_uuid: 4b1153bf6a204d8986ca49aed829ab6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749456567651
+status: 3
+tags: []
+user_id: runner
