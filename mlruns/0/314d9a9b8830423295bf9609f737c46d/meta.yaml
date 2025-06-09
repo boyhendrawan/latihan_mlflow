@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/314d9a9b8830423295bf9609f737c46d/artifacts
+end_time: 1749501454824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314d9a9b8830423295bf9609f737c46d
+run_name: wistful-crab-909
+run_uuid: 314d9a9b8830423295bf9609f737c46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749501316413
+status: 3
+tags: []
+user_id: runner
