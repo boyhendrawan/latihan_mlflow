@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/76e374b8211a40dca37d63c330739be9/artifacts
+end_time: 1749482379563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76e374b8211a40dca37d63c330739be9
+run_name: valuable-mare-858
+run_uuid: 76e374b8211a40dca37d63c330739be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749482243877
+status: 3
+tags: []
+user_id: runner
