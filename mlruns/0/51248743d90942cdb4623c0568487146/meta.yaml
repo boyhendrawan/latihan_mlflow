@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51248743d90942cdb4623c0568487146/artifacts
+end_time: 1749462727102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51248743d90942cdb4623c0568487146
+run_name: carefree-hen-656
+run_uuid: 51248743d90942cdb4623c0568487146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749462586572
+status: 3
+tags: []
+user_id: runner
