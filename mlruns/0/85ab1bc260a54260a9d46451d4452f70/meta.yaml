@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85ab1bc260a54260a9d46451d4452f70/artifacts
+end_time: 1749477694342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85ab1bc260a54260a9d46451d4452f70
+run_name: awesome-whale-951
+run_uuid: 85ab1bc260a54260a9d46451d4452f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749477557635
+status: 3
+tags: []
+user_id: runner
