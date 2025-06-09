@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/73e60bea23364534b152ae00fe76d908/artifacts
+end_time: 1749492310402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73e60bea23364534b152ae00fe76d908
+run_name: calm-colt-676
+run_uuid: 73e60bea23364534b152ae00fe76d908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749492172462
+status: 3
+tags: []
+user_id: runner
