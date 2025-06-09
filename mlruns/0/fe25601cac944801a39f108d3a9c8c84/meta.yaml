@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe25601cac944801a39f108d3a9c8c84/artifacts
+end_time: 1749484505854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe25601cac944801a39f108d3a9c8c84
+run_name: smiling-dolphin-275
+run_uuid: fe25601cac944801a39f108d3a9c8c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749484369669
+status: 3
+tags: []
+user_id: runner
