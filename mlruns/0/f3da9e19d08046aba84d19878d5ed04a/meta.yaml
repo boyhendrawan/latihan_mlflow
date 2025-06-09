@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f3da9e19d08046aba84d19878d5ed04a/artifacts
+end_time: 1749451081222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3da9e19d08046aba84d19878d5ed04a
+run_name: merciful-dog-251
+run_uuid: f3da9e19d08046aba84d19878d5ed04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749450943286
+status: 3
+tags: []
+user_id: runner
