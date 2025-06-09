@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28521bb2822b4c3d86f396db06ff9f0b/artifacts
+end_time: 1749434249255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28521bb2822b4c3d86f396db06ff9f0b
+run_name: colorful-shoat-383
+run_uuid: 28521bb2822b4c3d86f396db06ff9f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749434112796
+status: 3
+tags: []
+user_id: runner
