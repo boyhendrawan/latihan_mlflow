@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e5d380467d644b89b6dd6a8b7599d3a7/artifacts
+end_time: 1749507487129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5d380467d644b89b6dd6a8b7599d3a7
+run_name: agreeable-ray-470
+run_uuid: e5d380467d644b89b6dd6a8b7599d3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749507350059
+status: 3
+tags: []
+user_id: runner
