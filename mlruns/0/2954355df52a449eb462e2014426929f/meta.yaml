@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2954355df52a449eb462e2014426929f/artifacts
+end_time: 1749437314564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2954355df52a449eb462e2014426929f
+run_name: orderly-whale-704
+run_uuid: 2954355df52a449eb462e2014426929f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749437176173
+status: 3
+tags: []
+user_id: runner
