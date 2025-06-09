@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df0045bf57154303a1a83f0fcf3a4bbb/artifacts
+end_time: 1749438676818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df0045bf57154303a1a83f0fcf3a4bbb
+run_name: upbeat-snake-744
+run_uuid: df0045bf57154303a1a83f0fcf3a4bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749438539380
+status: 3
+tags: []
+user_id: runner
