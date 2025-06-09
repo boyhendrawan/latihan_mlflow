@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1cde54a956cf488c97e0d72d5aca85dd/artifacts
+end_time: 1749432697645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cde54a956cf488c97e0d72d5aca85dd
+run_name: calm-pug-66
+run_uuid: 1cde54a956cf488c97e0d72d5aca85dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749432562289
+status: 3
+tags: []
+user_id: runner
