@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e860fd09fc946ba8b5dedb60e315e73/artifacts
+end_time: 1749468529041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e860fd09fc946ba8b5dedb60e315e73
+run_name: handsome-ray-931
+run_uuid: 2e860fd09fc946ba8b5dedb60e315e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749468393333
+status: 3
+tags: []
+user_id: runner
