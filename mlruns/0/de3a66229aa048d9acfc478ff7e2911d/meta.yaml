@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de3a66229aa048d9acfc478ff7e2911d/artifacts
+end_time: 1749498727726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de3a66229aa048d9acfc478ff7e2911d
+run_name: adorable-trout-918
+run_uuid: de3a66229aa048d9acfc478ff7e2911d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749498590814
+status: 3
+tags: []
+user_id: runner
