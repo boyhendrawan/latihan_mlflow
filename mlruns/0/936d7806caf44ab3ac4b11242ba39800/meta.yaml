@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/936d7806caf44ab3ac4b11242ba39800/artifacts
+end_time: 1749474171105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 936d7806caf44ab3ac4b11242ba39800
+run_name: sedate-moose-544
+run_uuid: 936d7806caf44ab3ac4b11242ba39800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749474034272
+status: 3
+tags: []
+user_id: runner
