@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36ad70158a1747dfb963fc6ae8226663/artifacts
+end_time: 1749484313656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ad70158a1747dfb963fc6ae8226663
+run_name: enchanting-rat-102
+run_uuid: 36ad70158a1747dfb963fc6ae8226663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749484176380
+status: 3
+tags: []
+user_id: runner
