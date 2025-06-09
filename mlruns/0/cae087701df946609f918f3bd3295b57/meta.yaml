@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cae087701df946609f918f3bd3295b57/artifacts
+end_time: 1749505343677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae087701df946609f918f3bd3295b57
+run_name: omniscient-auk-627
+run_uuid: cae087701df946609f918f3bd3295b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749505205685
+status: 3
+tags: []
+user_id: runner
