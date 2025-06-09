@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d03605025eb6484c887bfdd85345dfae/artifacts
+end_time: 1749463313701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d03605025eb6484c887bfdd85345dfae
+run_name: mercurial-cub-464
+run_uuid: d03605025eb6484c887bfdd85345dfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749463177412
+status: 3
+tags: []
+user_id: runner
