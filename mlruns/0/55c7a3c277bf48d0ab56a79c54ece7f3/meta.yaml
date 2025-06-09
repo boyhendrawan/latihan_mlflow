@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/55c7a3c277bf48d0ab56a79c54ece7f3/artifacts
+end_time: 1749439656819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55c7a3c277bf48d0ab56a79c54ece7f3
+run_name: fearless-loon-241
+run_uuid: 55c7a3c277bf48d0ab56a79c54ece7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749439518165
+status: 3
+tags: []
+user_id: runner
