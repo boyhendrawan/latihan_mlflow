@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0cd6c0b7addb476da5379ffb6a039726/artifacts
+end_time: 1749472811148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd6c0b7addb476da5379ffb6a039726
+run_name: nervous-penguin-791
+run_uuid: 0cd6c0b7addb476da5379ffb6a039726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749472673676
+status: 3
+tags: []
+user_id: runner
