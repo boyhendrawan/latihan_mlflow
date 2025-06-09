@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/38044cd3b4a94fa4a28d6ce05e8ee1f3/artifacts
+end_time: 1749451849996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38044cd3b4a94fa4a28d6ce05e8ee1f3
+run_name: bald-cow-348
+run_uuid: 38044cd3b4a94fa4a28d6ce05e8ee1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451713444
+status: 3
+tags: []
+user_id: runner
