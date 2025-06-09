@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce8dd840fa084c1d94708b38a0f68d4e/artifacts
+end_time: 1749469696019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce8dd840fa084c1d94708b38a0f68d4e
+run_name: whimsical-pig-793
+run_uuid: ce8dd840fa084c1d94708b38a0f68d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749469554394
+status: 3
+tags: []
+user_id: runner
