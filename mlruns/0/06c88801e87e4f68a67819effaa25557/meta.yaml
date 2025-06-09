@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/06c88801e87e4f68a67819effaa25557/artifacts
+end_time: 1749492696136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06c88801e87e4f68a67819effaa25557
+run_name: calm-shrike-379
+run_uuid: 06c88801e87e4f68a67819effaa25557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749492558510
+status: 3
+tags: []
+user_id: runner
