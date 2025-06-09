@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/96e9ff6ef41d483bb1063826d7c33115/artifacts
+end_time: 1749480431483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96e9ff6ef41d483bb1063826d7c33115
+run_name: enthused-shad-833
+run_uuid: 96e9ff6ef41d483bb1063826d7c33115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749480294554
+status: 3
+tags: []
+user_id: runner
