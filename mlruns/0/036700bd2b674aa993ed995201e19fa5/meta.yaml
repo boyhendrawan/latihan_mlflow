@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/036700bd2b674aa993ed995201e19fa5/artifacts
+end_time: 1749473786786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 036700bd2b674aa993ed995201e19fa5
+run_name: learned-conch-890
+run_uuid: 036700bd2b674aa993ed995201e19fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749473650644
+status: 3
+tags: []
+user_id: runner
