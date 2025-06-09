@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ecbd7db5785b4f37a46755499fa23ab2/artifacts
+end_time: 1749467758143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecbd7db5785b4f37a46755499fa23ab2
+run_name: silent-rook-8
+run_uuid: ecbd7db5785b4f37a46755499fa23ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749467617306
+status: 3
+tags: []
+user_id: runner
