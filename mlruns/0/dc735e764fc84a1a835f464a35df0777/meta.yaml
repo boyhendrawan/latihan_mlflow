@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc735e764fc84a1a835f464a35df0777/artifacts
+end_time: 1749456508404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc735e764fc84a1a835f464a35df0777
+run_name: ambitious-panda-863
+run_uuid: dc735e764fc84a1a835f464a35df0777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749456372150
+status: 3
+tags: []
+user_id: runner
