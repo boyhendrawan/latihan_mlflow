@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10a3317e577f438cad13f755bc05934e/artifacts
+end_time: 1749471050704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10a3317e577f438cad13f755bc05934e
+run_name: dapper-mouse-484
+run_uuid: 10a3317e577f438cad13f755bc05934e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749470914551
+status: 3
+tags: []
+user_id: runner
