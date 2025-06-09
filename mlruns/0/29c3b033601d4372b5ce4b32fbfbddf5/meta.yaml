@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29c3b033601d4372b5ce4b32fbfbddf5/artifacts
+end_time: 1749489955260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c3b033601d4372b5ce4b32fbfbddf5
+run_name: industrious-bass-492
+run_uuid: 29c3b033601d4372b5ce4b32fbfbddf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749489819162
+status: 3
+tags: []
+user_id: runner
