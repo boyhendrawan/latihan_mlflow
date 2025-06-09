@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/559de0e29a2642fcb234cc1a16915734/artifacts
+end_time: 1749458053702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 559de0e29a2642fcb234cc1a16915734
+run_name: sincere-slug-615
+run_uuid: 559de0e29a2642fcb234cc1a16915734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749457916361
+status: 3
+tags: []
+user_id: runner
