@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b10f0fad6ae0438896f1c519fb30ea18/artifacts
+end_time: 1749479844558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b10f0fad6ae0438896f1c519fb30ea18
+run_name: popular-ray-915
+run_uuid: b10f0fad6ae0438896f1c519fb30ea18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479707919
+status: 3
+tags: []
+user_id: runner
