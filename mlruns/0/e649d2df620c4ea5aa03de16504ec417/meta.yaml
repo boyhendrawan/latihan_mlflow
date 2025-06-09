@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e649d2df620c4ea5aa03de16504ec417/artifacts
+end_time: 1749447589212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e649d2df620c4ea5aa03de16504ec417
+run_name: classy-bat-307
+run_uuid: e649d2df620c4ea5aa03de16504ec417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749447453259
+status: 3
+tags: []
+user_id: runner
