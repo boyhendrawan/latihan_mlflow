@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e2f50dd0222428aa8b84abc956bf0e5/artifacts
+end_time: 1749486054786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e2f50dd0222428aa8b84abc956bf0e5
+run_name: judicious-zebra-47
+run_uuid: 2e2f50dd0222428aa8b84abc956bf0e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749485916840
+status: 3
+tags: []
+user_id: runner
