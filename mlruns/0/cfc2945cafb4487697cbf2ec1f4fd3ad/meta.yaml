@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfc2945cafb4487697cbf2ec1f4fd3ad/artifacts
+end_time: 1749484118560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfc2945cafb4487697cbf2ec1f4fd3ad
+run_name: unleashed-foal-902
+run_uuid: cfc2945cafb4487697cbf2ec1f4fd3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749483980722
+status: 3
+tags: []
+user_id: runner
