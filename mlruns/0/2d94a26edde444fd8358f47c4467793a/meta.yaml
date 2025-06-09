@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d94a26edde444fd8358f47c4467793a/artifacts
+end_time: 1749496781662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d94a26edde444fd8358f47c4467793a
+run_name: mysterious-shrimp-37
+run_uuid: 2d94a26edde444fd8358f47c4467793a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749496645850
+status: 3
+tags: []
+user_id: runner
