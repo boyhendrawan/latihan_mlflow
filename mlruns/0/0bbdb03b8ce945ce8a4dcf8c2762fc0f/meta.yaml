@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0bbdb03b8ce945ce8a4dcf8c2762fc0f/artifacts
+end_time: 1749513539492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bbdb03b8ce945ce8a4dcf8c2762fc0f
+run_name: bittersweet-koi-598
+run_uuid: 0bbdb03b8ce945ce8a4dcf8c2762fc0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749513403475
+status: 3
+tags: []
+user_id: runner
