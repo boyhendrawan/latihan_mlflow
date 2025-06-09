@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bbacf325385a4a49878d661bc3a63227/artifacts
+end_time: 1749490354722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbacf325385a4a49878d661bc3a63227
+run_name: magnificent-hare-629
+run_uuid: bbacf325385a4a49878d661bc3a63227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749490218614
+status: 3
+tags: []
+user_id: runner
