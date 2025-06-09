@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f2c2b45d5d7d43d9810bd3723fdbe06c/artifacts
+end_time: 1749475927372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c2b45d5d7d43d9810bd3723fdbe06c
+run_name: puzzled-perch-216
+run_uuid: f2c2b45d5d7d43d9810bd3723fdbe06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749475789331
+status: 3
+tags: []
+user_id: runner
