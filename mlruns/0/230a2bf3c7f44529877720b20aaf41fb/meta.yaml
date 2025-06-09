@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/230a2bf3c7f44529877720b20aaf41fb/artifacts
+end_time: 1749500676648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 230a2bf3c7f44529877720b20aaf41fb
+run_name: youthful-moth-755
+run_uuid: 230a2bf3c7f44529877720b20aaf41fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749500536785
+status: 3
+tags: []
+user_id: runner
