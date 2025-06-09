@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e936772677c47f5910de015dd445995/artifacts
+end_time: 1749432127144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e936772677c47f5910de015dd445995
+run_name: abundant-rat-825
+run_uuid: 2e936772677c47f5910de015dd445995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749431991269
+status: 3
+tags: []
+user_id: runner
