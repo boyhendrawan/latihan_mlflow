@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc22fa816da34f9b9de1b293fcf4f276/artifacts
+end_time: 1749478088261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc22fa816da34f9b9de1b293fcf4f276
+run_name: mercurial-ram-462
+run_uuid: cc22fa816da34f9b9de1b293fcf4f276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749477950853
+status: 3
+tags: []
+user_id: runner
