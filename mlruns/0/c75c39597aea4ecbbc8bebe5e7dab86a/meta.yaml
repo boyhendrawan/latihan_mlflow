@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c75c39597aea4ecbbc8bebe5e7dab86a/artifacts
+end_time: 1749476317631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c75c39597aea4ecbbc8bebe5e7dab86a
+run_name: selective-dove-543
+run_uuid: c75c39597aea4ecbbc8bebe5e7dab86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749476180727
+status: 3
+tags: []
+user_id: runner
