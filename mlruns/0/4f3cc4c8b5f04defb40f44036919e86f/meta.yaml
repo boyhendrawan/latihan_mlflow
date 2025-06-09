@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f3cc4c8b5f04defb40f44036919e86f/artifacts
+end_time: 1749429008958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f3cc4c8b5f04defb40f44036919e86f
+run_name: brawny-stork-12
+run_uuid: 4f3cc4c8b5f04defb40f44036919e86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749428872123
+status: 3
+tags: []
+user_id: runner
