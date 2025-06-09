@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ca07d4dfdb3400488e6ee98e85863e9/artifacts
+end_time: 1749494638139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca07d4dfdb3400488e6ee98e85863e9
+run_name: secretive-crab-810
+run_uuid: 1ca07d4dfdb3400488e6ee98e85863e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749494501558
+status: 3
+tags: []
+user_id: runner
