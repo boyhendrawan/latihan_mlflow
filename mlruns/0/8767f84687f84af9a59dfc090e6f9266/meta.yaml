@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8767f84687f84af9a59dfc090e6f9266/artifacts
+end_time: 1749460202389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8767f84687f84af9a59dfc090e6f9266
+run_name: enthused-stag-379
+run_uuid: 8767f84687f84af9a59dfc090e6f9266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749460065000
+status: 3
+tags: []
+user_id: runner
