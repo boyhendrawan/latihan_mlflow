@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8ec583e58ea54d02a95ee8f15fcc2aa3/artifacts
+end_time: 1749461551317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec583e58ea54d02a95ee8f15fcc2aa3
+run_name: upbeat-owl-541
+run_uuid: 8ec583e58ea54d02a95ee8f15fcc2aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749461413359
+status: 3
+tags: []
+user_id: runner
