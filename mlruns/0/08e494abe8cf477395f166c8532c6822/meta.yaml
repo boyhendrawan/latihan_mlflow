@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08e494abe8cf477395f166c8532c6822/artifacts
+end_time: 1749492114269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08e494abe8cf477395f166c8532c6822
+run_name: stylish-dolphin-974
+run_uuid: 08e494abe8cf477395f166c8532c6822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749491976253
+status: 3
+tags: []
+user_id: runner
