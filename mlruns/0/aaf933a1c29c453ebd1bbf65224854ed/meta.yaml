@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aaf933a1c29c453ebd1bbf65224854ed/artifacts
+end_time: 1749428048623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaf933a1c29c453ebd1bbf65224854ed
+run_name: melodic-stoat-520
+run_uuid: aaf933a1c29c453ebd1bbf65224854ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749427907411
+status: 3
+tags: []
+user_id: runner
