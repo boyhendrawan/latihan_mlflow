@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7fc43fc5d7047ac8e80ef18b2854e2f/artifacts
+end_time: 1749502820630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7fc43fc5d7047ac8e80ef18b2854e2f
+run_name: luminous-grub-222
+run_uuid: a7fc43fc5d7047ac8e80ef18b2854e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749502684419
+status: 3
+tags: []
+user_id: runner
