@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/164949e2a8b94d0d8352774a4cb7fa92/artifacts
+end_time: 1749441589069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 164949e2a8b94d0d8352774a4cb7fa92
+run_name: whimsical-crab-656
+run_uuid: 164949e2a8b94d0d8352774a4cb7fa92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749441453192
+status: 3
+tags: []
+user_id: runner
