@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6bb828f754d4606a55aa9e5a034b2e4/artifacts
+end_time: 1749446814793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6bb828f754d4606a55aa9e5a034b2e4
+run_name: classy-crane-567
+run_uuid: b6bb828f754d4606a55aa9e5a034b2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749446677656
+status: 3
+tags: []
+user_id: runner
