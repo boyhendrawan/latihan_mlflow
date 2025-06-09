@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a9e6bd3235df4292bc0df48928367c9c/artifacts
+end_time: 1749450676811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9e6bd3235df4292bc0df48928367c9c
+run_name: suave-lamb-645
+run_uuid: a9e6bd3235df4292bc0df48928367c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749450540419
+status: 3
+tags: []
+user_id: runner
