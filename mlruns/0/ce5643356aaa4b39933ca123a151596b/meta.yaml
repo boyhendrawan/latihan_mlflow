@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce5643356aaa4b39933ca123a151596b/artifacts
+end_time: 1749452042468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce5643356aaa4b39933ca123a151596b
+run_name: caring-lynx-719
+run_uuid: ce5643356aaa4b39933ca123a151596b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451907126
+status: 3
+tags: []
+user_id: runner
