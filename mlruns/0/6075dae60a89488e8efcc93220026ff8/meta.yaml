@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6075dae60a89488e8efcc93220026ff8/artifacts
+end_time: 1749481015864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6075dae60a89488e8efcc93220026ff8
+run_name: gregarious-horse-288
+run_uuid: 6075dae60a89488e8efcc93220026ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749480878762
+status: 3
+tags: []
+user_id: runner
