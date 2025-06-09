@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca12b34adbd24eb9a3513c6980c0829b/artifacts
+end_time: 1749433666298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca12b34adbd24eb9a3513c6980c0829b
+run_name: enchanting-chimp-504
+run_uuid: ca12b34adbd24eb9a3513c6980c0829b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749433529575
+status: 3
+tags: []
+user_id: runner
