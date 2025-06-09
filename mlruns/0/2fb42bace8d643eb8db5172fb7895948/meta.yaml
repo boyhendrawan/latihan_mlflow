@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2fb42bace8d643eb8db5172fb7895948/artifacts
+end_time: 1749491915296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fb42bace8d643eb8db5172fb7895948
+run_name: dapper-bee-40
+run_uuid: 2fb42bace8d643eb8db5172fb7895948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749491778262
+status: 3
+tags: []
+user_id: runner
