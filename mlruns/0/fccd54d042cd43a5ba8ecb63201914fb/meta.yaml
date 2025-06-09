@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fccd54d042cd43a5ba8ecb63201914fb/artifacts
+end_time: 1749497946766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fccd54d042cd43a5ba8ecb63201914fb
+run_name: bright-penguin-675
+run_uuid: fccd54d042cd43a5ba8ecb63201914fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749497810501
+status: 3
+tags: []
+user_id: runner
