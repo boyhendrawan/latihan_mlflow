@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c9e9dce1ff0442f4a8171a56c6f4fcbb/artifacts
+end_time: 1749458438828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e9dce1ff0442f4a8171a56c6f4fcbb
+run_name: blushing-elk-53
+run_uuid: c9e9dce1ff0442f4a8171a56c6f4fcbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749458301653
+status: 3
+tags: []
+user_id: runner
