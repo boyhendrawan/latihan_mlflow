@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe86836096b0494b9f4eb9cb11898699/artifacts
+end_time: 1749501648999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe86836096b0494b9f4eb9cb11898699
+run_name: victorious-yak-724
+run_uuid: fe86836096b0494b9f4eb9cb11898699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749501512393
+status: 3
+tags: []
+user_id: runner
