@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f0ffdfc4b35c4749bad58bd084d22c1b/artifacts
+end_time: 1749447007453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ffdfc4b35c4749bad58bd084d22c1b
+run_name: spiffy-stoat-461
+run_uuid: f0ffdfc4b35c4749bad58bd084d22c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749446869656
+status: 3
+tags: []
+user_id: runner
