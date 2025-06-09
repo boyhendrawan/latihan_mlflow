@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f8213045d6f46438594570250157149/artifacts
+end_time: 1749427451424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f8213045d6f46438594570250157149
+run_name: wise-turtle-712
+run_uuid: 1f8213045d6f46438594570250157149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749427315176
+status: 3
+tags: []
+user_id: runner
