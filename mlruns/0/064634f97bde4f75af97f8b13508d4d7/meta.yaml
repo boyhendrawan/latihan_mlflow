@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/064634f97bde4f75af97f8b13508d4d7/artifacts
+end_time: 1749487806227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 064634f97bde4f75af97f8b13508d4d7
+run_name: bold-ray-243
+run_uuid: 064634f97bde4f75af97f8b13508d4d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749487669535
+status: 3
+tags: []
+user_id: runner
