@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5f77d08d402f40d2b0aebdcf21dfd4bb/artifacts
+end_time: 1749447394982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f77d08d402f40d2b0aebdcf21dfd4bb
+run_name: sincere-cod-542
+run_uuid: 5f77d08d402f40d2b0aebdcf21dfd4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749447257495
+status: 3
+tags: []
+user_id: runner
