@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d5e94ab9e46442eb8f48e3533e2e199/artifacts
+end_time: 1749484892634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d5e94ab9e46442eb8f48e3533e2e199
+run_name: sneaky-loon-570
+run_uuid: 2d5e94ab9e46442eb8f48e3533e2e199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749484756023
+status: 3
+tags: []
+user_id: runner
