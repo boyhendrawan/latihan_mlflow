@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/16547428c54e44edbda27256e19746e7/artifacts
+end_time: 1749505731909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16547428c54e44edbda27256e19746e7
+run_name: polite-newt-334
+run_uuid: 16547428c54e44edbda27256e19746e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749505595355
+status: 3
+tags: []
+user_id: runner
