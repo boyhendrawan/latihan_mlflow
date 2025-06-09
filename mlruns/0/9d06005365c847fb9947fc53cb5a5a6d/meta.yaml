@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d06005365c847fb9947fc53cb5a5a6d/artifacts
+end_time: 1749513346251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d06005365c847fb9947fc53cb5a5a6d
+run_name: delightful-pig-660
+run_uuid: 9d06005365c847fb9947fc53cb5a5a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749513210151
+status: 3
+tags: []
+user_id: runner
