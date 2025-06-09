@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8af98ba23af2445da37c4ef7ccc0d585/artifacts
+end_time: 1749473194706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af98ba23af2445da37c4ef7ccc0d585
+run_name: rare-hog-920
+run_uuid: 8af98ba23af2445da37c4ef7ccc0d585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749473057865
+status: 3
+tags: []
+user_id: runner
