@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a330d7a5adf146f6b9968c2bd2e76dfa/artifacts
+end_time: 1749461943407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a330d7a5adf146f6b9968c2bd2e76dfa
+run_name: legendary-gnu-434
+run_uuid: a330d7a5adf146f6b9968c2bd2e76dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749461806502
+status: 3
+tags: []
+user_id: runner
