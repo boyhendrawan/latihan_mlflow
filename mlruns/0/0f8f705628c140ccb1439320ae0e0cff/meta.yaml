@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0f8f705628c140ccb1439320ae0e0cff/artifacts
+end_time: 1749448357175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f8f705628c140ccb1439320ae0e0cff
+run_name: auspicious-fox-366
+run_uuid: 0f8f705628c140ccb1439320ae0e0cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749448220864
+status: 3
+tags: []
+user_id: runner
