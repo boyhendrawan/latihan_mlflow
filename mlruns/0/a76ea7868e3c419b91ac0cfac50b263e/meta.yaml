@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a76ea7868e3c419b91ac0cfac50b263e/artifacts
+end_time: 1749429200179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a76ea7868e3c419b91ac0cfac50b263e
+run_name: bittersweet-hawk-244
+run_uuid: a76ea7868e3c419b91ac0cfac50b263e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749429063670
+status: 3
+tags: []
+user_id: runner
