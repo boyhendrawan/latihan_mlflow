@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98880f3b2b65479886367b17fdbf8b90/artifacts
+end_time: 1749443125777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98880f3b2b65479886367b17fdbf8b90
+run_name: unleashed-mule-806
+run_uuid: 98880f3b2b65479886367b17fdbf8b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749442987900
+status: 3
+tags: []
+user_id: runner
