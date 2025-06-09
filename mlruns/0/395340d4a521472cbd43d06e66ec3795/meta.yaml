@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/395340d4a521472cbd43d06e66ec3795/artifacts
+end_time: 1749483541845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 395340d4a521472cbd43d06e66ec3795
+run_name: capable-swan-364
+run_uuid: 395340d4a521472cbd43d06e66ec3795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749483404211
+status: 3
+tags: []
+user_id: runner
