@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e06e1beab9484c0995c0d2f1df2a486b/artifacts
+end_time: 1749509250652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e06e1beab9484c0995c0d2f1df2a486b
+run_name: serious-duck-822
+run_uuid: e06e1beab9484c0995c0d2f1df2a486b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749509113540
+status: 3
+tags: []
+user_id: runner
