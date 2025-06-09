@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5fcb28e41b5d42b69c76e04b44279c67/artifacts
+end_time: 1749504767231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fcb28e41b5d42b69c76e04b44279c67
+run_name: delightful-shark-174
+run_uuid: 5fcb28e41b5d42b69c76e04b44279c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749504630164
+status: 3
+tags: []
+user_id: runner
