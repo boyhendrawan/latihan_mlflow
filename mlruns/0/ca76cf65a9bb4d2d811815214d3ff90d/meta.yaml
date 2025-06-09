@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca76cf65a9bb4d2d811815214d3ff90d/artifacts
+end_time: 1749491723183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca76cf65a9bb4d2d811815214d3ff90d
+run_name: casual-grub-378
+run_uuid: ca76cf65a9bb4d2d811815214d3ff90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749491587509
+status: 3
+tags: []
+user_id: runner
