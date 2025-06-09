@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02a0eb8215a7457391605d94929a5fc8/artifacts
+end_time: 1749447780825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02a0eb8215a7457391605d94929a5fc8
+run_name: valuable-fox-715
+run_uuid: 02a0eb8215a7457391605d94929a5fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749447644842
+status: 3
+tags: []
+user_id: runner
