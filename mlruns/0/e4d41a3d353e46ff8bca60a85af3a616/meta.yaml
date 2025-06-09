@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e4d41a3d353e46ff8bca60a85af3a616/artifacts
+end_time: 1749478871109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d41a3d353e46ff8bca60a85af3a616
+run_name: unleashed-fawn-500
+run_uuid: e4d41a3d353e46ff8bca60a85af3a616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749478733441
+status: 3
+tags: []
+user_id: runner
