@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c22051564d6045119b172cc73c36ad47/artifacts
+end_time: 1749445655924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22051564d6045119b172cc73c36ad47
+run_name: receptive-rook-244
+run_uuid: c22051564d6045119b172cc73c36ad47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749445519408
+status: 3
+tags: []
+user_id: runner
