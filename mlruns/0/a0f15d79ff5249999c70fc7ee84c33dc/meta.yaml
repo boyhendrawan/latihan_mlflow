@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a0f15d79ff5249999c70fc7ee84c33dc/artifacts
+end_time: 1749471828979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f15d79ff5249999c70fc7ee84c33dc
+run_name: selective-moth-822
+run_uuid: a0f15d79ff5249999c70fc7ee84c33dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749471689128
+status: 3
+tags: []
+user_id: runner
