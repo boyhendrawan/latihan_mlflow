@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8d2202177d1f4965abdf288f65fb83d1/artifacts
+end_time: 1749511201770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d2202177d1f4965abdf288f65fb83d1
+run_name: welcoming-gnu-727
+run_uuid: 8d2202177d1f4965abdf288f65fb83d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749511064775
+status: 3
+tags: []
+user_id: runner
