@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/59917a03cd9e4f1bad7310f8dd049a23/artifacts
+end_time: 1749451465641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59917a03cd9e4f1bad7310f8dd049a23
+run_name: bittersweet-fowl-980
+run_uuid: 59917a03cd9e4f1bad7310f8dd049a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451329143
+status: 3
+tags: []
+user_id: runner
