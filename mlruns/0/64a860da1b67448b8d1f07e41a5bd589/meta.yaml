@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/64a860da1b67448b8d1f07e41a5bd589/artifacts
+end_time: 1749468144392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a860da1b67448b8d1f07e41a5bd589
+run_name: clumsy-gnat-302
+run_uuid: 64a860da1b67448b8d1f07e41a5bd589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749468007272
+status: 3
+tags: []
+user_id: runner
