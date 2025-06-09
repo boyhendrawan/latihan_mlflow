@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7086fc875d7849fcb04c3c06276c253b/artifacts
+end_time: 1749466986478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7086fc875d7849fcb04c3c06276c253b
+run_name: loud-calf-119
+run_uuid: 7086fc875d7849fcb04c3c06276c253b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749466850272
+status: 3
+tags: []
+user_id: runner
