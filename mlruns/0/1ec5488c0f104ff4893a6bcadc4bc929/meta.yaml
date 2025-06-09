@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ec5488c0f104ff4893a6bcadc4bc929/artifacts
+end_time: 1749467948393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ec5488c0f104ff4893a6bcadc4bc929
+run_name: upbeat-midge-646
+run_uuid: 1ec5488c0f104ff4893a6bcadc4bc929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749467812129
+status: 3
+tags: []
+user_id: runner
