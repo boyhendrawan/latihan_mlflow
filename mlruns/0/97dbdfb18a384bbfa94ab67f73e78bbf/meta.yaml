@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/97dbdfb18a384bbfa94ab67f73e78bbf/artifacts
+end_time: 1749430179095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97dbdfb18a384bbfa94ab67f73e78bbf
+run_name: enthused-cat-720
+run_uuid: 97dbdfb18a384bbfa94ab67f73e78bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749430042928
+status: 3
+tags: []
+user_id: runner
