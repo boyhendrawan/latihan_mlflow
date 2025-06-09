@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/da7e111985dd43af859a490f4fe7426e/artifacts
+end_time: 1749462336948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da7e111985dd43af859a490f4fe7426e
+run_name: loud-hog-877
+run_uuid: da7e111985dd43af859a490f4fe7426e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749462199945
+status: 3
+tags: []
+user_id: runner
