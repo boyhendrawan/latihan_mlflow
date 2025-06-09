@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e1a1ebdaa3a4a369a61448909f988ae/artifacts
+end_time: 1749489369031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e1a1ebdaa3a4a369a61448909f988ae
+run_name: rogue-shrimp-201
+run_uuid: 1e1a1ebdaa3a4a369a61448909f988ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749489231590
+status: 3
+tags: []
+user_id: runner
