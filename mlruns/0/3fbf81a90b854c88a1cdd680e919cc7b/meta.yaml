@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fbf81a90b854c88a1cdd680e919cc7b/artifacts
+end_time: 1749462530848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fbf81a90b854c88a1cdd680e919cc7b
+run_name: caring-eel-942
+run_uuid: 3fbf81a90b854c88a1cdd680e919cc7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749462394085
+status: 3
+tags: []
+user_id: runner
