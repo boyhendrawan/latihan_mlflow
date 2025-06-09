@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff3d1528f13044478547ca55d51f2fb7/artifacts
+end_time: 1749460009131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff3d1528f13044478547ca55d51f2fb7
+run_name: dapper-hare-691
+run_uuid: ff3d1528f13044478547ca55d51f2fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749459872209
+status: 3
+tags: []
+user_id: runner
