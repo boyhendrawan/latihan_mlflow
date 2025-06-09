@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/06ee0fbae6ba414e97d012365a3e291f/artifacts
+end_time: 1749509831627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06ee0fbae6ba414e97d012365a3e291f
+run_name: gentle-flea-343
+run_uuid: 06ee0fbae6ba414e97d012365a3e291f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749509695399
+status: 3
+tags: []
+user_id: runner
