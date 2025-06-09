@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eb6f3964469d4a478803148599f786ed/artifacts
+end_time: 1749455734796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb6f3964469d4a478803148599f786ed
+run_name: useful-shad-488
+run_uuid: eb6f3964469d4a478803148599f786ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749455598842
+status: 3
+tags: []
+user_id: runner
