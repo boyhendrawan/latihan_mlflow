@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8662f25140af4e2896e200dbc88950d2/artifacts
+end_time: 1749508268499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8662f25140af4e2896e200dbc88950d2
+run_name: defiant-pug-668
+run_uuid: 8662f25140af4e2896e200dbc88950d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749508127782
+status: 3
+tags: []
+user_id: runner
