@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1900c3b1f1ec408eb1964e5060df6505/artifacts
+end_time: 1749511984913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1900c3b1f1ec408eb1964e5060df6505
+run_name: stylish-dove-959
+run_uuid: 1900c3b1f1ec408eb1964e5060df6505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749511848697
+status: 3
+tags: []
+user_id: runner
