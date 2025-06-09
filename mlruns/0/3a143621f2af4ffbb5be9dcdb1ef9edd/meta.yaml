@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a143621f2af4ffbb5be9dcdb1ef9edd/artifacts
+end_time: 1749453987519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a143621f2af4ffbb5be9dcdb1ef9edd
+run_name: languid-wasp-937
+run_uuid: 3a143621f2af4ffbb5be9dcdb1ef9edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749453851077
+status: 3
+tags: []
+user_id: runner
