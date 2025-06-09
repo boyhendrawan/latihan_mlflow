@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/95f9511351fb4b1b8edcd86ee31ab056/artifacts
+end_time: 1749472604834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95f9511351fb4b1b8edcd86ee31ab056
+run_name: amusing-trout-25
+run_uuid: 95f9511351fb4b1b8edcd86ee31ab056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749472468467
+status: 3
+tags: []
+user_id: runner
