@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f3044cbcf0fc458ba0eb50fb4739bebb/artifacts
+end_time: 1749485860148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3044cbcf0fc458ba0eb50fb4739bebb
+run_name: capable-quail-67
+run_uuid: f3044cbcf0fc458ba0eb50fb4739bebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749485722991
+status: 3
+tags: []
+user_id: runner
