@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/42d2a857281c4361842c5222c10ab718/artifacts
+end_time: 1749441202112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42d2a857281c4361842c5222c10ab718
+run_name: rare-vole-89
+run_uuid: 42d2a857281c4361842c5222c10ab718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749441065176
+status: 3
+tags: []
+user_id: runner
