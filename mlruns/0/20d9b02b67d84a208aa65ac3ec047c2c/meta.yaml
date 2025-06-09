@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/20d9b02b67d84a208aa65ac3ec047c2c/artifacts
+end_time: 1749480822255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d9b02b67d84a208aa65ac3ec047c2c
+run_name: tasteful-shrew-106
+run_uuid: 20d9b02b67d84a208aa65ac3ec047c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749480686174
+status: 3
+tags: []
+user_id: runner
