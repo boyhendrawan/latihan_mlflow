@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/50e3f0bb22cc42cda1fcaf8b1a7cc33c/artifacts
+end_time: 1749490159895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e3f0bb22cc42cda1fcaf8b1a7cc33c
+run_name: amazing-ram-327
+run_uuid: 50e3f0bb22cc42cda1fcaf8b1a7cc33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749490020132
+status: 3
+tags: []
+user_id: runner
