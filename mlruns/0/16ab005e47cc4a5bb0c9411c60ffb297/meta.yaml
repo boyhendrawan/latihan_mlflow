@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/16ab005e47cc4a5bb0c9411c60ffb297/artifacts
+end_time: 1749460590084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16ab005e47cc4a5bb0c9411c60ffb297
+run_name: monumental-asp-623
+run_uuid: 16ab005e47cc4a5bb0c9411c60ffb297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749460452892
+status: 3
+tags: []
+user_id: runner
