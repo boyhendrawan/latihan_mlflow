@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8a174f68ee7744dbabdfe39aaa10fc3f/artifacts
+end_time: 1749453791327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a174f68ee7744dbabdfe39aaa10fc3f
+run_name: illustrious-fox-630
+run_uuid: 8a174f68ee7744dbabdfe39aaa10fc3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749453653900
+status: 3
+tags: []
+user_id: runner
