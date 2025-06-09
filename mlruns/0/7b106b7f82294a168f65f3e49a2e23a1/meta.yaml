@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b106b7f82294a168f65f3e49a2e23a1/artifacts
+end_time: 1749512566582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b106b7f82294a168f65f3e49a2e23a1
+run_name: secretive-fawn-798
+run_uuid: 7b106b7f82294a168f65f3e49a2e23a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749512428173
+status: 3
+tags: []
+user_id: runner
