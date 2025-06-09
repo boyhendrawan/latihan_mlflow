@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fb40d78b803643469db546547dc2aea4/artifacts
+end_time: 1749508661007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb40d78b803643469db546547dc2aea4
+run_name: luminous-sheep-636
+run_uuid: fb40d78b803643469db546547dc2aea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749508524860
+status: 3
+tags: []
+user_id: runner
