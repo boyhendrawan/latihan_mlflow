@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13f8b7d2eddd48ceb69652350f7a83a8/artifacts
+end_time: 1749476123399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13f8b7d2eddd48ceb69652350f7a83a8
+run_name: sedate-doe-29
+run_uuid: 13f8b7d2eddd48ceb69652350f7a83a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749475986192
+status: 3
+tags: []
+user_id: runner
