@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcf2aa5d0e5344a589e870b096a31356/artifacts
+end_time: 1749505923304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcf2aa5d0e5344a589e870b096a31356
+run_name: skittish-yak-578
+run_uuid: dcf2aa5d0e5344a589e870b096a31356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749505786824
+status: 3
+tags: []
+user_id: runner
