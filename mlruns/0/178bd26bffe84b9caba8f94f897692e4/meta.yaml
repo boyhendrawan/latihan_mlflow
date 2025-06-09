@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/178bd26bffe84b9caba8f94f897692e4/artifacts
+end_time: 1749485278058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178bd26bffe84b9caba8f94f897692e4
+run_name: gifted-mole-72
+run_uuid: 178bd26bffe84b9caba8f94f897692e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749485141526
+status: 3
+tags: []
+user_id: runner
