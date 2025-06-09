@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee44b1e0efc04263827f498c3ea5df58/artifacts
+end_time: 1749475148040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee44b1e0efc04263827f498c3ea5df58
+run_name: carefree-owl-39
+run_uuid: ee44b1e0efc04263827f498c3ea5df58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749475009328
+status: 3
+tags: []
+user_id: runner
