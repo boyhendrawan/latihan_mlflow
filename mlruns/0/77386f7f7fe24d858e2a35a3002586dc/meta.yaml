@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77386f7f7fe24d858e2a35a3002586dc/artifacts
+end_time: 1749441008825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77386f7f7fe24d858e2a35a3002586dc
+run_name: sincere-wasp-813
+run_uuid: 77386f7f7fe24d858e2a35a3002586dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749440873391
+status: 3
+tags: []
+user_id: runner
