@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed5219052665435789911aa9093c12c8/artifacts
+end_time: 1749503014057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed5219052665435789911aa9093c12c8
+run_name: grandiose-perch-584
+run_uuid: ed5219052665435789911aa9093c12c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749502877461
+status: 3
+tags: []
+user_id: runner
