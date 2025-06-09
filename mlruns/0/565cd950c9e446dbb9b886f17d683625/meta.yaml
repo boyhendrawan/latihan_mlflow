@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/565cd950c9e446dbb9b886f17d683625/artifacts
+end_time: 1749488594724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565cd950c9e446dbb9b886f17d683625
+run_name: exultant-colt-938
+run_uuid: 565cd950c9e446dbb9b886f17d683625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749488457991
+status: 3
+tags: []
+user_id: runner
