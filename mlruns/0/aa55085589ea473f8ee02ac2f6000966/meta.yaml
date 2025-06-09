@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa55085589ea473f8ee02ac2f6000966/artifacts
+end_time: 1749442739157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa55085589ea473f8ee02ac2f6000966
+run_name: useful-robin-125
+run_uuid: aa55085589ea473f8ee02ac2f6000966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749442602807
+status: 3
+tags: []
+user_id: runner
