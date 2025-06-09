@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cef393f3c15f47fa9ef47836217f9d1c/artifacts
+end_time: 1749457859408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cef393f3c15f47fa9ef47836217f9d1c
+run_name: capricious-ox-118
+run_uuid: cef393f3c15f47fa9ef47836217f9d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749457723142
+status: 3
+tags: []
+user_id: runner
