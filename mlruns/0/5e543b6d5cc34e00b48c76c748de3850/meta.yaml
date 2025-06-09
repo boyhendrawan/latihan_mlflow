@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e543b6d5cc34e00b48c76c748de3850/artifacts
+end_time: 1749481794642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e543b6d5cc34e00b48c76c748de3850
+run_name: intelligent-hare-266
+run_uuid: 5e543b6d5cc34e00b48c76c748de3850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749481656185
+status: 3
+tags: []
+user_id: runner
