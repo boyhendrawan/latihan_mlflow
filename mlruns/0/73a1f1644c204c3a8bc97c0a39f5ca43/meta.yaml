@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/73a1f1644c204c3a8bc97c0a39f5ca43/artifacts
+end_time: 1749451657929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73a1f1644c204c3a8bc97c0a39f5ca43
+run_name: stately-bird-224
+run_uuid: 73a1f1644c204c3a8bc97c0a39f5ca43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749451522590
+status: 3
+tags: []
+user_id: runner
