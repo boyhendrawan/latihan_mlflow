@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5097b5106edc44f9b7308b18b05be22e/artifacts
+end_time: 1749478673969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5097b5106edc44f9b7308b18b05be22e
+run_name: fearless-crane-752
+run_uuid: 5097b5106edc44f9b7308b18b05be22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749478536833
+status: 3
+tags: []
+user_id: runner
