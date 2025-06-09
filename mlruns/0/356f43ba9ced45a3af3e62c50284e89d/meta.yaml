@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/356f43ba9ced45a3af3e62c50284e89d/artifacts
+end_time: 1749431542675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 356f43ba9ced45a3af3e62c50284e89d
+run_name: fun-frog-757
+run_uuid: 356f43ba9ced45a3af3e62c50284e89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749431406431
+status: 3
+tags: []
+user_id: runner
