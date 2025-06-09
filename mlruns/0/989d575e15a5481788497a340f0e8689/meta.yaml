@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/989d575e15a5481788497a340f0e8689/artifacts
+end_time: 1749457473082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 989d575e15a5481788497a340f0e8689
+run_name: tasteful-wasp-321
+run_uuid: 989d575e15a5481788497a340f0e8689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749457336867
+status: 3
+tags: []
+user_id: runner
