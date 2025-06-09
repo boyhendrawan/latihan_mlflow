@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eecbe95ab0334c1688ade9f474e1a570/artifacts
+end_time: 1749457666716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eecbe95ab0334c1688ade9f474e1a570
+run_name: receptive-cat-916
+run_uuid: eecbe95ab0334c1688ade9f474e1a570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749457530745
+status: 3
+tags: []
+user_id: runner
