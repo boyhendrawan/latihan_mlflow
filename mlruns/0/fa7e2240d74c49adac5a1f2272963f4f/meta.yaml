@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa7e2240d74c49adac5a1f2272963f4f/artifacts
+end_time: 1749428430993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa7e2240d74c49adac5a1f2272963f4f
+run_name: serious-foal-995
+run_uuid: fa7e2240d74c49adac5a1f2272963f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749428294507
+status: 3
+tags: []
+user_id: runner
