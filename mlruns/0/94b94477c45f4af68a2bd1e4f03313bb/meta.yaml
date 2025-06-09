@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/94b94477c45f4af68a2bd1e4f03313bb/artifacts
+end_time: 1749498533950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94b94477c45f4af68a2bd1e4f03313bb
+run_name: loud-bug-766
+run_uuid: 94b94477c45f4af68a2bd1e4f03313bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749498396780
+status: 3
+tags: []
+user_id: runner
