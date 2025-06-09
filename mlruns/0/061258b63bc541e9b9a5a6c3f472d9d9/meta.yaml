@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/061258b63bc541e9b9a5a6c3f472d9d9/artifacts
+end_time: 1749473002525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 061258b63bc541e9b9a5a6c3f472d9d9
+run_name: unique-fawn-766
+run_uuid: 061258b63bc541e9b9a5a6c3f472d9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749472866217
+status: 3
+tags: []
+user_id: runner
