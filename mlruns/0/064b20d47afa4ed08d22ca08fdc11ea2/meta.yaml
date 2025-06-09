@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/064b20d47afa4ed08d22ca08fdc11ea2/artifacts
+end_time: 1749479067270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 064b20d47afa4ed08d22ca08fdc11ea2
+run_name: carefree-pig-942
+run_uuid: 064b20d47afa4ed08d22ca08fdc11ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749478929821
+status: 3
+tags: []
+user_id: runner
