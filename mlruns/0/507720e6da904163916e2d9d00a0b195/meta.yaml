@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/507720e6da904163916e2d9d00a0b195/artifacts
+end_time: 1749493083911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 507720e6da904163916e2d9d00a0b195
+run_name: valuable-elk-280
+run_uuid: 507720e6da904163916e2d9d00a0b195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749492947531
+status: 3
+tags: []
+user_id: runner
