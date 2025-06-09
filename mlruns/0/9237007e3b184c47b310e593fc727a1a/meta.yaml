@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9237007e3b184c47b310e593fc727a1a/artifacts
+end_time: 1749439851500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9237007e3b184c47b310e593fc727a1a
+run_name: whimsical-gnu-547
+run_uuid: 9237007e3b184c47b310e593fc727a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749439712822
+status: 3
+tags: []
+user_id: runner
