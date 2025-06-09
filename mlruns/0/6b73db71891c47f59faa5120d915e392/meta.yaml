@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b73db71891c47f59faa5120d915e392/artifacts
+end_time: 1749495223281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b73db71891c47f59faa5120d915e392
+run_name: bald-lynx-213
+run_uuid: 6b73db71891c47f59faa5120d915e392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749495087260
+status: 3
+tags: []
+user_id: runner
