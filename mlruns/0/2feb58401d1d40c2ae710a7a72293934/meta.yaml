@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2feb58401d1d40c2ae710a7a72293934/artifacts
+end_time: 1749452627873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2feb58401d1d40c2ae710a7a72293934
+run_name: trusting-zebra-500
+run_uuid: 2feb58401d1d40c2ae710a7a72293934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749452490803
+status: 3
+tags: []
+user_id: runner
