@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/63b5f5891b52402e94fed6c7b171af12/artifacts
+end_time: 1749496592412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63b5f5891b52402e94fed6c7b171af12
+run_name: victorious-trout-156
+run_uuid: 63b5f5891b52402e94fed6c7b171af12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749496454222
+status: 3
+tags: []
+user_id: runner
