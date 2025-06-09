@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28ebc5761d4c4182bd566d7728c0bcca/artifacts
+end_time: 1749494250747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28ebc5761d4c4182bd566d7728c0bcca
+run_name: rumbling-grouse-344
+run_uuid: 28ebc5761d4c4182bd566d7728c0bcca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749494114337
+status: 3
+tags: []
+user_id: runner
