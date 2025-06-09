@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ee43d086c0346c68f2df6c188000290/artifacts
+end_time: 1749486643490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee43d086c0346c68f2df6c188000290
+run_name: hilarious-sponge-313
+run_uuid: 4ee43d086c0346c68f2df6c188000290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749486507687
+status: 3
+tags: []
+user_id: runner
