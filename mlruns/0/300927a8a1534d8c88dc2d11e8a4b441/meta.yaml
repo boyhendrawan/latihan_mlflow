@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/300927a8a1534d8c88dc2d11e8a4b441/artifacts
+end_time: 1749504374926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 300927a8a1534d8c88dc2d11e8a4b441
+run_name: gentle-hawk-377
+run_uuid: 300927a8a1534d8c88dc2d11e8a4b441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749504238035
+status: 3
+tags: []
+user_id: runner
