@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/59785b81f74c4d81a5dc032722a28211/artifacts
+end_time: 1749491129295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59785b81f74c4d81a5dc032722a28211
+run_name: grandiose-gnu-50
+run_uuid: 59785b81f74c4d81a5dc032722a28211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749490993237
+status: 3
+tags: []
+user_id: runner
