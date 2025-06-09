@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6dbe0c357ecf46739f0c80df626d26ff/artifacts
+end_time: 1749461750616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbe0c357ecf46739f0c80df626d26ff
+run_name: beautiful-hog-419
+run_uuid: 6dbe0c357ecf46739f0c80df626d26ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749461610319
+status: 3
+tags: []
+user_id: runner
