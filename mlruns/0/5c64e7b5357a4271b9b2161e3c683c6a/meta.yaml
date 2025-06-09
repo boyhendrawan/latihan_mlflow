@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c64e7b5357a4271b9b2161e3c683c6a/artifacts
+end_time: 1749497754886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c64e7b5357a4271b9b2161e3c683c6a
+run_name: nosy-sloth-893
+run_uuid: 5c64e7b5357a4271b9b2161e3c683c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749497617835
+status: 3
+tags: []
+user_id: runner
