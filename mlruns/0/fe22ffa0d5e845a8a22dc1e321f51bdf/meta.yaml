@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe22ffa0d5e845a8a22dc1e321f51bdf/artifacts
+end_time: 1749441398779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe22ffa0d5e845a8a22dc1e321f51bdf
+run_name: amusing-fawn-992
+run_uuid: fe22ffa0d5e845a8a22dc1e321f51bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749441259902
+status: 3
+tags: []
+user_id: runner
