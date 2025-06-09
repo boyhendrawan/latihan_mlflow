@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cffd6926bb9a4c8c822cf6e7bb829d9c/artifacts
+end_time: 1749460972016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cffd6926bb9a4c8c822cf6e7bb829d9c
+run_name: entertaining-pig-570
+run_uuid: cffd6926bb9a4c8c822cf6e7bb829d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749460834638
+status: 3
+tags: []
+user_id: runner
