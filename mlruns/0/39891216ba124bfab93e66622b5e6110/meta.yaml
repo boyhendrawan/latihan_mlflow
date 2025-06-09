@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39891216ba124bfab93e66622b5e6110/artifacts
+end_time: 1749433079934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39891216ba124bfab93e66622b5e6110
+run_name: honorable-pug-245
+run_uuid: 39891216ba124bfab93e66622b5e6110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749432944285
+status: 3
+tags: []
+user_id: runner
