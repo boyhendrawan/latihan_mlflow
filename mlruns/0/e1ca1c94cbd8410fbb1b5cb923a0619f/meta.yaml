@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e1ca1c94cbd8410fbb1b5cb923a0619f/artifacts
+end_time: 1749494056486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1ca1c94cbd8410fbb1b5cb923a0619f
+run_name: bright-skunk-761
+run_uuid: e1ca1c94cbd8410fbb1b5cb923a0619f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749493919685
+status: 3
+tags: []
+user_id: runner
