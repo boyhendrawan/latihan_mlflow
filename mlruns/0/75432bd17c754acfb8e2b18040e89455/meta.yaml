@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/75432bd17c754acfb8e2b18040e89455/artifacts
+end_time: 1749430375602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75432bd17c754acfb8e2b18040e89455
+run_name: bald-crab-351
+run_uuid: 75432bd17c754acfb8e2b18040e89455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749430238489
+status: 3
+tags: []
+user_id: runner
