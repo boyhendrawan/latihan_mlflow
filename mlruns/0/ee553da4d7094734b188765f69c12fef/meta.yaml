@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee553da4d7094734b188765f69c12fef/artifacts
+end_time: 1749454185139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee553da4d7094734b188765f69c12fef
+run_name: bemused-snake-225
+run_uuid: ee553da4d7094734b188765f69c12fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749454047749
+status: 3
+tags: []
+user_id: runner
