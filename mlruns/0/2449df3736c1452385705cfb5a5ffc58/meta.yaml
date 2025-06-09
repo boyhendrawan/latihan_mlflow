@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2449df3736c1452385705cfb5a5ffc58/artifacts
+end_time: 1749444300349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2449df3736c1452385705cfb5a5ffc58
+run_name: bittersweet-kite-886
+run_uuid: 2449df3736c1452385705cfb5a5ffc58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444164278
+status: 3
+tags: []
+user_id: runner
