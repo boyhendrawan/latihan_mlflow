@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7bd57d7c220642e9a225751896a1ba7f/artifacts
+end_time: 1749510220307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bd57d7c220642e9a225751896a1ba7f
+run_name: victorious-panda-870
+run_uuid: 7bd57d7c220642e9a225751896a1ba7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749510083363
+status: 3
+tags: []
+user_id: runner
