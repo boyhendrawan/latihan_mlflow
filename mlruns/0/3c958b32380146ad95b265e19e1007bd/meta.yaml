@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3c958b32380146ad95b265e19e1007bd/artifacts
+end_time: 1749482765855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c958b32380146ad95b265e19e1007bd
+run_name: burly-loon-889
+run_uuid: 3c958b32380146ad95b265e19e1007bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749482629095
+status: 3
+tags: []
+user_id: runner
