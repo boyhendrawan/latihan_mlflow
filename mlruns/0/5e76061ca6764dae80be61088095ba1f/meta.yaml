@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e76061ca6764dae80be61088095ba1f/artifacts
+end_time: 1749475343003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e76061ca6764dae80be61088095ba1f
+run_name: hilarious-sloth-998
+run_uuid: 5e76061ca6764dae80be61088095ba1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749475206796
+status: 3
+tags: []
+user_id: runner
