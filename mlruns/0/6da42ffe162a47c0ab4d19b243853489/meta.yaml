@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6da42ffe162a47c0ab4d19b243853489/artifacts
+end_time: 1749495412284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6da42ffe162a47c0ab4d19b243853489
+run_name: painted-squirrel-774
+run_uuid: 6da42ffe162a47c0ab4d19b243853489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749495276476
+status: 3
+tags: []
+user_id: runner
