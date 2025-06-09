@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9de96a26d58d40e6a21725fbb9d9701e/artifacts
+end_time: 1749479266183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9de96a26d58d40e6a21725fbb9d9701e
+run_name: adventurous-flea-946
+run_uuid: 9de96a26d58d40e6a21725fbb9d9701e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479127655
+status: 3
+tags: []
+user_id: runner
