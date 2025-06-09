@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/88f599f404ff4e219d2c908861a2dd98/artifacts
+end_time: 1749450092066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f599f404ff4e219d2c908861a2dd98
+run_name: marvelous-boar-624
+run_uuid: 88f599f404ff4e219d2c908861a2dd98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749449955538
+status: 3
+tags: []
+user_id: runner
