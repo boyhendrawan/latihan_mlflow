@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60dfc4c056a5434cac04a6d6c23e0b10/artifacts
+end_time: 1749487227105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60dfc4c056a5434cac04a6d6c23e0b10
+run_name: gaudy-mole-433
+run_uuid: 60dfc4c056a5434cac04a6d6c23e0b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749487090441
+status: 3
+tags: []
+user_id: runner
