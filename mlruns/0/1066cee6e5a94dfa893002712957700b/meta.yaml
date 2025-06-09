@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1066cee6e5a94dfa893002712957700b/artifacts
+end_time: 1749480042882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1066cee6e5a94dfa893002712957700b
+run_name: dashing-trout-67
+run_uuid: 1066cee6e5a94dfa893002712957700b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479905997
+status: 3
+tags: []
+user_id: runner
