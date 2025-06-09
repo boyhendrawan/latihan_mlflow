@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/707a810e7d7f4ce9b75e2bc01c2082ce/artifacts
+end_time: 1749457091533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 707a810e7d7f4ce9b75e2bc01c2082ce
+run_name: sneaky-mule-27
+run_uuid: 707a810e7d7f4ce9b75e2bc01c2082ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749456953978
+status: 3
+tags: []
+user_id: runner
