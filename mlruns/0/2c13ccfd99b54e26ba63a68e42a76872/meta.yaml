@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2c13ccfd99b54e26ba63a68e42a76872/artifacts
+end_time: 1749499316412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c13ccfd99b54e26ba63a68e42a76872
+run_name: clumsy-ape-102
+run_uuid: 2c13ccfd99b54e26ba63a68e42a76872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749499179501
+status: 3
+tags: []
+user_id: runner
