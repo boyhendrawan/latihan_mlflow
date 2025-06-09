@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff54f9db49684ec795b36b70611be52e/artifacts
+end_time: 1749427840330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff54f9db49684ec795b36b70611be52e
+run_name: gentle-rat-544
+run_uuid: ff54f9db49684ec795b36b70611be52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749427703062
+status: 3
+tags: []
+user_id: runner
