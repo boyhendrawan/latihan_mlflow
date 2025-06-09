@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d7259334df5e4953bd81b9c6fd939e0a/artifacts
+end_time: 1749448166090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7259334df5e4953bd81b9c6fd939e0a
+run_name: vaunted-moose-366
+run_uuid: d7259334df5e4953bd81b9c6fd939e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749448029931
+status: 3
+tags: []
+user_id: runner
