@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/604b9faee94246a09382d324d21421dd/artifacts
+end_time: 1749479652333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604b9faee94246a09382d324d21421dd
+run_name: colorful-perch-125
+run_uuid: 604b9faee94246a09382d324d21421dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479514746
+status: 3
+tags: []
+user_id: runner
