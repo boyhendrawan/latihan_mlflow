@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dbbebfd32bca4fb08d7162bfce967e48/artifacts
+end_time: 1749444692739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbbebfd32bca4fb08d7162bfce967e48
+run_name: abrasive-frog-308
+run_uuid: dbbebfd32bca4fb08d7162bfce967e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444551043
+status: 3
+tags: []
+user_id: runner
