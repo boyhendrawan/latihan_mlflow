@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3cad5628fcfb4213bb5e3190a8f11fdf/artifacts
+end_time: 1749435203438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cad5628fcfb4213bb5e3190a8f11fdf
+run_name: entertaining-cod-712
+run_uuid: 3cad5628fcfb4213bb5e3190a8f11fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749435067143
+status: 3
+tags: []
+user_id: runner
