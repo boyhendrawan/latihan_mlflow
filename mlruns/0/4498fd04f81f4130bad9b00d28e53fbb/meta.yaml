@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4498fd04f81f4130bad9b00d28e53fbb/artifacts
+end_time: 1749481210095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4498fd04f81f4130bad9b00d28e53fbb
+run_name: kindly-steed-353
+run_uuid: 4498fd04f81f4130bad9b00d28e53fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749481070649
+status: 3
+tags: []
+user_id: runner
