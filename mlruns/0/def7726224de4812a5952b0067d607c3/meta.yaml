@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/def7726224de4812a5952b0067d607c3/artifacts
+end_time: 1749474953208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def7726224de4812a5952b0067d607c3
+run_name: youthful-gull-489
+run_uuid: def7726224de4812a5952b0067d607c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749474813033
+status: 3
+tags: []
+user_id: runner
