@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c714a67a5cf148088e514a74ef882483/artifacts
+end_time: 1749463507502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c714a67a5cf148088e514a74ef882483
+run_name: legendary-wren-631
+run_uuid: c714a67a5cf148088e514a74ef882483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749463371204
+status: 3
+tags: []
+user_id: runner
