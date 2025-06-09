@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7aa5cb81654f4cf3aca947505e396582/artifacts
+end_time: 1749493863641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aa5cb81654f4cf3aca947505e396582
+run_name: upset-midge-253
+run_uuid: 7aa5cb81654f4cf3aca947505e396582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749493725028
+status: 3
+tags: []
+user_id: runner
