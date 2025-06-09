@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c568e9a1b1214d28adad2cb436ac2499/artifacts
+end_time: 1749459024806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c568e9a1b1214d28adad2cb436ac2499
+run_name: unique-calf-859
+run_uuid: c568e9a1b1214d28adad2cb436ac2499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749458888635
+status: 3
+tags: []
+user_id: runner
