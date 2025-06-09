@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b086deddcd10412392f0de3d96ba2e05/artifacts
+end_time: 1749508071516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b086deddcd10412392f0de3d96ba2e05
+run_name: clean-skunk-618
+run_uuid: b086deddcd10412392f0de3d96ba2e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749507934133
+status: 3
+tags: []
+user_id: runner
