@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2f04f3f1136140d8b3ce905024453ad0/artifacts
+end_time: 1749511791548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f04f3f1136140d8b3ce905024453ad0
+run_name: industrious-asp-804
+run_uuid: 2f04f3f1136140d8b3ce905024453ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749511654229
+status: 3
+tags: []
+user_id: runner
