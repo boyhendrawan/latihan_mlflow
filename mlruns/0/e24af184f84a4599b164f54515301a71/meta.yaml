@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e24af184f84a4599b164f54515301a71/artifacts
+end_time: 1749470080578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e24af184f84a4599b164f54515301a71
+run_name: shivering-pug-888
+run_uuid: e24af184f84a4599b164f54515301a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749469944560
+status: 3
+tags: []
+user_id: runner
