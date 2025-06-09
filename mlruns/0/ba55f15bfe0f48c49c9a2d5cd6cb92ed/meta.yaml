@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba55f15bfe0f48c49c9a2d5cd6cb92ed/artifacts
+end_time: 1749510412905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba55f15bfe0f48c49c9a2d5cd6cb92ed
+run_name: gaudy-eel-565
+run_uuid: ba55f15bfe0f48c49c9a2d5cd6cb92ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749510277244
+status: 3
+tags: []
+user_id: runner
