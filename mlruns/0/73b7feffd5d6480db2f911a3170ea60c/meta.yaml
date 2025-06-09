@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/73b7feffd5d6480db2f911a3170ea60c/artifacts
+end_time: 1749434058198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b7feffd5d6480db2f911a3170ea60c
+run_name: omniscient-gull-920
+run_uuid: 73b7feffd5d6480db2f911a3170ea60c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749433922394
+status: 3
+tags: []
+user_id: runner
