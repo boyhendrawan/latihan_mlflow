@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95e690ffcd2f48889a578c7022d4ffdb/artifacts
+end_time: 1749597533588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e690ffcd2f48889a578c7022d4ffdb
+run_name: nervous-squid-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749597397815
+status: 3
+tags: []
+user_id: runner
