@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/367904ee17a04d3d9771e196e038ef1c/artifacts
+end_time: 1749539876502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 367904ee17a04d3d9771e196e038ef1c
+run_name: dazzling-mole-384
+run_uuid: 367904ee17a04d3d9771e196e038ef1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749539739944
+status: 3
+tags: []
+user_id: runner
