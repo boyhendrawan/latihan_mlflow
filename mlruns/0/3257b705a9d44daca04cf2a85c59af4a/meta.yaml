@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3257b705a9d44daca04cf2a85c59af4a/artifacts
+end_time: 1749598305759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3257b705a9d44daca04cf2a85c59af4a
+run_name: lyrical-fawn-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749598169646
+status: 3
+tags: []
+user_id: runner
