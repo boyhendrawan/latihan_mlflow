@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b19ae1b6c1684630a66bb6b51d17bc2b/artifacts
+end_time: 1749547903165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b19ae1b6c1684630a66bb6b51d17bc2b
+run_name: debonair-roo-590
+run_uuid: b19ae1b6c1684630a66bb6b51d17bc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547764458
+status: 3
+tags: []
+user_id: runner
