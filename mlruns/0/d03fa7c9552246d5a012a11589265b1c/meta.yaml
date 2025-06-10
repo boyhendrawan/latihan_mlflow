@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d03fa7c9552246d5a012a11589265b1c/artifacts
+end_time: 1749536349931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d03fa7c9552246d5a012a11589265b1c
+run_name: resilient-rook-556
+run_uuid: d03fa7c9552246d5a012a11589265b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749536213496
+status: 3
+tags: []
+user_id: runner
