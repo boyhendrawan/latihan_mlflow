@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3b063faf9d8448cda1bb159bd0d0abab/artifacts
+end_time: 1749577219367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b063faf9d8448cda1bb159bd0d0abab
+run_name: amusing-colt-467
+run_uuid: 3b063faf9d8448cda1bb159bd0d0abab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749577082739
+status: 3
+tags: []
+user_id: runner
