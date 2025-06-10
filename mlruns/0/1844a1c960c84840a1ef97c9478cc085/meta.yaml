@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1844a1c960c84840a1ef97c9478cc085/artifacts
+end_time: 1749524830674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1844a1c960c84840a1ef97c9478cc085
+run_name: masked-squirrel-727
+run_uuid: 1844a1c960c84840a1ef97c9478cc085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749524694016
+status: 3
+tags: []
+user_id: runner
