@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3633f38c111a41abaf061239f3334d0a/artifacts
+end_time: 1749581149525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3633f38c111a41abaf061239f3334d0a
+run_name: fearless-rook-903
+run_uuid: 3633f38c111a41abaf061239f3334d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749581013504
+status: 3
+tags: []
+user_id: runner
