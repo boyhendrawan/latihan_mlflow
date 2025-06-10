@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1aa0f7b87f8d468090aeb7feacfbbebe/artifacts
+end_time: 1749562764203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aa0f7b87f8d468090aeb7feacfbbebe
+run_name: stylish-slug-740
+run_uuid: 1aa0f7b87f8d468090aeb7feacfbbebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749562627970
+status: 3
+tags: []
+user_id: runner
