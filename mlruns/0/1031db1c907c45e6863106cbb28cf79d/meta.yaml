@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1031db1c907c45e6863106cbb28cf79d/artifacts
+end_time: 1749529899812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1031db1c907c45e6863106cbb28cf79d
+run_name: bedecked-frog-57
+run_uuid: 1031db1c907c45e6863106cbb28cf79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749529764255
+status: 3
+tags: []
+user_id: runner
