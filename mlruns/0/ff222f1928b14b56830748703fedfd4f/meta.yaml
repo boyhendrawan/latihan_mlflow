@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff222f1928b14b56830748703fedfd4f/artifacts
+end_time: 1749595618030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff222f1928b14b56830748703fedfd4f
+run_name: defiant-koi-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749595481159
+status: 3
+tags: []
+user_id: runner
