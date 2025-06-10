@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4cf97cbdd01e4918b02ba3ddf12baa0e/artifacts
+end_time: 1749597919544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cf97cbdd01e4918b02ba3ddf12baa0e
+run_name: burly-donkey-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749597781501
+status: 3
+tags: []
+user_id: runner
