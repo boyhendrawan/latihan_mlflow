@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f0f7637bbb494219b48d6949d710bdbe/artifacts
+end_time: 1749566479759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0f7637bbb494219b48d6949d710bdbe
+run_name: glamorous-quail-400
+run_uuid: f0f7637bbb494219b48d6949d710bdbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749566344376
+status: 3
+tags: []
+user_id: runner
