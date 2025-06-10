@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/87995244c36040a4acc382f9a065ca22/artifacts
+end_time: 1749570198982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87995244c36040a4acc382f9a065ca22
+run_name: amazing-wren-90
+run_uuid: 87995244c36040a4acc382f9a065ca22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749570062822
+status: 3
+tags: []
+user_id: runner
