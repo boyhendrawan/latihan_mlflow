@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65ff6fb8037b48fc948c24b73345300a/artifacts
+end_time: 1749533597486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ff6fb8037b48fc948c24b73345300a
+run_name: crawling-ant-934
+run_uuid: 65ff6fb8037b48fc948c24b73345300a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749533461232
+status: 3
+tags: []
+user_id: runner
