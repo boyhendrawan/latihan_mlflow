@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15d680eb43804c688206408601dddce2/artifacts
+end_time: 1749537916502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d680eb43804c688206408601dddce2
+run_name: learned-dolphin-980
+run_uuid: 15d680eb43804c688206408601dddce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749537778505
+status: 3
+tags: []
+user_id: runner
