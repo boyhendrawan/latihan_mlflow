@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5cdf4b3c10447598324edbea06b7a74/artifacts
+end_time: 1749528937005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5cdf4b3c10447598324edbea06b7a74
+run_name: angry-squid-946
+run_uuid: b5cdf4b3c10447598324edbea06b7a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749528800550
+status: 3
+tags: []
+user_id: runner
