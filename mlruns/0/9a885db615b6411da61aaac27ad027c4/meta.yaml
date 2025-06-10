@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9a885db615b6411da61aaac27ad027c4/artifacts
+end_time: 1749573311197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a885db615b6411da61aaac27ad027c4
+run_name: amazing-squid-229
+run_uuid: 9a885db615b6411da61aaac27ad027c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749573174943
+status: 3
+tags: []
+user_id: runner
