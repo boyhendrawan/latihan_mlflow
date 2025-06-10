@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff0236dd0cb24c63b6079eae65748bbb/artifacts
+end_time: 1749516646224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0236dd0cb24c63b6079eae65748bbb
+run_name: sneaky-chimp-699
+run_uuid: ff0236dd0cb24c63b6079eae65748bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749516508129
+status: 3
+tags: []
+user_id: runner
