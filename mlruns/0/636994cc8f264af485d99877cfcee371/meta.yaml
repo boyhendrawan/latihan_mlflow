@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/636994cc8f264af485d99877cfcee371/artifacts
+end_time: 1749561390073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 636994cc8f264af485d99877cfcee371
+run_name: mercurial-moth-105
+run_uuid: 636994cc8f264af485d99877cfcee371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749561253461
+status: 3
+tags: []
+user_id: runner
