@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69d03f5985f74a4d8fb96823c0ede398/artifacts
+end_time: 1749597724207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d03f5985f74a4d8fb96823c0ede398
+run_name: bouncy-grub-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749597588077
+status: 3
+tags: []
+user_id: runner
