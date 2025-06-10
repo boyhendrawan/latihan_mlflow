@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b7ab5ac4c355498c8ad24eb2b6bcea51/artifacts
+end_time: 1749531259113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7ab5ac4c355498c8ad24eb2b6bcea51
+run_name: exultant-bug-589
+run_uuid: b7ab5ac4c355498c8ad24eb2b6bcea51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749531122382
+status: 3
+tags: []
+user_id: runner
