@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67305574dc25484b84c71aca929a3e90/artifacts
+end_time: 1749576635885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67305574dc25484b84c71aca929a3e90
+run_name: upset-gull-91
+run_uuid: 67305574dc25484b84c71aca929a3e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749576497362
+status: 3
+tags: []
+user_id: runner
