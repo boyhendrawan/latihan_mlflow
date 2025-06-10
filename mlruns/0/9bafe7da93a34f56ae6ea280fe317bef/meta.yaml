@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9bafe7da93a34f56ae6ea280fe317bef/artifacts
+end_time: 1749541042371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bafe7da93a34f56ae6ea280fe317bef
+run_name: secretive-grouse-755
+run_uuid: 9bafe7da93a34f56ae6ea280fe317bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749540905633
+status: 3
+tags: []
+user_id: runner
