@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b84663a7d10f47a28f7db9053d63db41/artifacts
+end_time: 1749513731291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b84663a7d10f47a28f7db9053d63db41
+run_name: abundant-squid-458
+run_uuid: b84663a7d10f47a28f7db9053d63db41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749513594696
+status: 3
+tags: []
+user_id: runner
