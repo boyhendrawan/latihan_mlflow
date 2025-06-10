@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3128bc2a698426fa08327a31d2b9877/artifacts
+end_time: 1749526981575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3128bc2a698426fa08327a31d2b9877
+run_name: likeable-slug-139
+run_uuid: e3128bc2a698426fa08327a31d2b9877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749526845771
+status: 3
+tags: []
+user_id: runner
