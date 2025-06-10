@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0124489cb6d14d63837317c40a5e4299/artifacts
+end_time: 1749555338611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0124489cb6d14d63837317c40a5e4299
+run_name: fearless-sponge-459
+run_uuid: 0124489cb6d14d63837317c40a5e4299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749555202950
+status: 3
+tags: []
+user_id: runner
