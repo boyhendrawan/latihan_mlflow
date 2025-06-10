@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b475f1d762c487397dc0995842bc19b/artifacts
+end_time: 1749557279759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b475f1d762c487397dc0995842bc19b
+run_name: painted-goat-843
+run_uuid: 0b475f1d762c487397dc0995842bc19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749557142029
+status: 3
+tags: []
+user_id: runner
