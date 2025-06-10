@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c6b4d6baace42e2b33ba6caf25c911c/artifacts
+end_time: 1749595045946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c6b4d6baace42e2b33ba6caf25c911c
+run_name: resilient-horse-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749594910067
+status: 3
+tags: []
+user_id: runner
