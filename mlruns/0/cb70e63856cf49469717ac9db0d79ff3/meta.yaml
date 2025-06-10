@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb70e63856cf49469717ac9db0d79ff3/artifacts
+end_time: 1749586013212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb70e63856cf49469717ac9db0d79ff3
+run_name: awesome-mule-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749585878285
+status: 3
+tags: []
+user_id: runner
