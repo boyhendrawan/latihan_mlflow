@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5f1882d8e5b4d5495c7188e4fc1d020/artifacts
+end_time: 1749589291036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5f1882d8e5b4d5495c7188e4fc1d020
+run_name: bedecked-wren-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749589154146
+status: 3
+tags: []
+user_id: runner
