@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cd466567be0b4351b32e0705af9817bc/artifacts
+end_time: 1749533986517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd466567be0b4351b32e0705af9817bc
+run_name: auspicious-bird-609
+run_uuid: cd466567be0b4351b32e0705af9817bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749533848794
+status: 3
+tags: []
+user_id: runner
