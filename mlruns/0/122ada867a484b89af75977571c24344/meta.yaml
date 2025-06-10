@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/122ada867a484b89af75977571c24344/artifacts
+end_time: 1749538499593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 122ada867a484b89af75977571c24344
+run_name: delightful-skunk-687
+run_uuid: 122ada867a484b89af75977571c24344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749538361626
+status: 3
+tags: []
+user_id: runner
