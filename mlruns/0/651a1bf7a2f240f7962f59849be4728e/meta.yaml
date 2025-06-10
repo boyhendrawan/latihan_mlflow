@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/651a1bf7a2f240f7962f59849be4728e/artifacts
+end_time: 1749524050874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 651a1bf7a2f240f7962f59849be4728e
+run_name: delicate-dolphin-817
+run_uuid: 651a1bf7a2f240f7962f59849be4728e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523913850
+status: 3
+tags: []
+user_id: runner
