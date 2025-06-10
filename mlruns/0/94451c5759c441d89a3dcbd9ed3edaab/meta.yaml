@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/94451c5759c441d89a3dcbd9ed3edaab/artifacts
+end_time: 1749585050489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94451c5759c441d89a3dcbd9ed3edaab
+run_name: popular-swan-592
+run_uuid: 94451c5759c441d89a3dcbd9ed3edaab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749584918001
+status: 3
+tags: []
+user_id: runner
