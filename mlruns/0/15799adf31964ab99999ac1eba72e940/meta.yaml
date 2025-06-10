@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15799adf31964ab99999ac1eba72e940/artifacts
+end_time: 1749548898045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15799adf31964ab99999ac1eba72e940
+run_name: dapper-pug-986
+run_uuid: 15799adf31964ab99999ac1eba72e940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749548762131
+status: 3
+tags: []
+user_id: runner
