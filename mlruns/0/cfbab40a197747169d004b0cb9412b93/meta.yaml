@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfbab40a197747169d004b0cb9412b93/artifacts
+end_time: 1749516252189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfbab40a197747169d004b0cb9412b93
+run_name: capable-wasp-753
+run_uuid: cfbab40a197747169d004b0cb9412b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749516115195
+status: 3
+tags: []
+user_id: runner
