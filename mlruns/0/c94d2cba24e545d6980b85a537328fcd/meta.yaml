@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c94d2cba24e545d6980b85a537328fcd/artifacts
+end_time: 1749578798118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94d2cba24e545d6980b85a537328fcd
+run_name: whimsical-cow-613
+run_uuid: c94d2cba24e545d6980b85a537328fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749578659407
+status: 3
+tags: []
+user_id: runner
