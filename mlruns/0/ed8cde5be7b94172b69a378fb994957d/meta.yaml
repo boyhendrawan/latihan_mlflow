@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed8cde5be7b94172b69a378fb994957d/artifacts
+end_time: 1749547705647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed8cde5be7b94172b69a378fb994957d
+run_name: amusing-vole-257
+run_uuid: ed8cde5be7b94172b69a378fb994957d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547569059
+status: 3
+tags: []
+user_id: runner
