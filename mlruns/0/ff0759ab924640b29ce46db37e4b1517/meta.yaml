@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff0759ab924640b29ce46db37e4b1517/artifacts
+end_time: 1749592933380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0759ab924640b29ce46db37e4b1517
+run_name: marvelous-newt-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749592799068
+status: 3
+tags: []
+user_id: runner
