@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4e2677587564f6c8413333ca1ee5ddd/artifacts
+end_time: 1749589859480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4e2677587564f6c8413333ca1ee5ddd
+run_name: illustrious-mare-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749589723774
+status: 3
+tags: []
+user_id: runner
