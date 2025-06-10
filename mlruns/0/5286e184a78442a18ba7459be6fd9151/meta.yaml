@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5286e184a78442a18ba7459be6fd9151/artifacts
+end_time: 1749514889652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5286e184a78442a18ba7459be6fd9151
+run_name: placid-squid-769
+run_uuid: 5286e184a78442a18ba7459be6fd9151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749514755880
+status: 3
+tags: []
+user_id: runner
