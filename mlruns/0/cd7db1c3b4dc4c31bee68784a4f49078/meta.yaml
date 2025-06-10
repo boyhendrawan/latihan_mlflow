@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cd7db1c3b4dc4c31bee68784a4f49078/artifacts
+end_time: 1749595999479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7db1c3b4dc4c31bee68784a4f49078
+run_name: calm-seal-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749595864052
+status: 3
+tags: []
+user_id: runner
