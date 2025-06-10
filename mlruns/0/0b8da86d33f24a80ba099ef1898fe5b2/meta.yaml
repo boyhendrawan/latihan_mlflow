@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b8da86d33f24a80ba099ef1898fe5b2/artifacts
+end_time: 1749517829619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b8da86d33f24a80ba099ef1898fe5b2
+run_name: merciful-perch-950
+run_uuid: 0b8da86d33f24a80ba099ef1898fe5b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749517693486
+status: 3
+tags: []
+user_id: runner
