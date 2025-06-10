@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b09ff3a913be4c69a414621eeacc3d69/artifacts
+end_time: 1749595427335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b09ff3a913be4c69a414621eeacc3d69
+run_name: delicate-deer-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749595291685
+status: 3
+tags: []
+user_id: runner
