@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e80961a9304345df94737f123dc95447/artifacts
+end_time: 1749515667774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e80961a9304345df94737f123dc95447
+run_name: unruly-koi-486
+run_uuid: e80961a9304345df94737f123dc95447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749515529224
+status: 3
+tags: []
+user_id: runner
