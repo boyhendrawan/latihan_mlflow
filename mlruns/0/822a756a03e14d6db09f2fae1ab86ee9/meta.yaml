@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/822a756a03e14d6db09f2fae1ab86ee9/artifacts
+end_time: 1749586778869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 822a756a03e14d6db09f2fae1ab86ee9
+run_name: able-shrew-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749586643724
+status: 3
+tags: []
+user_id: runner
