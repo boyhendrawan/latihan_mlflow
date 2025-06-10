@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e5f49c0bb4bf4e43be7c3dd45af49957/artifacts
+end_time: 1749582125616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5f49c0bb4bf4e43be7c3dd45af49957
+run_name: agreeable-ape-737
+run_uuid: e5f49c0bb4bf4e43be7c3dd45af49957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749581988468
+status: 3
+tags: []
+user_id: runner
