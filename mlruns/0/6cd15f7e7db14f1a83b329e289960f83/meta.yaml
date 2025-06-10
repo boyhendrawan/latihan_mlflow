@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6cd15f7e7db14f1a83b329e289960f83/artifacts
+end_time: 1749542613304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd15f7e7db14f1a83b329e289960f83
+run_name: exultant-gull-88
+run_uuid: 6cd15f7e7db14f1a83b329e289960f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749542476670
+status: 3
+tags: []
+user_id: runner
