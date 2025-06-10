@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e2783156ad2b4fe6b8e5d64aa313b807/artifacts
+end_time: 1749542806782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2783156ad2b4fe6b8e5d64aa313b807
+run_name: gaudy-boar-152
+run_uuid: e2783156ad2b4fe6b8e5d64aa313b807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749542669898
+status: 3
+tags: []
+user_id: runner
