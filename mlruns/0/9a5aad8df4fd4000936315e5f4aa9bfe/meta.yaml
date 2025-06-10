@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9a5aad8df4fd4000936315e5f4aa9bfe/artifacts
+end_time: 1749578398806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a5aad8df4fd4000936315e5f4aa9bfe
+run_name: fortunate-bug-147
+run_uuid: 9a5aad8df4fd4000936315e5f4aa9bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749578261508
+status: 3
+tags: []
+user_id: runner
