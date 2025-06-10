@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b628c7a6dfa14abf851cbe5437179570/artifacts
+end_time: 1749596944316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b628c7a6dfa14abf851cbe5437179570
+run_name: colorful-lamb-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749596808806
+status: 3
+tags: []
+user_id: runner
