@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f42faa58cc24559b63fa1b42d005626/artifacts
+end_time: 1749571756224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f42faa58cc24559b63fa1b42d005626
+run_name: big-toad-159
+run_uuid: 1f42faa58cc24559b63fa1b42d005626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749571618507
+status: 3
+tags: []
+user_id: runner
