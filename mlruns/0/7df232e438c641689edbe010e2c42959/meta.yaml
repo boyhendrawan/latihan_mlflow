@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7df232e438c641689edbe010e2c42959/artifacts
+end_time: 1749523854874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7df232e438c641689edbe010e2c42959
+run_name: abundant-mole-958
+run_uuid: 7df232e438c641689edbe010e2c42959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523718286
+status: 3
+tags: []
+user_id: runner
