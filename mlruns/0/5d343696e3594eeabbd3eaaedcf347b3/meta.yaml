@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d343696e3594eeabbd3eaaedcf347b3/artifacts
+end_time: 1749593125884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d343696e3594eeabbd3eaaedcf347b3
+run_name: capricious-colt-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749592990012
+status: 3
+tags: []
+user_id: runner
