@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04fa703729894dc6aaf9d9178acf55bd/artifacts
+end_time: 1749550854945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04fa703729894dc6aaf9d9178acf55bd
+run_name: zealous-fish-574
+run_uuid: 04fa703729894dc6aaf9d9178acf55bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749550715652
+status: 3
+tags: []
+user_id: runner
