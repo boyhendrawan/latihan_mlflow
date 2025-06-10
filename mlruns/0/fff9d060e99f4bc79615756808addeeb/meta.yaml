@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fff9d060e99f4bc79615756808addeeb/artifacts
+end_time: 1749536547617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fff9d060e99f4bc79615756808addeeb
+run_name: clean-moth-426
+run_uuid: fff9d060e99f4bc79615756808addeeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749536409535
+status: 3
+tags: []
+user_id: runner
