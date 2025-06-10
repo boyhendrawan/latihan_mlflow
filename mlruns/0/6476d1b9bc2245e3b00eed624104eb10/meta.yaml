@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6476d1b9bc2245e3b00eed624104eb10/artifacts
+end_time: 1749576051258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6476d1b9bc2245e3b00eed624104eb10
+run_name: grandiose-cub-129
+run_uuid: 6476d1b9bc2245e3b00eed624104eb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749575911354
+status: 3
+tags: []
+user_id: runner
