@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0630543351594723bbb136a21b667f46/artifacts
+end_time: 1749556117370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0630543351594723bbb136a21b667f46
+run_name: clean-cub-113
+run_uuid: 0630543351594723bbb136a21b667f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749555981685
+status: 3
+tags: []
+user_id: runner
