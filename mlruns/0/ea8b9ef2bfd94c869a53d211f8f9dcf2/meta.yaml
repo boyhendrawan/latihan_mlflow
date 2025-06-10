@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ea8b9ef2bfd94c869a53d211f8f9dcf2/artifacts
+end_time: 1749523082799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea8b9ef2bfd94c869a53d211f8f9dcf2
+run_name: upbeat-goat-18
+run_uuid: ea8b9ef2bfd94c869a53d211f8f9dcf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749522944148
+status: 3
+tags: []
+user_id: runner
