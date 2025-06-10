@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0cc0214c64ca4000b636e2c433d5937a/artifacts
+end_time: 1749535543477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc0214c64ca4000b636e2c433d5937a
+run_name: bedecked-midge-952
+run_uuid: 0cc0214c64ca4000b636e2c433d5937a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749535407060
+status: 3
+tags: []
+user_id: runner
