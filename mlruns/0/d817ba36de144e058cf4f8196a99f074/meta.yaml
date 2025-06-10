@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d817ba36de144e058cf4f8196a99f074/artifacts
+end_time: 1749530481419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d817ba36de144e058cf4f8196a99f074
+run_name: adorable-fox-498
+run_uuid: d817ba36de144e058cf4f8196a99f074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749530345221
+status: 3
+tags: []
+user_id: runner
