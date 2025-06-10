@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bee866abeb994540837f1ce4f95918ef/artifacts
+end_time: 1749521523151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee866abeb994540837f1ce4f95918ef
+run_name: suave-croc-233
+run_uuid: bee866abeb994540837f1ce4f95918ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749521387175
+status: 3
+tags: []
+user_id: runner
