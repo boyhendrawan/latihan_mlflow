@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/689d32367e134317baf9f6a42ea750d1/artifacts
+end_time: 1749516848251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689d32367e134317baf9f6a42ea750d1
+run_name: capricious-snipe-659
+run_uuid: 689d32367e134317baf9f6a42ea750d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749516711692
+status: 3
+tags: []
+user_id: runner
