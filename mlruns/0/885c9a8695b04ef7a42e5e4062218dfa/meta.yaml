@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/885c9a8695b04ef7a42e5e4062218dfa/artifacts
+end_time: 1749539089071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 885c9a8695b04ef7a42e5e4062218dfa
+run_name: charming-roo-158
+run_uuid: 885c9a8695b04ef7a42e5e4062218dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749538953207
+status: 3
+tags: []
+user_id: runner
