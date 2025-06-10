@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1fafc3e316b1444894ef5b9c70f735d5/artifacts
+end_time: 1749519188873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fafc3e316b1444894ef5b9c70f735d5
+run_name: gregarious-elk-236
+run_uuid: 1fafc3e316b1444894ef5b9c70f735d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749519051611
+status: 3
+tags: []
+user_id: runner
