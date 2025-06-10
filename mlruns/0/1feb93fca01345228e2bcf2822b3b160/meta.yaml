@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1feb93fca01345228e2bcf2822b3b160/artifacts
+end_time: 1749574090641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1feb93fca01345228e2bcf2822b3b160
+run_name: bustling-wasp-757
+run_uuid: 1feb93fca01345228e2bcf2822b3b160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749573954508
+status: 3
+tags: []
+user_id: runner
