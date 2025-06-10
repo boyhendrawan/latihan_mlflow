@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae1da88e46b84e1b97012e31e2172d3d/artifacts
+end_time: 1749569614383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae1da88e46b84e1b97012e31e2172d3d
+run_name: intrigued-moose-591
+run_uuid: ae1da88e46b84e1b97012e31e2172d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749569478240
+status: 3
+tags: []
+user_id: runner
