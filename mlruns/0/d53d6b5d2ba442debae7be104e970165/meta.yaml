@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d53d6b5d2ba442debae7be104e970165/artifacts
+end_time: 1749531060477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d53d6b5d2ba442debae7be104e970165
+run_name: adaptable-auk-78
+run_uuid: d53d6b5d2ba442debae7be104e970165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749530923226
+status: 3
+tags: []
+user_id: runner
