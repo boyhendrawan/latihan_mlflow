@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7755b90311c44e697267974c94725f3/artifacts
+end_time: 1749541433986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7755b90311c44e697267974c94725f3
+run_name: ambitious-robin-954
+run_uuid: a7755b90311c44e697267974c94725f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749541297264
+status: 3
+tags: []
+user_id: runner
