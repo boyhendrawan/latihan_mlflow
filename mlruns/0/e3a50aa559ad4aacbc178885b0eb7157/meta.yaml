@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3a50aa559ad4aacbc178885b0eb7157/artifacts
+end_time: 1749516056055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3a50aa559ad4aacbc178885b0eb7157
+run_name: honorable-turtle-204
+run_uuid: e3a50aa559ad4aacbc178885b0eb7157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749515917184
+status: 3
+tags: []
+user_id: runner
