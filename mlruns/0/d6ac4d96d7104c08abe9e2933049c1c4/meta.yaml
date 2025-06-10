@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d6ac4d96d7104c08abe9e2933049c1c4/artifacts
+end_time: 1749544184714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6ac4d96d7104c08abe9e2933049c1c4
+run_name: bittersweet-cub-298
+run_uuid: d6ac4d96d7104c08abe9e2933049c1c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749544048789
+status: 3
+tags: []
+user_id: runner
