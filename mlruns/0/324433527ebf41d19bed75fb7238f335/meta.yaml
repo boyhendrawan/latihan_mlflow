@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/324433527ebf41d19bed75fb7238f335/artifacts
+end_time: 1749582322070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 324433527ebf41d19bed75fb7238f335
+run_name: upset-hen-764
+run_uuid: 324433527ebf41d19bed75fb7238f335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749582185199
+status: 3
+tags: []
+user_id: runner
