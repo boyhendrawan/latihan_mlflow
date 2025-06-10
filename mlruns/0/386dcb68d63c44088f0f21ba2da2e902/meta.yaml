@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/386dcb68d63c44088f0f21ba2da2e902/artifacts
+end_time: 1749574291568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 386dcb68d63c44088f0f21ba2da2e902
+run_name: placid-newt-365
+run_uuid: 386dcb68d63c44088f0f21ba2da2e902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749574152240
+status: 3
+tags: []
+user_id: runner
