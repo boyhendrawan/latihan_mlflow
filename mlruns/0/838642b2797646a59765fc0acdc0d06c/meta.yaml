@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/838642b2797646a59765fc0acdc0d06c/artifacts
+end_time: 1749593509141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 838642b2797646a59765fc0acdc0d06c
+run_name: spiffy-lark-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749593373639
+status: 3
+tags: []
+user_id: runner
