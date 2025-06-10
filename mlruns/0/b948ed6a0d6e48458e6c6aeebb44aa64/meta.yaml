@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b948ed6a0d6e48458e6c6aeebb44aa64/artifacts
+end_time: 1749568830123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b948ed6a0d6e48458e6c6aeebb44aa64
+run_name: aged-rat-814
+run_uuid: b948ed6a0d6e48458e6c6aeebb44aa64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749568694106
+status: 3
+tags: []
+user_id: runner
