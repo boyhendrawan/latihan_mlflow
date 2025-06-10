@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b1a5441a6b440adbbd8c100b661fe3a/artifacts
+end_time: 1749558643177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b1a5441a6b440adbbd8c100b661fe3a
+run_name: sassy-sow-31
+run_uuid: 6b1a5441a6b440adbbd8c100b661fe3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558505707
+status: 3
+tags: []
+user_id: runner
