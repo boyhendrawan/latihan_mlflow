@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc8b61b5e28a408c831f664d7815a1d6/artifacts
+end_time: 1749551826009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc8b61b5e28a408c831f664d7815a1d6
+run_name: awesome-skunk-738
+run_uuid: cc8b61b5e28a408c831f664d7815a1d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749551687629
+status: 3
+tags: []
+user_id: runner
