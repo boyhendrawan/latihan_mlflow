@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a077a06c3d2e404a8a74e0f0ee9d70bd/artifacts
+end_time: 1749525999975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a077a06c3d2e404a8a74e0f0ee9d70bd
+run_name: bustling-eel-778
+run_uuid: a077a06c3d2e404a8a74e0f0ee9d70bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749525863038
+status: 3
+tags: []
+user_id: runner
