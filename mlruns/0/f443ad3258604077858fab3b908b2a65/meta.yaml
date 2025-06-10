@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f443ad3258604077858fab3b908b2a65/artifacts
+end_time: 1749592745481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f443ad3258604077858fab3b908b2a65
+run_name: bittersweet-carp-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749592607353
+status: 3
+tags: []
+user_id: runner
