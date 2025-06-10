@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1962b22eb58e4c18af8c77c0a42570e0/artifacts
+end_time: 1749588320044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1962b22eb58e4c18af8c77c0a42570e0
+run_name: thundering-grouse-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749588184185
+status: 3
+tags: []
+user_id: runner
