@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bfee3c7f0584123b3d8fad6ffc9d62c/artifacts
+end_time: 1749589478218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bfee3c7f0584123b3d8fad6ffc9d62c
+run_name: upbeat-fowl-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749589343793
+status: 3
+tags: []
+user_id: runner
