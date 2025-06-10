@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14872b27bc824da2905a0b82a0fdac3f/artifacts
+end_time: 1749589671246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14872b27bc824da2905a0b82a0fdac3f
+run_name: redolent-boar-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749589534685
+status: 3
+tags: []
+user_id: runner
