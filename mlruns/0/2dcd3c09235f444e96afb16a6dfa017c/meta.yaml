@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2dcd3c09235f444e96afb16a6dfa017c/artifacts
+end_time: 1749582527721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dcd3c09235f444e96afb16a6dfa017c
+run_name: orderly-mule-390
+run_uuid: 2dcd3c09235f444e96afb16a6dfa017c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749582389360
+status: 3
+tags: []
+user_id: runner
