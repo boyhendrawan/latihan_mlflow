@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d2ae63855cb400d881dc06b75fb88b1/artifacts
+end_time: 1749515858659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d2ae63855cb400d881dc06b75fb88b1
+run_name: painted-midge-358
+run_uuid: 1d2ae63855cb400d881dc06b75fb88b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749515722676
+status: 3
+tags: []
+user_id: runner
