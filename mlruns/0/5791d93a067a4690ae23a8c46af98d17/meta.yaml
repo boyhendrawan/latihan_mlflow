@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5791d93a067a4690ae23a8c46af98d17/artifacts
+end_time: 1749591207065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5791d93a067a4690ae23a8c46af98d17
+run_name: abundant-newt-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749591069889
+status: 3
+tags: []
+user_id: runner
