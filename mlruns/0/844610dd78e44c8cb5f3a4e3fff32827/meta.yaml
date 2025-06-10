@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/844610dd78e44c8cb5f3a4e3fff32827/artifacts
+end_time: 1749595809668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 844610dd78e44c8cb5f3a4e3fff32827
+run_name: calm-finch-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749595674190
+status: 3
+tags: []
+user_id: runner
