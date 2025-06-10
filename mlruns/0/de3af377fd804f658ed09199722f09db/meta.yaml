@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de3af377fd804f658ed09199722f09db/artifacts
+end_time: 1749573508978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de3af377fd804f658ed09199722f09db
+run_name: salty-seal-328
+run_uuid: de3af377fd804f658ed09199722f09db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749573369149
+status: 3
+tags: []
+user_id: runner
