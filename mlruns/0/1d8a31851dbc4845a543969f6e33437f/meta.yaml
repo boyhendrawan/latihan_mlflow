@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d8a31851dbc4845a543969f6e33437f/artifacts
+end_time: 1749538893036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d8a31851dbc4845a543969f6e33437f
+run_name: mysterious-ox-961
+run_uuid: 1d8a31851dbc4845a543969f6e33437f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749538754518
+status: 3
+tags: []
+user_id: runner
