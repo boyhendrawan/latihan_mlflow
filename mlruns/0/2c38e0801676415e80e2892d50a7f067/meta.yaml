@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2c38e0801676415e80e2892d50a7f067/artifacts
+end_time: 1749514312374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c38e0801676415e80e2892d50a7f067
+run_name: fortunate-calf-487
+run_uuid: 2c38e0801676415e80e2892d50a7f067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749514174954
+status: 3
+tags: []
+user_id: runner
