@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/230a2f046b1b4aa0bbbd270ec1cbeed7/artifacts
+end_time: 1749593700756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 230a2f046b1b4aa0bbbd270ec1cbeed7
+run_name: awesome-ox-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749593565335
+status: 3
+tags: []
+user_id: runner
