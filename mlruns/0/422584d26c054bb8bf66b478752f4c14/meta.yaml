@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/422584d26c054bb8bf66b478752f4c14/artifacts
+end_time: 1749518412120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 422584d26c054bb8bf66b478752f4c14
+run_name: bustling-skunk-38
+run_uuid: 422584d26c054bb8bf66b478752f4c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749518275396
+status: 3
+tags: []
+user_id: runner
