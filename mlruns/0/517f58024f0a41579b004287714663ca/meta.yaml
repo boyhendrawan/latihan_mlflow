@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/517f58024f0a41579b004287714663ca/artifacts
+end_time: 1749587555831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 517f58024f0a41579b004287714663ca
+run_name: upbeat-croc-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749587418657
+status: 3
+tags: []
+user_id: runner
