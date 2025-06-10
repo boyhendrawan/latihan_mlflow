@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eda51696af7645e998b7c870199c191d/artifacts
+end_time: 1749531839386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda51696af7645e998b7c870199c191d
+run_name: amusing-bee-74
+run_uuid: eda51696af7645e998b7c870199c191d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749531702123
+status: 3
+tags: []
+user_id: runner
