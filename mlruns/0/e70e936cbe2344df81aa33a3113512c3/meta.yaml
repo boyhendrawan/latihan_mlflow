@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e70e936cbe2344df81aa33a3113512c3/artifacts
+end_time: 1749579973243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e70e936cbe2344df81aa33a3113512c3
+run_name: gregarious-horse-437
+run_uuid: e70e936cbe2344df81aa33a3113512c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749579835471
+status: 3
+tags: []
+user_id: runner
