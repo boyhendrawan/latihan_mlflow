@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a6381513911458397ba11629fe4a7da/artifacts
+end_time: 1749518022103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a6381513911458397ba11629fe4a7da
+run_name: clumsy-shad-600
+run_uuid: 5a6381513911458397ba11629fe4a7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749517884752
+status: 3
+tags: []
+user_id: runner
