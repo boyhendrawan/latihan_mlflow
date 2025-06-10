@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b7242143698c4cb3979491d147d44d84/artifacts
+end_time: 1749588714606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7242143698c4cb3979491d147d44d84
+run_name: classy-cub-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749588577280
+status: 3
+tags: []
+user_id: runner
