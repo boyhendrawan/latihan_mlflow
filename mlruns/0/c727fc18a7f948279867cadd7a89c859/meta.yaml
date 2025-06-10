@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c727fc18a7f948279867cadd7a89c859/artifacts
+end_time: 1749569421267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c727fc18a7f948279867cadd7a89c859
+run_name: gregarious-jay-221
+run_uuid: c727fc18a7f948279867cadd7a89c859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749569284979
+status: 3
+tags: []
+user_id: runner
