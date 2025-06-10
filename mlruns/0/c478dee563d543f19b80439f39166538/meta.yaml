@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c478dee563d543f19b80439f39166538/artifacts
+end_time: 1749598877268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c478dee563d543f19b80439f39166538
+run_name: bustling-dove-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749598741003
+status: 3
+tags: []
+user_id: runner
