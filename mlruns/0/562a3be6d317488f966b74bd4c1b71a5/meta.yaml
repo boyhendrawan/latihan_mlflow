@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/562a3be6d317488f966b74bd4c1b71a5/artifacts
+end_time: 1749598494229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 562a3be6d317488f966b74bd4c1b71a5
+run_name: skittish-skink-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749598360299
+status: 3
+tags: []
+user_id: runner
