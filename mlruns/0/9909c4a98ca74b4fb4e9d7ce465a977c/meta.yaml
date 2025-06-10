@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9909c4a98ca74b4fb4e9d7ce465a977c/artifacts
+end_time: 1749563545378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9909c4a98ca74b4fb4e9d7ce465a977c
+run_name: respected-midge-624
+run_uuid: 9909c4a98ca74b4fb4e9d7ce465a977c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749563407969
+status: 3
+tags: []
+user_id: runner
