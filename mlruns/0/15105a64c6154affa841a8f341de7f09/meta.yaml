@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15105a64c6154affa841a8f341de7f09/artifacts
+end_time: 1749567658059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15105a64c6154affa841a8f341de7f09
+run_name: luminous-koi-995
+run_uuid: 15105a64c6154affa841a8f341de7f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749567521673
+status: 3
+tags: []
+user_id: runner
