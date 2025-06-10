@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9617857a760744b5a390cd53746674c2/artifacts
+end_time: 1749566089727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9617857a760744b5a390cd53746674c2
+run_name: burly-doe-634
+run_uuid: 9617857a760744b5a390cd53746674c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749565952948
+status: 3
+tags: []
+user_id: runner
