@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/afc098da1a66424391d0090146c73eac/artifacts
+end_time: 1749547314163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afc098da1a66424391d0090146c73eac
+run_name: skittish-mole-302
+run_uuid: afc098da1a66424391d0090146c73eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547175999
+status: 3
+tags: []
+user_id: runner
