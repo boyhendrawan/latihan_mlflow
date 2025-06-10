@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/61035837893f4694ba1b53b93b70593e/artifacts
+end_time: 1749565317459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61035837893f4694ba1b53b93b70593e
+run_name: judicious-penguin-4
+run_uuid: 61035837893f4694ba1b53b93b70593e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749565180281
+status: 3
+tags: []
+user_id: runner
