@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/76d0d43f839342bf87495e499b142e60/artifacts
+end_time: 1749521133684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76d0d43f839342bf87495e499b142e60
+run_name: amusing-mare-94
+run_uuid: 76d0d43f839342bf87495e499b142e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749520996478
+status: 3
+tags: []
+user_id: runner
