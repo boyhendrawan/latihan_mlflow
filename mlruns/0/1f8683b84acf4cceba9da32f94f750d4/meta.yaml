@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f8683b84acf4cceba9da32f94f750d4/artifacts
+end_time: 1749559236950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f8683b84acf4cceba9da32f94f750d4
+run_name: legendary-roo-101
+run_uuid: 1f8683b84acf4cceba9da32f94f750d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749559097805
+status: 3
+tags: []
+user_id: runner
