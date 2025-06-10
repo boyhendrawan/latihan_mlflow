@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/278f8a00e0e148189bb11dd7eee0cf56/artifacts
+end_time: 1749521914185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 278f8a00e0e148189bb11dd7eee0cf56
+run_name: blushing-doe-266
+run_uuid: 278f8a00e0e148189bb11dd7eee0cf56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749521777828
+status: 3
+tags: []
+user_id: runner
