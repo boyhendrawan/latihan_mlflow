@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15657c1d00d44af9a3d8d3b08730dc2b/artifacts
+end_time: 1749591587184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15657c1d00d44af9a3d8d3b08730dc2b
+run_name: gregarious-boar-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749591451750
+status: 3
+tags: []
+user_id: runner
