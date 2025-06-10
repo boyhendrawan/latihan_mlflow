@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4f9b99eb5afe464b8ab1f541122bc26d/artifacts
+end_time: 1749552602464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f9b99eb5afe464b8ab1f541122bc26d
+run_name: casual-steed-16
+run_uuid: 4f9b99eb5afe464b8ab1f541122bc26d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749552465212
+status: 3
+tags: []
+user_id: runner
