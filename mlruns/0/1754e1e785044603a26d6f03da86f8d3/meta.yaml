@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1754e1e785044603a26d6f03da86f8d3/artifacts
+end_time: 1749576246085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1754e1e785044603a26d6f03da86f8d3
+run_name: delightful-bird-474
+run_uuid: 1754e1e785044603a26d6f03da86f8d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749576108501
+status: 3
+tags: []
+user_id: runner
