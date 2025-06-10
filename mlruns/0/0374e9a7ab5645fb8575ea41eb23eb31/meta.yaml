@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0374e9a7ab5645fb8575ea41eb23eb31/artifacts
+end_time: 1749572536788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0374e9a7ab5645fb8575ea41eb23eb31
+run_name: selective-skink-194
+run_uuid: 0374e9a7ab5645fb8575ea41eb23eb31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749572398107
+status: 3
+tags: []
+user_id: runner
