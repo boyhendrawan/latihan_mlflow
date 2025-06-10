@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11b3c92225f148e5a9c5cfcd09a82507/artifacts
+end_time: 1749599262287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11b3c92225f148e5a9c5cfcd09a82507
+run_name: enthused-seal-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749599125672
+status: 3
+tags: []
+user_id: runner
