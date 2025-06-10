@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/196b6deb4ac842d8a7ec15c40ba08509/artifacts
+end_time: 1749586970074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 196b6deb4ac842d8a7ec15c40ba08509
+run_name: resilient-hound-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749586835455
+status: 3
+tags: []
+user_id: runner
