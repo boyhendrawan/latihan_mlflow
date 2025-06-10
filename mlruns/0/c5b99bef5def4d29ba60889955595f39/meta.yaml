@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c5b99bef5def4d29ba60889955595f39/artifacts
+end_time: 1749535155714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b99bef5def4d29ba60889955595f39
+run_name: incongruous-bat-518
+run_uuid: c5b99bef5def4d29ba60889955595f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749535016425
+status: 3
+tags: []
+user_id: runner
