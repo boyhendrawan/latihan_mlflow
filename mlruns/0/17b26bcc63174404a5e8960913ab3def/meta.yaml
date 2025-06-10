@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/17b26bcc63174404a5e8960913ab3def/artifacts
+end_time: 1749585245554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b26bcc63174404a5e8960913ab3def
+run_name: peaceful-conch-537
+run_uuid: 17b26bcc63174404a5e8960913ab3def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749585107674
+status: 3
+tags: []
+user_id: runner
