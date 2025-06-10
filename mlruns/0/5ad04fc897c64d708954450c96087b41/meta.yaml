@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5ad04fc897c64d708954450c96087b41/artifacts
+end_time: 1749569228918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad04fc897c64d708954450c96087b41
+run_name: bright-vole-954
+run_uuid: 5ad04fc897c64d708954450c96087b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749569091419
+status: 3
+tags: []
+user_id: runner
