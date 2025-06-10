@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/027a2b7343014c3b872ec63297371201/artifacts
+end_time: 1749539288193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 027a2b7343014c3b872ec63297371201
+run_name: aged-seal-53
+run_uuid: 027a2b7343014c3b872ec63297371201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749539149877
+status: 3
+tags: []
+user_id: runner
