@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9ebec7746fc249e0aee8336e64e2626f/artifacts
+end_time: 1749548097854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ebec7746fc249e0aee8336e64e2626f
+run_name: nervous-asp-273
+run_uuid: 9ebec7746fc249e0aee8336e64e2626f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749547961562
+status: 3
+tags: []
+user_id: runner
