@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/63ef2645bb3f4bcbae3eebb795befa6f/artifacts
+end_time: 1749549868295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ef2645bb3f4bcbae3eebb795befa6f
+run_name: rumbling-moth-344
+run_uuid: 63ef2645bb3f4bcbae3eebb795befa6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749549730161
+status: 3
+tags: []
+user_id: runner
