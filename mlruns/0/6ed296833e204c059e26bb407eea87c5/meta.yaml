@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6ed296833e204c059e26bb407eea87c5/artifacts
+end_time: 1749580165980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ed296833e204c059e26bb407eea87c5
+run_name: rare-wolf-941
+run_uuid: 6ed296833e204c059e26bb407eea87c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749580029290
+status: 3
+tags: []
+user_id: runner
