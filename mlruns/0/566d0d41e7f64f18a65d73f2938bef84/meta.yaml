@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/566d0d41e7f64f18a65d73f2938bef84/artifacts
+end_time: 1749537335677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 566d0d41e7f64f18a65d73f2938bef84
+run_name: capable-slug-755
+run_uuid: 566d0d41e7f64f18a65d73f2938bef84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749537198959
+status: 3
+tags: []
+user_id: runner
