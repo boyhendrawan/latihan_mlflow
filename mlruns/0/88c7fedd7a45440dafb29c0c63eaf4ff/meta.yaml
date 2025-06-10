@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/88c7fedd7a45440dafb29c0c63eaf4ff/artifacts
+end_time: 1749599645869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88c7fedd7a45440dafb29c0c63eaf4ff
+run_name: smiling-ant-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749599509804
+status: 3
+tags: []
+user_id: runner
