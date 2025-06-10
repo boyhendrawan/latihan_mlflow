@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/287ea20d51544bbab95b420b24744ac4/artifacts
+end_time: 1749523661720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 287ea20d51544bbab95b420b24744ac4
+run_name: luminous-hare-256
+run_uuid: 287ea20d51544bbab95b420b24744ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749523525376
+status: 3
+tags: []
+user_id: runner
