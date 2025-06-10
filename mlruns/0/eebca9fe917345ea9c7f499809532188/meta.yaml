@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eebca9fe917345ea9c7f499809532188/artifacts
+end_time: 1749513924526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eebca9fe917345ea9c7f499809532188
+run_name: thundering-hare-128
+run_uuid: eebca9fe917345ea9c7f499809532188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749513787142
+status: 3
+tags: []
+user_id: runner
