@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/376ad5b4694d4e6385f1398bff85fdca/artifacts
+end_time: 1749552993885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 376ad5b4694d4e6385f1398bff85fdca
+run_name: adaptable-jay-227
+run_uuid: 376ad5b4694d4e6385f1398bff85fdca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749552856403
+status: 3
+tags: []
+user_id: runner
