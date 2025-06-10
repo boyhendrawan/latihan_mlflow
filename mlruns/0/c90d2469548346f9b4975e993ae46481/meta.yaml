@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c90d2469548346f9b4975e993ae46481/artifacts
+end_time: 1749525803354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90d2469548346f9b4975e993ae46481
+run_name: gifted-grouse-70
+run_uuid: c90d2469548346f9b4975e993ae46481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749525667453
+status: 3
+tags: []
+user_id: runner
