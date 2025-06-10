@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98e2ed829ee34589a4cb2397b9e53b79/artifacts
+end_time: 1749543401408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e2ed829ee34589a4cb2397b9e53b79
+run_name: rogue-deer-18
+run_uuid: 98e2ed829ee34589a4cb2397b9e53b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749543264584
+status: 3
+tags: []
+user_id: runner
