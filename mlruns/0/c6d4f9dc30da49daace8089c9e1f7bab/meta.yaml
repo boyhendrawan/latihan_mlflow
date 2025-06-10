@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c6d4f9dc30da49daace8089c9e1f7bab/artifacts
+end_time: 1749524442924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6d4f9dc30da49daace8089c9e1f7bab
+run_name: painted-donkey-85
+run_uuid: c6d4f9dc30da49daace8089c9e1f7bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749524305988
+status: 3
+tags: []
+user_id: runner
