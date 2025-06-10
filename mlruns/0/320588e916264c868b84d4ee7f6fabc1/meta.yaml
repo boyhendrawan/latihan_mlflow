@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/320588e916264c868b84d4ee7f6fabc1/artifacts
+end_time: 1749559038251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 320588e916264c868b84d4ee7f6fabc1
+run_name: youthful-elk-834
+run_uuid: 320588e916264c868b84d4ee7f6fabc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558900967
+status: 3
+tags: []
+user_id: runner
