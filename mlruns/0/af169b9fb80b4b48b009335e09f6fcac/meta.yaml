@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af169b9fb80b4b48b009335e09f6fcac/artifacts
+end_time: 1749541627660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af169b9fb80b4b48b009335e09f6fcac
+run_name: vaunted-rat-465
+run_uuid: af169b9fb80b4b48b009335e09f6fcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749541491110
+status: 3
+tags: []
+user_id: runner
