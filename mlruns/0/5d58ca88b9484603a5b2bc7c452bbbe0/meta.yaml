@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d58ca88b9484603a5b2bc7c452bbbe0/artifacts
+end_time: 1749518602799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d58ca88b9484603a5b2bc7c452bbbe0
+run_name: bouncy-toad-601
+run_uuid: 5d58ca88b9484603a5b2bc7c452bbbe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749518466321
+status: 3
+tags: []
+user_id: runner
