@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f09b6e573fd545788a8198cd1842258c/artifacts
+end_time: 1749545340200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09b6e573fd545788a8198cd1842258c
+run_name: popular-doe-777
+run_uuid: f09b6e573fd545788a8198cd1842258c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749545203884
+status: 3
+tags: []
+user_id: runner
