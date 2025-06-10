@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/44b2737fe32745d4ac6eafe7f0a900fe/artifacts
+end_time: 1749543197536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44b2737fe32745d4ac6eafe7f0a900fe
+run_name: enchanting-pig-99
+run_uuid: 44b2737fe32745d4ac6eafe7f0a900fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749543060463
+status: 3
+tags: []
+user_id: runner
