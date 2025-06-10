@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/58f9a5dc39274c7d89de046bbdcdf20e/artifacts
+end_time: 1749558252882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58f9a5dc39274c7d89de046bbdcdf20e
+run_name: aged-trout-885
+run_uuid: 58f9a5dc39274c7d89de046bbdcdf20e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558115943
+status: 3
+tags: []
+user_id: runner
