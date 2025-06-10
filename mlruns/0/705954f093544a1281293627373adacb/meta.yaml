@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/705954f093544a1281293627373adacb/artifacts
+end_time: 1749552215868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 705954f093544a1281293627373adacb
+run_name: fearless-shrew-262
+run_uuid: 705954f093544a1281293627373adacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749552077131
+status: 3
+tags: []
+user_id: runner
