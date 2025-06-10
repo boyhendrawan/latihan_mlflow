@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1856dc8e4c73449fa1c8d3f34f3049c1/artifacts
+end_time: 1749561585894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1856dc8e4c73449fa1c8d3f34f3049c1
+run_name: luxuriant-stoat-255
+run_uuid: 1856dc8e4c73449fa1c8d3f34f3049c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749561449096
+status: 3
+tags: []
+user_id: runner
