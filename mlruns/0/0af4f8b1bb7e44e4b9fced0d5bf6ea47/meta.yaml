@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0af4f8b1bb7e44e4b9fced0d5bf6ea47/artifacts
+end_time: 1749537141758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af4f8b1bb7e44e4b9fced0d5bf6ea47
+run_name: intelligent-loon-990
+run_uuid: 0af4f8b1bb7e44e4b9fced0d5bf6ea47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749537002038
+status: 3
+tags: []
+user_id: runner
