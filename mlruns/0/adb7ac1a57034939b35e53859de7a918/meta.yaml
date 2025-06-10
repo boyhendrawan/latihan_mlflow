@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/adb7ac1a57034939b35e53859de7a918/artifacts
+end_time: 1749559430776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adb7ac1a57034939b35e53859de7a918
+run_name: spiffy-mouse-939
+run_uuid: adb7ac1a57034939b35e53859de7a918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749559293551
+status: 3
+tags: []
+user_id: runner
