@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/71f6623c0971441fab39bcf4fb50b880/artifacts
+end_time: 1749533214629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71f6623c0971441fab39bcf4fb50b880
+run_name: bright-rat-534
+run_uuid: 71f6623c0971441fab39bcf4fb50b880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749533073325
+status: 3
+tags: []
+user_id: runner
