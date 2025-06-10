@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/95004a7ed7584215b6928dd1014f048f/artifacts
+end_time: 1749515085453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95004a7ed7584215b6928dd1014f048f
+run_name: traveling-asp-245
+run_uuid: 95004a7ed7584215b6928dd1014f048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749514948358
+status: 3
+tags: []
+user_id: runner
