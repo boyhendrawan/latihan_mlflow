@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85db5ce12f0945ca85cc2d6162e5a3bf/artifacts
+end_time: 1749550658625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85db5ce12f0945ca85cc2d6162e5a3bf
+run_name: auspicious-kit-146
+run_uuid: 85db5ce12f0945ca85cc2d6162e5a3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749550523129
+status: 3
+tags: []
+user_id: runner
