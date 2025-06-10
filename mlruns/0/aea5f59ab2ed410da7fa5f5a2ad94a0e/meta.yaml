@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aea5f59ab2ed410da7fa5f5a2ad94a0e/artifacts
+end_time: 1749568247275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aea5f59ab2ed410da7fa5f5a2ad94a0e
+run_name: treasured-hawk-764
+run_uuid: aea5f59ab2ed410da7fa5f5a2ad94a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749568108840
+status: 3
+tags: []
+user_id: runner
