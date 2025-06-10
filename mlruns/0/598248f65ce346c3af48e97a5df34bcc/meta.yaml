@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/598248f65ce346c3af48e97a5df34bcc/artifacts
+end_time: 1749514118170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 598248f65ce346c3af48e97a5df34bcc
+run_name: lyrical-hawk-629
+run_uuid: 598248f65ce346c3af48e97a5df34bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749513980833
+status: 3
+tags: []
+user_id: runner
