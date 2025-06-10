@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/454c14b18a6648938514ba5b6fa03df8/artifacts
+end_time: 1749546136185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454c14b18a6648938514ba5b6fa03df8
+run_name: glamorous-gnat-881
+run_uuid: 454c14b18a6648938514ba5b6fa03df8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749545999838
+status: 3
+tags: []
+user_id: runner
