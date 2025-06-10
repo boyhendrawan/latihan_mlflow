@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcefb4b40e7e4d9eac985f72846171be/artifacts
+end_time: 1749580954702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcefb4b40e7e4d9eac985f72846171be
+run_name: respected-bird-727
+run_uuid: dcefb4b40e7e4d9eac985f72846171be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749580810592
+status: 3
+tags: []
+user_id: runner
