@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4eab41941b5240b8adb3471e20de2a59/artifacts
+end_time: 1749560797913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eab41941b5240b8adb3471e20de2a59
+run_name: suave-crab-116
+run_uuid: 4eab41941b5240b8adb3471e20de2a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749560660406
+status: 3
+tags: []
+user_id: runner
