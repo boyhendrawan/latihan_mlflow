@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13105eb09a9143b991cf2857691487d8/artifacts
+end_time: 1749576437803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13105eb09a9143b991cf2857691487d8
+run_name: popular-crab-350
+run_uuid: 13105eb09a9143b991cf2857691487d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749576301776
+status: 3
+tags: []
+user_id: runner
