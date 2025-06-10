@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c1457fe0d484ad98ed487e05fde6fbb/artifacts
+end_time: 1749591397646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1457fe0d484ad98ed487e05fde6fbb
+run_name: placid-lark-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749591262206
+status: 3
+tags: []
+user_id: runner
