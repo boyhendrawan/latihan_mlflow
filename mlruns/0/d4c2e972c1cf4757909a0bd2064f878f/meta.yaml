@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4c2e972c1cf4757909a0bd2064f878f/artifacts
+end_time: 1749524636224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4c2e972c1cf4757909a0bd2064f878f
+run_name: gifted-koi-878
+run_uuid: d4c2e972c1cf4757909a0bd2064f878f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749524500381
+status: 3
+tags: []
+user_id: runner
