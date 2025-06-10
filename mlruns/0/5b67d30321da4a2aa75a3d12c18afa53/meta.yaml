@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b67d30321da4a2aa75a3d12c18afa53/artifacts
+end_time: 1749553968574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b67d30321da4a2aa75a3d12c18afa53
+run_name: secretive-frog-681
+run_uuid: 5b67d30321da4a2aa75a3d12c18afa53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749553831219
+status: 3
+tags: []
+user_id: runner
