@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd3177abf8d544c4b05ab88872c2bbe0/artifacts
+end_time: 1749575264261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3177abf8d544c4b05ab88872c2bbe0
+run_name: fearless-swan-517
+run_uuid: bd3177abf8d544c4b05ab88872c2bbe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749575127847
+status: 3
+tags: []
+user_id: runner
