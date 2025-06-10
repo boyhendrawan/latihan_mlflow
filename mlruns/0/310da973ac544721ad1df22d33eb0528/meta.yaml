@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/310da973ac544721ad1df22d33eb0528/artifacts
+end_time: 1749519577190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 310da973ac544721ad1df22d33eb0528
+run_name: bright-rook-588
+run_uuid: 310da973ac544721ad1df22d33eb0528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749519441037
+status: 3
+tags: []
+user_id: runner
