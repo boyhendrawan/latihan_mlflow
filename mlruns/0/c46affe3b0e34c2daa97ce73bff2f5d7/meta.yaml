@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c46affe3b0e34c2daa97ce73bff2f5d7/artifacts
+end_time: 1749584859816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46affe3b0e34c2daa97ce73bff2f5d7
+run_name: omniscient-shad-394
+run_uuid: c46affe3b0e34c2daa97ce73bff2f5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749584723877
+status: 3
+tags: []
+user_id: runner
