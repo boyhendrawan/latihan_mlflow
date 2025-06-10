@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a95d89dae8ff4896ac698f59a3d22a1b/artifacts
+end_time: 1749517440042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a95d89dae8ff4896ac698f59a3d22a1b
+run_name: rare-hare-483
+run_uuid: a95d89dae8ff4896ac698f59a3d22a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749517303382
+status: 3
+tags: []
+user_id: runner
