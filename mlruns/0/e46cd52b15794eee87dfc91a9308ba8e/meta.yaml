@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e46cd52b15794eee87dfc91a9308ba8e/artifacts
+end_time: 1749549475502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e46cd52b15794eee87dfc91a9308ba8e
+run_name: glamorous-wren-423
+run_uuid: e46cd52b15794eee87dfc91a9308ba8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749549337409
+status: 3
+tags: []
+user_id: runner
