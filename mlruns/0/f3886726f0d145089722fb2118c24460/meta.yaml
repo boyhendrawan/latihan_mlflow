@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f3886726f0d145089722fb2118c24460/artifacts
+end_time: 1749530867760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3886726f0d145089722fb2118c24460
+run_name: hilarious-mule-602
+run_uuid: f3886726f0d145089722fb2118c24460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749530731741
+status: 3
+tags: []
+user_id: runner
