@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f36e19732cbe42ec8c8a82f23b1751a7/artifacts
+end_time: 1749588129879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f36e19732cbe42ec8c8a82f23b1751a7
+run_name: serious-fowl-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749587994990
+status: 3
+tags: []
+user_id: runner
