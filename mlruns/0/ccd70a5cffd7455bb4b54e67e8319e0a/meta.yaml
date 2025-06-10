@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ccd70a5cffd7455bb4b54e67e8319e0a/artifacts
+end_time: 1749590245563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccd70a5cffd7455bb4b54e67e8319e0a
+run_name: selective-steed-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749590108141
+status: 3
+tags: []
+user_id: runner
