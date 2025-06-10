@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/639c91cd07e2490aacc2397d92838c82/artifacts
+end_time: 1749540652457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 639c91cd07e2490aacc2397d92838c82
+run_name: omniscient-calf-476
+run_uuid: 639c91cd07e2490aacc2397d92838c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749540516361
+status: 3
+tags: []
+user_id: runner
