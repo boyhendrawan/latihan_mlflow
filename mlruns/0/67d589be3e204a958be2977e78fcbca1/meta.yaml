@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67d589be3e204a958be2977e78fcbca1/artifacts
+end_time: 1749527953772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67d589be3e204a958be2977e78fcbca1
+run_name: nervous-ox-978
+run_uuid: 67d589be3e204a958be2977e78fcbca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749527816326
+status: 3
+tags: []
+user_id: runner
