@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0c46e531b70475ea22cc31187a3eeed/artifacts
+end_time: 1749585630872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0c46e531b70475ea22cc31187a3eeed
+run_name: brawny-shad-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749585495931
+status: 3
+tags: []
+user_id: runner
