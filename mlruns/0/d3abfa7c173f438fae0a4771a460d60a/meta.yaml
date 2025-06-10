@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d3abfa7c173f438fae0a4771a460d60a/artifacts
+end_time: 1749578602191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3abfa7c173f438fae0a4771a460d60a
+run_name: bouncy-crane-771
+run_uuid: d3abfa7c173f438fae0a4771a460d60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749578464234
+status: 3
+tags: []
+user_id: runner
