@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef4a2772f1dd4735a332a115053e887e/artifacts
+end_time: 1749548701576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef4a2772f1dd4735a332a115053e887e
+run_name: delightful-cub-658
+run_uuid: ef4a2772f1dd4735a332a115053e887e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749548565578
+status: 3
+tags: []
+user_id: runner
