@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c01056ac597c43ef8813966772eda2e1/artifacts
+end_time: 1749514701643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01056ac597c43ef8813966772eda2e1
+run_name: classy-hare-237
+run_uuid: c01056ac597c43ef8813966772eda2e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749514563593
+status: 3
+tags: []
+user_id: runner
