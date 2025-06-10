@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a3a2ef3f099940eabca14d14b02eda29/artifacts
+end_time: 1749522885715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3a2ef3f099940eabca14d14b02eda29
+run_name: rogue-mink-692
+run_uuid: a3a2ef3f099940eabca14d14b02eda29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749522750502
+status: 3
+tags: []
+user_id: runner
