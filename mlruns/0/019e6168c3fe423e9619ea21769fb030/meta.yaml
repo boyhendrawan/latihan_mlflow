@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/019e6168c3fe423e9619ea21769fb030/artifacts
+end_time: 1749534958892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 019e6168c3fe423e9619ea21769fb030
+run_name: able-hound-216
+run_uuid: 019e6168c3fe423e9619ea21769fb030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749534822972
+status: 3
+tags: []
+user_id: runner
