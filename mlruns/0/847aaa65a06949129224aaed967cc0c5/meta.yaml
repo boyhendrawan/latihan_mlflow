@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/847aaa65a06949129224aaed967cc0c5/artifacts
+end_time: 1749556693040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 847aaa65a06949129224aaed967cc0c5
+run_name: fearless-sloth-814
+run_uuid: 847aaa65a06949129224aaed967cc0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749556557459
+status: 3
+tags: []
+user_id: runner
