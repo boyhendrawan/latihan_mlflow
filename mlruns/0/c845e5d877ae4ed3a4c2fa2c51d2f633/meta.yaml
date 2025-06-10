@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c845e5d877ae4ed3a4c2fa2c51d2f633/artifacts
+end_time: 1749546330156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c845e5d877ae4ed3a4c2fa2c51d2f633
+run_name: classy-jay-307
+run_uuid: c845e5d877ae4ed3a4c2fa2c51d2f633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749546193118
+status: 3
+tags: []
+user_id: runner
