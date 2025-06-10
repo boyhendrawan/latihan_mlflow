@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/212f101cf29f49f990e3d45404ef7e65/artifacts
+end_time: 1749535351829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 212f101cf29f49f990e3d45404ef7e65
+run_name: mercurial-robin-871
+run_uuid: 212f101cf29f49f990e3d45404ef7e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749535215010
+status: 3
+tags: []
+user_id: runner
