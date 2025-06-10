@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be993980aee941dca5811643a92d3a51/artifacts
+end_time: 1749573120111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be993980aee941dca5811643a92d3a51
+run_name: suave-wasp-967
+run_uuid: be993980aee941dca5811643a92d3a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749572982711
+status: 3
+tags: []
+user_id: runner
