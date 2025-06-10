@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf3cef5cda5a4e24b34a9ee69a3c4d7e/artifacts
+end_time: 1749532037107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf3cef5cda5a4e24b34a9ee69a3c4d7e
+run_name: unique-bug-696
+run_uuid: cf3cef5cda5a4e24b34a9ee69a3c4d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749531898745
+status: 3
+tags: []
+user_id: runner
