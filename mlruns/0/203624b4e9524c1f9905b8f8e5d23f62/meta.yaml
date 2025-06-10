@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/203624b4e9524c1f9905b8f8e5d23f62/artifacts
+end_time: 1749597340756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 203624b4e9524c1f9905b8f8e5d23f62
+run_name: grandiose-chimp-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749597200117
+status: 3
+tags: []
+user_id: runner
