@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a780ff0a8d2748078eb8897eedc70d29/artifacts
+end_time: 1749575854255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a780ff0a8d2748078eb8897eedc70d29
+run_name: bedecked-bee-33
+run_uuid: a780ff0a8d2748078eb8897eedc70d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749575718022
+status: 3
+tags: []
+user_id: runner
