@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c49aed3bf9da4cc6b59f2fa627c6b086/artifacts
+end_time: 1749584276569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c49aed3bf9da4cc6b59f2fa627c6b086
+run_name: crawling-cub-949
+run_uuid: c49aed3bf9da4cc6b59f2fa627c6b086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749584139397
+status: 3
+tags: []
+user_id: runner
