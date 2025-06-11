@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92c17488645049fbb702092cb2e37e06/artifacts
+end_time: 1749638708480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92c17488645049fbb702092cb2e37e06
+run_name: wise-sponge-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749638573139
+status: 3
+tags: []
+user_id: runner
