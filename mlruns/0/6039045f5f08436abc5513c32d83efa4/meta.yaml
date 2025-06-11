@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6039045f5f08436abc5513c32d83efa4/artifacts
+end_time: 1749610222654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6039045f5f08436abc5513c32d83efa4
+run_name: fun-carp-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749610087076
+status: 3
+tags: []
+user_id: runner
