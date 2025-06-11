@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9aaccb8150a34fe28b1b9a06222c8872/artifacts
+end_time: 1749648396004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aaccb8150a34fe28b1b9a06222c8872
+run_name: delicate-foal-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749648260946
+status: 3
+tags: []
+user_id: runner
