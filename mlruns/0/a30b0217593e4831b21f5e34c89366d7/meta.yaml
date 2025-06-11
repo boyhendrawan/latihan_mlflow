@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a30b0217593e4831b21f5e34c89366d7/artifacts
+end_time: 1749651101661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a30b0217593e4831b21f5e34c89366d7
+run_name: capable-dog-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749650966985
+status: 3
+tags: []
+user_id: runner
