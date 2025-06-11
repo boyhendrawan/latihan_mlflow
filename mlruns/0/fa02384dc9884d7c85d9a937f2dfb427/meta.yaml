@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa02384dc9884d7c85d9a937f2dfb427/artifacts
+end_time: 1749645664475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa02384dc9884d7c85d9a937f2dfb427
+run_name: skittish-elk-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749645529058
+status: 3
+tags: []
+user_id: runner
