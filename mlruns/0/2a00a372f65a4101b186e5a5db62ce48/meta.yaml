@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a00a372f65a4101b186e5a5db62ce48/artifacts
+end_time: 1749603666504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a00a372f65a4101b186e5a5db62ce48
+run_name: dapper-crane-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749603531297
+status: 3
+tags: []
+user_id: runner
