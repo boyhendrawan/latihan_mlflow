@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/629ad7e25b654f12922bbe846deaf4b3/artifacts
+end_time: 1749669787430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 629ad7e25b654f12922bbe846deaf4b3
+run_name: receptive-worm-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749669651597
+status: 3
+tags: []
+user_id: runner
