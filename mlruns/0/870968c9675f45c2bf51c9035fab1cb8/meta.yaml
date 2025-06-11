@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/870968c9675f45c2bf51c9035fab1cb8/artifacts
+end_time: 1749607140126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 870968c9675f45c2bf51c9035fab1cb8
+run_name: invincible-gnu-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749607004930
+status: 3
+tags: []
+user_id: runner
