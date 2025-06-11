@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14d73fc0ec054f63bb07dc2ed7c0c84c/artifacts
+end_time: 1749655795401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d73fc0ec054f63bb07dc2ed7c0c84c
+run_name: respected-swan-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749655660222
+status: 3
+tags: []
+user_id: runner
