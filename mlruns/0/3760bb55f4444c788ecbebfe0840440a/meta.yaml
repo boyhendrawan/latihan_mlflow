@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3760bb55f4444c788ecbebfe0840440a/artifacts
+end_time: 1749663593740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3760bb55f4444c788ecbebfe0840440a
+run_name: rumbling-fox-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749663457918
+status: 3
+tags: []
+user_id: runner
