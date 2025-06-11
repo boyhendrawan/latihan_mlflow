@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d0e2335f56594364ad1f36dfbd819e6e/artifacts
+end_time: 1749647434709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0e2335f56594364ad1f36dfbd819e6e
+run_name: bouncy-goose-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749647296890
+status: 3
+tags: []
+user_id: runner
