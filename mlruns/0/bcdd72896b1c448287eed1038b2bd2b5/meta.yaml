@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bcdd72896b1c448287eed1038b2bd2b5/artifacts
+end_time: 1749640835408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcdd72896b1c448287eed1038b2bd2b5
+run_name: thoughtful-cow-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749640699363
+status: 3
+tags: []
+user_id: runner
