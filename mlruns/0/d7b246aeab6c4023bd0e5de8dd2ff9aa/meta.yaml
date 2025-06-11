@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d7b246aeab6c4023bd0e5de8dd2ff9aa/artifacts
+end_time: 1749626741596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7b246aeab6c4023bd0e5de8dd2ff9aa
+run_name: agreeable-skink-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626603490
+status: 3
+tags: []
+user_id: runner
