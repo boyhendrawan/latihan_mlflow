@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a086ae1dc86c4af484ce02bd4d1314fe/artifacts
+end_time: 1749630794298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a086ae1dc86c4af484ce02bd4d1314fe
+run_name: masked-grouse-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749630658021
+status: 3
+tags: []
+user_id: runner
