@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eaae9dc736f54e86864859dff50c545b/artifacts
+end_time: 1749669017459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaae9dc736f54e86864859dff50c545b
+run_name: crawling-elk-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749668880624
+status: 3
+tags: []
+user_id: runner
