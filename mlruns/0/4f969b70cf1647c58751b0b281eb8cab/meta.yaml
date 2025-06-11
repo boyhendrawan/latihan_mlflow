@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f969b70cf1647c58751b0b281eb8cab/artifacts
+end_time: 1749622523426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f969b70cf1647c58751b0b281eb8cab
+run_name: thoughtful-mare-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749622386362
+status: 3
+tags: []
+user_id: runner
