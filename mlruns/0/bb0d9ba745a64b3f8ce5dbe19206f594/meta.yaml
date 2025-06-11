@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bb0d9ba745a64b3f8ce5dbe19206f594/artifacts
+end_time: 1749672300354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb0d9ba745a64b3f8ce5dbe19206f594
+run_name: powerful-finch-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749672162862
+status: 3
+tags: []
+user_id: runner
