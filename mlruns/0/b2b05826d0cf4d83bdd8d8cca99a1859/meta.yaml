@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2b05826d0cf4d83bdd8d8cca99a1859/artifacts
+end_time: 1749644308034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2b05826d0cf4d83bdd8d8cca99a1859
+run_name: invincible-fly-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749644172253
+status: 3
+tags: []
+user_id: runner
