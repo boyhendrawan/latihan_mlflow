@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93f5c07285cd4a34b239e487f1b05f03/artifacts
+end_time: 1749601753471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93f5c07285cd4a34b239e487f1b05f03
+run_name: charming-crow-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749601616700
+status: 3
+tags: []
+user_id: runner
