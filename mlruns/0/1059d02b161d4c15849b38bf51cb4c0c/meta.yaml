@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1059d02b161d4c15849b38bf51cb4c0c/artifacts
+end_time: 1749631566598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1059d02b161d4c15849b38bf51cb4c0c
+run_name: unleashed-bass-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749631430058
+status: 3
+tags: []
+user_id: runner
