@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25755603365b4fe682f6c5db33a888ad/artifacts
+end_time: 1749620031224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25755603365b4fe682f6c5db33a888ad
+run_name: bald-fowl-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749619895128
+status: 3
+tags: []
+user_id: runner
