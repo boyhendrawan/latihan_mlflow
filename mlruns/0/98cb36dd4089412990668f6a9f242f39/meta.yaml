@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98cb36dd4089412990668f6a9f242f39/artifacts
+end_time: 1749674041732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98cb36dd4089412990668f6a9f242f39
+run_name: loud-gnu-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749673907513
+status: 3
+tags: []
+user_id: runner
