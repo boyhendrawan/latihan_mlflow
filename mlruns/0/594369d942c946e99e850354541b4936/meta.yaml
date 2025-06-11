@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/594369d942c946e99e850354541b4936/artifacts
+end_time: 1749681595409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 594369d942c946e99e850354541b4936
+run_name: treasured-steed-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749681459330
+status: 3
+tags: []
+user_id: runner
