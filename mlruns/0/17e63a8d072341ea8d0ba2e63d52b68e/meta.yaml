@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17e63a8d072341ea8d0ba2e63d52b68e/artifacts
+end_time: 1749641802338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e63a8d072341ea8d0ba2e63d52b68e
+run_name: vaunted-cub-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749641662489
+status: 3
+tags: []
+user_id: runner
