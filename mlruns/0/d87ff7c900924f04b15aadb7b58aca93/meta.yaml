@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d87ff7c900924f04b15aadb7b58aca93/artifacts
+end_time: 1749600982782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d87ff7c900924f04b15aadb7b58aca93
+run_name: rambunctious-bat-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749600845032
+status: 3
+tags: []
+user_id: runner
