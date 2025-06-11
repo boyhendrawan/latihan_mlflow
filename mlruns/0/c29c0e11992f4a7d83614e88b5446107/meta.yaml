@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c29c0e11992f4a7d83614e88b5446107/artifacts
+end_time: 1749659272272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c29c0e11992f4a7d83614e88b5446107
+run_name: popular-moth-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749659135820
+status: 3
+tags: []
+user_id: runner
