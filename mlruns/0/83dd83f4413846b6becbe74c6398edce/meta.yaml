@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83dd83f4413846b6becbe74c6398edce/artifacts
+end_time: 1749663207428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83dd83f4413846b6becbe74c6398edce
+run_name: secretive-whale-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749663071634
+status: 3
+tags: []
+user_id: runner
