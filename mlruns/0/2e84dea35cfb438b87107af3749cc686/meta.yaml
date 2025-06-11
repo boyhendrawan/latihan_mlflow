@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e84dea35cfb438b87107af3749cc686/artifacts
+end_time: 1749601173797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e84dea35cfb438b87107af3749cc686
+run_name: puzzled-calf-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749601037099
+status: 3
+tags: []
+user_id: runner
