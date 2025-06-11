@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/852cc875967642f393ccd5095a1f0aae/artifacts
+end_time: 1749685234256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 852cc875967642f393ccd5095a1f0aae
+run_name: clumsy-hog-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749685098651
+status: 3
+tags: []
+user_id: runner
