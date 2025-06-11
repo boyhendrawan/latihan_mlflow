@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b72983d1644443ba39b714d493cbdbb/artifacts
+end_time: 1749683692001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b72983d1644443ba39b714d493cbdbb
+run_name: likeable-yak-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749683556912
+status: 3
+tags: []
+user_id: runner
