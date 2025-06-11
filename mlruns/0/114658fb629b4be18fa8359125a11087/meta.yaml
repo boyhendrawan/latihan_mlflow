@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/114658fb629b4be18fa8359125a11087/artifacts
+end_time: 1749680438433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 114658fb629b4be18fa8359125a11087
+run_name: wise-deer-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749680301928
+status: 3
+tags: []
+user_id: runner
