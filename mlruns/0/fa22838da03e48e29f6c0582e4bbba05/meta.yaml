@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa22838da03e48e29f6c0582e4bbba05/artifacts
+end_time: 1749670953605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa22838da03e48e29f6c0582e4bbba05
+run_name: useful-ape-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749670818613
+status: 3
+tags: []
+user_id: runner
