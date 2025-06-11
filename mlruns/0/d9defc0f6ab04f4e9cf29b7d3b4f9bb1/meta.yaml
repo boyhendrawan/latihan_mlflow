@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9defc0f6ab04f4e9cf29b7d3b4f9bb1/artifacts
+end_time: 1749618298024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9defc0f6ab04f4e9cf29b7d3b4f9bb1
+run_name: salty-lamb-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749618163368
+status: 3
+tags: []
+user_id: runner
