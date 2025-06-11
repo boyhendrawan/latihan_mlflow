@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dea037a22e2445f3ad1f366659d76c07/artifacts
+end_time: 1749663014828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dea037a22e2445f3ad1f366659d76c07
+run_name: dapper-mare-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749662875823
+status: 3
+tags: []
+user_id: runner
