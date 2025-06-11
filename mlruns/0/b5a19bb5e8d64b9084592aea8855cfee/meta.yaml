@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5a19bb5e8d64b9084592aea8855cfee/artifacts
+end_time: 1749620219882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a19bb5e8d64b9084592aea8855cfee
+run_name: judicious-squid-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749620084784
+status: 3
+tags: []
+user_id: runner
