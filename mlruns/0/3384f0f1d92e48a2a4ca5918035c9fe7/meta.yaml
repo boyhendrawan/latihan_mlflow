@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3384f0f1d92e48a2a4ca5918035c9fe7/artifacts
+end_time: 1749652656800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3384f0f1d92e48a2a4ca5918035c9fe7
+run_name: serious-bug-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749652519740
+status: 3
+tags: []
+user_id: runner
