@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/112043fcc43e4248b762e8dc4593a859/artifacts
+end_time: 1749602318897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 112043fcc43e4248b762e8dc4593a859
+run_name: bright-moose-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749602181523
+status: 3
+tags: []
+user_id: runner
