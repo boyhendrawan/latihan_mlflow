@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/86edcb19ab3f4d1ab219f4260528d9f6/artifacts
+end_time: 1749665351391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86edcb19ab3f4d1ab219f4260528d9f6
+run_name: receptive-deer-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749665215187
+status: 3
+tags: []
+user_id: runner
