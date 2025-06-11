@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17dc8bbe459247a097f6ff2e4e076854/artifacts
+end_time: 1749600026894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17dc8bbe459247a097f6ff2e4e076854
+run_name: thoughtful-lamb-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749599891286
+status: 3
+tags: []
+user_id: runner
