@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53396bc66f1b465b982c4d18cc6c43b9/artifacts
+end_time: 1749676949561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53396bc66f1b465b982c4d18cc6c43b9
+run_name: thoughtful-lynx-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749676810379
+status: 3
+tags: []
+user_id: runner
