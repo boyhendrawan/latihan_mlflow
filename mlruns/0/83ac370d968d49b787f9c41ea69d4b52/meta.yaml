@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83ac370d968d49b787f9c41ea69d4b52/artifacts
+end_time: 1749675960508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ac370d968d49b787f9c41ea69d4b52
+run_name: crawling-whale-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749675824693
+status: 3
+tags: []
+user_id: runner
