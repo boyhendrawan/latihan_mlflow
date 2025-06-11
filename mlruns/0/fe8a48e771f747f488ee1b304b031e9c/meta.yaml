@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe8a48e771f747f488ee1b304b031e9c/artifacts
+end_time: 1749658112604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe8a48e771f747f488ee1b304b031e9c
+run_name: agreeable-pig-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749657977033
+status: 3
+tags: []
+user_id: runner
