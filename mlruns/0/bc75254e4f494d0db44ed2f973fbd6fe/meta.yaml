@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc75254e4f494d0db44ed2f973fbd6fe/artifacts
+end_time: 1749628469072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc75254e4f494d0db44ed2f973fbd6fe
+run_name: traveling-cat-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749628332519
+status: 3
+tags: []
+user_id: runner
