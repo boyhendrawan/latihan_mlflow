@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b633c0cd180d42e8ba59dcf60bbba248/artifacts
+end_time: 1749641411387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b633c0cd180d42e8ba59dcf60bbba248
+run_name: awesome-owl-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749641275527
+status: 3
+tags: []
+user_id: runner
