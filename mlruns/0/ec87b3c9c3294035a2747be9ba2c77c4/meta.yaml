@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec87b3c9c3294035a2747be9ba2c77c4/artifacts
+end_time: 1749656951202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec87b3c9c3294035a2747be9ba2c77c4
+run_name: luminous-shad-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749656814579
+status: 3
+tags: []
+user_id: runner
