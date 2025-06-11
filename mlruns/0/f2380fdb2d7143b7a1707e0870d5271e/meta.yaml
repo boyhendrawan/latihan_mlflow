@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2380fdb2d7143b7a1707e0870d5271e/artifacts
+end_time: 1749660659060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2380fdb2d7143b7a1707e0870d5271e
+run_name: nosy-elk-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749660523192
+status: 3
+tags: []
+user_id: runner
