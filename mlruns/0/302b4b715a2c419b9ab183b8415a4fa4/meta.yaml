@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/302b4b715a2c419b9ab183b8415a4fa4/artifacts
+end_time: 1749612166882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 302b4b715a2c419b9ab183b8415a4fa4
+run_name: auspicious-kite-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749612030743
+status: 3
+tags: []
+user_id: runner
