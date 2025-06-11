@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e9d3cd091b2c4bd2a69c396c05f4380e/artifacts
+end_time: 1749609272121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d3cd091b2c4bd2a69c396c05f4380e
+run_name: upset-bug-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749609135092
+status: 3
+tags: []
+user_id: runner
