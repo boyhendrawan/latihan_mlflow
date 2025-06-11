@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab00dab4c39e4ed1995714a47c6a3983/artifacts
+end_time: 1749670763556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab00dab4c39e4ed1995714a47c6a3983
+run_name: overjoyed-shoat-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749670626789
+status: 3
+tags: []
+user_id: runner
