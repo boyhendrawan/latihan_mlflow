@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4c8658b97b944399a71461095ceee96/artifacts
+end_time: 1749612936376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4c8658b97b944399a71461095ceee96
+run_name: gregarious-ox-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749612800901
+status: 3
+tags: []
+user_id: runner
