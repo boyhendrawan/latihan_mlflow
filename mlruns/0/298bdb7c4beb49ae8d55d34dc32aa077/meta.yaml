@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/298bdb7c4beb49ae8d55d34dc32aa077/artifacts
+end_time: 1749607341011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 298bdb7c4beb49ae8d55d34dc32aa077
+run_name: intrigued-mule-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749607204863
+status: 3
+tags: []
+user_id: runner
