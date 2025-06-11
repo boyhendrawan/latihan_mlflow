@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/02c0eda4cd434c2dbbdae62f59187a16/artifacts
+end_time: 1749682548141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02c0eda4cd434c2dbbdae62f59187a16
+run_name: dashing-skunk-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682412935
+status: 3
+tags: []
+user_id: runner
