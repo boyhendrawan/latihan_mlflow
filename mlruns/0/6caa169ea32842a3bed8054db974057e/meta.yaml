@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6caa169ea32842a3bed8054db974057e/artifacts
+end_time: 1749662812782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6caa169ea32842a3bed8054db974057e
+run_name: shivering-bird-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749662675928
+status: 3
+tags: []
+user_id: runner
