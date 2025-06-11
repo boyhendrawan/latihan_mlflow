@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/589083c237ab419fabba8499e4013aeb/artifacts
+end_time: 1749645473839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 589083c237ab419fabba8499e4013aeb
+run_name: intrigued-shoat-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749645335865
+status: 3
+tags: []
+user_id: runner
