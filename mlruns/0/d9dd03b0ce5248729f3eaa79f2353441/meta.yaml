@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9dd03b0ce5248729f3eaa79f2353441/artifacts
+end_time: 1749641602502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9dd03b0ce5248729f3eaa79f2353441
+run_name: abrasive-sheep-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749641467323
+status: 3
+tags: []
+user_id: runner
