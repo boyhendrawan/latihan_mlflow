@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd2fee8d4ba3416fac06bcb6efb82de2/artifacts
+end_time: 1749668818226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2fee8d4ba3416fac06bcb6efb82de2
+run_name: adaptable-midge-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749668681059
+status: 3
+tags: []
+user_id: runner
