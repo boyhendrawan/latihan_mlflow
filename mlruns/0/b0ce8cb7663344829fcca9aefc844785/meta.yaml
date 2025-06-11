@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0ce8cb7663344829fcca9aefc844785/artifacts
+end_time: 1749671533624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0ce8cb7663344829fcca9aefc844785
+run_name: silent-sloth-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749671398250
+status: 3
+tags: []
+user_id: runner
