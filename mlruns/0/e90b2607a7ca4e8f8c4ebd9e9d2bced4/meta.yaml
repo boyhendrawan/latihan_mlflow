@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e90b2607a7ca4e8f8c4ebd9e9d2bced4/artifacts
+end_time: 1749650912841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e90b2607a7ca4e8f8c4ebd9e9d2bced4
+run_name: wistful-donkey-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749650775833
+status: 3
+tags: []
+user_id: runner
