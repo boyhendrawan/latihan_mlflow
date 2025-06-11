@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b223baeea9e64f0fb4a96bc4ff7cf557/artifacts
+end_time: 1749665143896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b223baeea9e64f0fb4a96bc4ff7cf557
+run_name: enchanting-loon-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749665006049
+status: 3
+tags: []
+user_id: runner
