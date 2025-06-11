@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1765c13516cd4c6296b42d8da9a9e1bc/artifacts
+end_time: 1749622710700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1765c13516cd4c6296b42d8da9a9e1bc
+run_name: wise-mouse-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749622576762
+status: 3
+tags: []
+user_id: runner
