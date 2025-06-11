@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fc3161c27b7a40f18f86a38c01b0e13a/artifacts
+end_time: 1749684459634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc3161c27b7a40f18f86a38c01b0e13a
+run_name: abrasive-shrew-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749684324280
+status: 3
+tags: []
+user_id: runner
