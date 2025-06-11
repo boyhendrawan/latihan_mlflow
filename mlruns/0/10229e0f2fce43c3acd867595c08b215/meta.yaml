@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10229e0f2fce43c3acd867595c08b215/artifacts
+end_time: 1749618681119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10229e0f2fce43c3acd867595c08b215
+run_name: big-rat-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749618544878
+status: 3
+tags: []
+user_id: runner
