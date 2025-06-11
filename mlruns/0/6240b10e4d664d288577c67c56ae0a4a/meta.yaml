@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6240b10e4d664d288577c67c56ae0a4a/artifacts
+end_time: 1749677537488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6240b10e4d664d288577c67c56ae0a4a
+run_name: efficient-grouse-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749677400250
+status: 3
+tags: []
+user_id: runner
