@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/445b3ca9e9c24342a4f9fbac93d3a8ee/artifacts
+end_time: 1749625196605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 445b3ca9e9c24342a4f9fbac93d3a8ee
+run_name: calm-shrimp-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749625061746
+status: 3
+tags: []
+user_id: runner
