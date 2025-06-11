@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac5e368515ef4dd7ab987fe58a865430/artifacts
+end_time: 1749632340172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac5e368515ef4dd7ab987fe58a865430
+run_name: hilarious-doe-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749632204712
+status: 3
+tags: []
+user_id: runner
