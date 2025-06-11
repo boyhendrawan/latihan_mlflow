@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9663010962c34c27aa0b1efb6944ff27/artifacts
+end_time: 1749666709017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9663010962c34c27aa0b1efb6944ff27
+run_name: sassy-fowl-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749666572881
+status: 3
+tags: []
+user_id: runner
