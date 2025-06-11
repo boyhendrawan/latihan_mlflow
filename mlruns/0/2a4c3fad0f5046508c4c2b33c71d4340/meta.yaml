@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a4c3fad0f5046508c4c2b33c71d4340/artifacts
+end_time: 1749646825211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a4c3fad0f5046508c4c2b33c71d4340
+run_name: calm-fish-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749646690716
+status: 3
+tags: []
+user_id: runner
