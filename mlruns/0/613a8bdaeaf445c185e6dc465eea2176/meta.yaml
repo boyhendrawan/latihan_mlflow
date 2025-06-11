@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/613a8bdaeaf445c185e6dc465eea2176/artifacts
+end_time: 1749609078964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 613a8bdaeaf445c185e6dc465eea2176
+run_name: worried-jay-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749608941343
+status: 3
+tags: []
+user_id: runner
