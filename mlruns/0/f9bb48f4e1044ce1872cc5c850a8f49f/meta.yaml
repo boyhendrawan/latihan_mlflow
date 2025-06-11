@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f9bb48f4e1044ce1872cc5c850a8f49f/artifacts
+end_time: 1749685617832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9bb48f4e1044ce1872cc5c850a8f49f
+run_name: monumental-bee-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749685482429
+status: 3
+tags: []
+user_id: runner
