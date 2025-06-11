@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e836dc9b86c4b0a8b9f6f252c13c720/artifacts
+end_time: 1749661436378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e836dc9b86c4b0a8b9f6f252c13c720
+run_name: overjoyed-loon-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749661300756
+status: 3
+tags: []
+user_id: runner
