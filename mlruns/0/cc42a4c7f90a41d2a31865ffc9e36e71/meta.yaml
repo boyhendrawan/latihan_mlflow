@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cc42a4c7f90a41d2a31865ffc9e36e71/artifacts
+end_time: 1749619253635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc42a4c7f90a41d2a31865ffc9e36e71
+run_name: big-turtle-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749619118255
+status: 3
+tags: []
+user_id: runner
