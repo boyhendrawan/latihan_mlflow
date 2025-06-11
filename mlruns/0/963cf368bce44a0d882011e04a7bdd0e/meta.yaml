@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/963cf368bce44a0d882011e04a7bdd0e/artifacts
+end_time: 1749682358131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 963cf368bce44a0d882011e04a7bdd0e
+run_name: awesome-tern-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682221993
+status: 3
+tags: []
+user_id: runner
