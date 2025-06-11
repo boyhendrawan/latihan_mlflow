@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/885e9ab6f9db4b1ab142ea347067816b/artifacts
+end_time: 1749626544035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 885e9ab6f9db4b1ab142ea347067816b
+run_name: gifted-fawn-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749626406820
+status: 3
+tags: []
+user_id: runner
