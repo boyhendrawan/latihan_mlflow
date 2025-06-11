@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7a22e361b3a146ac943270d3fe4318e3/artifacts
+end_time: 1749674234404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a22e361b3a146ac943270d3fe4318e3
+run_name: smiling-cat-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749674097899
+status: 3
+tags: []
+user_id: runner
