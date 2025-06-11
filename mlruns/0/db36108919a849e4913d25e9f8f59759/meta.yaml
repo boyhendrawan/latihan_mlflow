@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db36108919a849e4913d25e9f8f59759/artifacts
+end_time: 1749667854189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db36108919a849e4913d25e9f8f59759
+run_name: classy-mole-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749667718673
+status: 3
+tags: []
+user_id: runner
