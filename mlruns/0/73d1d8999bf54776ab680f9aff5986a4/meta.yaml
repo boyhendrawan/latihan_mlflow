@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73d1d8999bf54776ab680f9aff5986a4/artifacts
+end_time: 1749621564209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73d1d8999bf54776ab680f9aff5986a4
+run_name: brawny-penguin-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749621427386
+status: 3
+tags: []
+user_id: runner
