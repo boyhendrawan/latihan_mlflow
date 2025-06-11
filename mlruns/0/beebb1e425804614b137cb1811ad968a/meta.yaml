@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/beebb1e425804614b137cb1811ad968a/artifacts
+end_time: 1749631761021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beebb1e425804614b137cb1811ad968a
+run_name: powerful-grub-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749631624981
+status: 3
+tags: []
+user_id: runner
