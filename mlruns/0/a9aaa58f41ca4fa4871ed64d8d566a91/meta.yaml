@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a9aaa58f41ca4fa4871ed64d8d566a91/artifacts
+end_time: 1749650136714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9aaa58f41ca4fa4871ed64d8d566a91
+run_name: wise-mole-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749649999897
+status: 3
+tags: []
+user_id: runner
