@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f7faa70cf46433f8d2741c3ef37f68d/artifacts
+end_time: 1749623862080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f7faa70cf46433f8d2741c3ef37f68d
+run_name: auspicious-skunk-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749623726516
+status: 3
+tags: []
+user_id: runner
