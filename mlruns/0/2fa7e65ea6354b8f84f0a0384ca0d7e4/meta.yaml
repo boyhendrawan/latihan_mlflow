@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2fa7e65ea6354b8f84f0a0384ca0d7e4/artifacts
+end_time: 1749611973840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa7e65ea6354b8f84f0a0384ca0d7e4
+run_name: wise-shoat-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749611837390
+status: 3
+tags: []
+user_id: runner
