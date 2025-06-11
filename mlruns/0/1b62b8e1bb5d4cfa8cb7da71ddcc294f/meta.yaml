@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b62b8e1bb5d4cfa8cb7da71ddcc294f/artifacts
+end_time: 1749680246401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b62b8e1bb5d4cfa8cb7da71ddcc294f
+run_name: learned-carp-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749680106415
+status: 3
+tags: []
+user_id: runner
