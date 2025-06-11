@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b72d8a96150418a9b244d22be6cd377/artifacts
+end_time: 1749673064076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b72d8a96150418a9b244d22be6cd377
+run_name: vaunted-lynx-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749672926932
+status: 3
+tags: []
+user_id: runner
