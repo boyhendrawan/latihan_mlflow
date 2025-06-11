@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e0ead7860d74cd39539c44136f67d25/artifacts
+end_time: 1749649942835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e0ead7860d74cd39539c44136f67d25
+run_name: skillful-cub-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749649807233
+status: 3
+tags: []
+user_id: runner
