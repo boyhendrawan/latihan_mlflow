@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5f0c3b43cad4182b8cebdc34eb81c0b/artifacts
+end_time: 1749640258790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5f0c3b43cad4182b8cebdc34eb81c0b
+run_name: gaudy-crab-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749640122295
+status: 3
+tags: []
+user_id: runner
