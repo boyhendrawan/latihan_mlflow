@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa6eaac743b24ae3bd197817b4280213/artifacts
+end_time: 1749683121567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa6eaac743b24ae3bd197817b4280213
+run_name: carefree-eel-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682987434
+status: 3
+tags: []
+user_id: runner
