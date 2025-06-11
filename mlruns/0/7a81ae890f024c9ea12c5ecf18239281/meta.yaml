@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7a81ae890f024c9ea12c5ecf18239281/artifacts
+end_time: 1749662226855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a81ae890f024c9ea12c5ecf18239281
+run_name: learned-mare-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749662091721
+status: 3
+tags: []
+user_id: runner
