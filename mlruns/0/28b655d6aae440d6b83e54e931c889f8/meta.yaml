@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28b655d6aae440d6b83e54e931c889f8/artifacts
+end_time: 1749635830186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28b655d6aae440d6b83e54e931c889f8
+run_name: stylish-doe-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749635694511
+status: 3
+tags: []
+user_id: runner
