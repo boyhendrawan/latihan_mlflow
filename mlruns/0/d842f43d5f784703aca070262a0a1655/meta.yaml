@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d842f43d5f784703aca070262a0a1655/artifacts
+end_time: 1749635253602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d842f43d5f784703aca070262a0a1655
+run_name: debonair-snake-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749635117617
+status: 3
+tags: []
+user_id: runner
