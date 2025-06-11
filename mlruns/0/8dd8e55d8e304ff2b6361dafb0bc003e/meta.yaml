@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8dd8e55d8e304ff2b6361dafb0bc003e/artifacts
+end_time: 1749650328954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd8e55d8e304ff2b6361dafb0bc003e
+run_name: spiffy-chimp-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749650193417
+status: 3
+tags: []
+user_id: runner
