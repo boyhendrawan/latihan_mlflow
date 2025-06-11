@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5fb7a3a14feb40f988741a30a7ebf4c6/artifacts
+end_time: 1749627701552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fb7a3a14feb40f988741a30a7ebf4c6
+run_name: caring-turtle-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749627563930
+status: 3
+tags: []
+user_id: runner
