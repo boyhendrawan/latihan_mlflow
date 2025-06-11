@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3f7a9e402d64a11badfb5f2dbffeeb0/artifacts
+end_time: 1749605017960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f7a9e402d64a11badfb5f2dbffeeb0
+run_name: brawny-koi-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749604884218
+status: 3
+tags: []
+user_id: runner
