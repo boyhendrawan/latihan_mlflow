@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a83311a8772f42e0b4b8707d922bc377/artifacts
+end_time: 1749638137240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a83311a8772f42e0b4b8707d922bc377
+run_name: aged-penguin-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749638001308
+status: 3
+tags: []
+user_id: runner
