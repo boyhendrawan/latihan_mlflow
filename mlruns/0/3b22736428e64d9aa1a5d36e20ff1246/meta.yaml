@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b22736428e64d9aa1a5d36e20ff1246/artifacts
+end_time: 1749621369900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b22736428e64d9aa1a5d36e20ff1246
+run_name: unruly-jay-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749621234662
+status: 3
+tags: []
+user_id: runner
