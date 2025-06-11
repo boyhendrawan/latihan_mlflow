@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d0cd2906f754614a4dc3e86e59dbad3/artifacts
+end_time: 1749676753467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d0cd2906f754614a4dc3e86e59dbad3
+run_name: selective-hawk-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749676616056
+status: 3
+tags: []
+user_id: runner
