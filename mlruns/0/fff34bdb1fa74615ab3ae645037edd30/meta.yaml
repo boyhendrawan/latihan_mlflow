@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fff34bdb1fa74615ab3ae645037edd30/artifacts
+end_time: 1749636989946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fff34bdb1fa74615ab3ae645037edd30
+run_name: charming-bat-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749636852307
+status: 3
+tags: []
+user_id: runner
