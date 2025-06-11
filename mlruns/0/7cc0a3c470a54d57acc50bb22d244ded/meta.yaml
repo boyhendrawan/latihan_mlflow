@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7cc0a3c470a54d57acc50bb22d244ded/artifacts
+end_time: 1749654807258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cc0a3c470a54d57acc50bb22d244ded
+run_name: ambitious-boar-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749654671299
+status: 3
+tags: []
+user_id: runner
