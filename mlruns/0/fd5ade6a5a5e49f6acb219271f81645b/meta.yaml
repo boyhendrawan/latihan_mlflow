@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd5ade6a5a5e49f6acb219271f81645b/artifacts
+end_time: 1749644115512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd5ade6a5a5e49f6acb219271f81645b
+run_name: puzzled-bee-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749643979288
+status: 3
+tags: []
+user_id: runner
