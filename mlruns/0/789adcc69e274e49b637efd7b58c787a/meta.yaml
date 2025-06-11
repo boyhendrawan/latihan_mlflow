@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/789adcc69e274e49b637efd7b58c787a/artifacts
+end_time: 1749616193282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 789adcc69e274e49b637efd7b58c787a
+run_name: dazzling-colt-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749616057615
+status: 3
+tags: []
+user_id: runner
