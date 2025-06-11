@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c66823f5b72d451d818fe32482485e3a/artifacts
+end_time: 1749677148001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c66823f5b72d451d818fe32482485e3a
+run_name: wise-boar-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749677012642
+status: 3
+tags: []
+user_id: runner
