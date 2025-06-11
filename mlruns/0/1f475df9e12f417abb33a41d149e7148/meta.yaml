@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f475df9e12f417abb33a41d149e7148/artifacts
+end_time: 1749640065472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f475df9e12f417abb33a41d149e7148
+run_name: bald-calf-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749639927639
+status: 3
+tags: []
+user_id: runner
