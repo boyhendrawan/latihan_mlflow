@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cd4cb204f8d442a3a6dc9431e696c64e/artifacts
+end_time: 1749637568268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd4cb204f8d442a3a6dc9431e696c64e
+run_name: nebulous-snake-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749637433701
+status: 3
+tags: []
+user_id: runner
