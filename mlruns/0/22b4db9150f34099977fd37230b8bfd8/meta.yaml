@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22b4db9150f34099977fd37230b8bfd8/artifacts
+end_time: 1749671341882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b4db9150f34099977fd37230b8bfd8
+run_name: languid-fawn-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749671205400
+status: 3
+tags: []
+user_id: runner
