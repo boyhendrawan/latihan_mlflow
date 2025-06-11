@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ddfb12b7a764392ad93a1299b720000/artifacts
+end_time: 1749638901446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ddfb12b7a764392ad93a1299b720000
+run_name: calm-zebra-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749638763740
+status: 3
+tags: []
+user_id: runner
