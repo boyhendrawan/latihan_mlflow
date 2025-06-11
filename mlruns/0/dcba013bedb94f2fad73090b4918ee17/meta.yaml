@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dcba013bedb94f2fad73090b4918ee17/artifacts
+end_time: 1749630409830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcba013bedb94f2fad73090b4918ee17
+run_name: sincere-hound-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749630273545
+status: 3
+tags: []
+user_id: runner
