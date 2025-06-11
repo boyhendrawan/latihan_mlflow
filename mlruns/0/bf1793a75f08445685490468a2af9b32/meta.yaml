@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf1793a75f08445685490468a2af9b32/artifacts
+end_time: 1749686388046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1793a75f08445685490468a2af9b32
+run_name: classy-calf-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749686252678
+status: 3
+tags: []
+user_id: runner
