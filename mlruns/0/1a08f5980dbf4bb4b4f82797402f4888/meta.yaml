@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a08f5980dbf4bb4b4f82797402f4888/artifacts
+end_time: 1749616002657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a08f5980dbf4bb4b4f82797402f4888
+run_name: melodic-bird-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749615866656
+status: 3
+tags: []
+user_id: runner
