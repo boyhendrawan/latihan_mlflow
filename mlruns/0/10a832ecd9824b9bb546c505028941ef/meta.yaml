@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10a832ecd9824b9bb546c505028941ef/artifacts
+end_time: 1749632539260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10a832ecd9824b9bb546c505028941ef
+run_name: handsome-colt-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749632399560
+status: 3
+tags: []
+user_id: runner
