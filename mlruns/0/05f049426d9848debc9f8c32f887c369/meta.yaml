@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/05f049426d9848debc9f8c32f887c369/artifacts
+end_time: 1749680048502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05f049426d9848debc9f8c32f887c369
+run_name: enthused-ram-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749679912772
+status: 3
+tags: []
+user_id: runner
