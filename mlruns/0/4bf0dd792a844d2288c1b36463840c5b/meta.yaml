@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4bf0dd792a844d2288c1b36463840c5b/artifacts
+end_time: 1749617348692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bf0dd792a844d2288c1b36463840c5b
+run_name: rumbling-duck-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749617211958
+status: 3
+tags: []
+user_id: runner
