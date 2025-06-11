@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b1c51d0d4ac4818be7270540c59c781/artifacts
+end_time: 1749654229165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b1c51d0d4ac4818be7270540c59c781
+run_name: melodic-mole-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749654092804
+status: 3
+tags: []
+user_id: runner
