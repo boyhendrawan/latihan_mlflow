@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c2c2bc28711f433c91bead2dc7fcec52/artifacts
+end_time: 1749668427024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2c2bc28711f433c91bead2dc7fcec52
+run_name: handsome-mule-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749668291237
+status: 3
+tags: []
+user_id: runner
