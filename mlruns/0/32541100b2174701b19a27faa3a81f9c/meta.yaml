@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/32541100b2174701b19a27faa3a81f9c/artifacts
+end_time: 1749660067294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32541100b2174701b19a27faa3a81f9c
+run_name: omniscient-pug-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749659929534
+status: 3
+tags: []
+user_id: runner
