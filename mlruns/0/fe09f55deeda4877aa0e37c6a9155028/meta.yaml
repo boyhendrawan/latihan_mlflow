@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe09f55deeda4877aa0e37c6a9155028/artifacts
+end_time: 1749641028437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe09f55deeda4877aa0e37c6a9155028
+run_name: efficient-lamb-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749640892772
+status: 3
+tags: []
+user_id: runner
