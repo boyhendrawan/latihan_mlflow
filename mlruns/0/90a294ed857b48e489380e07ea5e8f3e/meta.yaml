@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90a294ed857b48e489380e07ea5e8f3e/artifacts
+end_time: 1749613317820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90a294ed857b48e489380e07ea5e8f3e
+run_name: fearless-duck-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749613181216
+status: 3
+tags: []
+user_id: runner
