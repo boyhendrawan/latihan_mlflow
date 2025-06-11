@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6449d4f299ae41e5a98c6683236a9787/artifacts
+end_time: 1749679473717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6449d4f299ae41e5a98c6683236a9787
+run_name: delicate-calf-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749679338008
+status: 3
+tags: []
+user_id: runner
