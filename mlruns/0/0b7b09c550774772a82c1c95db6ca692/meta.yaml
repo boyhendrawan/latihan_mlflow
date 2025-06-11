@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b7b09c550774772a82c1c95db6ca692/artifacts
+end_time: 1749633118776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7b09c550774772a82c1c95db6ca692
+run_name: masked-goose-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749632981275
+status: 3
+tags: []
+user_id: runner
