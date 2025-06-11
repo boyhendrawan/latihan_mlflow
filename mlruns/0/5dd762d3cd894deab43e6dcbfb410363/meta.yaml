@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5dd762d3cd894deab43e6dcbfb410363/artifacts
+end_time: 1749625773908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd762d3cd894deab43e6dcbfb410363
+run_name: intrigued-cat-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749625638286
+status: 3
+tags: []
+user_id: runner
