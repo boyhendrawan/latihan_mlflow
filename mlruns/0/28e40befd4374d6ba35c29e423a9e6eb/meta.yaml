@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28e40befd4374d6ba35c29e423a9e6eb/artifacts
+end_time: 1749678313500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e40befd4374d6ba35c29e423a9e6eb
+run_name: luminous-bee-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749678177726
+status: 3
+tags: []
+user_id: runner
