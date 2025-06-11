@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d567edc503fd4f4a8139b0ce5c486d4a/artifacts
+end_time: 1749620608399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d567edc503fd4f4a8139b0ce5c486d4a
+run_name: adventurous-jay-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749620473787
+status: 3
+tags: []
+user_id: runner
