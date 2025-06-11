@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e84007a76e444efca01b901fbe47a4c9/artifacts
+end_time: 1749685042775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e84007a76e444efca01b901fbe47a4c9
+run_name: clumsy-stoat-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749684907792
+status: 3
+tags: []
+user_id: runner
