@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/76210fa7d9074eaf93b5c046962394ac/artifacts
+end_time: 1749642763662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76210fa7d9074eaf93b5c046962394ac
+run_name: inquisitive-lamb-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749642627444
+status: 3
+tags: []
+user_id: runner
