@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/41c0a3c4194b4c0986b5b751a48a852c/artifacts
+end_time: 1749675002280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c0a3c4194b4c0986b5b751a48a852c
+run_name: legendary-duck-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749674867262
+status: 3
+tags: []
+user_id: runner
