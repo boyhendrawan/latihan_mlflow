@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1548b14cefa3493b905dcd9382fc820b/artifacts
+end_time: 1749616768751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1548b14cefa3493b905dcd9382fc820b
+run_name: adaptable-dog-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749616633059
+status: 3
+tags: []
+user_id: runner
