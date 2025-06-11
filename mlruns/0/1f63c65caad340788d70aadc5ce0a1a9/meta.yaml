@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f63c65caad340788d70aadc5ce0a1a9/artifacts
+end_time: 1749621760121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f63c65caad340788d70aadc5ce0a1a9
+run_name: sneaky-finch-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749621621026
+status: 3
+tags: []
+user_id: runner
