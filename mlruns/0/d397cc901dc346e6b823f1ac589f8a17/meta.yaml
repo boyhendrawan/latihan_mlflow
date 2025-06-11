@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d397cc901dc346e6b823f1ac589f8a17/artifacts
+end_time: 1749678696932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d397cc901dc346e6b823f1ac589f8a17
+run_name: upbeat-donkey-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749678560189
+status: 3
+tags: []
+user_id: runner
