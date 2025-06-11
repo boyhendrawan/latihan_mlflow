@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/675931d3f50648e4b2e6bbacc1bb3b54/artifacts
+end_time: 1749620800876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 675931d3f50648e4b2e6bbacc1bb3b54
+run_name: merciful-shoat-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749620664558
+status: 3
+tags: []
+user_id: runner
