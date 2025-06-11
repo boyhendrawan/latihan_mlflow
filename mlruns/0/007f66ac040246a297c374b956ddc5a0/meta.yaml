@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/007f66ac040246a297c374b956ddc5a0/artifacts
+end_time: 1749633696239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 007f66ac040246a297c374b956ddc5a0
+run_name: placid-mink-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749633558129
+status: 3
+tags: []
+user_id: runner
