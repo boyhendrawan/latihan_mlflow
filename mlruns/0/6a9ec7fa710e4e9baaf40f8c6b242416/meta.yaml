@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a9ec7fa710e4e9baaf40f8c6b242416/artifacts
+end_time: 1749612548015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a9ec7fa710e4e9baaf40f8c6b242416
+run_name: sneaky-yak-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749612413257
+status: 3
+tags: []
+user_id: runner
