@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cae3d43beec145f894d63cd435d3802b/artifacts
+end_time: 1749664756276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae3d43beec145f894d63cd435d3802b
+run_name: sassy-sponge-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749664620878
+status: 3
+tags: []
+user_id: runner
