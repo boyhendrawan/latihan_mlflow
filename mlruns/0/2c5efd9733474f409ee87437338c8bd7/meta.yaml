@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c5efd9733474f409ee87437338c8bd7/artifacts
+end_time: 1749641993426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5efd9733474f409ee87437338c8bd7
+run_name: aged-grub-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749641858081
+status: 3
+tags: []
+user_id: runner
