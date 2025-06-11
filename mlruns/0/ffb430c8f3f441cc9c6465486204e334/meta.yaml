@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ffb430c8f3f441cc9c6465486204e334/artifacts
+end_time: 1749675577400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffb430c8f3f441cc9c6465486204e334
+run_name: dashing-squid-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749675441536
+status: 3
+tags: []
+user_id: runner
