@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/711f37bed00d4518ac1bd218a0b2a520/artifacts
+end_time: 1749648588329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 711f37bed00d4518ac1bd218a0b2a520
+run_name: respected-yak-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749648452932
+status: 3
+tags: []
+user_id: runner
