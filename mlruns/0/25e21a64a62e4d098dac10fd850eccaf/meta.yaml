@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25e21a64a62e4d098dac10fd850eccaf/artifacts
+end_time: 1749629057741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25e21a64a62e4d098dac10fd850eccaf
+run_name: likeable-hound-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749628919881
+status: 3
+tags: []
+user_id: runner
