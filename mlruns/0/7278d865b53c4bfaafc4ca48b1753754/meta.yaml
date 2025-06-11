@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7278d865b53c4bfaafc4ca48b1753754/artifacts
+end_time: 1749660256355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7278d865b53c4bfaafc4ca48b1753754
+run_name: gaudy-shoat-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749660120911
+status: 3
+tags: []
+user_id: runner
