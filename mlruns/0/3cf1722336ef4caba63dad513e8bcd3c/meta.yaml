@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3cf1722336ef4caba63dad513e8bcd3c/artifacts
+end_time: 1749677343585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cf1722336ef4caba63dad513e8bcd3c
+run_name: gifted-whale-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749677207713
+status: 3
+tags: []
+user_id: runner
