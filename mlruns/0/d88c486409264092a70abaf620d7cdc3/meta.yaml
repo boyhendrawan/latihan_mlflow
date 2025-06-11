@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d88c486409264092a70abaf620d7cdc3/artifacts
+end_time: 1749613897711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d88c486409264092a70abaf620d7cdc3
+run_name: exultant-pug-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749613762313
+status: 3
+tags: []
+user_id: runner
