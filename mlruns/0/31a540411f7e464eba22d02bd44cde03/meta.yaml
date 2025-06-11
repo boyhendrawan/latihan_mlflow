@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31a540411f7e464eba22d02bd44cde03/artifacts
+end_time: 1749628861718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31a540411f7e464eba22d02bd44cde03
+run_name: receptive-roo-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749628724450
+status: 3
+tags: []
+user_id: runner
