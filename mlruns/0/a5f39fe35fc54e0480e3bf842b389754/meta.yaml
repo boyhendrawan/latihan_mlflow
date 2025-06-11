@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5f39fe35fc54e0480e3bf842b389754/artifacts
+end_time: 1749644500507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f39fe35fc54e0480e3bf842b389754
+run_name: clean-zebra-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749644365135
+status: 3
+tags: []
+user_id: runner
