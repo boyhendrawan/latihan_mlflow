@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/446437392a064bb6ba9efac60ff609da/artifacts
+end_time: 1749670373254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 446437392a064bb6ba9efac60ff609da
+run_name: caring-seal-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749670237562
+status: 3
+tags: []
+user_id: runner
