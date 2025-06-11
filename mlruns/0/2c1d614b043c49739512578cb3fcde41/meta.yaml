@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c1d614b043c49739512578cb3fcde41/artifacts
+end_time: 1749664947586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c1d614b043c49739512578cb3fcde41
+run_name: adaptable-bear-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749664811823
+status: 3
+tags: []
+user_id: runner
