@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e655a46c9654d2ea461002a48e6186d/artifacts
+end_time: 1749681786266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e655a46c9654d2ea461002a48e6186d
+run_name: bright-hog-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749681650742
+status: 3
+tags: []
+user_id: runner
