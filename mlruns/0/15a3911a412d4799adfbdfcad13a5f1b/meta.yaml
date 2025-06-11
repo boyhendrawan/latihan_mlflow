@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15a3911a412d4799adfbdfcad13a5f1b/artifacts
+end_time: 1749669595265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15a3911a412d4799adfbdfcad13a5f1b
+run_name: intelligent-ram-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749669458570
+status: 3
+tags: []
+user_id: runner
