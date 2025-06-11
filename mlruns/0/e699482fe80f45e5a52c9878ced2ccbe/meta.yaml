@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e699482fe80f45e5a52c9878ced2ccbe/artifacts
+end_time: 1749668626858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e699482fe80f45e5a52c9878ced2ccbe
+run_name: receptive-flea-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749668486609
+status: 3
+tags: []
+user_id: runner
