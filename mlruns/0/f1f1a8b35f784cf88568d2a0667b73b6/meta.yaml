@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1f1a8b35f784cf88568d2a0667b73b6/artifacts
+end_time: 1749636023447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1f1a8b35f784cf88568d2a0667b73b6
+run_name: abundant-swan-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749635888461
+status: 3
+tags: []
+user_id: runner
