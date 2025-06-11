@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06c7ddeaf7ca4bf88d802fba5a920648/artifacts
+end_time: 1749632922572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06c7ddeaf7ca4bf88d802fba5a920648
+run_name: bouncy-cow-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749632787068
+status: 3
+tags: []
+user_id: runner
