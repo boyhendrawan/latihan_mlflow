@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f256d9e10a39426f9c9316fe863ae215/artifacts
+end_time: 1749674426661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f256d9e10a39426f9c9316fe863ae215
+run_name: welcoming-zebra-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749674291326
+status: 3
+tags: []
+user_id: runner
