@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe6c7dd2953546a0b8db2c8194afc2ab/artifacts
+end_time: 1749614279321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe6c7dd2953546a0b8db2c8194afc2ab
+run_name: nimble-wren-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749614144093
+status: 3
+tags: []
+user_id: runner
