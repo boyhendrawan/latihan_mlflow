@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eda9a9696d5245e99ff02dcbccfd12ef/artifacts
+end_time: 1749658692915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda9a9696d5245e99ff02dcbccfd12ef
+run_name: fun-eel-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749658557291
+status: 3
+tags: []
+user_id: runner
