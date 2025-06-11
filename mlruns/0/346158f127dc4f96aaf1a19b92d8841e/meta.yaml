@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/346158f127dc4f96aaf1a19b92d8841e/artifacts
+end_time: 1749678121345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 346158f127dc4f96aaf1a19b92d8841e
+run_name: calm-grouse-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749677984997
+status: 3
+tags: []
+user_id: runner
