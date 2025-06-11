@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29def8b89d31449eaf1872447980cb56/artifacts
+end_time: 1749604826290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29def8b89d31449eaf1872447980cb56
+run_name: adorable-gnat-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749604690486
+status: 3
+tags: []
+user_id: runner
