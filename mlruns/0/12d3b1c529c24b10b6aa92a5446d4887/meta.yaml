@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/12d3b1c529c24b10b6aa92a5446d4887/artifacts
+end_time: 1749680632727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12d3b1c529c24b10b6aa92a5446d4887
+run_name: adventurous-flea-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749680497892
+status: 3
+tags: []
+user_id: runner
