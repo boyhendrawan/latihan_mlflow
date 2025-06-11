@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d400128419af4a75a9b3f0a6237e9248/artifacts
+end_time: 1749653244845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d400128419af4a75a9b3f0a6237e9248
+run_name: nervous-smelt-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749653108101
+status: 3
+tags: []
+user_id: runner
