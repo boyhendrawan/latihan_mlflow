@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b965ba5aa32042c48f44819ddde91bf1/artifacts
+end_time: 1749679280766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b965ba5aa32042c48f44819ddde91bf1
+run_name: skillful-whale-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749679143710
+status: 3
+tags: []
+user_id: runner
