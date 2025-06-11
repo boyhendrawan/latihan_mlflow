@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47ad355365a2456781ef8225e8c27ddf/artifacts
+end_time: 1749643144303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47ad355365a2456781ef8225e8c27ddf
+run_name: debonair-hare-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749643009235
+status: 3
+tags: []
+user_id: runner
