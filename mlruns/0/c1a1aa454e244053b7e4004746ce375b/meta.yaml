@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1a1aa454e244053b7e4004746ce375b/artifacts
+end_time: 1749671147814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1a1aa454e244053b7e4004746ce375b
+run_name: traveling-stoat-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749671010136
+status: 3
+tags: []
+user_id: runner
