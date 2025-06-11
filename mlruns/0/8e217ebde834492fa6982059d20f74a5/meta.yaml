@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e217ebde834492fa6982059d20f74a5/artifacts
+end_time: 1749673654851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e217ebde834492fa6982059d20f74a5
+run_name: languid-crane-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749673517362
+status: 3
+tags: []
+user_id: runner
