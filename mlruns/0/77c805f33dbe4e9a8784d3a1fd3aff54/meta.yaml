@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77c805f33dbe4e9a8784d3a1fd3aff54/artifacts
+end_time: 1749611581410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77c805f33dbe4e9a8784d3a1fd3aff54
+run_name: clumsy-dog-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749611444475
+status: 3
+tags: []
+user_id: runner
