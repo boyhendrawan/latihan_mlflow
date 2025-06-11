@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/00b00901e21b428f87c2527158791559/artifacts
+end_time: 1749667472288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00b00901e21b428f87c2527158791559
+run_name: auspicious-boar-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749667337183
+status: 3
+tags: []
+user_id: runner
