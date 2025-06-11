@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b35750c29e7f42a29b48aa2c8dee0c6c/artifacts
+end_time: 1749608109887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b35750c29e7f42a29b48aa2c8dee0c6c
+run_name: fortunate-shad-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749607973748
+status: 3
+tags: []
+user_id: runner
