@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/004687146dc54eaea3085a8cb3df04ba/artifacts
+end_time: 1749606186098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 004687146dc54eaea3085a8cb3df04ba
+run_name: beautiful-duck-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749606050828
+status: 3
+tags: []
+user_id: runner
