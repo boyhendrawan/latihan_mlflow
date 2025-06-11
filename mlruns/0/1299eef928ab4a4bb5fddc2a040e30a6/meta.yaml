@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1299eef928ab4a4bb5fddc2a040e30a6/artifacts
+end_time: 1749654614431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1299eef928ab4a4bb5fddc2a040e30a6
+run_name: polite-stoat-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749654477292
+status: 3
+tags: []
+user_id: runner
