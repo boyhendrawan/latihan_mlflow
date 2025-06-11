@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb2154ccc14240f3aeade678ca300ad6/artifacts
+end_time: 1749681018569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2154ccc14240f3aeade678ca300ad6
+run_name: invincible-lark-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749680881787
+status: 3
+tags: []
+user_id: runner
