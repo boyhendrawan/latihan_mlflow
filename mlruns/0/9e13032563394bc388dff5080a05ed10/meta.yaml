@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e13032563394bc388dff5080a05ed10/artifacts
+end_time: 1749600218483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e13032563394bc388dff5080a05ed10
+run_name: skillful-fowl-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749600082553
+status: 3
+tags: []
+user_id: runner
