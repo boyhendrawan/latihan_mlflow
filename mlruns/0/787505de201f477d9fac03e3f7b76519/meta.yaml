@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/787505de201f477d9fac03e3f7b76519/artifacts
+end_time: 1749659870398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 787505de201f477d9fac03e3f7b76519
+run_name: auspicious-horse-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749659733019
+status: 3
+tags: []
+user_id: runner
