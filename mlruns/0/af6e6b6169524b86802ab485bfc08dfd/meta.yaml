@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af6e6b6169524b86802ab485bfc08dfd/artifacts
+end_time: 1749684078635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6e6b6169524b86802ab485bfc08dfd
+run_name: suave-croc-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749683941848
+status: 3
+tags: []
+user_id: runner
