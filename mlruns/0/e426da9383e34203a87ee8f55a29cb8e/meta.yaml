@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e426da9383e34203a87ee8f55a29cb8e/artifacts
+end_time: 1749605992726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e426da9383e34203a87ee8f55a29cb8e
+run_name: magnificent-frog-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749605857120
+status: 3
+tags: []
+user_id: runner
