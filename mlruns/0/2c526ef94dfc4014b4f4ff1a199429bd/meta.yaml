@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c526ef94dfc4014b4f4ff1a199429bd/artifacts
+end_time: 1749660448608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c526ef94dfc4014b4f4ff1a199429bd
+run_name: victorious-frog-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749660312879
+status: 3
+tags: []
+user_id: runner
