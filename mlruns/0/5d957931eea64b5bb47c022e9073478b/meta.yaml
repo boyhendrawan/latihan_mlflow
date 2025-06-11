@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d957931eea64b5bb47c022e9073478b/artifacts
+end_time: 1749601371384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d957931eea64b5bb47c022e9073478b
+run_name: smiling-ox-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749601235380
+status: 3
+tags: []
+user_id: runner
