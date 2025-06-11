@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6c8b1b1f1534160855b824f0c2e8ae1/artifacts
+end_time: 1749608497926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6c8b1b1f1534160855b824f0c2e8ae1
+run_name: honorable-fly-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749608362119
+status: 3
+tags: []
+user_id: runner
