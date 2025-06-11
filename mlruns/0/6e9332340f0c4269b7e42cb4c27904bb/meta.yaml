@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e9332340f0c4269b7e42cb4c27904bb/artifacts
+end_time: 1749657917942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9332340f0c4269b7e42cb4c27904bb
+run_name: capricious-hen-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749657780524
+status: 3
+tags: []
+user_id: runner
