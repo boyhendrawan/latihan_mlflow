@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fbbaeccd54a54c3d8ed6a82e178eefbe/artifacts
+end_time: 1749686197436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbbaeccd54a54c3d8ed6a82e178eefbe
+run_name: chill-moth-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749686062629
+status: 3
+tags: []
+user_id: runner
