@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e0fa14054afa4a349ceb5ac94e155b53/artifacts
+end_time: 1749625966264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0fa14054afa4a349ceb5ac94e155b53
+run_name: traveling-toad-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749625830138
+status: 3
+tags: []
+user_id: runner
