@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac58db3a0cac49c9885bb14953a3fb56/artifacts
+end_time: 1749623288067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac58db3a0cac49c9885bb14953a3fb56
+run_name: blushing-croc-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749623153089
+status: 3
+tags: []
+user_id: runner
