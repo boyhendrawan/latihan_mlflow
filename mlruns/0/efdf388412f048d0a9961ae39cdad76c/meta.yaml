@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/efdf388412f048d0a9961ae39cdad76c/artifacts
+end_time: 1749662422314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efdf388412f048d0a9961ae39cdad76c
+run_name: trusting-croc-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749662284066
+status: 3
+tags: []
+user_id: runner
