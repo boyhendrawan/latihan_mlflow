@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71029b50999b4d478d96db0ef0e2f6f4/artifacts
+end_time: 1749640453636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71029b50999b4d478d96db0ef0e2f6f4
+run_name: indecisive-elk-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749640317313
+status: 3
+tags: []
+user_id: runner
