@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28c54cd18393495c959c35c3f4a68779/artifacts
+end_time: 1749622329458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c54cd18393495c959c35c3f4a68779
+run_name: smiling-bee-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749622194534
+status: 3
+tags: []
+user_id: runner
