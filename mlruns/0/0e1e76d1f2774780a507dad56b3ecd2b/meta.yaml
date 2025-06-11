@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e1e76d1f2774780a507dad56b3ecd2b/artifacts
+end_time: 1749629829926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e1e76d1f2774780a507dad56b3ecd2b
+run_name: painted-snipe-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749629694033
+status: 3
+tags: []
+user_id: runner
