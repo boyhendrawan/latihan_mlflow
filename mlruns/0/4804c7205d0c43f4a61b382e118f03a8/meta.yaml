@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4804c7205d0c43f4a61b382e118f03a8/artifacts
+end_time: 1749629443893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4804c7205d0c43f4a61b382e118f03a8
+run_name: respected-moth-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749629307366
+status: 3
+tags: []
+user_id: runner
