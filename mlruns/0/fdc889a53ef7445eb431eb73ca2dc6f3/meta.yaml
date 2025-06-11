@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdc889a53ef7445eb431eb73ca2dc6f3/artifacts
+end_time: 1749610798095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc889a53ef7445eb431eb73ca2dc6f3
+run_name: thundering-cod-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749610662284
+status: 3
+tags: []
+user_id: runner
