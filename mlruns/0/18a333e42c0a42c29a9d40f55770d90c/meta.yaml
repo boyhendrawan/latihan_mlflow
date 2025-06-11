@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18a333e42c0a42c29a9d40f55770d90c/artifacts
+end_time: 1749621948318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18a333e42c0a42c29a9d40f55770d90c
+run_name: incongruous-fish-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749621813449
+status: 3
+tags: []
+user_id: runner
