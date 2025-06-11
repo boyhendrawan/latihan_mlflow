@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93be0a9baf16445095154e87e87e568c/artifacts
+end_time: 1749667091585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93be0a9baf16445095154e87e87e568c
+run_name: indecisive-worm-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749666956484
+status: 3
+tags: []
+user_id: runner
