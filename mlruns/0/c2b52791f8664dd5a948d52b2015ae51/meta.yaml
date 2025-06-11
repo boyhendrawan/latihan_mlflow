@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c2b52791f8664dd5a948d52b2015ae51/artifacts
+end_time: 1749653628698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b52791f8664dd5a948d52b2015ae51
+run_name: thundering-hen-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749653493107
+status: 3
+tags: []
+user_id: runner
