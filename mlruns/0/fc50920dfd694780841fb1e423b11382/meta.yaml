@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fc50920dfd694780841fb1e423b11382/artifacts
+end_time: 1749648975242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc50920dfd694780841fb1e423b11382
+run_name: unruly-owl-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749648839612
+status: 3
+tags: []
+user_id: runner
