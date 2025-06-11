@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e4227ec55764c1787a2d1ad560cd063/artifacts
+end_time: 1749628087148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e4227ec55764c1787a2d1ad560cd063
+run_name: clean-stork-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749627951276
+status: 3
+tags: []
+user_id: runner
