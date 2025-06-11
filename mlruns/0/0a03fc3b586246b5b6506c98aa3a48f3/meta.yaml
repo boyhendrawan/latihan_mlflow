@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0a03fc3b586246b5b6506c98aa3a48f3/artifacts
+end_time: 1749648015103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a03fc3b586246b5b6506c98aa3a48f3
+run_name: flawless-colt-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749647878644
+status: 3
+tags: []
+user_id: runner
