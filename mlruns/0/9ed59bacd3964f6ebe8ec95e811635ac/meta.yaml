@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ed59bacd3964f6ebe8ec95e811635ac/artifacts
+end_time: 1749625005576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ed59bacd3964f6ebe8ec95e811635ac
+run_name: vaunted-lark-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749624870769
+status: 3
+tags: []
+user_id: runner
