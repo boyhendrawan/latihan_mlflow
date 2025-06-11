@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/895355cafda7420089a81a3dc6654533/artifacts
+end_time: 1749651872454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 895355cafda7420089a81a3dc6654533
+run_name: thundering-cow-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749651735619
+status: 3
+tags: []
+user_id: runner
