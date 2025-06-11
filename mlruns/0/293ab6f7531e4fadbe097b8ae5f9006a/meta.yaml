@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/293ab6f7531e4fadbe097b8ae5f9006a/artifacts
+end_time: 1749613509141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 293ab6f7531e4fadbe097b8ae5f9006a
+run_name: enthused-hawk-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749613373047
+status: 3
+tags: []
+user_id: runner
