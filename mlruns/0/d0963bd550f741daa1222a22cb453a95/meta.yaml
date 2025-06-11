@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d0963bd550f741daa1222a22cb453a95/artifacts
+end_time: 1749609648890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0963bd550f741daa1222a22cb453a95
+run_name: calm-shad-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749609514098
+status: 3
+tags: []
+user_id: runner
