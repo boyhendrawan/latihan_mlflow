@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4012f31217664fb09f7e7474d36fa84a/artifacts
+end_time: 1749623479982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4012f31217664fb09f7e7474d36fa84a
+run_name: blushing-fish-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749623344133
+status: 3
+tags: []
+user_id: runner
