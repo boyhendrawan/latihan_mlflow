@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/23a68c19f36044deb3e4dfe68962533f/artifacts
+end_time: 1749607533192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23a68c19f36044deb3e4dfe68962533f
+run_name: fun-seal-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749607397328
+status: 3
+tags: []
+user_id: runner
