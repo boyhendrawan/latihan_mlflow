@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1327967daf074a90b1e00fa17c553e7f/artifacts
+end_time: 1749658495675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1327967daf074a90b1e00fa17c553e7f
+run_name: agreeable-crow-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749658358727
+status: 3
+tags: []
+user_id: runner
