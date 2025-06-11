@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be67dfb103a146fb9584900ca367d655/artifacts
+end_time: 1749623096801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be67dfb103a146fb9584900ca367d655
+run_name: valuable-dog-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749622961689
+status: 3
+tags: []
+user_id: runner
