@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/23872609b9404498853665bbfc2022ac/artifacts
+end_time: 1749673458089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23872609b9404498853665bbfc2022ac
+run_name: chill-shrew-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749673321123
+status: 3
+tags: []
+user_id: runner
