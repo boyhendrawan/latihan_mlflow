@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/49c5ae5437944f64abe19e6d8c5f9b0c/artifacts
+end_time: 1749676171113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49c5ae5437944f64abe19e6d8c5f9b0c
+run_name: salty-crab-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749676033765
+status: 3
+tags: []
+user_id: runner
