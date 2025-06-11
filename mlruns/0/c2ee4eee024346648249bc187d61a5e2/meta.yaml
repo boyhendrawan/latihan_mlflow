@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c2ee4eee024346648249bc187d61a5e2/artifacts
+end_time: 1749683313281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2ee4eee024346648249bc187d61a5e2
+run_name: nosy-panda-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749683177218
+status: 3
+tags: []
+user_id: runner
