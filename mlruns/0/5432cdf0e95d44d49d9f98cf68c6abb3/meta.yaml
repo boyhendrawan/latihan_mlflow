@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5432cdf0e95d44d49d9f98cf68c6abb3/artifacts
+end_time: 1749629635233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5432cdf0e95d44d49d9f98cf68c6abb3
+run_name: serious-horse-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749629500109
+status: 3
+tags: []
+user_id: runner
