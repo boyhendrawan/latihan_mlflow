@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8cce5639c484918a36702000e859dd2/artifacts
+end_time: 1749609461088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8cce5639c484918a36702000e859dd2
+run_name: big-finch-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749609327494
+status: 3
+tags: []
+user_id: runner
