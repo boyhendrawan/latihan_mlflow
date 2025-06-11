@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30d1e77593a344a2a5a7d1c1d34262e2/artifacts
+end_time: 1749669402460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30d1e77593a344a2a5a7d1c1d34262e2
+run_name: hilarious-mouse-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749669267554
+status: 3
+tags: []
+user_id: runner
