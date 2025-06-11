@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97bfbe7610ba4e2e844a5bb24f98cb12/artifacts
+end_time: 1749615620403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97bfbe7610ba4e2e844a5bb24f98cb12
+run_name: stylish-fawn-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749615485191
+status: 3
+tags: []
+user_id: runner
