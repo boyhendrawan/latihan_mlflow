@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93fe2dd53d7144cb8ce1976a3c59e5d8/artifacts
+end_time: 1749634666318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93fe2dd53d7144cb8ce1976a3c59e5d8
+run_name: defiant-dolphin-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749634532443
+status: 3
+tags: []
+user_id: runner
