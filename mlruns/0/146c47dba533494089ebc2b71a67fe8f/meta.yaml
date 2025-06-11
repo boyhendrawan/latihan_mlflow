@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/146c47dba533494089ebc2b71a67fe8f/artifacts
+end_time: 1749635058350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146c47dba533494089ebc2b71a67fe8f
+run_name: upset-cub-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749634919910
+status: 3
+tags: []
+user_id: runner
