@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fd1fdf9b3054b5e98c6a2316f0ea7fb/artifacts
+end_time: 1749656179462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fd1fdf9b3054b5e98c6a2316f0ea7fb
+run_name: merciful-smelt-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749656043717
+status: 3
+tags: []
+user_id: runner
