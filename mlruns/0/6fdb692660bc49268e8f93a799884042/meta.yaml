@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6fdb692660bc49268e8f93a799884042/artifacts
+end_time: 1749603281665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fdb692660bc49268e8f93a799884042
+run_name: bemused-dog-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749603145707
+status: 3
+tags: []
+user_id: runner
