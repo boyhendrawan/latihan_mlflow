@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1355c8341e834be29fffe5c0e80edb58/artifacts
+end_time: 1749654419234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1355c8341e834be29fffe5c0e80edb58
+run_name: tasteful-skink-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749654282749
+status: 3
+tags: []
+user_id: runner
