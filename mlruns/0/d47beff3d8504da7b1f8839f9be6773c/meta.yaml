@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d47beff3d8504da7b1f8839f9be6773c/artifacts
+end_time: 1749629251343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47beff3d8504da7b1f8839f9be6773c
+run_name: selective-hound-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749629114419
+status: 3
+tags: []
+user_id: runner
