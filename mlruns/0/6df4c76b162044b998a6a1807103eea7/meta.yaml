@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6df4c76b162044b998a6a1807103eea7/artifacts
+end_time: 1749636213662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df4c76b162044b998a6a1807103eea7
+run_name: colorful-lynx-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749636080210
+status: 3
+tags: []
+user_id: runner
