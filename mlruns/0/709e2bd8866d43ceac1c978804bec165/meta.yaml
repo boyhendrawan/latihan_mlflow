@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/709e2bd8866d43ceac1c978804bec165/artifacts
+end_time: 1749683886250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 709e2bd8866d43ceac1c978804bec165
+run_name: dazzling-elk-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749683748942
+status: 3
+tags: []
+user_id: runner
