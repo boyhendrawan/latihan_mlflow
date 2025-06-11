@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7bd1160e8a5478d9f02e6534f67bc75/artifacts
+end_time: 1749613708246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7bd1160e8a5478d9f02e6534f67bc75
+run_name: unequaled-shrew-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749613570741
+status: 3
+tags: []
+user_id: runner
