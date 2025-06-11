@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fde835237e214c60a87092dfa110e656/artifacts
+end_time: 1749657330806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde835237e214c60a87092dfa110e656
+run_name: trusting-crane-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749657195314
+status: 3
+tags: []
+user_id: runner
