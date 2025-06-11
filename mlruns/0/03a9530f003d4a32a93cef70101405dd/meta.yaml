@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/03a9530f003d4a32a93cef70101405dd/artifacts
+end_time: 1749617919687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03a9530f003d4a32a93cef70101405dd
+run_name: orderly-shrike-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749617784742
+status: 3
+tags: []
+user_id: runner
