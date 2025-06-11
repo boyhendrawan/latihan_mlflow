@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba3b08611068443886bd3abfaaa06008/artifacts
+end_time: 1749602508918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba3b08611068443886bd3abfaaa06008
+run_name: nebulous-snail-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749602373927
+status: 3
+tags: []
+user_id: runner
