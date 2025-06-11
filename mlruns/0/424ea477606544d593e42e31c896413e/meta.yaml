@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/424ea477606544d593e42e31c896413e/artifacts
+end_time: 1749679087230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 424ea477606544d593e42e31c896413e
+run_name: efficient-worm-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749678950899
+status: 3
+tags: []
+user_id: runner
