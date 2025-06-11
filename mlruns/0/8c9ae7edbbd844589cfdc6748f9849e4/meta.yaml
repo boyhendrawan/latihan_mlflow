@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c9ae7edbbd844589cfdc6748f9849e4/artifacts
+end_time: 1749637378005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c9ae7edbbd844589cfdc6748f9849e4
+run_name: honorable-dog-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749637241470
+status: 3
+tags: []
+user_id: runner
