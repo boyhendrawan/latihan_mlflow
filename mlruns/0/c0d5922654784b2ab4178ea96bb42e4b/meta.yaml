@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c0d5922654784b2ab4178ea96bb42e4b/artifacts
+end_time: 1749608302271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0d5922654784b2ab4178ea96bb42e4b
+run_name: puzzled-shad-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749608166016
+status: 3
+tags: []
+user_id: runner
