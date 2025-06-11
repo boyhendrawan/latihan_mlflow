@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe776514ce87491c9ae326865fe93901/artifacts
+end_time: 1749643337814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe776514ce87491c9ae326865fe93901
+run_name: wistful-lynx-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749643201003
+status: 3
+tags: []
+user_id: runner
