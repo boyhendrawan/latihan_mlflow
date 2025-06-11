@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/70b5fd61cb214ef5b8f7229b0951cfd7/artifacts
+end_time: 1749682162942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b5fd61cb214ef5b8f7229b0951cfd7
+run_name: incongruous-koi-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749682027399
+status: 3
+tags: []
+user_id: runner
