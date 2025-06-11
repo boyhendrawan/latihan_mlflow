@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d5204148bd64291abd9e9b71533abda/artifacts
+end_time: 1749672871374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d5204148bd64291abd9e9b71533abda
+run_name: hilarious-asp-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749672735647
+status: 3
+tags: []
+user_id: runner
