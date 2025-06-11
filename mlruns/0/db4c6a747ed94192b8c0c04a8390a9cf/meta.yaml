@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db4c6a747ed94192b8c0c04a8390a9cf/artifacts
+end_time: 1749656370884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4c6a747ed94192b8c0c04a8390a9cf
+run_name: marvelous-snake-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749656235402
+status: 3
+tags: []
+user_id: runner
