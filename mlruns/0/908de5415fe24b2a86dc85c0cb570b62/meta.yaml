@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/908de5415fe24b2a86dc85c0cb570b62/artifacts
+end_time: 1749669979976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 908de5415fe24b2a86dc85c0cb570b62
+run_name: bald-deer-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749669845064
+status: 3
+tags: []
+user_id: runner
