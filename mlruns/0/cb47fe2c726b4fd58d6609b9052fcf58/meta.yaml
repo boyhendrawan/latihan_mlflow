@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb47fe2c726b4fd58d6609b9052fcf58/artifacts
+end_time: 1749616577987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb47fe2c726b4fd58d6609b9052fcf58
+run_name: silent-midge-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749616441019
+status: 3
+tags: []
+user_id: runner
