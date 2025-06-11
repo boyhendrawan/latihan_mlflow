@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63e6a4191488407fbcfdaa7c8142f418/artifacts
+end_time: 1749621181246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e6a4191488407fbcfdaa7c8142f418
+run_name: learned-flea-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749621044772
+status: 3
+tags: []
+user_id: runner
