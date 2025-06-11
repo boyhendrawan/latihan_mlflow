@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b068a995dde49fbb8d3f569f9af5331/artifacts
+end_time: 1749628665521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b068a995dde49fbb8d3f569f9af5331
+run_name: nervous-roo-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749628530259
+status: 3
+tags: []
+user_id: runner
