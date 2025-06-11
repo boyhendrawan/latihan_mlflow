@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22acd49c60cf49adb8eb287659d9594a/artifacts
+end_time: 1749628277714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22acd49c60cf49adb8eb287659d9594a
+run_name: skillful-ant-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749628141854
+status: 3
+tags: []
+user_id: runner
