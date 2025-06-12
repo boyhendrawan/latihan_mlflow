@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34f9d123c5c44b3cbe3dbf7ef273c683/artifacts
+end_time: 1749722291838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34f9d123c5c44b3cbe3dbf7ef273c683
+run_name: valuable-crane-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749722154735
+status: 3
+tags: []
+user_id: runner
