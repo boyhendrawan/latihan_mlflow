@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1530651c5b0e4b57a2dda0a11d1338f3/artifacts
+end_time: 1749749785744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1530651c5b0e4b57a2dda0a11d1338f3
+run_name: nimble-loon-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749650078
+status: 3
+tags: []
+user_id: runner
