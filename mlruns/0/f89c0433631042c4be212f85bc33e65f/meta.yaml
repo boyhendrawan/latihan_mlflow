@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f89c0433631042c4be212f85bc33e65f/artifacts
+end_time: 1749732728884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f89c0433631042c4be212f85bc33e65f
+run_name: nosy-skunk-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749732592243
+status: 3
+tags: []
+user_id: runner
