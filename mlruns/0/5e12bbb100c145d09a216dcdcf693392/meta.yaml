@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e12bbb100c145d09a216dcdcf693392/artifacts
+end_time: 1749769879452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e12bbb100c145d09a216dcdcf693392
+run_name: sassy-shrew-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749769743820
+status: 3
+tags: []
+user_id: runner
