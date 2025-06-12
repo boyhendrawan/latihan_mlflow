@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e8f5030581ea4762a5998996de865040/artifacts
+end_time: 1749700096940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8f5030581ea4762a5998996de865040
+run_name: delicate-steed-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749699962048
+status: 3
+tags: []
+user_id: runner
