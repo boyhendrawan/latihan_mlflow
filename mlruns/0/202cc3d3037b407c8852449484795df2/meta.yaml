@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/202cc3d3037b407c8852449484795df2/artifacts
+end_time: 1749725946338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 202cc3d3037b407c8852449484795df2
+run_name: clumsy-chimp-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749725809888
+status: 3
+tags: []
+user_id: runner
