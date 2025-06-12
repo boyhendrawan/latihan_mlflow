@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2de392431c3c469e981c64af3813bbbb/artifacts
+end_time: 1749764306735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2de392431c3c469e981c64af3813bbbb
+run_name: whimsical-shrike-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749764170830
+status: 3
+tags: []
+user_id: runner
