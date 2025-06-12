@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f86fee7c69144419a570d7e0748962fb/artifacts
+end_time: 1749712992633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f86fee7c69144419a570d7e0748962fb
+run_name: adaptable-asp-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749712856767
+status: 3
+tags: []
+user_id: runner
