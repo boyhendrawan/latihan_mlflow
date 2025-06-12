@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f692153ec3a9478d8d2f41201a2d601e/artifacts
+end_time: 1749746309832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f692153ec3a9478d8d2f41201a2d601e
+run_name: bustling-worm-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749746173518
+status: 3
+tags: []
+user_id: runner
