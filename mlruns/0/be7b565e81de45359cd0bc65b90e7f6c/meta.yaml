@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be7b565e81de45359cd0bc65b90e7f6c/artifacts
+end_time: 1749712224322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be7b565e81de45359cd0bc65b90e7f6c
+run_name: puzzled-duck-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749712097818
+status: 3
+tags: []
+user_id: runner
