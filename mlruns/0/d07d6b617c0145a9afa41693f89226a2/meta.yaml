@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d07d6b617c0145a9afa41693f89226a2/artifacts
+end_time: 1749751526905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07d6b617c0145a9afa41693f89226a2
+run_name: whimsical-trout-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751391372
+status: 3
+tags: []
+user_id: runner
