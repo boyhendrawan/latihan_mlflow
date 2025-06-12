@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/902bdae09cb5412dbb94b3c92d07eda1/artifacts
+end_time: 1749726137398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 902bdae09cb5412dbb94b3c92d07eda1
+run_name: suave-squirrel-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749726000522
+status: 3
+tags: []
+user_id: runner
