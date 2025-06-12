@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6c9036f5c23644e39d8facd8ce818964/artifacts
+end_time: 1749702209453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c9036f5c23644e39d8facd8ce818964
+run_name: wise-croc-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749702073543
+status: 3
+tags: []
+user_id: runner
