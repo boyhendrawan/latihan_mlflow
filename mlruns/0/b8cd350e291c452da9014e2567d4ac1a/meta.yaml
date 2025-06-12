@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8cd350e291c452da9014e2567d4ac1a/artifacts
+end_time: 1749748047692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8cd350e291c452da9014e2567d4ac1a
+run_name: nosy-mole-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747911569
+status: 3
+tags: []
+user_id: runner
