@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf90e78c32614fe283d622d1977d90ef/artifacts
+end_time: 1749722871602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf90e78c32614fe283d622d1977d90ef
+run_name: auspicious-mole-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749722735134
+status: 3
+tags: []
+user_id: runner
