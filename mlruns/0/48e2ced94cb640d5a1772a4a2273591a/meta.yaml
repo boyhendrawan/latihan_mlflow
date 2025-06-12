@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/48e2ced94cb640d5a1772a4a2273591a/artifacts
+end_time: 1749705701775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48e2ced94cb640d5a1772a4a2273591a
+run_name: puzzled-grouse-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749705564168
+status: 3
+tags: []
+user_id: runner
