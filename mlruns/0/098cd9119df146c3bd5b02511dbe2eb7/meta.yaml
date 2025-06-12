@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/098cd9119df146c3bd5b02511dbe2eb7/artifacts
+end_time: 1749731568975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 098cd9119df146c3bd5b02511dbe2eb7
+run_name: kindly-rook-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749731433888
+status: 3
+tags: []
+user_id: runner
