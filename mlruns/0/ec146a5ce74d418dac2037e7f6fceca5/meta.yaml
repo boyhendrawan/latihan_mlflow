@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec146a5ce74d418dac2037e7f6fceca5/artifacts
+end_time: 1749724977249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec146a5ce74d418dac2037e7f6fceca5
+run_name: auspicious-mare-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749724841862
+status: 3
+tags: []
+user_id: runner
