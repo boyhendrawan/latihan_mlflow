@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/45b61e6c43ec468699c307232f612829/artifacts
+end_time: 1749749400630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45b61e6c43ec468699c307232f612829
+run_name: powerful-carp-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749265508
+status: 3
+tags: []
+user_id: runner
