@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c4cf690e01149bdb5fea8d95e515814/artifacts
+end_time: 1749693153893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c4cf690e01149bdb5fea8d95e515814
+run_name: sincere-stork-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693018268
+status: 3
+tags: []
+user_id: runner
