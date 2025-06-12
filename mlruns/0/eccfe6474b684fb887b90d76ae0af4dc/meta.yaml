@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eccfe6474b684fb887b90d76ae0af4dc/artifacts
+end_time: 1749705317231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eccfe6474b684fb887b90d76ae0af4dc
+run_name: suave-mouse-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749705179490
+status: 3
+tags: []
+user_id: runner
