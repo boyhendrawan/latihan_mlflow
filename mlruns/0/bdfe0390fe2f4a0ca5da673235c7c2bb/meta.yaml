@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bdfe0390fe2f4a0ca5da673235c7c2bb/artifacts
+end_time: 1749687754910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdfe0390fe2f4a0ca5da673235c7c2bb
+run_name: loud-snail-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749687618771
+status: 3
+tags: []
+user_id: runner
