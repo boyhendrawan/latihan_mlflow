@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0082b11aeb8f4ab39bb93c48d4f15d76/artifacts
+end_time: 1749715688729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0082b11aeb8f4ab39bb93c48d4f15d76
+run_name: dazzling-grouse-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749715553453
+status: 3
+tags: []
+user_id: runner
