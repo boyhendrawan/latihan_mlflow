@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0336cef84594848af482efc0c4c9b94/artifacts
+end_time: 1749702017742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0336cef84594848af482efc0c4c9b94
+run_name: victorious-owl-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749701881938
+status: 3
+tags: []
+user_id: runner
