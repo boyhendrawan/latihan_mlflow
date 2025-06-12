@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dba954f9571145dbaa54a07bea2b0989/artifacts
+end_time: 1749720731044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba954f9571145dbaa54a07bea2b0989
+run_name: caring-ray-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749720596742
+status: 3
+tags: []
+user_id: runner
