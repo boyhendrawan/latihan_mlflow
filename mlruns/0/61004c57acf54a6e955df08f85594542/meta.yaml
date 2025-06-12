@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/61004c57acf54a6e955df08f85594542/artifacts
+end_time: 1749754065725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61004c57acf54a6e955df08f85594542
+run_name: upbeat-worm-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753930157
+status: 3
+tags: []
+user_id: runner
