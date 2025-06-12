@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/516f5a48259d484a8b4fc60f6ad473b2/artifacts
+end_time: 1749720542382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516f5a48259d484a8b4fc60f6ad473b2
+run_name: stately-hawk-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749720405093
+status: 3
+tags: []
+user_id: runner
