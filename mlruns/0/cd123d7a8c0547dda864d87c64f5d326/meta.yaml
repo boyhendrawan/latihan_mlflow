@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cd123d7a8c0547dda864d87c64f5d326/artifacts
+end_time: 1749757136777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd123d7a8c0547dda864d87c64f5d326
+run_name: bemused-boar-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749757000714
+status: 3
+tags: []
+user_id: runner
