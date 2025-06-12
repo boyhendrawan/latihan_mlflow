@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1cada352bf6442dca0fc6a2c8728b3ed/artifacts
+end_time: 1749714338737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cada352bf6442dca0fc6a2c8728b3ed
+run_name: delightful-wasp-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749714202528
+status: 3
+tags: []
+user_id: runner
