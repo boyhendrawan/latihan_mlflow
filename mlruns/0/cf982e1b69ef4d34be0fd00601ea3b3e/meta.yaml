@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf982e1b69ef4d34be0fd00601ea3b3e/artifacts
+end_time: 1749709371626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf982e1b69ef4d34be0fd00601ea3b3e
+run_name: puzzled-wolf-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749709235531
+status: 3
+tags: []
+user_id: runner
