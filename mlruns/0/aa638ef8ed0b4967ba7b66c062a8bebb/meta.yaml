@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa638ef8ed0b4967ba7b66c062a8bebb/artifacts
+end_time: 1749743421926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa638ef8ed0b4967ba7b66c062a8bebb
+run_name: learned-conch-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749743283625
+status: 3
+tags: []
+user_id: runner
