@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9de4838a074f4950baff5331d256c7cc/artifacts
+end_time: 1749771419114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9de4838a074f4950baff5331d256c7cc
+run_name: luxuriant-sow-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749771284119
+status: 3
+tags: []
+user_id: runner
