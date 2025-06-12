@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/142abe43fef843bf8dfab5505b768941/artifacts
+end_time: 1749743221759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 142abe43fef843bf8dfab5505b768941
+run_name: resilient-tern-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749743084932
+status: 3
+tags: []
+user_id: runner
