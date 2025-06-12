@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71cf90070a304681a2521aef47d0caa6/artifacts
+end_time: 1749743025130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71cf90070a304681a2521aef47d0caa6
+run_name: merciful-seal-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749742889489
+status: 3
+tags: []
+user_id: runner
