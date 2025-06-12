@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7deb2090de7343209f728d0aba51f910/artifacts
+end_time: 1749766613920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7deb2090de7343209f728d0aba51f910
+run_name: fortunate-snake-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749766477204
+status: 3
+tags: []
+user_id: runner
