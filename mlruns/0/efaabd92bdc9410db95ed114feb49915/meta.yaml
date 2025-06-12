@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/efaabd92bdc9410db95ed114feb49915/artifacts
+end_time: 1749765842090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efaabd92bdc9410db95ed114feb49915
+run_name: bouncy-carp-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749765707156
+status: 3
+tags: []
+user_id: runner
