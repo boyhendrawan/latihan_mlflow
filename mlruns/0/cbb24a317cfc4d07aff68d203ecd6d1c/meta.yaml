@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cbb24a317cfc4d07aff68d203ecd6d1c/artifacts
+end_time: 1749711654627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbb24a317cfc4d07aff68d203ecd6d1c
+run_name: melodic-chimp-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749711517252
+status: 3
+tags: []
+user_id: runner
