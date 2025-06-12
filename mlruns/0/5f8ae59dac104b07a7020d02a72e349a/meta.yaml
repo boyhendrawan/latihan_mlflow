@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5f8ae59dac104b07a7020d02a72e349a/artifacts
+end_time: 1749699318489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f8ae59dac104b07a7020d02a72e349a
+run_name: rumbling-shark-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749699180996
+status: 3
+tags: []
+user_id: runner
