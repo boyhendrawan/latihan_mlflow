@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a538a05b6d604a6da2cea5ba22981a9b/artifacts
+end_time: 1749723820328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a538a05b6d604a6da2cea5ba22981a9b
+run_name: respected-hare-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749723684563
+status: 3
+tags: []
+user_id: runner
