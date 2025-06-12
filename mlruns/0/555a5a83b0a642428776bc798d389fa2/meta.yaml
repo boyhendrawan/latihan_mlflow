@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/555a5a83b0a642428776bc798d389fa2/artifacts
+end_time: 1749717049859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 555a5a83b0a642428776bc798d389fa2
+run_name: learned-skink-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749716909826
+status: 3
+tags: []
+user_id: runner
