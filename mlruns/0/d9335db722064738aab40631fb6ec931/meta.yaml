@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9335db722064738aab40631fb6ec931/artifacts
+end_time: 1749761397783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9335db722064738aab40631fb6ec931
+run_name: legendary-grub-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749761260584
+status: 3
+tags: []
+user_id: runner
