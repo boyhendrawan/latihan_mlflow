@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/994b7af3b89749878cc2b513c0ac378e/artifacts
+end_time: 1749690262668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994b7af3b89749878cc2b513c0ac378e
+run_name: monumental-snail-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749690127767
+status: 3
+tags: []
+user_id: runner
