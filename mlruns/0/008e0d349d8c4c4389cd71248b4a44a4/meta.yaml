@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/008e0d349d8c4c4389cd71248b4a44a4/artifacts
+end_time: 1749692386059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 008e0d349d8c4c4389cd71248b4a44a4
+run_name: whimsical-hog-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749692250072
+status: 3
+tags: []
+user_id: runner
