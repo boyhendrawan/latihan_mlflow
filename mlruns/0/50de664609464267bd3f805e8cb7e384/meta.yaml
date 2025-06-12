@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50de664609464267bd3f805e8cb7e384/artifacts
+end_time: 1749745923946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50de664609464267bd3f805e8cb7e384
+run_name: flawless-croc-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749745785065
+status: 3
+tags: []
+user_id: runner
