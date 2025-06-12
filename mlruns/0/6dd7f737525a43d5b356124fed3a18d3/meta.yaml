@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6dd7f737525a43d5b356124fed3a18d3/artifacts
+end_time: 1749759258441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dd7f737525a43d5b356124fed3a18d3
+run_name: bedecked-owl-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749759122525
+status: 3
+tags: []
+user_id: runner
