@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68f729cc29304691b6c2a1e1d188932c/artifacts
+end_time: 1749761205166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68f729cc29304691b6c2a1e1d188932c
+run_name: gifted-ape-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749761068881
+status: 3
+tags: []
+user_id: runner
