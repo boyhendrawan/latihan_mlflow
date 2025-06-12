@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c13924d74e945abb73e9be3ad761e77/artifacts
+end_time: 1749718212909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c13924d74e945abb73e9be3ad761e77
+run_name: puzzled-ant-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718076355
+status: 3
+tags: []
+user_id: runner
