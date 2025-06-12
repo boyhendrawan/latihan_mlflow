@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a97b4b99ec946aebe03fc484f1f9188/artifacts
+end_time: 1749724396492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a97b4b99ec946aebe03fc484f1f9188
+run_name: legendary-zebra-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749724261270
+status: 3
+tags: []
+user_id: runner
