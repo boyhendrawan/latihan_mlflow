@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1dcf19f86d244276af97be5a7bc0ea56/artifacts
+end_time: 1749747854306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dcf19f86d244276af97be5a7bc0ea56
+run_name: merciful-roo-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747718912
+status: 3
+tags: []
+user_id: runner
