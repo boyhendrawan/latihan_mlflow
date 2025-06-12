@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b11e813c9fbc4c4dbece6d923082feaa/artifacts
+end_time: 1749711080296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b11e813c9fbc4c4dbece6d923082feaa
+run_name: smiling-shark-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749710952625
+status: 3
+tags: []
+user_id: runner
