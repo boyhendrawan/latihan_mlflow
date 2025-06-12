@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac2ec815ee22498aa1ce0fb52ac1344b/artifacts
+end_time: 1749688142534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac2ec815ee22498aa1ce0fb52ac1344b
+run_name: tasteful-carp-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749688006699
+status: 3
+tags: []
+user_id: runner
