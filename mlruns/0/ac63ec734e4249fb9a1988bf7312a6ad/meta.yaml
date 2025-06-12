@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac63ec734e4249fb9a1988bf7312a6ad/artifacts
+end_time: 1749691217656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac63ec734e4249fb9a1988bf7312a6ad
+run_name: victorious-dove-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749691081779
+status: 3
+tags: []
+user_id: runner
