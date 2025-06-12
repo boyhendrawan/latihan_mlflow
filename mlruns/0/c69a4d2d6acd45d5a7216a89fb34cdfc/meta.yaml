@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c69a4d2d6acd45d5a7216a89fb34cdfc/artifacts
+end_time: 1749699122300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c69a4d2d6acd45d5a7216a89fb34cdfc
+run_name: zealous-mole-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749698987390
+status: 3
+tags: []
+user_id: runner
