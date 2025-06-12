@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a3852ae989f94d5a8b45cc631a09ebb7/artifacts
+end_time: 1749728079070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3852ae989f94d5a8b45cc631a09ebb7
+run_name: polite-ray-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749727941414
+status: 3
+tags: []
+user_id: runner
