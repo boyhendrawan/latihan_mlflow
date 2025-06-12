@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/13ab92a8d77d4178a0411d7767bdb915/artifacts
+end_time: 1749768923099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ab92a8d77d4178a0411d7767bdb915
+run_name: victorious-dog-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749768787150
+status: 3
+tags: []
+user_id: runner
