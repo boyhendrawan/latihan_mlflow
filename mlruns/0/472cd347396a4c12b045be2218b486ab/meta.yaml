@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/472cd347396a4c12b045be2218b486ab/artifacts
+end_time: 1749698735530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 472cd347396a4c12b045be2218b486ab
+run_name: casual-fly-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749698599319
+status: 3
+tags: []
+user_id: runner
