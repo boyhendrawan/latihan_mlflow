@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2df5b23d2b94325a4e91170b87a8ccc/artifacts
+end_time: 1749715881618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2df5b23d2b94325a4e91170b87a8ccc
+run_name: clean-hawk-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749715746601
+status: 3
+tags: []
+user_id: runner
