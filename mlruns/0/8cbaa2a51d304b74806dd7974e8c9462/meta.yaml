@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cbaa2a51d304b74806dd7974e8c9462/artifacts
+end_time: 1749689111170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cbaa2a51d304b74806dd7974e8c9462
+run_name: thundering-bird-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749688975667
+status: 3
+tags: []
+user_id: runner
