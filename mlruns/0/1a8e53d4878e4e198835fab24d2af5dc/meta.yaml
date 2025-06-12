@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a8e53d4878e4e198835fab24d2af5dc/artifacts
+end_time: 1749760821657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a8e53d4878e4e198835fab24d2af5dc
+run_name: polite-jay-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749760686757
+status: 3
+tags: []
+user_id: runner
