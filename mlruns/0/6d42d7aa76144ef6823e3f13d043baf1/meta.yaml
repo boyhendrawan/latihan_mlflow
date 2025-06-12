@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6d42d7aa76144ef6823e3f13d043baf1/artifacts
+end_time: 1749763534371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d42d7aa76144ef6823e3f13d043baf1
+run_name: unruly-worm-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749763396032
+status: 3
+tags: []
+user_id: runner
