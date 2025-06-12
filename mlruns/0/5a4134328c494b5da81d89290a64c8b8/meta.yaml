@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5a4134328c494b5da81d89290a64c8b8/artifacts
+end_time: 1749742255804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a4134328c494b5da81d89290a64c8b8
+run_name: polite-sow-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749742120724
+status: 3
+tags: []
+user_id: runner
