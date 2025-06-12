@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc29908dc8fe4a158b8620e27738fa74/artifacts
+end_time: 1749718595888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc29908dc8fe4a158b8620e27738fa74
+run_name: indecisive-flea-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718460662
+status: 3
+tags: []
+user_id: runner
