@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/133b4a8b27d84223a6305cc582904c76/artifacts
+end_time: 1749746890205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 133b4a8b27d84223a6305cc582904c76
+run_name: carefree-rook-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749746755265
+status: 3
+tags: []
+user_id: runner
