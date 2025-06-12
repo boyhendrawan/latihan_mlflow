@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57287208543c4f978c1e13bf159e50cc/artifacts
+end_time: 1749728273300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57287208543c4f978c1e13bf159e50cc
+run_name: gentle-hog-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749728136255
+status: 3
+tags: []
+user_id: runner
