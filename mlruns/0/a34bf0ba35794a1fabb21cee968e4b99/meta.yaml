@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a34bf0ba35794a1fabb21cee968e4b99/artifacts
+end_time: 1749770648102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a34bf0ba35794a1fabb21cee968e4b99
+run_name: nervous-squirrel-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749770513593
+status: 3
+tags: []
+user_id: runner
