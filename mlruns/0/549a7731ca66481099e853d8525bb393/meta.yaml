@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/549a7731ca66481099e853d8525bb393/artifacts
+end_time: 1749751917914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 549a7731ca66481099e853d8525bb393
+run_name: stately-ray-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751781062
+status: 3
+tags: []
+user_id: runner
