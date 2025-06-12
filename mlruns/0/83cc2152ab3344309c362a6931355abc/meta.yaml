@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83cc2152ab3344309c362a6931355abc/artifacts
+end_time: 1749735251725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83cc2152ab3344309c362a6931355abc
+run_name: awesome-foal-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749735117281
+status: 3
+tags: []
+user_id: runner
