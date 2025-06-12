@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc2825b1865b454b90782ff380662550/artifacts
+end_time: 1749705121092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc2825b1865b454b90782ff380662550
+run_name: painted-wasp-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749704984705
+status: 3
+tags: []
+user_id: runner
