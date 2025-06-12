@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/217e4f4c58204a16aa626454738cea7b/artifacts
+end_time: 1749763725299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 217e4f4c58204a16aa626454738cea7b
+run_name: bold-wasp-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749763589442
+status: 3
+tags: []
+user_id: runner
