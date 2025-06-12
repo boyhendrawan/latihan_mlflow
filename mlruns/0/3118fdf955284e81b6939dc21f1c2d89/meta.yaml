@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3118fdf955284e81b6939dc21f1c2d89/artifacts
+end_time: 1749741487275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3118fdf955284e81b6939dc21f1c2d89
+run_name: able-grub-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749741351149
+status: 3
+tags: []
+user_id: runner
