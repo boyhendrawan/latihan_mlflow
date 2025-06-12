@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aee0eea579d8468d90e32be75d367a81/artifacts
+end_time: 1749735449022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aee0eea579d8468d90e32be75d367a81
+run_name: orderly-cow-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749735311306
+status: 3
+tags: []
+user_id: runner
