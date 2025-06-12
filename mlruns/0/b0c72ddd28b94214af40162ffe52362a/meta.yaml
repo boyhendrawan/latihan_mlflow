@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0c72ddd28b94214af40162ffe52362a/artifacts
+end_time: 1749712802898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c72ddd28b94214af40162ffe52362a
+run_name: defiant-grub-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749712664333
+status: 3
+tags: []
+user_id: runner
