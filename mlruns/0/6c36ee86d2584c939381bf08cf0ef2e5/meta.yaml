@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6c36ee86d2584c939381bf08cf0ef2e5/artifacts
+end_time: 1749729804563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c36ee86d2584c939381bf08cf0ef2e5
+run_name: industrious-roo-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749729667846
+status: 3
+tags: []
+user_id: runner
