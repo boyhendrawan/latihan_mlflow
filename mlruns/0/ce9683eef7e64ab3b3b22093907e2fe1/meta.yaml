@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ce9683eef7e64ab3b3b22093907e2fe1/artifacts
+end_time: 1749730605159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce9683eef7e64ab3b3b22093907e2fe1
+run_name: rare-crow-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749730463123
+status: 3
+tags: []
+user_id: runner
