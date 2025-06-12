@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e55716bf85d94985b4dfff7362cbbb4d/artifacts
+end_time: 1749763145932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e55716bf85d94985b4dfff7362cbbb4d
+run_name: clean-robin-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749763008992
+status: 3
+tags: []
+user_id: runner
