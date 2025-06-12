@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f6182828d554cdd87a3665540afec1f/artifacts
+end_time: 1749726328140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f6182828d554cdd87a3665540afec1f
+run_name: legendary-deer-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749726192040
+status: 3
+tags: []
+user_id: runner
