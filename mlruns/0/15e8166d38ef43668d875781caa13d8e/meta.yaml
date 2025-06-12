@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15e8166d38ef43668d875781caa13d8e/artifacts
+end_time: 1749696809340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e8166d38ef43668d875781caa13d8e
+run_name: delicate-penguin-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749696673558
+status: 3
+tags: []
+user_id: runner
