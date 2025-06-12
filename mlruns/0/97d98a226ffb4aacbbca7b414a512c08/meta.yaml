@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97d98a226ffb4aacbbca7b414a512c08/artifacts
+end_time: 1749766421403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d98a226ffb4aacbbca7b414a512c08
+run_name: exultant-crane-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749766285221
+status: 3
+tags: []
+user_id: runner
