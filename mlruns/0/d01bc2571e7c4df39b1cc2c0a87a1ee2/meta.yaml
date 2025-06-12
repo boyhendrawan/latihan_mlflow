@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d01bc2571e7c4df39b1cc2c0a87a1ee2/artifacts
+end_time: 1749729227640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d01bc2571e7c4df39b1cc2c0a87a1ee2
+run_name: clean-bug-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749729092694
+status: 3
+tags: []
+user_id: runner
