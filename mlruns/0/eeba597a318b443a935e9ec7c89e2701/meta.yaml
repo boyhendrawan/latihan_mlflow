@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eeba597a318b443a935e9ec7c89e2701/artifacts
+end_time: 1749749978990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeba597a318b443a935e9ec7c89e2701
+run_name: blushing-whale-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749843606
+status: 3
+tags: []
+user_id: runner
