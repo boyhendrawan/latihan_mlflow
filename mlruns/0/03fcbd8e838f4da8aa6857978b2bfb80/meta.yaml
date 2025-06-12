@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/03fcbd8e838f4da8aa6857978b2bfb80/artifacts
+end_time: 1749711269142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03fcbd8e838f4da8aa6857978b2bfb80
+run_name: illustrious-calf-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749711134238
+status: 3
+tags: []
+user_id: runner
