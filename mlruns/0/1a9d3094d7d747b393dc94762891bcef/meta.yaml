@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a9d3094d7d747b393dc94762891bcef/artifacts
+end_time: 1749696618912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a9d3094d7d747b393dc94762891bcef
+run_name: traveling-carp-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749696483402
+status: 3
+tags: []
+user_id: runner
