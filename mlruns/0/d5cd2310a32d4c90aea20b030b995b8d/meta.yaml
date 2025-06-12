@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d5cd2310a32d4c90aea20b030b995b8d/artifacts
+end_time: 1749750562502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5cd2310a32d4c90aea20b030b995b8d
+run_name: abrasive-bat-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749750426124
+status: 3
+tags: []
+user_id: runner
