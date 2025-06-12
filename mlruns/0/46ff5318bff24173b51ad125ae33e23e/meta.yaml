@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46ff5318bff24173b51ad125ae33e23e/artifacts
+end_time: 1749765076640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46ff5318bff24173b51ad125ae33e23e
+run_name: bemused-deer-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749764940433
+status: 3
+tags: []
+user_id: runner
