@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0c7d84e0e9b84321aff00aca032c607a/artifacts
+end_time: 1749700290022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7d84e0e9b84321aff00aca032c607a
+run_name: tasteful-snake-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749700154237
+status: 3
+tags: []
+user_id: runner
