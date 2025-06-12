@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/61b72f7a3dae45178edc4ba24cf4d998/artifacts
+end_time: 1749703759315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61b72f7a3dae45178edc4ba24cf4d998
+run_name: enthused-ant-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749703624609
+status: 3
+tags: []
+user_id: runner
