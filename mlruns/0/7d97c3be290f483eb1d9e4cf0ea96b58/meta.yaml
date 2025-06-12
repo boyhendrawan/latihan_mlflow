@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7d97c3be290f483eb1d9e4cf0ea96b58/artifacts
+end_time: 1749689496184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d97c3be290f483eb1d9e4cf0ea96b58
+run_name: burly-ox-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749689361223
+status: 3
+tags: []
+user_id: runner
