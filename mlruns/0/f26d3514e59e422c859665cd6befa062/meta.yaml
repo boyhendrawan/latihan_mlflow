@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f26d3514e59e422c859665cd6befa062/artifacts
+end_time: 1749722097418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f26d3514e59e422c859665cd6befa062
+run_name: bustling-zebra-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749721961538
+status: 3
+tags: []
+user_id: runner
