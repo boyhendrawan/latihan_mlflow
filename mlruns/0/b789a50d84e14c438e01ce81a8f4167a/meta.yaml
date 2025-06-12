@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b789a50d84e14c438e01ce81a8f4167a/artifacts
+end_time: 1749749210606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b789a50d84e14c438e01ce81a8f4167a
+run_name: amazing-flea-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749074500
+status: 3
+tags: []
+user_id: runner
