@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/44d4569d4895412cbff86ad592ac03ca/artifacts
+end_time: 1749742447177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44d4569d4895412cbff86ad592ac03ca
+run_name: righteous-rat-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749742311217
+status: 3
+tags: []
+user_id: runner
