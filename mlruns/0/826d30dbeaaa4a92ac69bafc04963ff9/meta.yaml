@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/826d30dbeaaa4a92ac69bafc04963ff9/artifacts
+end_time: 1749767576239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 826d30dbeaaa4a92ac69bafc04963ff9
+run_name: unequaled-gnu-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749767439632
+status: 3
+tags: []
+user_id: runner
