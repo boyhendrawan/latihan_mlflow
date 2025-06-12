@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee09851d8eb64173ad29dfcf63fd7c2e/artifacts
+end_time: 1749717631066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee09851d8eb64173ad29dfcf63fd7c2e
+run_name: caring-kit-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749717493904
+status: 3
+tags: []
+user_id: runner
