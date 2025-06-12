@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3386893aa2f545bda2ded310a8ac8ec3/artifacts
+end_time: 1749721903887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3386893aa2f545bda2ded310a8ac8ec3
+run_name: serious-vole-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749721766989
+status: 3
+tags: []
+user_id: runner
