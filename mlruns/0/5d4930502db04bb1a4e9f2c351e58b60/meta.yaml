@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d4930502db04bb1a4e9f2c351e58b60/artifacts
+end_time: 1749754838108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4930502db04bb1a4e9f2c351e58b60
+run_name: indecisive-snipe-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749754703378
+status: 3
+tags: []
+user_id: runner
