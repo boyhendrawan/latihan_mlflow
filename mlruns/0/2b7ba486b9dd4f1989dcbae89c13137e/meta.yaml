@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b7ba486b9dd4f1989dcbae89c13137e/artifacts
+end_time: 1749703953126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b7ba486b9dd4f1989dcbae89c13137e
+run_name: dashing-ape-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749703816461
+status: 3
+tags: []
+user_id: runner
