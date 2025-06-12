@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f87c59692bd4e458b69a95ea454936e/artifacts
+end_time: 1749718791080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f87c59692bd4e458b69a95ea454936e
+run_name: colorful-crane-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718653073
+status: 3
+tags: []
+user_id: runner
