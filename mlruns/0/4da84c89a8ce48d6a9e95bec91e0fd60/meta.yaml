@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4da84c89a8ce48d6a9e95bec91e0fd60/artifacts
+end_time: 1749759652801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da84c89a8ce48d6a9e95bec91e0fd60
+run_name: mysterious-frog-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749759518060
+status: 3
+tags: []
+user_id: runner
