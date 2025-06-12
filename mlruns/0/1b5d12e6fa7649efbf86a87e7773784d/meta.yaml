@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b5d12e6fa7649efbf86a87e7773784d/artifacts
+end_time: 1749726531696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b5d12e6fa7649efbf86a87e7773784d
+run_name: nosy-cub-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749726391529
+status: 3
+tags: []
+user_id: runner
