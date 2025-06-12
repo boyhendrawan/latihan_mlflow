@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d9858a07fed428a81ce22cc89bcfffa/artifacts
+end_time: 1749705506452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d9858a07fed428a81ce22cc89bcfffa
+run_name: carefree-elk-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749705372148
+status: 3
+tags: []
+user_id: runner
