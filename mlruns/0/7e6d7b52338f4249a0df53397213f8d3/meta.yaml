@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e6d7b52338f4249a0df53397213f8d3/artifacts
+end_time: 1749741292930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e6d7b52338f4249a0df53397213f8d3
+run_name: painted-calf-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749741156882
+status: 3
+tags: []
+user_id: runner
