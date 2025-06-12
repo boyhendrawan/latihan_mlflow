@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21983169658d4ccd8b67eb47af6b7971/artifacts
+end_time: 1749688521741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21983169658d4ccd8b67eb47af6b7971
+run_name: melodic-smelt-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749688387395
+status: 3
+tags: []
+user_id: runner
