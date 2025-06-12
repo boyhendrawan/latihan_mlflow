@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd20bcbf346d4d36b6e4ac0d75cebb33/artifacts
+end_time: 1749710525380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd20bcbf346d4d36b6e4ac0d75cebb33
+run_name: popular-skink-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749710389790
+status: 3
+tags: []
+user_id: runner
