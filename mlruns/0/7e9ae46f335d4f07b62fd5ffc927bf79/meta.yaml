@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e9ae46f335d4f07b62fd5ffc927bf79/artifacts
+end_time: 1749693739515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e9ae46f335d4f07b62fd5ffc927bf79
+run_name: bouncy-calf-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693602456
+status: 3
+tags: []
+user_id: runner
