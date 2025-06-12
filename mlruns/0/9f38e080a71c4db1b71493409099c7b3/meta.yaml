@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f38e080a71c4db1b71493409099c7b3/artifacts
+end_time: 1749755225989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f38e080a71c4db1b71493409099c7b3
+run_name: redolent-mole-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749755089205
+status: 3
+tags: []
+user_id: runner
