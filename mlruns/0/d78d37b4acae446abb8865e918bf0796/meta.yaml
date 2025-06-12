@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d78d37b4acae446abb8865e918bf0796/artifacts
+end_time: 1749749018004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d78d37b4acae446abb8865e918bf0796
+run_name: overjoyed-pig-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748881338
+status: 3
+tags: []
+user_id: runner
