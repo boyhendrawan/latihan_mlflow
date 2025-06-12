@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/229cf50c2a7c4c9c883b87b5ccc88ef8/artifacts
+end_time: 1749727491535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 229cf50c2a7c4c9c883b87b5ccc88ef8
+run_name: persistent-lynx-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749727355876
+status: 3
+tags: []
+user_id: runner
