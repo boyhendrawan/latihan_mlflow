@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8b36ccd831448df8a0c7bdfb19c9d35/artifacts
+end_time: 1749732344504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b36ccd831448df8a0c7bdfb19c9d35
+run_name: brawny-stag-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749732208520
+status: 3
+tags: []
+user_id: runner
