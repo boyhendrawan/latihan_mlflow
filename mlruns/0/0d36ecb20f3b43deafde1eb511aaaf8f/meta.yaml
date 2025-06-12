@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0d36ecb20f3b43deafde1eb511aaaf8f/artifacts
+end_time: 1749712414671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d36ecb20f3b43deafde1eb511aaaf8f
+run_name: delightful-boar-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749712279969
+status: 3
+tags: []
+user_id: runner
