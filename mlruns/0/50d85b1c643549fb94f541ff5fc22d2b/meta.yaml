@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50d85b1c643549fb94f541ff5fc22d2b/artifacts
+end_time: 1749714913389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50d85b1c643549fb94f541ff5fc22d2b
+run_name: abrasive-flea-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749714777674
+status: 3
+tags: []
+user_id: runner
