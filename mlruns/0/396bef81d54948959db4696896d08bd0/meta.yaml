@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/396bef81d54948959db4696896d08bd0/artifacts
+end_time: 1749751141457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 396bef81d54948959db4696896d08bd0
+run_name: bold-moth-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751005753
+status: 3
+tags: []
+user_id: runner
