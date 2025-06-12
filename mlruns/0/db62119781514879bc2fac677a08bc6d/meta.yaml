@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db62119781514879bc2fac677a08bc6d/artifacts
+end_time: 1749743612797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db62119781514879bc2fac677a08bc6d
+run_name: legendary-whale-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749743477262
+status: 3
+tags: []
+user_id: runner
