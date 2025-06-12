@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c03b6536d9b428bb97bcb11a40eb3bc/artifacts
+end_time: 1749689686008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c03b6536d9b428bb97bcb11a40eb3bc
+run_name: nimble-fawn-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749689550673
+status: 3
+tags: []
+user_id: runner
