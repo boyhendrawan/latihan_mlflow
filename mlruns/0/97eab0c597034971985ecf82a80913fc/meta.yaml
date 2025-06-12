@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97eab0c597034971985ecf82a80913fc/artifacts
+end_time: 1749707626283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97eab0c597034971985ecf82a80913fc
+run_name: merciful-bear-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749707490807
+status: 3
+tags: []
+user_id: runner
