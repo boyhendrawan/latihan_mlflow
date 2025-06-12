@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db63fbb67d0b45eaa14670599c350e0a/artifacts
+end_time: 1749693343866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db63fbb67d0b45eaa14670599c350e0a
+run_name: bemused-crane-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749693208665
+status: 3
+tags: []
+user_id: runner
