@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/016bd08db62e4bbfa05102fb57c03eb1/artifacts
+end_time: 1749745540997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 016bd08db62e4bbfa05102fb57c03eb1
+run_name: resilient-stag-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749745405087
+status: 3
+tags: []
+user_id: runner
