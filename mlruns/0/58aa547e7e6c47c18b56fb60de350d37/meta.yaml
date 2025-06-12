@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/58aa547e7e6c47c18b56fb60de350d37/artifacts
+end_time: 1749760240907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58aa547e7e6c47c18b56fb60de350d37
+run_name: glamorous-stag-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749760095759
+status: 3
+tags: []
+user_id: runner
