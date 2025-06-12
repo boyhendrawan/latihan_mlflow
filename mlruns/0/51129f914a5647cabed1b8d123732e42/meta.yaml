@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51129f914a5647cabed1b8d123732e42/artifacts
+end_time: 1749708988908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51129f914a5647cabed1b8d123732e42
+run_name: crawling-dove-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749708852716
+status: 3
+tags: []
+user_id: runner
