@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ca9ccdc27af46ee8cc8ba0eb5f16a1a/artifacts
+end_time: 1749734674145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca9ccdc27af46ee8cc8ba0eb5f16a1a
+run_name: victorious-carp-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749734538447
+status: 3
+tags: []
+user_id: runner
