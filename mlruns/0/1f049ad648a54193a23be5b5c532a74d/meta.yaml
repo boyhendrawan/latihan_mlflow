@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f049ad648a54193a23be5b5c532a74d/artifacts
+end_time: 1749755606662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f049ad648a54193a23be5b5c532a74d
+run_name: bold-ox-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749755471894
+status: 3
+tags: []
+user_id: runner
