@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/268d09c322bb402fbb1aafec71a3177e/artifacts
+end_time: 1749748822909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 268d09c322bb402fbb1aafec71a3177e
+run_name: gaudy-goat-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748687710
+status: 3
+tags: []
+user_id: runner
