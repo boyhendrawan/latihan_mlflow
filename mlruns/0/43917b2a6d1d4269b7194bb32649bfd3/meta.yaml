@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43917b2a6d1d4269b7194bb32649bfd3/artifacts
+end_time: 1749744581102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43917b2a6d1d4269b7194bb32649bfd3
+run_name: angry-roo-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749744445601
+status: 3
+tags: []
+user_id: runner
