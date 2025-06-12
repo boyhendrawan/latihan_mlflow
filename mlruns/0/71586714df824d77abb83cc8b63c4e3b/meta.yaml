@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71586714df824d77abb83cc8b63c4e3b/artifacts
+end_time: 1749695671120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71586714df824d77abb83cc8b63c4e3b
+run_name: smiling-hawk-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749695536195
+status: 3
+tags: []
+user_id: runner
