@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d73ddad1078d40c8b7873fae9bcafc39/artifacts
+end_time: 1749706276065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d73ddad1078d40c8b7873fae9bcafc39
+run_name: thundering-smelt-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749706140743
+status: 3
+tags: []
+user_id: runner
