@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/551f1a178c794e81b57a18b7af7caaf1/artifacts
+end_time: 1749692194888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 551f1a178c794e81b57a18b7af7caaf1
+run_name: serious-elk-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749692058080
+status: 3
+tags: []
+user_id: runner
