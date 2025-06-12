@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7a22036ee57b401586c7a58a2f4569d7/artifacts
+end_time: 1749713180568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a22036ee57b401586c7a58a2f4569d7
+run_name: stylish-stoat-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749713046021
+status: 3
+tags: []
+user_id: runner
