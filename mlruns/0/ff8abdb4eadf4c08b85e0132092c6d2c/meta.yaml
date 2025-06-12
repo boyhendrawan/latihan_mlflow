@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff8abdb4eadf4c08b85e0132092c6d2c/artifacts
+end_time: 1749706473596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8abdb4eadf4c08b85e0132092c6d2c
+run_name: big-skink-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749706335732
+status: 3
+tags: []
+user_id: runner
