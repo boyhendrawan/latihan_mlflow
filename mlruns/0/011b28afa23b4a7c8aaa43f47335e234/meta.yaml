@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/011b28afa23b4a7c8aaa43f47335e234/artifacts
+end_time: 1749763336475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 011b28afa23b4a7c8aaa43f47335e234
+run_name: enchanting-wolf-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749763200985
+status: 3
+tags: []
+user_id: runner
