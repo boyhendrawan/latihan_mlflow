@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ca19c30e936492bbd057f59d307395f/artifacts
+end_time: 1749732150183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca19c30e936492bbd057f59d307395f
+run_name: popular-dove-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749732012760
+status: 3
+tags: []
+user_id: runner
