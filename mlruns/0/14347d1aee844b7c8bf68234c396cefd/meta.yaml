@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14347d1aee844b7c8bf68234c396cefd/artifacts
+end_time: 1749714144083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14347d1aee844b7c8bf68234c396cefd
+run_name: treasured-ox-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749714008096
+status: 3
+tags: []
+user_id: runner
