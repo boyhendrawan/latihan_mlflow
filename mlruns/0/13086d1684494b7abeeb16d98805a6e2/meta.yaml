@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/13086d1684494b7abeeb16d98805a6e2/artifacts
+end_time: 1749716270248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13086d1684494b7abeeb16d98805a6e2
+run_name: stylish-moth-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749716133201
+status: 3
+tags: []
+user_id: runner
