@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/37f42308c6c14fc68a25de5a59b00b3a/artifacts
+end_time: 1749725168812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37f42308c6c14fc68a25de5a59b00b3a
+run_name: enthused-worm-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749725033099
+status: 3
+tags: []
+user_id: runner
