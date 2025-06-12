@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/711ff3a625e844fb89c082a592fb1cc9/artifacts
+end_time: 1749728661208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 711ff3a625e844fb89c082a592fb1cc9
+run_name: rebellious-sow-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749728525488
+status: 3
+tags: []
+user_id: runner
