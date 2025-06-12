@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de0b0161c0a2472d95a87b9c2ad59c3a/artifacts
+end_time: 1749767186697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de0b0161c0a2472d95a87b9c2ad59c3a
+run_name: zealous-fowl-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749767052151
+status: 3
+tags: []
+user_id: runner
