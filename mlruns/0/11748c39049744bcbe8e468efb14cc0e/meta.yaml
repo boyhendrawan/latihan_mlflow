@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11748c39049744bcbe8e468efb14cc0e/artifacts
+end_time: 1749729611128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11748c39049744bcbe8e468efb14cc0e
+run_name: exultant-moth-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749729475958
+status: 3
+tags: []
+user_id: runner
