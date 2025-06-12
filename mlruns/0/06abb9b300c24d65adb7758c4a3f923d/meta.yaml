@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06abb9b300c24d65adb7758c4a3f923d/artifacts
+end_time: 1749719368997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06abb9b300c24d65adb7758c4a3f923d
+run_name: sedate-auk-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749719234299
+status: 3
+tags: []
+user_id: runner
