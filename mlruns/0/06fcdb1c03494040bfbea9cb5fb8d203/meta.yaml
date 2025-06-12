@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06fcdb1c03494040bfbea9cb5fb8d203/artifacts
+end_time: 1749726916573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06fcdb1c03494040bfbea9cb5fb8d203
+run_name: bedecked-hawk-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749726781276
+status: 3
+tags: []
+user_id: runner
