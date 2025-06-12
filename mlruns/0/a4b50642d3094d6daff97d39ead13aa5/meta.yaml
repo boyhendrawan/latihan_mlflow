@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a4b50642d3094d6daff97d39ead13aa5/artifacts
+end_time: 1749721120903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4b50642d3094d6daff97d39ead13aa5
+run_name: bold-flea-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749720985229
+status: 3
+tags: []
+user_id: runner
