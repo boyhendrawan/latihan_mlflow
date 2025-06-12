@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5bb29503fc414188976974cb2e23b61c/artifacts
+end_time: 1749765650667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bb29503fc414188976974cb2e23b61c
+run_name: carefree-goat-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749765515919
+status: 3
+tags: []
+user_id: runner
