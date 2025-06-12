@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/107020ca2dd54819af4d4357af96a2af/artifacts
+end_time: 1749737971020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 107020ca2dd54819af4d4357af96a2af
+run_name: intelligent-skink-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749737835319
+status: 3
+tags: []
+user_id: runner
