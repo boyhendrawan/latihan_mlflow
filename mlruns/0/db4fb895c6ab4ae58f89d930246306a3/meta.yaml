@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db4fb895c6ab4ae58f89d930246306a3/artifacts
+end_time: 1749696045250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4fb895c6ab4ae58f89d930246306a3
+run_name: adorable-seal-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749695915574
+status: 3
+tags: []
+user_id: runner
