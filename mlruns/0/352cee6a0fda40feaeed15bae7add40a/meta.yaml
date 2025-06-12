@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/352cee6a0fda40feaeed15bae7add40a/artifacts
+end_time: 1749733120726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352cee6a0fda40feaeed15bae7add40a
+run_name: abundant-gnat-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749732982664
+status: 3
+tags: []
+user_id: runner
