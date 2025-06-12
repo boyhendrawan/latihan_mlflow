@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/24071f4f34124a9487a9966dd28cc9a0/artifacts
+end_time: 1749758099420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24071f4f34124a9487a9966dd28cc9a0
+run_name: sedate-ray-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749757964092
+status: 3
+tags: []
+user_id: runner
