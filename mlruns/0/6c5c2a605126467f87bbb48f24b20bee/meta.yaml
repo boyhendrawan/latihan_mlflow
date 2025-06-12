@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6c5c2a605126467f87bbb48f24b20bee/artifacts
+end_time: 1749686960083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c5c2a605126467f87bbb48f24b20bee
+run_name: stately-panda-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749686823513
+status: 3
+tags: []
+user_id: runner
