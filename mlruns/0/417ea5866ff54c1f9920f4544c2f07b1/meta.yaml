@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/417ea5866ff54c1f9920f4544c2f07b1/artifacts
+end_time: 1749708399070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 417ea5866ff54c1f9920f4544c2f07b1
+run_name: polite-asp-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749708261682
+status: 3
+tags: []
+user_id: runner
