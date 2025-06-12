@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69aa58c1f151495aa4f17e13fe76a4d3/artifacts
+end_time: 1749748243650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69aa58c1f151495aa4f17e13fe76a4d3
+run_name: puzzled-bass-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748107839
+status: 3
+tags: []
+user_id: runner
