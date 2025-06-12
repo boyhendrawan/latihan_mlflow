@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64c23527c4714217a4cd00afd4524af0/artifacts
+end_time: 1749762368020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c23527c4714217a4cd00afd4524af0
+run_name: flawless-toad-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749762231997
+status: 3
+tags: []
+user_id: runner
