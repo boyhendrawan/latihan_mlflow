@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c09e0ab1b234c92ad8b62a301539047/artifacts
+end_time: 1749735841572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c09e0ab1b234c92ad8b62a301539047
+run_name: bedecked-goose-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749735706803
+status: 3
+tags: []
+user_id: runner
