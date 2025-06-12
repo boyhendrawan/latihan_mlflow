@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/909b25bbcf754cf38550f68e7f1abdb2/artifacts
+end_time: 1749754447776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 909b25bbcf754cf38550f68e7f1abdb2
+run_name: welcoming-quail-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749754311373
+status: 3
+tags: []
+user_id: runner
