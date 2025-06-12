@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5a8421f171d14f10bcc95f60c6c5db30/artifacts
+end_time: 1749744387750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a8421f171d14f10bcc95f60c6c5db30
+run_name: loud-donkey-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749744252230
+status: 3
+tags: []
+user_id: runner
