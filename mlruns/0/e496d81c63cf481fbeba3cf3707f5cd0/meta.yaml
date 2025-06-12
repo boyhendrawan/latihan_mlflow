@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e496d81c63cf481fbeba3cf3707f5cd0/artifacts
+end_time: 1749751723668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e496d81c63cf481fbeba3cf3707f5cd0
+run_name: merciful-grouse-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751586547
+status: 3
+tags: []
+user_id: runner
