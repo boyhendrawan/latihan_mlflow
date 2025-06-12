@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ba9a61ca89d4858af67f81687147ea8/artifacts
+end_time: 1749707819104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba9a61ca89d4858af67f81687147ea8
+run_name: nebulous-seal-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749707683170
+status: 3
+tags: []
+user_id: runner
