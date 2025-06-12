@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94fc09c4117741a9b2d6b8508ebc7073/artifacts
+end_time: 1749706087793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94fc09c4117741a9b2d6b8508ebc7073
+run_name: bouncy-bug-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749705951563
+status: 3
+tags: []
+user_id: runner
