@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87c614378a1b4e0982e941b50a904d89/artifacts
+end_time: 1749745159060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87c614378a1b4e0982e941b50a904d89
+run_name: whimsical-owl-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749745023473
+status: 3
+tags: []
+user_id: runner
