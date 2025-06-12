@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/329f634020e4455e8cf26c6e88f5dc03/artifacts
+end_time: 1749737775526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 329f634020e4455e8cf26c6e88f5dc03
+run_name: stately-ray-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749737638472
+status: 3
+tags: []
+user_id: runner
