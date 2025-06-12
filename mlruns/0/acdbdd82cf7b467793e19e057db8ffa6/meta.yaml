@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/acdbdd82cf7b467793e19e057db8ffa6/artifacts
+end_time: 1749716652673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acdbdd82cf7b467793e19e057db8ffa6
+run_name: victorious-tern-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749716515505
+status: 3
+tags: []
+user_id: runner
