@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c96e96d7d4994cf3853e1d8634fdbe06/artifacts
+end_time: 1749731186320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c96e96d7d4994cf3853e1d8634fdbe06
+run_name: fearless-panda-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749731050557
+status: 3
+tags: []
+user_id: runner
