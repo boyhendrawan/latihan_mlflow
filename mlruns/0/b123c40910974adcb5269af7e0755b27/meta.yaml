@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b123c40910974adcb5269af7e0755b27/artifacts
+end_time: 1749744774334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b123c40910974adcb5269af7e0755b27
+run_name: exultant-moose-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749744638936
+status: 3
+tags: []
+user_id: runner
