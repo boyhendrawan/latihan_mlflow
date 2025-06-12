@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a7ac62531af4b9cbe83470ffa71a13e/artifacts
+end_time: 1749723627907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a7ac62531af4b9cbe83470ffa71a13e
+run_name: skillful-stork-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749723489967
+status: 3
+tags: []
+user_id: runner
