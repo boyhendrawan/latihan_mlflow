@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa13719fcbe342fbb2427dae25578f21/artifacts
+end_time: 1749719765759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa13719fcbe342fbb2427dae25578f21
+run_name: caring-mole-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749719628969
+status: 3
+tags: []
+user_id: runner
