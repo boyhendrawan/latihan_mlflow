@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30766cdebf77414ca885758f83302f5a/artifacts
+end_time: 1749772192520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30766cdebf77414ca885758f83302f5a
+run_name: efficient-snail-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749772056616
+status: 3
+tags: []
+user_id: runner
