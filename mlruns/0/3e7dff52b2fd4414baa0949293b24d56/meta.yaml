@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3e7dff52b2fd4414baa0949293b24d56/artifacts
+end_time: 1749767965810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e7dff52b2fd4414baa0949293b24d56
+run_name: youthful-quail-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749767826258
+status: 3
+tags: []
+user_id: runner
