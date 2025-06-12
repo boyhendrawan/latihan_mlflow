@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6d96c153daf4491a8f7c1bad3b5b3ad2/artifacts
+end_time: 1749742828857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d96c153daf4491a8f7c1bad3b5b3ad2
+run_name: marvelous-fowl-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749742692970
+status: 3
+tags: []
+user_id: runner
