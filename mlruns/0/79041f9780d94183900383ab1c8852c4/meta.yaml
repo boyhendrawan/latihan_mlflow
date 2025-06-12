@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/79041f9780d94183900383ab1c8852c4/artifacts
+end_time: 1749731762982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79041f9780d94183900383ab1c8852c4
+run_name: amusing-bat-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749731626361
+status: 3
+tags: []
+user_id: runner
