@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5dff0e2e04745eab3004f00664a027f/artifacts
+end_time: 1749758481491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5dff0e2e04745eab3004f00664a027f
+run_name: bouncy-owl-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749758346386
+status: 3
+tags: []
+user_id: runner
