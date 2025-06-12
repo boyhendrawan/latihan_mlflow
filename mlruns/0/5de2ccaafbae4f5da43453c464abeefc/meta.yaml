@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5de2ccaafbae4f5da43453c464abeefc/artifacts
+end_time: 1749718983258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de2ccaafbae4f5da43453c464abeefc
+run_name: handsome-kit-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718847356
+status: 3
+tags: []
+user_id: runner
