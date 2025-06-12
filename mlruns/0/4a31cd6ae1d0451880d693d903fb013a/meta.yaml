@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a31cd6ae1d0451880d693d903fb013a/artifacts
+end_time: 1749755033445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a31cd6ae1d0451880d693d903fb013a
+run_name: salty-midge-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749754896950
+status: 3
+tags: []
+user_id: runner
