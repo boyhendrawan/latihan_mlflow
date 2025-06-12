@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/648b1bed62a24f91b435f34c4d295582/artifacts
+end_time: 1749770457002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 648b1bed62a24f91b435f34c4d295582
+run_name: traveling-kit-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749770321628
+status: 3
+tags: []
+user_id: runner
