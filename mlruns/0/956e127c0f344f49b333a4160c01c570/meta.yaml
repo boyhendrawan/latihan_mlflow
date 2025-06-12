@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/956e127c0f344f49b333a4160c01c570/artifacts
+end_time: 1749770261656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 956e127c0f344f49b333a4160c01c570
+run_name: sneaky-doe-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749770126629
+status: 3
+tags: []
+user_id: runner
