@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b23dfaa94c54f6a9d7b72cc62e5f12f/artifacts
+end_time: 1749691413970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b23dfaa94c54f6a9d7b72cc62e5f12f
+run_name: youthful-frog-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749691278696
+status: 3
+tags: []
+user_id: runner
