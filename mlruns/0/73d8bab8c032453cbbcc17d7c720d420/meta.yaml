@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73d8bab8c032453cbbcc17d7c720d420/artifacts
+end_time: 1749722486345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73d8bab8c032453cbbcc17d7c720d420
+run_name: selective-midge-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749722348872
+status: 3
+tags: []
+user_id: runner
