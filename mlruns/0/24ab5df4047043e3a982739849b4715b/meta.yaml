@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/24ab5df4047043e3a982739849b4715b/artifacts
+end_time: 1749751337015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24ab5df4047043e3a982739849b4715b
+run_name: marvelous-grub-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751199959
+status: 3
+tags: []
+user_id: runner
