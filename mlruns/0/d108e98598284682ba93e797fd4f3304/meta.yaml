@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d108e98598284682ba93e797fd4f3304/artifacts
+end_time: 1749736225511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d108e98598284682ba93e797fd4f3304
+run_name: gregarious-snipe-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749736090551
+status: 3
+tags: []
+user_id: runner
