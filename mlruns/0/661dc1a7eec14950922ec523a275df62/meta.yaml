@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/661dc1a7eec14950922ec523a275df62/artifacts
+end_time: 1749712605770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 661dc1a7eec14950922ec523a275df62
+run_name: useful-lamb-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749712470659
+status: 3
+tags: []
+user_id: runner
