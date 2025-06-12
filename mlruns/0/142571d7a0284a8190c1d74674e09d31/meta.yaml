@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/142571d7a0284a8190c1d74674e09d31/artifacts
+end_time: 1749756182112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 142571d7a0284a8190c1d74674e09d31
+run_name: skittish-koi-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749756045889
+status: 3
+tags: []
+user_id: runner
