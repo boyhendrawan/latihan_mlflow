@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09c24979988749cabd7150ddff406940/artifacts
+end_time: 1749705895174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09c24979988749cabd7150ddff406940
+run_name: upset-croc-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749705759815
+status: 3
+tags: []
+user_id: runner
