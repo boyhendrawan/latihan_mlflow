@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3d2d204964174dd18fc08df1df83ac69/artifacts
+end_time: 1749696238791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d2d204964174dd18fc08df1df83ac69
+run_name: gaudy-mule-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749696102403
+status: 3
+tags: []
+user_id: runner
