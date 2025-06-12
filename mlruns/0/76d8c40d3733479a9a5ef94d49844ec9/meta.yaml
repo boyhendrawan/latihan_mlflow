@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/76d8c40d3733479a9a5ef94d49844ec9/artifacts
+end_time: 1749714721955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76d8c40d3733479a9a5ef94d49844ec9
+run_name: mercurial-bass-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749714586523
+status: 3
+tags: []
+user_id: runner
