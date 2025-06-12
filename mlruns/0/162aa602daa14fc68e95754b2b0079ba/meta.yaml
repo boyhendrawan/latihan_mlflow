@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/162aa602daa14fc68e95754b2b0079ba/artifacts
+end_time: 1749761592086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 162aa602daa14fc68e95754b2b0079ba
+run_name: treasured-sheep-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749761454583
+status: 3
+tags: []
+user_id: runner
