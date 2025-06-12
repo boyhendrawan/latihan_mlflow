@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/91779d22ac6548e7a76268cf8ddf6ebf/artifacts
+end_time: 1749711850351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91779d22ac6548e7a76268cf8ddf6ebf
+run_name: inquisitive-fawn-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749711713644
+status: 3
+tags: []
+user_id: runner
