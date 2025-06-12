@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29e40803c4c74ab1a6f81b1b63231c8a/artifacts
+end_time: 1749736998021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e40803c4c74ab1a6f81b1b63231c8a
+run_name: respected-bear-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749736863166
+status: 3
+tags: []
+user_id: runner
