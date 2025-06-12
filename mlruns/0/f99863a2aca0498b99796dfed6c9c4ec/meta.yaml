@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f99863a2aca0498b99796dfed6c9c4ec/artifacts
+end_time: 1749691612343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f99863a2aca0498b99796dfed6c9c4ec
+run_name: rare-smelt-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749691474765
+status: 3
+tags: []
+user_id: runner
