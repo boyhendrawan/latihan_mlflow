@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5a148ef397a40d3a60b129337bdf0c1/artifacts
+end_time: 1749739154440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a148ef397a40d3a60b129337bdf0c1
+run_name: enchanting-rook-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749739018389
+status: 3
+tags: []
+user_id: runner
