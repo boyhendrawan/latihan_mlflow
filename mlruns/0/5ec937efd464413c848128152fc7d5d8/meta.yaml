@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ec937efd464413c848128152fc7d5d8/artifacts
+end_time: 1749715111672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ec937efd464413c848128152fc7d5d8
+run_name: tasteful-robin-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749714974826
+status: 3
+tags: []
+user_id: runner
