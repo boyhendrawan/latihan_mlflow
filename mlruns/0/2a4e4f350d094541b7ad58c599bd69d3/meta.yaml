@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a4e4f350d094541b7ad58c599bd69d3/artifacts
+end_time: 1749741682328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a4e4f350d094541b7ad58c599bd69d3
+run_name: skittish-bee-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749741545700
+status: 3
+tags: []
+user_id: runner
