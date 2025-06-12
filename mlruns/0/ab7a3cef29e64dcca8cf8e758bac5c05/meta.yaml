@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab7a3cef29e64dcca8cf8e758bac5c05/artifacts
+end_time: 1749724203345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab7a3cef29e64dcca8cf8e758bac5c05
+run_name: honorable-mole-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749724067807
+status: 3
+tags: []
+user_id: runner
