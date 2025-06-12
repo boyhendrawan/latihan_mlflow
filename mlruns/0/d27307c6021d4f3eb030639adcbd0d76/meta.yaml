@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d27307c6021d4f3eb030639adcbd0d76/artifacts
+end_time: 1749736615842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d27307c6021d4f3eb030639adcbd0d76
+run_name: receptive-tern-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749736473593
+status: 3
+tags: []
+user_id: runner
