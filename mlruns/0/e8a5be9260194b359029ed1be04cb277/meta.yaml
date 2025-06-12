@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e8a5be9260194b359029ed1be04cb277/artifacts
+end_time: 1749721309328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8a5be9260194b359029ed1be04cb277
+run_name: wise-kite-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749721175423
+status: 3
+tags: []
+user_id: runner
