@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b74b54dddaa24c7696b256c4aef2c6c1/artifacts
+end_time: 1749718014504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b74b54dddaa24c7696b256c4aef2c6c1
+run_name: angry-carp-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749717879349
+status: 3
+tags: []
+user_id: runner
