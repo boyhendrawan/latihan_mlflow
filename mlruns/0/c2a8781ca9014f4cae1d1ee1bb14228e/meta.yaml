@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c2a8781ca9014f4cae1d1ee1bb14228e/artifacts
+end_time: 1749708602031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2a8781ca9014f4cae1d1ee1bb14228e
+run_name: powerful-wren-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749708464391
+status: 3
+tags: []
+user_id: runner
