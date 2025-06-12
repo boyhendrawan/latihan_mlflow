@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de3aeeb60ddd4a2d85ff017eed700508/artifacts
+end_time: 1749738166519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de3aeeb60ddd4a2d85ff017eed700508
+run_name: silent-crane-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749738029487
+status: 3
+tags: []
+user_id: runner
