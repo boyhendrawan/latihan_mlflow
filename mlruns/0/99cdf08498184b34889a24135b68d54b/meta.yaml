@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/99cdf08498184b34889a24135b68d54b/artifacts
+end_time: 1749750949328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99cdf08498184b34889a24135b68d54b
+run_name: trusting-pug-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749750811767
+status: 3
+tags: []
+user_id: runner
