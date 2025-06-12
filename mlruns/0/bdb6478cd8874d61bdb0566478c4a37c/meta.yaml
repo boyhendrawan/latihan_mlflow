@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bdb6478cd8874d61bdb0566478c4a37c/artifacts
+end_time: 1749768156459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdb6478cd8874d61bdb0566478c4a37c
+run_name: nebulous-bat-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749768020963
+status: 3
+tags: []
+user_id: runner
