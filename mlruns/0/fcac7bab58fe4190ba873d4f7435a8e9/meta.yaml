@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fcac7bab58fe4190ba873d4f7435a8e9/artifacts
+end_time: 1749747274245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcac7bab58fe4190ba873d4f7435a8e9
+run_name: defiant-ram-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747138478
+status: 3
+tags: []
+user_id: runner
