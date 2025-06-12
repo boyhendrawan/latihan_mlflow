@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2455574c7e134bdbad122be740d37308/artifacts
+end_time: 1749762561275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2455574c7e134bdbad122be740d37308
+run_name: bustling-snail-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749762425013
+status: 3
+tags: []
+user_id: runner
