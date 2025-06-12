@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2af59c9cff11496daea8b767d4ed5da7/artifacts
+end_time: 1749686575245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2af59c9cff11496daea8b767d4ed5da7
+run_name: capable-wren-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749686440508
+status: 3
+tags: []
+user_id: runner
