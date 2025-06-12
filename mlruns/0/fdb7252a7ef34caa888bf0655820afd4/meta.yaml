@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdb7252a7ef34caa888bf0655820afd4/artifacts
+end_time: 1749688918559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdb7252a7ef34caa888bf0655820afd4
+run_name: masked-elk-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749688783215
+status: 3
+tags: []
+user_id: runner
