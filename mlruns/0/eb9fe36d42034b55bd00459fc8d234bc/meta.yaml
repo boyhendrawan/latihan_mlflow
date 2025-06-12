@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eb9fe36d42034b55bd00459fc8d234bc/artifacts
+end_time: 1749735649928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb9fe36d42034b55bd00459fc8d234bc
+run_name: rumbling-horse-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749735511238
+status: 3
+tags: []
+user_id: runner
