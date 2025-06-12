@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/178260c9d3af492086798c45f481558d/artifacts
+end_time: 1749730401024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178260c9d3af492086798c45f481558d
+run_name: mysterious-bear-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749730264828
+status: 3
+tags: []
+user_id: runner
