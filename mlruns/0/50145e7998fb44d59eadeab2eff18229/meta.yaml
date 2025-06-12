@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50145e7998fb44d59eadeab2eff18229/artifacts
+end_time: 1749730800127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50145e7998fb44d59eadeab2eff18229
+run_name: righteous-hen-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749730663900
+status: 3
+tags: []
+user_id: runner
