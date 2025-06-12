@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d40ed53e003842859f55cf7f2d3a5cc9/artifacts
+end_time: 1749686766087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40ed53e003842859f55cf7f2d3a5cc9
+run_name: righteous-gnat-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749686630121
+status: 3
+tags: []
+user_id: runner
