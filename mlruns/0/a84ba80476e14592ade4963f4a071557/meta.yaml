@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a84ba80476e14592ade4963f4a071557/artifacts
+end_time: 1749753667064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a84ba80476e14592ade4963f4a071557
+run_name: caring-newt-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753532144
+status: 3
+tags: []
+user_id: runner
