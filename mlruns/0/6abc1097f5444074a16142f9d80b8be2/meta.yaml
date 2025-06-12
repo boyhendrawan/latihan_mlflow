@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6abc1097f5444074a16142f9d80b8be2/artifacts
+end_time: 1749772388622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6abc1097f5444074a16142f9d80b8be2
+run_name: judicious-stag-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749772252082
+status: 3
+tags: []
+user_id: runner
