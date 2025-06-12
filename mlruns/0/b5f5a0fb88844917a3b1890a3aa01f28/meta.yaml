@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5f5a0fb88844917a3b1890a3aa01f28/artifacts
+end_time: 1749717243539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f5a0fb88844917a3b1890a3aa01f28
+run_name: gregarious-squid-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749717106883
+status: 3
+tags: []
+user_id: runner
