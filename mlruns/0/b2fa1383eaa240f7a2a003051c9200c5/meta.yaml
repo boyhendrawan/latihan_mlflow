@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2fa1383eaa240f7a2a003051c9200c5/artifacts
+end_time: 1749772000308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2fa1383eaa240f7a2a003051c9200c5
+run_name: defiant-fox-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749771863431
+status: 3
+tags: []
+user_id: runner
