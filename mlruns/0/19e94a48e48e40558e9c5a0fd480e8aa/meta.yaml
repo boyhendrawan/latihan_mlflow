@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/19e94a48e48e40558e9c5a0fd480e8aa/artifacts
+end_time: 1749766995177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e94a48e48e40558e9c5a0fd480e8aa
+run_name: receptive-shrike-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749766858825
+status: 3
+tags: []
+user_id: runner
