@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2ffffa9f13864c88bdf0d963d32a536d/artifacts
+end_time: 1749703370835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ffffa9f13864c88bdf0d963d32a536d
+run_name: classy-conch-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749703235689
+status: 3
+tags: []
+user_id: runner
