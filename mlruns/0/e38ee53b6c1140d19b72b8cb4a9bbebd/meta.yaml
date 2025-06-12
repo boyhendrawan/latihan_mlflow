@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e38ee53b6c1140d19b72b8cb4a9bbebd/artifacts
+end_time: 1749735062063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e38ee53b6c1140d19b72b8cb4a9bbebd
+run_name: rare-bird-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749734926560
+status: 3
+tags: []
+user_id: runner
