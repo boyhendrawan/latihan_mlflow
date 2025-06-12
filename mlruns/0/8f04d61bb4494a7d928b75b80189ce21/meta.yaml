@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f04d61bb4494a7d928b75b80189ce21/artifacts
+end_time: 1749744197004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f04d61bb4494a7d928b75b80189ce21
+run_name: honorable-jay-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749744061212
+status: 3
+tags: []
+user_id: runner
