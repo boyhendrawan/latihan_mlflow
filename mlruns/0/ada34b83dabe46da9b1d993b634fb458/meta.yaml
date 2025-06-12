@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ada34b83dabe46da9b1d993b634fb458/artifacts
+end_time: 1749701441819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada34b83dabe46da9b1d993b634fb458
+run_name: polite-fowl-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749701305947
+status: 3
+tags: []
+user_id: runner
