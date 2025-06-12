@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e160d0073b04657b850cfe860b0f218/artifacts
+end_time: 1749732923791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e160d0073b04657b850cfe860b0f218
+run_name: rare-ram-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749732788121
+status: 3
+tags: []
+user_id: runner
