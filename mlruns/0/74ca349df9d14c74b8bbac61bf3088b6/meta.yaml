@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/74ca349df9d14c74b8bbac61bf3088b6/artifacts
+end_time: 1749724589456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74ca349df9d14c74b8bbac61bf3088b6
+run_name: resilient-doe-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749724454431
+status: 3
+tags: []
+user_id: runner
