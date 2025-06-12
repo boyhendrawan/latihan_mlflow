@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/199de7204efd4cdb94330cbd8bc6d509/artifacts
+end_time: 1749766227834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 199de7204efd4cdb94330cbd8bc6d509
+run_name: magnificent-rook-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749766091739
+status: 3
+tags: []
+user_id: runner
