@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0a56c666786244faadba683a987daf80/artifacts
+end_time: 1749690460941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a56c666786244faadba683a987daf80
+run_name: shivering-kite-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749690323694
+status: 3
+tags: []
+user_id: runner
