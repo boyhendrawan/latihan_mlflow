@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5818ccb1d8649d39f4d1999d7a2ed52/artifacts
+end_time: 1749769304338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5818ccb1d8649d39f4d1999d7a2ed52
+run_name: incongruous-fox-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749769168995
+status: 3
+tags: []
+user_id: runner
