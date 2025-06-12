@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d3d71ad2bda4948959da54515a9e206/artifacts
+end_time: 1749740905613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d3d71ad2bda4948959da54515a9e206
+run_name: mercurial-hog-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749740769821
+status: 3
+tags: []
+user_id: runner
