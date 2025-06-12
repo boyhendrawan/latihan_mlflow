@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0782594ea56c4c5594ec8b74602e04aa/artifacts
+end_time: 1749701631420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0782594ea56c4c5594ec8b74602e04aa
+run_name: kindly-conch-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749701497765
+status: 3
+tags: []
+user_id: runner
