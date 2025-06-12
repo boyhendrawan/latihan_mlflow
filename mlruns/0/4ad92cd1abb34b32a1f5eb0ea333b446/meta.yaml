@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4ad92cd1abb34b32a1f5eb0ea333b446/artifacts
+end_time: 1749697592022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ad92cd1abb34b32a1f5eb0ea333b446
+run_name: serious-gnat-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749697455702
+status: 3
+tags: []
+user_id: runner
