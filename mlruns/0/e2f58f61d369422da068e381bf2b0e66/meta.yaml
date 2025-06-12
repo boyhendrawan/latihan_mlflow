@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e2f58f61d369422da068e381bf2b0e66/artifacts
+end_time: 1749709564016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2f58f61d369422da068e381bf2b0e66
+run_name: rumbling-asp-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749709428499
+status: 3
+tags: []
+user_id: runner
