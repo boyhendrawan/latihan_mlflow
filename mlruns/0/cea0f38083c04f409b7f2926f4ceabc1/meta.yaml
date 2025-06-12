@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cea0f38083c04f409b7f2926f4ceabc1/artifacts
+end_time: 1749718402836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cea0f38083c04f409b7f2926f4ceabc1
+run_name: flawless-bug-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718266042
+status: 3
+tags: []
+user_id: runner
