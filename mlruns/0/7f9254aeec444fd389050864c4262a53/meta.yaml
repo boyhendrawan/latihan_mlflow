@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f9254aeec444fd389050864c4262a53/artifacts
+end_time: 1749827633885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f9254aeec444fd389050864c4262a53
+run_name: placid-bee-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749827498521
+status: 3
+tags: []
+user_id: runner
