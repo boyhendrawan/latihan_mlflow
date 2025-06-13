@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c0caa615182043b8b973405da75d9865/artifacts
+end_time: 1749790149810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0caa615182043b8b973405da75d9865
+run_name: bustling-stoat-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749790015758
+status: 3
+tags: []
+user_id: runner
