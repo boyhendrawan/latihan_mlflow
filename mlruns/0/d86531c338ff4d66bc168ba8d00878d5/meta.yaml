@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d86531c338ff4d66bc168ba8d00878d5/artifacts
+end_time: 1749799780148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86531c338ff4d66bc168ba8d00878d5
+run_name: nosy-shark-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749799645181
+status: 3
+tags: []
+user_id: runner
