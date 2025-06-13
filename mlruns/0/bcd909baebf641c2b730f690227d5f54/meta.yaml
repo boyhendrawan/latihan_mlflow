@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bcd909baebf641c2b730f690227d5f54/artifacts
+end_time: 1749808691181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcd909baebf641c2b730f690227d5f54
+run_name: monumental-quail-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749808555089
+status: 3
+tags: []
+user_id: runner
