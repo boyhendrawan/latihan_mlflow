@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73aed396ff884778b95516c95dedb0d3/artifacts
+end_time: 1749777631298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73aed396ff884778b95516c95dedb0d3
+run_name: rare-bee-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749777495069
+status: 3
+tags: []
+user_id: runner
