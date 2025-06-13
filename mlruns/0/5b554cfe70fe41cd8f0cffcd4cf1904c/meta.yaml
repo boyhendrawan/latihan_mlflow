@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b554cfe70fe41cd8f0cffcd4cf1904c/artifacts
+end_time: 1749844679013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b554cfe70fe41cd8f0cffcd4cf1904c
+run_name: bemused-mare-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749844543107
+status: 3
+tags: []
+user_id: runner
