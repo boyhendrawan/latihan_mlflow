@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a7fe23f9dd84152b254e6af8065d023/artifacts
+end_time: 1749794576524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a7fe23f9dd84152b254e6af8065d023
+run_name: gregarious-owl-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749794440439
+status: 3
+tags: []
+user_id: runner
