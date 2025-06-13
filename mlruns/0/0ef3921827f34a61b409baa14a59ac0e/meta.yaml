@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ef3921827f34a61b409baa14a59ac0e/artifacts
+end_time: 1749777438683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ef3921827f34a61b409baa14a59ac0e
+run_name: spiffy-hawk-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749777303517
+status: 3
+tags: []
+user_id: runner
