@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2d552980096f480da4495d5de4c0d88b/artifacts
+end_time: 1749826270780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d552980096f480da4495d5de4c0d88b
+run_name: selective-cow-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749826136433
+status: 3
+tags: []
+user_id: runner
