@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2a24a3acac94fe19e42549a72df3f13/artifacts
+end_time: 1749778788613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2a24a3acac94fe19e42549a72df3f13
+run_name: ambitious-mule-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749778652058
+status: 3
+tags: []
+user_id: runner
