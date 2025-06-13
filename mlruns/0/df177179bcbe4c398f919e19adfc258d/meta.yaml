@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df177179bcbe4c398f919e19adfc258d/artifacts
+end_time: 1749838278553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df177179bcbe4c398f919e19adfc258d
+run_name: bittersweet-fly-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749838140253
+status: 3
+tags: []
+user_id: runner
