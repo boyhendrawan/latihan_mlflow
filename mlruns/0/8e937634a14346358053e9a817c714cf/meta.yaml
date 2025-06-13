@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e937634a14346358053e9a817c714cf/artifacts
+end_time: 1749826852815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e937634a14346358053e9a817c714cf
+run_name: able-wolf-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749826717169
+status: 3
+tags: []
+user_id: runner
