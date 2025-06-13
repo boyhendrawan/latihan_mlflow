@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0dcf8e31504a4149a0fb11791ac9670d/artifacts
+end_time: 1749826467428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dcf8e31504a4149a0fb11791ac9670d
+run_name: brawny-snail-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749826331898
+status: 3
+tags: []
+user_id: runner
