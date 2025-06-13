@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11e9241e3f164c4b9dbca902c7690afa/artifacts
+end_time: 1749784766156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e9241e3f164c4b9dbca902c7690afa
+run_name: popular-moose-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749784631189
+status: 3
+tags: []
+user_id: runner
