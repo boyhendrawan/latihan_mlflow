@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f51eb215505e4d0eacb29b22ad319ac5/artifacts
+end_time: 1749803482798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f51eb215505e4d0eacb29b22ad319ac5
+run_name: placid-steed-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749803347317
+status: 3
+tags: []
+user_id: runner
