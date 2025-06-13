@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/489d1af28bf449e4a69ae84b3533960a/artifacts
+end_time: 1749832080492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 489d1af28bf449e4a69ae84b3533960a
+run_name: welcoming-bass-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749831944118
+status: 3
+tags: []
+user_id: runner
