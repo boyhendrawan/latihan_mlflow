@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/692d92ba81b7445a93020894407d9972/artifacts
+end_time: 1749778983248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 692d92ba81b7445a93020894407d9972
+run_name: thoughtful-steed-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749778847336
+status: 3
+tags: []
+user_id: runner
