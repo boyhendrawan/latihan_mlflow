@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68028d875f6e4a9d940f237deeb36c91/artifacts
+end_time: 1749783615637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68028d875f6e4a9d940f237deeb36c91
+run_name: blushing-kit-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749783474414
+status: 3
+tags: []
+user_id: runner
