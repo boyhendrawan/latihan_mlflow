@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9783b803a5034d20a8fbed335882ae0d/artifacts
+end_time: 1749851431962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9783b803a5034d20a8fbed335882ae0d
+run_name: nebulous-mole-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749851296473
+status: 3
+tags: []
+user_id: runner
