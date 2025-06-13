@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b54cdd70a98e47539081c2dc2bc86fc7/artifacts
+end_time: 1749811965613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b54cdd70a98e47539081c2dc2bc86fc7
+run_name: masked-skunk-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749811828592
+status: 3
+tags: []
+user_id: runner
