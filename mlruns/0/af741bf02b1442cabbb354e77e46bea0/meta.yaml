@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af741bf02b1442cabbb354e77e46bea0/artifacts
+end_time: 1749807710206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af741bf02b1442cabbb354e77e46bea0
+run_name: placid-finch-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749807574588
+status: 3
+tags: []
+user_id: runner
