@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a5b85edcf7841eda43030a845b8fdf1/artifacts
+end_time: 1749805413650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a5b85edcf7841eda43030a845b8fdf1
+run_name: upset-flea-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749805274082
+status: 3
+tags: []
+user_id: runner
