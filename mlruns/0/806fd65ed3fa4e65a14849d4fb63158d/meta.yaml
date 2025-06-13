@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/806fd65ed3fa4e65a14849d4fb63158d/artifacts
+end_time: 1749789960128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 806fd65ed3fa4e65a14849d4fb63158d
+run_name: overjoyed-panda-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749789824332
+status: 3
+tags: []
+user_id: runner
