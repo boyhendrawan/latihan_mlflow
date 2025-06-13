@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be2e0cdf953545839ea0332e85f6110c/artifacts
+end_time: 1749800559720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be2e0cdf953545839ea0332e85f6110c
+run_name: thundering-finch-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749800423859
+status: 3
+tags: []
+user_id: runner
