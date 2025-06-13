@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17b0bdfcf00946ae8adf1736de163660/artifacts
+end_time: 1749847585212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b0bdfcf00946ae8adf1736de163660
+run_name: glamorous-bug-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847449108
+status: 3
+tags: []
+user_id: runner
