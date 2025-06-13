@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53f0811a15ce4a6db192ccdf55387ebb/artifacts
+end_time: 1749836734717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53f0811a15ce4a6db192ccdf55387ebb
+run_name: unruly-hog-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749836598321
+status: 3
+tags: []
+user_id: runner
