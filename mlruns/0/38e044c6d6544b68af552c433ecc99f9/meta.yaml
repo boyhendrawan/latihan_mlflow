@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38e044c6d6544b68af552c433ecc99f9/artifacts
+end_time: 1749811195123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e044c6d6544b68af552c433ecc99f9
+run_name: masked-robin-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749811058411
+status: 3
+tags: []
+user_id: runner
