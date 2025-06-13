@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec04f29df1214f8db75320be1bf93b68/artifacts
+end_time: 1749780907272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec04f29df1214f8db75320be1bf93b68
+run_name: upbeat-finch-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749780771121
+status: 3
+tags: []
+user_id: runner
