@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cc9960837e014dcc991bf99d6a8ead7e/artifacts
+end_time: 1749848556797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc9960837e014dcc991bf99d6a8ead7e
+run_name: inquisitive-mink-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749848419127
+status: 3
+tags: []
+user_id: runner
