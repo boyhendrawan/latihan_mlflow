@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/41be9ee37a0a4fda89b60fb89bc4673c/artifacts
+end_time: 1749839049667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41be9ee37a0a4fda89b60fb89bc4673c
+run_name: legendary-lark-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749838914274
+status: 3
+tags: []
+user_id: runner
