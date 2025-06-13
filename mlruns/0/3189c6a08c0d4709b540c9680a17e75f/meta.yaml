@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3189c6a08c0d4709b540c9680a17e75f/artifacts
+end_time: 1749857082789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3189c6a08c0d4709b540c9680a17e75f
+run_name: brawny-bass-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749856946034
+status: 3
+tags: []
+user_id: runner
