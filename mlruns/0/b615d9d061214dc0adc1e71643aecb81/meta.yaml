@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b615d9d061214dc0adc1e71643aecb81/artifacts
+end_time: 1749803290542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b615d9d061214dc0adc1e71643aecb81
+run_name: grandiose-bug-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749803155350
+status: 3
+tags: []
+user_id: runner
