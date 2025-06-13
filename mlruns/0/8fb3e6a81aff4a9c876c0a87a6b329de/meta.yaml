@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8fb3e6a81aff4a9c876c0a87a6b329de/artifacts
+end_time: 1749804448875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fb3e6a81aff4a9c876c0a87a6b329de
+run_name: adaptable-ox-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749804313567
+status: 3
+tags: []
+user_id: runner
