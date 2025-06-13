@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/131c3cfb4d744e1b91e0bbd677d2680d/artifacts
+end_time: 1749801722966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131c3cfb4d744e1b91e0bbd677d2680d
+run_name: welcoming-carp-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749801587525
+status: 3
+tags: []
+user_id: runner
