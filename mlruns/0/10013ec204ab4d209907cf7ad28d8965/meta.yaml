@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10013ec204ab4d209907cf7ad28d8965/artifacts
+end_time: 1749799010155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10013ec204ab4d209907cf7ad28d8965
+run_name: stately-fowl-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749798872625
+status: 3
+tags: []
+user_id: runner
