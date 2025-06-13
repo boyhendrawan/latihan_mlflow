@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/401f77106dbd4887b631e04565d0db3f/artifacts
+end_time: 1749794383908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 401f77106dbd4887b631e04565d0db3f
+run_name: monumental-mule-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749794248406
+status: 3
+tags: []
+user_id: runner
