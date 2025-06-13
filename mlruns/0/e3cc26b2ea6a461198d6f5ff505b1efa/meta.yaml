@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3cc26b2ea6a461198d6f5ff505b1efa/artifacts
+end_time: 1749774138250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cc26b2ea6a461198d6f5ff505b1efa
+run_name: rambunctious-doe-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749774002219
+status: 3
+tags: []
+user_id: runner
