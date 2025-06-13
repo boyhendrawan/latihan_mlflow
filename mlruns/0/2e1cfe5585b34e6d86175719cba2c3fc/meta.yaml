@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e1cfe5585b34e6d86175719cba2c3fc/artifacts
+end_time: 1749846811347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e1cfe5585b34e6d86175719cba2c3fc
+run_name: awesome-steed-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749846676486
+status: 3
+tags: []
+user_id: runner
