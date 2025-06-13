@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa8e0a8ac24e46c683c541026e0dd240/artifacts
+end_time: 1749807130907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa8e0a8ac24e46c683c541026e0dd240
+run_name: flawless-cat-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749806995407
+status: 3
+tags: []
+user_id: runner
