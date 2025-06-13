@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e79603bb639e43c591a9d39ceb9a729e/artifacts
+end_time: 1749852971365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e79603bb639e43c591a9d39ceb9a729e
+run_name: popular-skunk-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749852836082
+status: 3
+tags: []
+user_id: runner
