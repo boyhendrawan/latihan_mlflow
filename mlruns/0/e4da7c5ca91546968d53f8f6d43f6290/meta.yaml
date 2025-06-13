@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4da7c5ca91546968d53f8f6d43f6290/artifacts
+end_time: 1749845061784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4da7c5ca91546968d53f8f6d43f6290
+run_name: invincible-ray-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749844926898
+status: 3
+tags: []
+user_id: runner
