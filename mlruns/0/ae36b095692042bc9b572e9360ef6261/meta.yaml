@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae36b095692042bc9b572e9360ef6261/artifacts
+end_time: 1749824917279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae36b095692042bc9b572e9360ef6261
+run_name: mercurial-perch-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749824781493
+status: 3
+tags: []
+user_id: runner
