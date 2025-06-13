@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5c0a8219ac2b488f9fc8f4b2c508d56e/artifacts
+end_time: 1749818132546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0a8219ac2b488f9fc8f4b2c508d56e
+run_name: auspicious-owl-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749817996243
+status: 3
+tags: []
+user_id: runner
