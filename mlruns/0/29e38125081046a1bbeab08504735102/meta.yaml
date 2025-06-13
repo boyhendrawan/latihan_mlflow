@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29e38125081046a1bbeab08504735102/artifacts
+end_time: 1749802122279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e38125081046a1bbeab08504735102
+run_name: illustrious-boar-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749801986903
+status: 3
+tags: []
+user_id: runner
