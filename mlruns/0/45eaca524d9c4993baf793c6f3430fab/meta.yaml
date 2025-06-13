@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/45eaca524d9c4993baf793c6f3430fab/artifacts
+end_time: 1749817363645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45eaca524d9c4993baf793c6f3430fab
+run_name: able-swan-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749817227233
+status: 3
+tags: []
+user_id: runner
