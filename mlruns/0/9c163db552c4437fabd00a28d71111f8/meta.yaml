@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c163db552c4437fabd00a28d71111f8/artifacts
+end_time: 1749792281787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c163db552c4437fabd00a28d71111f8
+run_name: debonair-owl-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749792146567
+status: 3
+tags: []
+user_id: runner
