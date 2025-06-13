@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db28fe56c46f48fd8fb8892b39db829b/artifacts
+end_time: 1749775510393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db28fe56c46f48fd8fb8892b39db829b
+run_name: orderly-hound-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749775375411
+status: 3
+tags: []
+user_id: runner
