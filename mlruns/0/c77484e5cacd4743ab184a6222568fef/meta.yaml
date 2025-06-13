@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c77484e5cacd4743ab184a6222568fef/artifacts
+end_time: 1749823557689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c77484e5cacd4743ab184a6222568fef
+run_name: treasured-rat-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749823422417
+status: 3
+tags: []
+user_id: runner
