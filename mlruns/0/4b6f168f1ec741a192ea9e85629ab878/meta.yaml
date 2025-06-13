@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4b6f168f1ec741a192ea9e85629ab878/artifacts
+end_time: 1749836540718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b6f168f1ec741a192ea9e85629ab878
+run_name: adventurous-rat-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749836405974
+status: 3
+tags: []
+user_id: runner
