@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2176ca2e3a7c41ec9031d3ae6d810816/artifacts
+end_time: 1749789197126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2176ca2e3a7c41ec9031d3ae6d810816
+run_name: nosy-ape-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749789061504
+status: 3
+tags: []
+user_id: runner
