@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5c7bdb704234b4694eb824272c93ac5/artifacts
+end_time: 1749790538972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5c7bdb704234b4694eb824272c93ac5
+run_name: bustling-ray-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749790402467
+status: 3
+tags: []
+user_id: runner
