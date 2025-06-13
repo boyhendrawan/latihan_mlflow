@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5940134357bb4c14b7bd6a5ea7f92243/artifacts
+end_time: 1749848163724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5940134357bb4c14b7bd6a5ea7f92243
+run_name: caring-shrimp-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749848028515
+status: 3
+tags: []
+user_id: runner
