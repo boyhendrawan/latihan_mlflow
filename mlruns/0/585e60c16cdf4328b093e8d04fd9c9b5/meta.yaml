@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/585e60c16cdf4328b093e8d04fd9c9b5/artifacts
+end_time: 1749812741290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585e60c16cdf4328b093e8d04fd9c9b5
+run_name: glamorous-croc-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749812605057
+status: 3
+tags: []
+user_id: runner
