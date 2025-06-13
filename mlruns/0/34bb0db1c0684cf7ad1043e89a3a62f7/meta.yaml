@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34bb0db1c0684cf7ad1043e89a3a62f7/artifacts
+end_time: 1749805605395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34bb0db1c0684cf7ad1043e89a3a62f7
+run_name: puzzled-dove-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749805469987
+status: 3
+tags: []
+user_id: runner
