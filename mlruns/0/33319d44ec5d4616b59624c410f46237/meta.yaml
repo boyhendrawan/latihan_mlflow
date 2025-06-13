@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/33319d44ec5d4616b59624c410f46237/artifacts
+end_time: 1749784387360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33319d44ec5d4616b59624c410f46237
+run_name: enthused-bee-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749784251433
+status: 3
+tags: []
+user_id: runner
