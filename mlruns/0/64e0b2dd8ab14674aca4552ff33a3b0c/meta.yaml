@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64e0b2dd8ab14674aca4552ff33a3b0c/artifacts
+end_time: 1749847004028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e0b2dd8ab14674aca4552ff33a3b0c
+run_name: legendary-mare-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749846868421
+status: 3
+tags: []
+user_id: runner
