@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd3dc61c9c3a498e822d82f0aac7b441/artifacts
+end_time: 1749788811624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3dc61c9c3a498e822d82f0aac7b441
+run_name: magnificent-ram-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749788675593
+status: 3
+tags: []
+user_id: runner
