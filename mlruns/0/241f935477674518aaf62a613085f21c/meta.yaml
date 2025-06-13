@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/241f935477674518aaf62a613085f21c/artifacts
+end_time: 1749855733098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241f935477674518aaf62a613085f21c
+run_name: orderly-grub-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749855596041
+status: 3
+tags: []
+user_id: runner
