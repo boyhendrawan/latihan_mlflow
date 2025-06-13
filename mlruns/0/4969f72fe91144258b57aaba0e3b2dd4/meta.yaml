@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4969f72fe91144258b57aaba0e3b2dd4/artifacts
+end_time: 1749846037102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4969f72fe91144258b57aaba0e3b2dd4
+run_name: monumental-bug-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749845901437
+status: 3
+tags: []
+user_id: runner
