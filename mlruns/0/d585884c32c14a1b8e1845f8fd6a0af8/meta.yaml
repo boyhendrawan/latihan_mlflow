@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d585884c32c14a1b8e1845f8fd6a0af8/artifacts
+end_time: 1749850680194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d585884c32c14a1b8e1845f8fd6a0af8
+run_name: enthused-hog-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749850543949
+status: 3
+tags: []
+user_id: runner
