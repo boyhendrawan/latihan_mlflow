@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b958000d74142558c57d2b771ef4f1f/artifacts
+end_time: 1749845255101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b958000d74142558c57d2b771ef4f1f
+run_name: redolent-squid-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749845118457
+status: 3
+tags: []
+user_id: runner
