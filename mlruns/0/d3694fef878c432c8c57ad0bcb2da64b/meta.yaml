@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3694fef878c432c8c57ad0bcb2da64b/artifacts
+end_time: 1749833435745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3694fef878c432c8c57ad0bcb2da64b
+run_name: clumsy-shoat-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749833299563
+status: 3
+tags: []
+user_id: runner
