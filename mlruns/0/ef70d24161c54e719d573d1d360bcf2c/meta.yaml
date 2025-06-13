@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef70d24161c54e719d573d1d360bcf2c/artifacts
+end_time: 1749843122944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef70d24161c54e719d573d1d360bcf2c
+run_name: bemused-gull-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749842987439
+status: 3
+tags: []
+user_id: runner
