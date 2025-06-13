@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94b3605b375143af9ae55e43f7be9c53/artifacts
+end_time: 1749811002069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94b3605b375143af9ae55e43f7be9c53
+run_name: stylish-hare-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749810866567
+status: 3
+tags: []
+user_id: runner
