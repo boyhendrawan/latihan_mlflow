@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee0cd51144ad419b93a71fa6c7e50b8a/artifacts
+end_time: 1749801931368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee0cd51144ad419b93a71fa6c7e50b8a
+run_name: upbeat-flea-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749801794083
+status: 3
+tags: []
+user_id: runner
