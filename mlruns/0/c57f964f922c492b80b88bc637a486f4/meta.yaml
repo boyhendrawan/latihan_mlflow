@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c57f964f922c492b80b88bc637a486f4/artifacts
+end_time: 1749803866087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57f964f922c492b80b88bc637a486f4
+run_name: receptive-sow-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749803729666
+status: 3
+tags: []
+user_id: runner
