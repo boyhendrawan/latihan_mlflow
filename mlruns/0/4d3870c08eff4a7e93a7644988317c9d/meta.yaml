@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d3870c08eff4a7e93a7644988317c9d/artifacts
+end_time: 1749802516067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d3870c08eff4a7e93a7644988317c9d
+run_name: welcoming-shark-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749802380691
+status: 3
+tags: []
+user_id: runner
