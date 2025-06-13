@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ece4339eedd47a48f844ea1f227ea74/artifacts
+end_time: 1749808885964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ece4339eedd47a48f844ea1f227ea74
+run_name: orderly-conch-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749808749926
+status: 3
+tags: []
+user_id: runner
