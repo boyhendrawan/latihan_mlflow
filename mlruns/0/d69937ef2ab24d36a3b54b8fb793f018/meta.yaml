@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d69937ef2ab24d36a3b54b8fb793f018/artifacts
+end_time: 1749821027905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d69937ef2ab24d36a3b54b8fb793f018
+run_name: unruly-turtle-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749820891023
+status: 3
+tags: []
+user_id: runner
