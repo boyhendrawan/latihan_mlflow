@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfe8bac7fc774e628617199f7cdba6d6/artifacts
+end_time: 1749796891309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfe8bac7fc774e628617199f7cdba6d6
+run_name: capricious-koi-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796752879
+status: 3
+tags: []
+user_id: runner
