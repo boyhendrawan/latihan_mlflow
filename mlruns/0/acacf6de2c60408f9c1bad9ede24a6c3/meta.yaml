@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/acacf6de2c60408f9c1bad9ede24a6c3/artifacts
+end_time: 1749826077063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acacf6de2c60408f9c1bad9ede24a6c3
+run_name: suave-crow-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749825940358
+status: 3
+tags: []
+user_id: runner
