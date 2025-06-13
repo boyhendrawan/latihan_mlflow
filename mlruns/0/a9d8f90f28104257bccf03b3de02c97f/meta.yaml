@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a9d8f90f28104257bccf03b3de02c97f/artifacts
+end_time: 1749810617101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9d8f90f28104257bccf03b3de02c97f
+run_name: bald-ray-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749810482177
+status: 3
+tags: []
+user_id: runner
