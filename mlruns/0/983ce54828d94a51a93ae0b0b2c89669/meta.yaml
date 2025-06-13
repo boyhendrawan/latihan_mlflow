@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/983ce54828d94a51a93ae0b0b2c89669/artifacts
+end_time: 1749786313750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 983ce54828d94a51a93ae0b0b2c89669
+run_name: delightful-swan-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749786176710
+status: 3
+tags: []
+user_id: runner
