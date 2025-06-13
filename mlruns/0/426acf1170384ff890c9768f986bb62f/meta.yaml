@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/426acf1170384ff890c9768f986bb62f/artifacts
+end_time: 1749809467723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 426acf1170384ff890c9768f986bb62f
+run_name: treasured-hog-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749809331173
+status: 3
+tags: []
+user_id: runner
