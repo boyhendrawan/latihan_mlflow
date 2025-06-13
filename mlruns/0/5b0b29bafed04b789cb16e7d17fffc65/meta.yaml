@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b0b29bafed04b789cb16e7d17fffc65/artifacts
+end_time: 1749837695235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0b29bafed04b789cb16e7d17fffc65
+run_name: crawling-hen-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749837559936
+status: 3
+tags: []
+user_id: runner
