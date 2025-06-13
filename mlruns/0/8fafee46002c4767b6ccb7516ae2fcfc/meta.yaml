@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8fafee46002c4767b6ccb7516ae2fcfc/artifacts
+end_time: 1749809848256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fafee46002c4767b6ccb7516ae2fcfc
+run_name: loud-robin-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749809712823
+status: 3
+tags: []
+user_id: runner
