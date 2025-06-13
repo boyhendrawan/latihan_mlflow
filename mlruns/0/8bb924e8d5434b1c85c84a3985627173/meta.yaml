@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8bb924e8d5434b1c85c84a3985627173/artifacts
+end_time: 1749834592308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bb924e8d5434b1c85c84a3985627173
+run_name: enthused-hare-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749834457067
+status: 3
+tags: []
+user_id: runner
