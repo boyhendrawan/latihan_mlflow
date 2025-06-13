@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2d3b127e7a1544309d80fc7be2641245/artifacts
+end_time: 1749821602793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d3b127e7a1544309d80fc7be2641245
+run_name: efficient-ram-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749821466662
+status: 3
+tags: []
+user_id: runner
