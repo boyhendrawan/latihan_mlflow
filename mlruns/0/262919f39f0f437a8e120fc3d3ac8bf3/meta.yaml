@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/262919f39f0f437a8e120fc3d3ac8bf3/artifacts
+end_time: 1749847779244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 262919f39f0f437a8e120fc3d3ac8bf3
+run_name: grandiose-bat-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847642075
+status: 3
+tags: []
+user_id: runner
