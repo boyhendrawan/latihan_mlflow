@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/65ba3d34e7a043e48c637810925d5cfb/artifacts
+end_time: 1749785732881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ba3d34e7a043e48c637810925d5cfb
+run_name: brawny-sow-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749785597407
+status: 3
+tags: []
+user_id: runner
