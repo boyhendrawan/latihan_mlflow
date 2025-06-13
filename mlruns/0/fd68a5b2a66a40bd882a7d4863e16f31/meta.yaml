@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd68a5b2a66a40bd882a7d4863e16f31/artifacts
+end_time: 1749803092668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd68a5b2a66a40bd882a7d4863e16f31
+run_name: luxuriant-hare-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749802956582
+status: 3
+tags: []
+user_id: runner
