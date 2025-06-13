@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac1ab03319ae46ee930f15b61f486f13/artifacts
+end_time: 1749786888483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1ab03319ae46ee930f15b61f486f13
+run_name: luxuriant-ray-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749786751932
+status: 3
+tags: []
+user_id: runner
