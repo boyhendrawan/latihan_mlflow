@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b13a90bde8246708ecdd41a95f7e6d6/artifacts
+end_time: 1749773755383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b13a90bde8246708ecdd41a95f7e6d6
+run_name: fortunate-goose-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749773619717
+status: 3
+tags: []
+user_id: runner
