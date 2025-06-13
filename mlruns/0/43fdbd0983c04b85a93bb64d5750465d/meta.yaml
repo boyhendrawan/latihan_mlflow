@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43fdbd0983c04b85a93bb64d5750465d/artifacts
+end_time: 1749841162812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43fdbd0983c04b85a93bb64d5750465d
+run_name: dazzling-calf-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749841025324
+status: 3
+tags: []
+user_id: runner
