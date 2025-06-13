@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5f39aafc0b424060bf825b6b9eeb76b2/artifacts
+end_time: 1749844094384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f39aafc0b424060bf825b6b9eeb76b2
+run_name: invincible-crab-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749843956769
+status: 3
+tags: []
+user_id: runner
