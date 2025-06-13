@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf9d92e35ec84af6892314387a95001d/artifacts
+end_time: 1749836348155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf9d92e35ec84af6892314387a95001d
+run_name: skittish-bug-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749836211126
+status: 3
+tags: []
+user_id: runner
