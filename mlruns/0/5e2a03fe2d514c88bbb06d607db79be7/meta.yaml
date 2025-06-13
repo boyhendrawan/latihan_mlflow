@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e2a03fe2d514c88bbb06d607db79be7/artifacts
+end_time: 1749803673133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e2a03fe2d514c88bbb06d607db79be7
+run_name: unleashed-stag-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749803538506
+status: 3
+tags: []
+user_id: runner
