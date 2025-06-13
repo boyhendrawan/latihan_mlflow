@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b54fef7929cb42ae8d016df1d06dab41/artifacts
+end_time: 1749835571844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b54fef7929cb42ae8d016df1d06dab41
+run_name: casual-stoat-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749835435064
+status: 3
+tags: []
+user_id: runner
