@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd9d4a7a3d0c40c39ad9801c82b7fffa/artifacts
+end_time: 1749854762064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd9d4a7a3d0c40c39ad9801c82b7fffa
+run_name: spiffy-newt-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749854625730
+status: 3
+tags: []
+user_id: runner
