@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae71f720c69840198ece09cc3e8dedea/artifacts
+end_time: 1749801332944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae71f720c69840198ece09cc3e8dedea
+run_name: incongruous-goat-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749801196032
+status: 3
+tags: []
+user_id: runner
