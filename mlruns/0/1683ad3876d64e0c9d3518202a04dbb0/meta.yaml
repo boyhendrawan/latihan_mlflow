@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1683ad3876d64e0c9d3518202a04dbb0/artifacts
+end_time: 1749789004567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1683ad3876d64e0c9d3518202a04dbb0
+run_name: unleashed-carp-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749788868369
+status: 3
+tags: []
+user_id: runner
