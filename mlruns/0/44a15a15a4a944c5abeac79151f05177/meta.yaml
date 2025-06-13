@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/44a15a15a4a944c5abeac79151f05177/artifacts
+end_time: 1749840383542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44a15a15a4a944c5abeac79151f05177
+run_name: vaunted-finch-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749840248237
+status: 3
+tags: []
+user_id: runner
