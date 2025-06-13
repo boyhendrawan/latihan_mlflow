@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da61a1d60c53442faa71a54118973e5f/artifacts
+end_time: 1749828991557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da61a1d60c53442faa71a54118973e5f
+run_name: kindly-carp-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749828856914
+status: 3
+tags: []
+user_id: runner
