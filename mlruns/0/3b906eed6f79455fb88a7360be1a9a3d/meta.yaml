@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b906eed6f79455fb88a7360be1a9a3d/artifacts
+end_time: 1749816978317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b906eed6f79455fb88a7360be1a9a3d
+run_name: intelligent-hen-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749816843470
+status: 3
+tags: []
+user_id: runner
