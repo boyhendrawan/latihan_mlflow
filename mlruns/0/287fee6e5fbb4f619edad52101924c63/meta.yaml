@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/287fee6e5fbb4f619edad52101924c63/artifacts
+end_time: 1749843699471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 287fee6e5fbb4f619edad52101924c63
+run_name: masked-horse-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749843564127
+status: 3
+tags: []
+user_id: runner
