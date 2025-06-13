@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a51cd389e9f5485fa6500c90b7199308/artifacts
+end_time: 1749816209220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a51cd389e9f5485fa6500c90b7199308
+run_name: tasteful-sloth-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749816073547
+status: 3
+tags: []
+user_id: runner
