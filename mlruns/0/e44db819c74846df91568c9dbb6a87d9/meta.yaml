@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e44db819c74846df91568c9dbb6a87d9/artifacts
+end_time: 1749772959901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e44db819c74846df91568c9dbb6a87d9
+run_name: popular-grub-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749772824710
+status: 3
+tags: []
+user_id: runner
