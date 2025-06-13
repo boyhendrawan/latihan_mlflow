@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e0c92fac59e24656a0283a4e8939af3b/artifacts
+end_time: 1749776093808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0c92fac59e24656a0283a4e8939af3b
+run_name: delicate-newt-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749775956605
+status: 3
+tags: []
+user_id: runner
