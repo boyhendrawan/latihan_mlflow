@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30981d26ba34470b9bf7dda7472aa7bd/artifacts
+end_time: 1749827048783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30981d26ba34470b9bf7dda7472aa7bd
+run_name: bustling-horse-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749826912792
+status: 3
+tags: []
+user_id: runner
