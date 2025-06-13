@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b639c8c8296b49c987a293079f3dad78/artifacts
+end_time: 1749804641347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b639c8c8296b49c987a293079f3dad78
+run_name: merciful-snipe-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749804506220
+status: 3
+tags: []
+user_id: runner
