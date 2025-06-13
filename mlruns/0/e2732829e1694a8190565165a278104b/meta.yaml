@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e2732829e1694a8190565165a278104b/artifacts
+end_time: 1749854566565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2732829e1694a8190565165a278104b
+run_name: dazzling-wasp-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749854430877
+status: 3
+tags: []
+user_id: runner
