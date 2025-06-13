@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3bbc5760253434c9c16f0aa79db961c/artifacts
+end_time: 1749834013891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3bbc5760253434c9c16f0aa79db961c
+run_name: intrigued-steed-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749833878385
+status: 3
+tags: []
+user_id: runner
