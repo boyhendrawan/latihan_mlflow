@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f7d2079ee2645a688508b58e4a7e683/artifacts
+end_time: 1749816402241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f7d2079ee2645a688508b58e4a7e683
+run_name: hilarious-bear-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749816267098
+status: 3
+tags: []
+user_id: runner
