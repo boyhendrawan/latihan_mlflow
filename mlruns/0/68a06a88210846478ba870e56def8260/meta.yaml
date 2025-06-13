@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68a06a88210846478ba870e56def8260/artifacts
+end_time: 1749782075430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68a06a88210846478ba870e56def8260
+run_name: adorable-stag-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749781938815
+status: 3
+tags: []
+user_id: runner
