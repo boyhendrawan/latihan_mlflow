@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fbba52b652524310b4461c7a73ef9313/artifacts
+end_time: 1749781685352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbba52b652524310b4461c7a73ef9313
+run_name: exultant-lynx-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749781550373
+status: 3
+tags: []
+user_id: runner
