@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69184b1aa56d4d438d9bbb78389907ac/artifacts
+end_time: 1749822366243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69184b1aa56d4d438d9bbb78389907ac
+run_name: loud-kit-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749822230979
+status: 3
+tags: []
+user_id: runner
