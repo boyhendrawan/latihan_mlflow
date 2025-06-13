@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67e8ae8e9aa94cdca68df0bbe3de9764/artifacts
+end_time: 1749833052303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67e8ae8e9aa94cdca68df0bbe3de9764
+run_name: lyrical-perch-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749832917044
+status: 3
+tags: []
+user_id: runner
