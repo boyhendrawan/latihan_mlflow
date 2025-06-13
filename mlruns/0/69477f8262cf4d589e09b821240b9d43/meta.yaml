@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69477f8262cf4d589e09b821240b9d43/artifacts
+end_time: 1749843317494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69477f8262cf4d589e09b821240b9d43
+run_name: nebulous-cub-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749843180544
+status: 3
+tags: []
+user_id: runner
