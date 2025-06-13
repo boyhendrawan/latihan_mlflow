@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d5a0e978a9da4accb172c9034a5ce0a3/artifacts
+end_time: 1749829956240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5a0e978a9da4accb172c9034a5ce0a3
+run_name: calm-doe-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749829819848
+status: 3
+tags: []
+user_id: runner
