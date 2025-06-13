@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b41a851d76d443e491743500d77feb9a/artifacts
+end_time: 1749838662851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b41a851d76d443e491743500d77feb9a
+run_name: unruly-fox-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749838526831
+status: 3
+tags: []
+user_id: runner
