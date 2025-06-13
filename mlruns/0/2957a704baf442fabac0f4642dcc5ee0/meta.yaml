@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2957a704baf442fabac0f4642dcc5ee0/artifacts
+end_time: 1749788617149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2957a704baf442fabac0f4642dcc5ee0
+run_name: bold-gull-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749788482980
+status: 3
+tags: []
+user_id: runner
