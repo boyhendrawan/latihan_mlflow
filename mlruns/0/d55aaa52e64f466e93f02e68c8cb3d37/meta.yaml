@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d55aaa52e64f466e93f02e68c8cb3d37/artifacts
+end_time: 1749823950649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d55aaa52e64f466e93f02e68c8cb3d37
+run_name: nosy-ram-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749823820461
+status: 3
+tags: []
+user_id: runner
