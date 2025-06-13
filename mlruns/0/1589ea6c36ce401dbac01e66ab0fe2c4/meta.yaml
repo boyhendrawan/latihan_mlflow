@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1589ea6c36ce401dbac01e66ab0fe2c4/artifacts
+end_time: 1749817940533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1589ea6c36ce401dbac01e66ab0fe2c4
+run_name: blushing-sponge-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749817803789
+status: 3
+tags: []
+user_id: runner
