@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56c7b2d72b064690897f0664c95668ed/artifacts
+end_time: 1749854375620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56c7b2d72b064690897f0664c95668ed
+run_name: magnificent-duck-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749854237640
+status: 3
+tags: []
+user_id: runner
