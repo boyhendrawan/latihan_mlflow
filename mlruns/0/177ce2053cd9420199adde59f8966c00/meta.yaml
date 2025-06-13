@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/177ce2053cd9420199adde59f8966c00/artifacts
+end_time: 1749828798182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 177ce2053cd9420199adde59f8966c00
+run_name: vaunted-shad-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749828662420
+status: 3
+tags: []
+user_id: runner
