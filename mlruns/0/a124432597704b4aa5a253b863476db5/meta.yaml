@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a124432597704b4aa5a253b863476db5/artifacts
+end_time: 1749780135565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a124432597704b4aa5a253b863476db5
+run_name: redolent-bird-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749780000407
+status: 3
+tags: []
+user_id: runner
