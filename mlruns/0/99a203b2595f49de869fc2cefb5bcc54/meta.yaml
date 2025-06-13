@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/99a203b2595f49de869fc2cefb5bcc54/artifacts
+end_time: 1749795545566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99a203b2595f49de869fc2cefb5bcc54
+run_name: agreeable-fly-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749795409496
+status: 3
+tags: []
+user_id: runner
