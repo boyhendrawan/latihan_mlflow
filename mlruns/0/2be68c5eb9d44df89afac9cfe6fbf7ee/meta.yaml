@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2be68c5eb9d44df89afac9cfe6fbf7ee/artifacts
+end_time: 1749809657832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2be68c5eb9d44df89afac9cfe6fbf7ee
+run_name: amusing-grouse-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749809522132
+status: 3
+tags: []
+user_id: runner
