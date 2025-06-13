@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f7b8576420a4e58a3fff4255474868f/artifacts
+end_time: 1749824336838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f7b8576420a4e58a3fff4255474868f
+run_name: handsome-elk-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749824200667
+status: 3
+tags: []
+user_id: runner
