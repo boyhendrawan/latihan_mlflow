@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eeee187e1e7d483fbf7d910c5963e648/artifacts
+end_time: 1749778597476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeee187e1e7d483fbf7d910c5963e648
+run_name: inquisitive-moth-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749778462010
+status: 3
+tags: []
+user_id: runner
