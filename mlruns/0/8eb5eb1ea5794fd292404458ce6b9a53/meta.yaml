@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8eb5eb1ea5794fd292404458ce6b9a53/artifacts
+end_time: 1749840193025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eb5eb1ea5794fd292404458ce6b9a53
+run_name: fearless-fly-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749840057778
+status: 3
+tags: []
+user_id: runner
