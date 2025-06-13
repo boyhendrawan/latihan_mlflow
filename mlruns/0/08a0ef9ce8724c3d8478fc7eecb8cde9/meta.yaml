@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/08a0ef9ce8724c3d8478fc7eecb8cde9/artifacts
+end_time: 1749812161008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08a0ef9ce8724c3d8478fc7eecb8cde9
+run_name: gregarious-stag-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749812024442
+status: 3
+tags: []
+user_id: runner
