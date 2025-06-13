@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/876756f7a7654d17817fac46c1c9be30/artifacts
+end_time: 1749840577489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 876756f7a7654d17817fac46c1c9be30
+run_name: victorious-wren-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749840442762
+status: 3
+tags: []
+user_id: runner
