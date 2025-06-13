@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/beaeb11c16354bef9f095421622ab66c/artifacts
+end_time: 1749798234465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beaeb11c16354bef9f095421622ab66c
+run_name: colorful-colt-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749798105304
+status: 3
+tags: []
+user_id: runner
