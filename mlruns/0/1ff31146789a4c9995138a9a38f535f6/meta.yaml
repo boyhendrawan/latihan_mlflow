@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ff31146789a4c9995138a9a38f535f6/artifacts
+end_time: 1749852590230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ff31146789a4c9995138a9a38f535f6
+run_name: caring-moose-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749852453513
+status: 3
+tags: []
+user_id: runner
