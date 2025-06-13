@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f03c8e9c2e74f8a9153d3d9a2d95761/artifacts
+end_time: 1749842338991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f03c8e9c2e74f8a9153d3d9a2d95761
+run_name: mercurial-smelt-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749842202094
+status: 3
+tags: []
+user_id: runner
