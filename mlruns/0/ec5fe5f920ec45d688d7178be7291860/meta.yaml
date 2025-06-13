@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec5fe5f920ec45d688d7178be7291860/artifacts
+end_time: 1749786117960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec5fe5f920ec45d688d7178be7291860
+run_name: serious-skunk-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749785982837
+status: 3
+tags: []
+user_id: runner
