@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc97c1e184ed422ba20767fb089331bf/artifacts
+end_time: 1749832664733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc97c1e184ed422ba20767fb089331bf
+run_name: bouncy-ape-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749832528386
+status: 3
+tags: []
+user_id: runner
