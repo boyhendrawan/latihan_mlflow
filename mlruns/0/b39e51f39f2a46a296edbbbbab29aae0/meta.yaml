@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b39e51f39f2a46a296edbbbbab29aae0/artifacts
+end_time: 1749799973750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b39e51f39f2a46a296edbbbbab29aae0
+run_name: worried-robin-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749799837443
+status: 3
+tags: []
+user_id: runner
