@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d53b33c32ace4277b370854308122a5f/artifacts
+end_time: 1749805983756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d53b33c32ace4277b370854308122a5f
+run_name: bouncy-duck-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749805851424
+status: 3
+tags: []
+user_id: runner
