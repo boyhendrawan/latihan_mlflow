@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8ef680bb79d4ac88806a3d90c46cf0b/artifacts
+end_time: 1749858616889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8ef680bb79d4ac88806a3d90c46cf0b
+run_name: caring-squid-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749858480988
+status: 3
+tags: []
+user_id: runner
