@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2717b7bba88746529183caa76b0a0292/artifacts
+end_time: 1749858998127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2717b7bba88746529183caa76b0a0292
+run_name: rebellious-vole-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749858862584
+status: 3
+tags: []
+user_id: runner
