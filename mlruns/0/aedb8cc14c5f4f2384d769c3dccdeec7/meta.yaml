@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aedb8cc14c5f4f2384d769c3dccdeec7/artifacts
+end_time: 1749824720891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aedb8cc14c5f4f2384d769c3dccdeec7
+run_name: marvelous-gull-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749824585757
+status: 3
+tags: []
+user_id: runner
