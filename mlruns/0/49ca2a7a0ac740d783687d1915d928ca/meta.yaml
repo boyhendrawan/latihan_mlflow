@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/49ca2a7a0ac740d783687d1915d928ca/artifacts
+end_time: 1749797466903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ca2a7a0ac740d783687d1915d928ca
+run_name: righteous-turtle-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797331972
+status: 3
+tags: []
+user_id: runner
