@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7d0df82ee9b04ecdae225a063309e049/artifacts
+end_time: 1749850487463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d0df82ee9b04ecdae225a063309e049
+run_name: marvelous-cow-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749850350926
+status: 3
+tags: []
+user_id: runner
