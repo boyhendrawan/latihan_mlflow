@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16e00d9391d04fb2a70aeaba21c6cf4e/artifacts
+end_time: 1749789388545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16e00d9391d04fb2a70aeaba21c6cf4e
+run_name: agreeable-goose-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749789253462
+status: 3
+tags: []
+user_id: runner
