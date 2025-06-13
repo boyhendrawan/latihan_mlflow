@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/300b01b5808d464ba0d28c95de19d33e/artifacts
+end_time: 1749853787469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 300b01b5808d464ba0d28c95de19d33e
+run_name: skillful-swan-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749853651185
+status: 3
+tags: []
+user_id: runner
