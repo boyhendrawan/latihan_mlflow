@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/adfa52c385574e8ab0c17b07e507e886/artifacts
+end_time: 1749796315949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adfa52c385574e8ab0c17b07e507e886
+run_name: clumsy-dove-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796181279
+status: 3
+tags: []
+user_id: runner
