@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57a2c0e413e24959b4a55b4d162ea890/artifacts
+end_time: 1749807321643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57a2c0e413e24959b4a55b4d162ea890
+run_name: melodic-worm-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749807186423
+status: 3
+tags: []
+user_id: runner
