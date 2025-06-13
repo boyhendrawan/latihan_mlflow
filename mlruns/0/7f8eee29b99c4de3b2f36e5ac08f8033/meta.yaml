@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f8eee29b99c4de3b2f36e5ac08f8033/artifacts
+end_time: 1749829183370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f8eee29b99c4de3b2f36e5ac08f8033
+run_name: auspicious-fish-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749829047580
+status: 3
+tags: []
+user_id: runner
