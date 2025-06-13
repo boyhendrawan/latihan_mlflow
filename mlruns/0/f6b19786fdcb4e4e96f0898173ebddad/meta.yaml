@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f6b19786fdcb4e4e96f0898173ebddad/artifacts
+end_time: 1749810039676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b19786fdcb4e4e96f0898173ebddad
+run_name: luxuriant-pig-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749809903964
+status: 3
+tags: []
+user_id: runner
