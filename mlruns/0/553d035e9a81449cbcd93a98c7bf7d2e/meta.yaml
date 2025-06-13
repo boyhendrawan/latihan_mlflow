@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/553d035e9a81449cbcd93a98c7bf7d2e/artifacts
+end_time: 1749794191466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553d035e9a81449cbcd93a98c7bf7d2e
+run_name: painted-stag-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749794056399
+status: 3
+tags: []
+user_id: runner
