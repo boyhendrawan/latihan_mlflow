@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cc5ecd7a37d47f284fbf4065ce2cf2e/artifacts
+end_time: 1749780516446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc5ecd7a37d47f284fbf4065ce2cf2e
+run_name: auspicious-rook-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749780381634
+status: 3
+tags: []
+user_id: runner
