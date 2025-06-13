@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4b2c363ef964fd08cbb582504ebbc76/artifacts
+end_time: 1749839806456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4b2c363ef964fd08cbb582504ebbc76
+run_name: nervous-pug-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749839670888
+status: 3
+tags: []
+user_id: runner
