@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9869835bc098454ebccebe403f9990f2/artifacts
+end_time: 1749774333976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9869835bc098454ebccebe403f9990f2
+run_name: gifted-deer-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749774197469
+status: 3
+tags: []
+user_id: runner
