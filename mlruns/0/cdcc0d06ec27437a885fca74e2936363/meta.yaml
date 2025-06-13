@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdcc0d06ec27437a885fca74e2936363/artifacts
+end_time: 1749816018853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdcc0d06ec27437a885fca74e2936363
+run_name: mysterious-moth-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749815882036
+status: 3
+tags: []
+user_id: runner
