@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5179b1c1537748e9bcad6acee8cd28da/artifacts
+end_time: 1749794772660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5179b1c1537748e9bcad6acee8cd28da
+run_name: bustling-fly-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749794634026
+status: 3
+tags: []
+user_id: runner
