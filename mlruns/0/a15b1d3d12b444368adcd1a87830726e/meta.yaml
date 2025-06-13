@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a15b1d3d12b444368adcd1a87830726e/artifacts
+end_time: 1749842933082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a15b1d3d12b444368adcd1a87830726e
+run_name: persistent-hen-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749842795184
+status: 3
+tags: []
+user_id: runner
