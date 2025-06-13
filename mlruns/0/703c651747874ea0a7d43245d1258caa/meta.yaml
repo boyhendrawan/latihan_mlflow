@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/703c651747874ea0a7d43245d1258caa/artifacts
+end_time: 1749859192653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703c651747874ea0a7d43245d1258caa
+run_name: worried-shark-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749859057326
+status: 3
+tags: []
+user_id: runner
