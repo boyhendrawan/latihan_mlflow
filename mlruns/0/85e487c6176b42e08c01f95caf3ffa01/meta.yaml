@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/85e487c6176b42e08c01f95caf3ffa01/artifacts
+end_time: 1749845458464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85e487c6176b42e08c01f95caf3ffa01
+run_name: righteous-pug-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749845318625
+status: 3
+tags: []
+user_id: runner
