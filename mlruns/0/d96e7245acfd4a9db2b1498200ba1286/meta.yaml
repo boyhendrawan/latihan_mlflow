@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d96e7245acfd4a9db2b1498200ba1286/artifacts
+end_time: 1749819866212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d96e7245acfd4a9db2b1498200ba1286
+run_name: classy-fish-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749819730149
+status: 3
+tags: []
+user_id: runner
