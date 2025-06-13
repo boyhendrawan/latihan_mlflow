@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/129498b066dd4ef2b56989fcfd73d4e6/artifacts
+end_time: 1749828018431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 129498b066dd4ef2b56989fcfd73d4e6
+run_name: wistful-finch-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749827883402
+status: 3
+tags: []
+user_id: runner
