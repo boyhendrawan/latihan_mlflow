@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/20534041adcc4a63a183be99ed6f27a7/artifacts
+end_time: 1749779169970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20534041adcc4a63a183be99ed6f27a7
+run_name: brawny-bird-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749779037055
+status: 3
+tags: []
+user_id: runner
