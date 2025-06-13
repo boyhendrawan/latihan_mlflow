@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c58e8a9fdb6a46b1ad755f5ba329f32d/artifacts
+end_time: 1749775708167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c58e8a9fdb6a46b1ad755f5ba329f32d
+run_name: unruly-perch-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749775571329
+status: 3
+tags: []
+user_id: runner
