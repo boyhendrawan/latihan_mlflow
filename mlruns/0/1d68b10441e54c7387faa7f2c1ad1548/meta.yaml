@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1d68b10441e54c7387faa7f2c1ad1548/artifacts
+end_time: 1749782837647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d68b10441e54c7387faa7f2c1ad1548
+run_name: able-cub-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749782701962
+status: 3
+tags: []
+user_id: runner
