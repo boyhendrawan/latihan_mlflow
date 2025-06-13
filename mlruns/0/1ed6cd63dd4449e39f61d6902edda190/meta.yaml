@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ed6cd63dd4449e39f61d6902edda190/artifacts
+end_time: 1749781493380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ed6cd63dd4449e39f61d6902edda190
+run_name: flawless-snipe-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749781357517
+status: 3
+tags: []
+user_id: runner
