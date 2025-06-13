@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ffd05665637c40f79dc2de8ac10beed0/artifacts
+end_time: 1749795157494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd05665637c40f79dc2de8ac10beed0
+run_name: gregarious-snail-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749795022178
+status: 3
+tags: []
+user_id: runner
