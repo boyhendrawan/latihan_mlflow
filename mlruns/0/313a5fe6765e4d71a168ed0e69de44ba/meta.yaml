@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/313a5fe6765e4d71a168ed0e69de44ba/artifacts
+end_time: 1749788042103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 313a5fe6765e4d71a168ed0e69de44ba
+run_name: gaudy-wasp-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749787905177
+status: 3
+tags: []
+user_id: runner
