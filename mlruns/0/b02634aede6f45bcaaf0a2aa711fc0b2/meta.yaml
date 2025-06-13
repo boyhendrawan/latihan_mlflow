@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b02634aede6f45bcaaf0a2aa711fc0b2/artifacts
+end_time: 1749818704595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b02634aede6f45bcaaf0a2aa711fc0b2
+run_name: bouncy-colt-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749818569723
+status: 3
+tags: []
+user_id: runner
