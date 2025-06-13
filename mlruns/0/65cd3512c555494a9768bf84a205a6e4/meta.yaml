@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/65cd3512c555494a9768bf84a205a6e4/artifacts
+end_time: 1749778014291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65cd3512c555494a9768bf84a205a6e4
+run_name: thundering-mole-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749777879899
+status: 3
+tags: []
+user_id: runner
