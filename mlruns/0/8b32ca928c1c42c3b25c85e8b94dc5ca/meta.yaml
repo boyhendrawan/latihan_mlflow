@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b32ca928c1c42c3b25c85e8b94dc5ca/artifacts
+end_time: 1749787660387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b32ca928c1c42c3b25c85e8b94dc5ca
+run_name: sedate-shrimp-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749787525139
+status: 3
+tags: []
+user_id: runner
