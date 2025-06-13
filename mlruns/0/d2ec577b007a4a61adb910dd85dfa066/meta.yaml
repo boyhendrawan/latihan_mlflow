@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2ec577b007a4a61adb910dd85dfa066/artifacts
+end_time: 1749815825813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2ec577b007a4a61adb910dd85dfa066
+run_name: fearless-grub-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749815689449
+status: 3
+tags: []
+user_id: runner
