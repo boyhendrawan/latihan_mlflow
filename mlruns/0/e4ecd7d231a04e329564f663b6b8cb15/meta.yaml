@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4ecd7d231a04e329564f663b6b8cb15/artifacts
+end_time: 1749788428482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4ecd7d231a04e329564f663b6b8cb15
+run_name: welcoming-conch-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749788292305
+status: 3
+tags: []
+user_id: runner
