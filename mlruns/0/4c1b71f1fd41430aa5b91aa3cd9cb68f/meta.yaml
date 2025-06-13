@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c1b71f1fd41430aa5b91aa3cd9cb68f/artifacts
+end_time: 1749839616556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1b71f1fd41430aa5b91aa3cd9cb68f
+run_name: grandiose-wren-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749839480258
+status: 3
+tags: []
+user_id: runner
