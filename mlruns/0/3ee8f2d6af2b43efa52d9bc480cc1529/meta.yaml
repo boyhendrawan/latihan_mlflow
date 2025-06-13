@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ee8f2d6af2b43efa52d9bc480cc1529/artifacts
+end_time: 1749833627549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ee8f2d6af2b43efa52d9bc480cc1529
+run_name: handsome-sloth-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749833490899
+status: 3
+tags: []
+user_id: runner
