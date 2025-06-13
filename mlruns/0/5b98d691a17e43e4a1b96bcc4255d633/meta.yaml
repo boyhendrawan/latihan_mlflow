@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b98d691a17e43e4a1b96bcc4255d633/artifacts
+end_time: 1749822967735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b98d691a17e43e4a1b96bcc4255d633
+run_name: selective-asp-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749822823454
+status: 3
+tags: []
+user_id: runner
