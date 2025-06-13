@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0b29da0442847a1b37a841366536c9f/artifacts
+end_time: 1749799394234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b29da0442847a1b37a841366536c9f
+run_name: fearless-mule-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749799258785
+status: 3
+tags: []
+user_id: runner
