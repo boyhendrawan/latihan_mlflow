@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2265d07a64d64716bcd8921f48ffaedb/artifacts
+end_time: 1749858038721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2265d07a64d64716bcd8921f48ffaedb
+run_name: dazzling-shrew-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749857903665
+status: 3
+tags: []
+user_id: runner
