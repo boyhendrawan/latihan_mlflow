@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30425fa63a824cad89c301cb83348a64/artifacts
+end_time: 1749810232809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30425fa63a824cad89c301cb83348a64
+run_name: bemused-rook-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749810096090
+status: 3
+tags: []
+user_id: runner
