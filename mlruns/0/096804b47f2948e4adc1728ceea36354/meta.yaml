@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/096804b47f2948e4adc1728ceea36354/artifacts
+end_time: 1749816594162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 096804b47f2948e4adc1728ceea36354
+run_name: big-lamb-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749816458294
+status: 3
+tags: []
+user_id: runner
