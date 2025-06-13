@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddd031954ad54963a881a0d2ef171aeb/artifacts
+end_time: 1749833245139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd031954ad54963a881a0d2ef171aeb
+run_name: clumsy-kite-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749833110015
+status: 3
+tags: []
+user_id: runner
