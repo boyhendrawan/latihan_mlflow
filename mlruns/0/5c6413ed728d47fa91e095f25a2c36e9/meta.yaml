@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5c6413ed728d47fa91e095f25a2c36e9/artifacts
+end_time: 1749811770577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c6413ed728d47fa91e095f25a2c36e9
+run_name: languid-carp-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749811634880
+status: 3
+tags: []
+user_id: runner
