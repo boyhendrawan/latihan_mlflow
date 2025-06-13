@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d194c92d84b94b0e9b53b02eb2415fa8/artifacts
+end_time: 1749857846349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d194c92d84b94b0e9b53b02eb2415fa8
+run_name: selective-goose-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749857709740
+status: 3
+tags: []
+user_id: runner
