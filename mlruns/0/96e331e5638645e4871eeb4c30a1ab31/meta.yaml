@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/96e331e5638645e4871eeb4c30a1ab31/artifacts
+end_time: 1749804834460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96e331e5638645e4871eeb4c30a1ab31
+run_name: dashing-goose-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749804698998
+status: 3
+tags: []
+user_id: runner
