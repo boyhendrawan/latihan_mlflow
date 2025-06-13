@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b43a4894d3e1427f88df3463f1acf9fc/artifacts
+end_time: 1749841750147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b43a4894d3e1427f88df3463f1acf9fc
+run_name: melodic-gnat-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749841614252
+status: 3
+tags: []
+user_id: runner
