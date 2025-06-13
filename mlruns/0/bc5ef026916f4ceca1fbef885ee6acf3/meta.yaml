@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc5ef026916f4ceca1fbef885ee6acf3/artifacts
+end_time: 1749834401876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc5ef026916f4ceca1fbef885ee6acf3
+run_name: gifted-goat-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749834264508
+status: 3
+tags: []
+user_id: runner
