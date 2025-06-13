@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f4a5b12e451947aba34f328fa7532749/artifacts
+end_time: 1749847392425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4a5b12e451947aba34f328fa7532749
+run_name: thoughtful-pig-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847256883
+status: 3
+tags: []
+user_id: runner
