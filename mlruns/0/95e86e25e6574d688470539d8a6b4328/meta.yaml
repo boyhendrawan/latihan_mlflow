@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95e86e25e6574d688470539d8a6b4328/artifacts
+end_time: 1749807913338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e86e25e6574d688470539d8a6b4328
+run_name: upbeat-smelt-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749807771566
+status: 3
+tags: []
+user_id: runner
