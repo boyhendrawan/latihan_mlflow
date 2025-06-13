@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/52ce28b628a64d1b8410e4a07ce463dc/artifacts
+end_time: 1749822561263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52ce28b628a64d1b8410e4a07ce463dc
+run_name: casual-wasp-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749822424611
+status: 3
+tags: []
+user_id: runner
