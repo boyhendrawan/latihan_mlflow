@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68e79f507d264650946b72108e7cb63f/artifacts
+end_time: 1749856119160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68e79f507d264650946b72108e7cb63f
+run_name: abrasive-duck-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749855983418
+status: 3
+tags: []
+user_id: runner
