@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db93a2dae80f434f97c33c25fd63692f/artifacts
+end_time: 1749837504275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db93a2dae80f434f97c33c25fd63692f
+run_name: likeable-whale-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749837367757
+status: 3
+tags: []
+user_id: runner
