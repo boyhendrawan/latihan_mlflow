@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b5716f4a8bc4fa1b612350158cacbe8/artifacts
+end_time: 1749775318022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b5716f4a8bc4fa1b612350158cacbe8
+run_name: whimsical-dolphin-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749775182125
+status: 3
+tags: []
+user_id: runner
