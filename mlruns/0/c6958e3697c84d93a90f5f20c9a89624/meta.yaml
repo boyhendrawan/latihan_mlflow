@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c6958e3697c84d93a90f5f20c9a89624/artifacts
+end_time: 1749855340324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6958e3697c84d93a90f5f20c9a89624
+run_name: persistent-ray-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749855205403
+status: 3
+tags: []
+user_id: runner
