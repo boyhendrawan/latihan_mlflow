@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4cdc6e4b884142e2a4e3f2da3e977f5d/artifacts
+end_time: 1749795739638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cdc6e4b884142e2a4e3f2da3e977f5d
+run_name: exultant-robin-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749795604960
+status: 3
+tags: []
+user_id: runner
