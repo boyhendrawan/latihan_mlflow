@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b7e9df9ae394421be43b9c3d9302828/artifacts
+end_time: 1749797082972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b7e9df9ae394421be43b9c3d9302828
+run_name: ambitious-goat-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796946665
+status: 3
+tags: []
+user_id: runner
