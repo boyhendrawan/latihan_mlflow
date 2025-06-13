@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f3a958144f34bcf870d7dc6a768b9c5/artifacts
+end_time: 1749825692965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f3a958144f34bcf870d7dc6a768b9c5
+run_name: exultant-boar-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749825557561
+status: 3
+tags: []
+user_id: runner
