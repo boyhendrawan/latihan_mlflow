@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/772f44bf569340999f86845ac126be97/artifacts
+end_time: 1749801139775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 772f44bf569340999f86845ac126be97
+run_name: calm-skink-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749801003667
+status: 3
+tags: []
+user_id: runner
