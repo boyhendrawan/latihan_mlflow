@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/01bede802a084ca98d998b45da71770d/artifacts
+end_time: 1749780712347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01bede802a084ca98d998b45da71770d
+run_name: agreeable-duck-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749780574748
+status: 3
+tags: []
+user_id: runner
