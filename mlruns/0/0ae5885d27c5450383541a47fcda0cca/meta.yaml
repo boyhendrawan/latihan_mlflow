@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ae5885d27c5450383541a47fcda0cca/artifacts
+end_time: 1749820449032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae5885d27c5450383541a47fcda0cca
+run_name: wise-donkey-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749820312702
+status: 3
+tags: []
+user_id: runner
