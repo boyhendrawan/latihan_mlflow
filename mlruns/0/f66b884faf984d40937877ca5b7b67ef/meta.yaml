@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f66b884faf984d40937877ca5b7b67ef/artifacts
+end_time: 1749791315592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f66b884faf984d40937877ca5b7b67ef
+run_name: sneaky-fawn-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749791180447
+status: 3
+tags: []
+user_id: runner
