@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d74877d796034f4db5ba118d5cc1cfa3/artifacts
+end_time: 1749838080455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74877d796034f4db5ba118d5cc1cfa3
+run_name: monumental-shrew-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749837944787
+status: 3
+tags: []
+user_id: runner
