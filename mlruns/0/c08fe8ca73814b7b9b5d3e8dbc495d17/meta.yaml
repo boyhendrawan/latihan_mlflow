@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c08fe8ca73814b7b9b5d3e8dbc495d17/artifacts
+end_time: 1749797853590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c08fe8ca73814b7b9b5d3e8dbc495d17
+run_name: intelligent-koi-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797717657
+status: 3
+tags: []
+user_id: runner
