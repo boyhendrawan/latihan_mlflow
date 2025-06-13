@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b400ffef4e854dc4b0c526c3207a0937/artifacts
+end_time: 1749778209719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b400ffef4e854dc4b0c526c3207a0937
+run_name: rare-squid-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749778072074
+status: 3
+tags: []
+user_id: runner
