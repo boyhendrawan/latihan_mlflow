@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a1f94cd5d624ca8a6702b9d07252add/artifacts
+end_time: 1749846230648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a1f94cd5d624ca8a6702b9d07252add
+run_name: enthused-shrew-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749846093491
+status: 3
+tags: []
+user_id: runner
