@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e485ff970103456eb3aed39e5677819a/artifacts
+end_time: 1749786695977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e485ff970103456eb3aed39e5677819a
+run_name: thundering-worm-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749786561453
+status: 3
+tags: []
+user_id: runner
