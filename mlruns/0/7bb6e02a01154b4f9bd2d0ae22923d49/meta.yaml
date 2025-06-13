@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7bb6e02a01154b4f9bd2d0ae22923d49/artifacts
+end_time: 1749800367501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bb6e02a01154b4f9bd2d0ae22923d49
+run_name: rogue-robin-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749800229967
+status: 3
+tags: []
+user_id: runner
