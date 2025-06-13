@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/199d709f082d416f9fb2beadd0c6cbc4/artifacts
+end_time: 1749831695856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 199d709f082d416f9fb2beadd0c6cbc4
+run_name: monumental-auk-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749831559321
+status: 3
+tags: []
+user_id: runner
