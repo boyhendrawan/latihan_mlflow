@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1709e984fcc14425b19da0d06a5ddf54/artifacts
+end_time: 1749839425416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1709e984fcc14425b19da0d06a5ddf54
+run_name: incongruous-frog-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749839296188
+status: 3
+tags: []
+user_id: runner
