@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/085d6355771448abac01752e1d811827/artifacts
+end_time: 1749800758708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085d6355771448abac01752e1d811827
+run_name: nosy-moose-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749800620693
+status: 3
+tags: []
+user_id: runner
