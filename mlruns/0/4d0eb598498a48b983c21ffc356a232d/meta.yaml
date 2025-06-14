@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d0eb598498a48b983c21ffc356a232d/artifacts
+end_time: 1749918693922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0eb598498a48b983c21ffc356a232d
+run_name: righteous-vole-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749918555913
+status: 3
+tags: []
+user_id: runner
