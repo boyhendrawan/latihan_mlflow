@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f952beb224d24370a4b07062216fa8b0/artifacts
+end_time: 1749929485405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f952beb224d24370a4b07062216fa8b0
+run_name: dashing-mole-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749929350255
+status: 3
+tags: []
+user_id: runner
