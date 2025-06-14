@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0a85767627d4b1aa5895bbfed4326c2/artifacts
+end_time: 1749933727313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a85767627d4b1aa5895bbfed4326c2
+run_name: skillful-dolphin-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749933591498
+status: 3
+tags: []
+user_id: runner
