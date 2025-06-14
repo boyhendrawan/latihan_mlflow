@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c2e93dafb0d4b7192da8254595c34e4/artifacts
+end_time: 1749905414300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2e93dafb0d4b7192da8254595c34e4
+run_name: fortunate-sow-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905278710
+status: 3
+tags: []
+user_id: runner
