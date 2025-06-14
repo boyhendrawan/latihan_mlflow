@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e497ded3dd07421f921d7e15f59a4eb9/artifacts
+end_time: 1749943166773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e497ded3dd07421f921d7e15f59a4eb9
+run_name: chill-colt-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749943031407
+status: 3
+tags: []
+user_id: runner
