@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3f5d4c90cdd540d09cc0a0b4d621bb97/artifacts
+end_time: 1749921598168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f5d4c90cdd540d09cc0a0b4d621bb97
+run_name: nebulous-carp-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749921463035
+status: 3
+tags: []
+user_id: runner
