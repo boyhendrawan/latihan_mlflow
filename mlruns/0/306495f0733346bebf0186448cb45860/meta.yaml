@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/306495f0733346bebf0186448cb45860/artifacts
+end_time: 1749889050788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306495f0733346bebf0186448cb45860
+run_name: puzzled-eel-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888915807
+status: 3
+tags: []
+user_id: runner
