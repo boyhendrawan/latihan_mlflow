@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be7abcb2baf4483eb347b620a4f2c8dc/artifacts
+end_time: 1749944697304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be7abcb2baf4483eb347b620a4f2c8dc
+run_name: abundant-sheep-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749944561866
+status: 3
+tags: []
+user_id: runner
