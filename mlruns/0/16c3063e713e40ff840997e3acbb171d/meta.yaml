@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16c3063e713e40ff840997e3acbb171d/artifacts
+end_time: 1749933344096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16c3063e713e40ff840997e3acbb171d
+run_name: painted-wren-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749933207698
+status: 3
+tags: []
+user_id: runner
