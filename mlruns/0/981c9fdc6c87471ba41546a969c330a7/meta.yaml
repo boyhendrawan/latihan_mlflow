@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/981c9fdc6c87471ba41546a969c330a7/artifacts
+end_time: 1749874207397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 981c9fdc6c87471ba41546a969c330a7
+run_name: invincible-elk-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749874072359
+status: 3
+tags: []
+user_id: runner
