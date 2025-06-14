@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e84597a9f144de6aa75579314c15a57/artifacts
+end_time: 1749915795296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e84597a9f144de6aa75579314c15a57
+run_name: agreeable-swan-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749915659667
+status: 3
+tags: []
+user_id: runner
