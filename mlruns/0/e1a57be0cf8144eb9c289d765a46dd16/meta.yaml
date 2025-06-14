@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e1a57be0cf8144eb9c289d765a46dd16/artifacts
+end_time: 1749890211897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1a57be0cf8144eb9c289d765a46dd16
+run_name: sedate-carp-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749890075602
+status: 3
+tags: []
+user_id: runner
