@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8da46169b30c4e60a0a32d4144e34430/artifacts
+end_time: 1749935259348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8da46169b30c4e60a0a32d4144e34430
+run_name: entertaining-hare-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749935124326
+status: 3
+tags: []
+user_id: runner
