@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e7bdd99ca5d4f729aa2a72444641729/artifacts
+end_time: 1749863817097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e7bdd99ca5d4f729aa2a72444641729
+run_name: salty-mule-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749863681223
+status: 3
+tags: []
+user_id: runner
