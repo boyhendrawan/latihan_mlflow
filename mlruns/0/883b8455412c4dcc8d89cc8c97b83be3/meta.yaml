@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/883b8455412c4dcc8d89cc8c97b83be3/artifacts
+end_time: 1749923924580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 883b8455412c4dcc8d89cc8c97b83be3
+run_name: upset-asp-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749923789338
+status: 3
+tags: []
+user_id: runner
