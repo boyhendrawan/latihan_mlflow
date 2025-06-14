@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac08458a5aca405bbfdfc076dc1b8e78/artifacts
+end_time: 1749888858614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac08458a5aca405bbfdfc076dc1b8e78
+run_name: fearless-squid-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888722954
+status: 3
+tags: []
+user_id: runner
