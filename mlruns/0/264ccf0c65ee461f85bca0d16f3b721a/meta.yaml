@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/264ccf0c65ee461f85bca0d16f3b721a/artifacts
+end_time: 1749881347712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 264ccf0c65ee461f85bca0d16f3b721a
+run_name: delightful-panda-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749881212007
+status: 3
+tags: []
+user_id: runner
