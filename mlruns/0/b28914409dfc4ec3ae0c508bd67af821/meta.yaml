@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b28914409dfc4ec3ae0c508bd67af821/artifacts
+end_time: 1749869772933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b28914409dfc4ec3ae0c508bd67af821
+run_name: likeable-hawk-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749869636492
+status: 3
+tags: []
+user_id: runner
