@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b586a92805f4117a6c54d004d299e62/artifacts
+end_time: 1749930445415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b586a92805f4117a6c54d004d299e62
+run_name: dashing-bass-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749930310160
+status: 3
+tags: []
+user_id: runner
