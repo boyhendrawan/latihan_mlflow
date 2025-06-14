@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0187523da8e47e4a136e755d1746470/artifacts
+end_time: 1749911759524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0187523da8e47e4a136e755d1746470
+run_name: monumental-trout-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749911623707
+status: 3
+tags: []
+user_id: runner
