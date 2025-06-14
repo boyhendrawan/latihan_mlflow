@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/920a9158f3d744acb1df99094b875b14/artifacts
+end_time: 1749868237745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920a9158f3d744acb1df99094b875b14
+run_name: traveling-ape-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868097484
+status: 3
+tags: []
+user_id: runner
