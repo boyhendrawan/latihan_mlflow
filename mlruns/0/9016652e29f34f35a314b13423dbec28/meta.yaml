@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9016652e29f34f35a314b13423dbec28/artifacts
+end_time: 1749944890133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9016652e29f34f35a314b13423dbec28
+run_name: suave-zebra-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749944753541
+status: 3
+tags: []
+user_id: runner
