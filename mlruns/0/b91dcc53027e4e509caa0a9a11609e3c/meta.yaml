@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b91dcc53027e4e509caa0a9a11609e3c/artifacts
+end_time: 1749894248632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b91dcc53027e4e509caa0a9a11609e3c
+run_name: chill-bird-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749894113034
+status: 3
+tags: []
+user_id: runner
