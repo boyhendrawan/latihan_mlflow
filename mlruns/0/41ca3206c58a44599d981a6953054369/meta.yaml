@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/41ca3206c58a44599d981a6953054369/artifacts
+end_time: 1749900784527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ca3206c58a44599d981a6953054369
+run_name: honorable-finch-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900648948
+status: 3
+tags: []
+user_id: runner
