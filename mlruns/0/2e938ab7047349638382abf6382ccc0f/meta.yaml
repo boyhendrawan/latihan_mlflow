@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e938ab7047349638382abf6382ccc0f/artifacts
+end_time: 1749875193009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e938ab7047349638382abf6382ccc0f
+run_name: thundering-shoat-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749875057853
+status: 3
+tags: []
+user_id: runner
