@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25bf3b8989534de1acd0eb2f1f4b59b5/artifacts
+end_time: 1749877119505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25bf3b8989534de1acd0eb2f1f4b59b5
+run_name: enchanting-gnat-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876984419
+status: 3
+tags: []
+user_id: runner
