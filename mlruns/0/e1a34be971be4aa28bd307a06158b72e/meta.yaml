@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e1a34be971be4aa28bd307a06158b72e/artifacts
+end_time: 1749926035702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1a34be971be4aa28bd307a06158b72e
+run_name: angry-lynx-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749925900473
+status: 3
+tags: []
+user_id: runner
