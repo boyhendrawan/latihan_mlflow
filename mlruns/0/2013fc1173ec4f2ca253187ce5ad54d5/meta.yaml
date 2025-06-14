@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2013fc1173ec4f2ca253187ce5ad54d5/artifacts
+end_time: 1749868995807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2013fc1173ec4f2ca253187ce5ad54d5
+run_name: unleashed-donkey-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868863021
+status: 3
+tags: []
+user_id: runner
