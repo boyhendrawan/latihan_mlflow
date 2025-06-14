@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8115b7c112e94762b604fdb1dde6cf5b/artifacts
+end_time: 1749916567573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8115b7c112e94762b604fdb1dde6cf5b
+run_name: exultant-hog-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749916431513
+status: 3
+tags: []
+user_id: runner
