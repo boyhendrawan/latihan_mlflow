@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7efd012e74f4fb18c8d316a8bcc6827/artifacts
+end_time: 1749901762621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7efd012e74f4fb18c8d316a8bcc6827
+run_name: thoughtful-sloth-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749901618412
+status: 3
+tags: []
+user_id: runner
