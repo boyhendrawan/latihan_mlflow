@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/779ba4edc892456eb0d5a7742fbadafa/artifacts
+end_time: 1749904833816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 779ba4edc892456eb0d5a7742fbadafa
+run_name: omniscient-carp-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749904698070
+status: 3
+tags: []
+user_id: runner
