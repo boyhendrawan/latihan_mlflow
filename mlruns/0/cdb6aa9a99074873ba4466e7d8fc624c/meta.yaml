@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdb6aa9a99074873ba4466e7d8fc624c/artifacts
+end_time: 1749902521322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdb6aa9a99074873ba4466e7d8fc624c
+run_name: stately-goat-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749902385335
+status: 3
+tags: []
+user_id: runner
