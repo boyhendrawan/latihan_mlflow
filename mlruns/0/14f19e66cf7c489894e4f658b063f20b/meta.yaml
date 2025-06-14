@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14f19e66cf7c489894e4f658b063f20b/artifacts
+end_time: 1749934301324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f19e66cf7c489894e4f658b063f20b
+run_name: gentle-snake-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749934165338
+status: 3
+tags: []
+user_id: runner
