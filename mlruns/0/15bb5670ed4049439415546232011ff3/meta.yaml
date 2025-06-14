@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15bb5670ed4049439415546232011ff3/artifacts
+end_time: 1749920428599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15bb5670ed4049439415546232011ff3
+run_name: upbeat-kite-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920293210
+status: 3
+tags: []
+user_id: runner
