@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d0885ac1e8564f01af4f45382f46a077/artifacts
+end_time: 1749925843045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0885ac1e8564f01af4f45382f46a077
+run_name: glamorous-trout-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749925707159
+status: 3
+tags: []
+user_id: runner
