@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/88acb2326a6f40398d1c3f30e976d678/artifacts
+end_time: 1749919463040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88acb2326a6f40398d1c3f30e976d678
+run_name: auspicious-hen-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919327588
+status: 3
+tags: []
+user_id: runner
