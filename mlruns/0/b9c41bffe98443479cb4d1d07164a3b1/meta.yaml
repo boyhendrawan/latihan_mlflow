@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b9c41bffe98443479cb4d1d07164a3b1/artifacts
+end_time: 1749929679259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9c41bffe98443479cb4d1d07164a3b1
+run_name: learned-wren-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749929542455
+status: 3
+tags: []
+user_id: runner
