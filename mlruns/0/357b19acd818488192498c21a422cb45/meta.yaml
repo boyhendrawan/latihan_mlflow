@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/357b19acd818488192498c21a422cb45/artifacts
+end_time: 1749866321627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357b19acd818488192498c21a422cb45
+run_name: likeable-mare-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749866185972
+status: 3
+tags: []
+user_id: runner
