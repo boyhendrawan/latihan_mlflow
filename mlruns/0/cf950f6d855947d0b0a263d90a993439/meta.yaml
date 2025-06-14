@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf950f6d855947d0b0a263d90a993439/artifacts
+end_time: 1749945465329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf950f6d855947d0b0a263d90a993439
+run_name: mercurial-quail-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749945330285
+status: 3
+tags: []
+user_id: runner
