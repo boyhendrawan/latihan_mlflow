@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f650bbbe419a4246a64bc4d87bb4c206/artifacts
+end_time: 1749915024505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f650bbbe419a4246a64bc4d87bb4c206
+run_name: placid-hare-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749914888591
+status: 3
+tags: []
+user_id: runner
