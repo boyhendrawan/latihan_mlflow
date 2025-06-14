@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/041d7f0a3926475db712f74a3fe23cff/artifacts
+end_time: 1749907521614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 041d7f0a3926475db712f74a3fe23cff
+run_name: loud-perch-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749907385760
+status: 3
+tags: []
+user_id: runner
