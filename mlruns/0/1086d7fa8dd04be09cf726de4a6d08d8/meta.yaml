@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1086d7fa8dd04be09cf726de4a6d08d8/artifacts
+end_time: 1749925266380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1086d7fa8dd04be09cf726de4a6d08d8
+run_name: caring-steed-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749925131262
+status: 3
+tags: []
+user_id: runner
