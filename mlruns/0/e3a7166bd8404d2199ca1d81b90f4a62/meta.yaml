@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3a7166bd8404d2199ca1d81b90f4a62/artifacts
+end_time: 1749889626113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3a7166bd8404d2199ca1d81b90f4a62
+run_name: stylish-calf-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749889490907
+status: 3
+tags: []
+user_id: runner
