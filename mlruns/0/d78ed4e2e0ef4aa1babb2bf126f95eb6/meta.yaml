@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d78ed4e2e0ef4aa1babb2bf126f95eb6/artifacts
+end_time: 1749927182221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d78ed4e2e0ef4aa1babb2bf126f95eb6
+run_name: fortunate-finch-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749927046622
+status: 3
+tags: []
+user_id: runner
