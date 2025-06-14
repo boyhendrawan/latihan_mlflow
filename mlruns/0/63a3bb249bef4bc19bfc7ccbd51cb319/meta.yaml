@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63a3bb249bef4bc19bfc7ccbd51cb319/artifacts
+end_time: 1749900209832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63a3bb249bef4bc19bfc7ccbd51cb319
+run_name: smiling-skink-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900074258
+status: 3
+tags: []
+user_id: runner
