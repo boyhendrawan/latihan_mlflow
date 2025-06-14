@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b1da540b652c42989e4e8f3845e4509a/artifacts
+end_time: 1749936216752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1da540b652c42989e4e8f3845e4509a
+run_name: righteous-cod-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749936081876
+status: 3
+tags: []
+user_id: runner
