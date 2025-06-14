@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43f8648fe0f940a4bbf34ab21296660c/artifacts
+end_time: 1749874797612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43f8648fe0f940a4bbf34ab21296660c
+run_name: omniscient-lark-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749874661449
+status: 3
+tags: []
+user_id: runner
