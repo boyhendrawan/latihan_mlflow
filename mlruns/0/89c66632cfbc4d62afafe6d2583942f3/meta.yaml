@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89c66632cfbc4d62afafe6d2583942f3/artifacts
+end_time: 1749914258973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89c66632cfbc4d62afafe6d2583942f3
+run_name: unique-panda-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749914124430
+status: 3
+tags: []
+user_id: runner
