@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4fe0d7158d0847018db42f088863b8a6/artifacts
+end_time: 1749895197938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fe0d7158d0847018db42f088863b8a6
+run_name: brawny-stoat-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749895065946
+status: 3
+tags: []
+user_id: runner
