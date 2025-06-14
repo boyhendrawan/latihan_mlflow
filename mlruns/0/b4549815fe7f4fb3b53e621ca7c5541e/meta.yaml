@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4549815fe7f4fb3b53e621ca7c5541e/artifacts
+end_time: 1749912146184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4549815fe7f4fb3b53e621ca7c5541e
+run_name: respected-colt-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749912011252
+status: 3
+tags: []
+user_id: runner
