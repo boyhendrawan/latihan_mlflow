@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6488a6446476402ea7b13f0f1d8a777d/artifacts
+end_time: 1749902904774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6488a6446476402ea7b13f0f1d8a777d
+run_name: aged-snipe-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749902768041
+status: 3
+tags: []
+user_id: runner
