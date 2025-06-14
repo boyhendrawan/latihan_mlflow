@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98192488ea2b4639baf25c03539b9d5d/artifacts
+end_time: 1749931216563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98192488ea2b4639baf25c03539b9d5d
+run_name: funny-dolphin-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749931081301
+status: 3
+tags: []
+user_id: runner
