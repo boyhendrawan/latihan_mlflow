@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4bb0b2de610c4d6589e74f30c5cb3275/artifacts
+end_time: 1749886353289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bb0b2de610c4d6589e74f30c5cb3275
+run_name: fearless-newt-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749886217374
+status: 3
+tags: []
+user_id: runner
