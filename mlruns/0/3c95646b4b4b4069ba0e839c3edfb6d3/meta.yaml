@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c95646b4b4b4069ba0e839c3edfb6d3/artifacts
+end_time: 1749881156219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c95646b4b4b4069ba0e839c3edfb6d3
+run_name: gregarious-fawn-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749881019902
+status: 3
+tags: []
+user_id: runner
