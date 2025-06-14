@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/08ddb7ed9f524ba4a7c9a167de428bdb/artifacts
+end_time: 1749913114111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ddb7ed9f524ba4a7c9a167de428bdb
+run_name: stately-colt-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749912975598
+status: 3
+tags: []
+user_id: runner
