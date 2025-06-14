@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cbf11c29ab2744769d9168adda40584b/artifacts
+end_time: 1749890595871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbf11c29ab2744769d9168adda40584b
+run_name: rare-fish-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749890460237
+status: 3
+tags: []
+user_id: runner
