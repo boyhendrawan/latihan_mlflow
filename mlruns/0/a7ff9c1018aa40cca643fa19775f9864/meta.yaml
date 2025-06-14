@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a7ff9c1018aa40cca643fa19775f9864/artifacts
+end_time: 1749917148876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ff9c1018aa40cca643fa19775f9864
+run_name: unique-lynx-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749917012622
+status: 3
+tags: []
+user_id: runner
