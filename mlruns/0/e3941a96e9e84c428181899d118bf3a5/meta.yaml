@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3941a96e9e84c428181899d118bf3a5/artifacts
+end_time: 1749931417681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3941a96e9e84c428181899d118bf3a5
+run_name: nosy-goat-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749931280525
+status: 3
+tags: []
+user_id: runner
