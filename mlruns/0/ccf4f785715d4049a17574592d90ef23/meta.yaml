@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ccf4f785715d4049a17574592d90ef23/artifacts
+end_time: 1749887124222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf4f785715d4049a17574592d90ef23
+run_name: masked-moth-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749886989083
+status: 3
+tags: []
+user_id: runner
