@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/181c886c8cba40439812ccc0e15cb4e1/artifacts
+end_time: 1749907905778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181c886c8cba40439812ccc0e15cb4e1
+run_name: industrious-moose-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749907770014
+status: 3
+tags: []
+user_id: runner
