@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5121502397f4e6fb24869f385dfee59/artifacts
+end_time: 1749877694251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5121502397f4e6fb24869f385dfee59
+run_name: amusing-slug-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749877559637
+status: 3
+tags: []
+user_id: runner
