@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dcc542a61e4b414cb573a47711cb080a/artifacts
+end_time: 1749936026273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcc542a61e4b414cb573a47711cb080a
+run_name: resilient-hawk-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749935889367
+status: 3
+tags: []
+user_id: runner
