@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebb0036af6a64bfc803615337b1f4aa2/artifacts
+end_time: 1749900594060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebb0036af6a64bfc803615337b1f4aa2
+run_name: bittersweet-fawn-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900458288
+status: 3
+tags: []
+user_id: runner
