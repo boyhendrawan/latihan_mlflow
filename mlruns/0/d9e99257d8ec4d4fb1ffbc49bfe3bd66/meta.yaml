@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9e99257d8ec4d4fb1ffbc49bfe3bd66/artifacts
+end_time: 1749906750759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9e99257d8ec4d4fb1ffbc49bfe3bd66
+run_name: omniscient-newt-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749906614251
+status: 3
+tags: []
+user_id: runner
