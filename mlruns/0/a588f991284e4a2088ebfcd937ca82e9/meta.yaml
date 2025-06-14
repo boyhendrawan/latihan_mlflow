@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a588f991284e4a2088ebfcd937ca82e9/artifacts
+end_time: 1749941426191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a588f991284e4a2088ebfcd937ca82e9
+run_name: capricious-flea-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749941290392
+status: 3
+tags: []
+user_id: runner
