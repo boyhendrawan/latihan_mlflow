@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/386d9fe30e254f7cbf3a8a06f194a4f8/artifacts
+end_time: 1749934490864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 386d9fe30e254f7cbf3a8a06f194a4f8
+run_name: receptive-elk-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749934355576
+status: 3
+tags: []
+user_id: runner
