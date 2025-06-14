@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f75750ee1d14b149b35ef533f65f516/artifacts
+end_time: 1749912531252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f75750ee1d14b149b35ef533f65f516
+run_name: calm-fawn-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749912394726
+status: 3
+tags: []
+user_id: runner
