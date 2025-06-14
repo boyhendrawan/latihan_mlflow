@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ca01aa1e06c43df8d7222db7a6dc3b2/artifacts
+end_time: 1749865174042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ca01aa1e06c43df8d7222db7a6dc3b2
+run_name: unequaled-turtle-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749865038765
+status: 3
+tags: []
+user_id: runner
