@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a38ead1e78a4b8ba04cf77be13486f9/artifacts
+end_time: 1749864011657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a38ead1e78a4b8ba04cf77be13486f9
+run_name: casual-lark-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749863875156
+status: 3
+tags: []
+user_id: runner
