@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ed9ebfaff4e4d6793d111490982d920/artifacts
+end_time: 1749874996634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ed9ebfaff4e4d6793d111490982d920
+run_name: respected-calf-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749874856503
+status: 3
+tags: []
+user_id: runner
