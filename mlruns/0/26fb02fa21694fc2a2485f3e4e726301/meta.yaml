@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26fb02fa21694fc2a2485f3e4e726301/artifacts
+end_time: 1749891553846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26fb02fa21694fc2a2485f3e4e726301
+run_name: sedate-dove-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891418345
+status: 3
+tags: []
+user_id: runner
