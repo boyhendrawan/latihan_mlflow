@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a99428ad3544405b726d3b9ae6f757e/artifacts
+end_time: 1749939504899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a99428ad3544405b726d3b9ae6f757e
+run_name: nosy-slug-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749939369299
+status: 3
+tags: []
+user_id: runner
