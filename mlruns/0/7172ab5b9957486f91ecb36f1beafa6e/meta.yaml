@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7172ab5b9957486f91ecb36f1beafa6e/artifacts
+end_time: 1749866513530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7172ab5b9957486f91ecb36f1beafa6e
+run_name: kindly-fawn-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749866378734
+status: 3
+tags: []
+user_id: runner
