@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c69735c4883c49bb990ed0ead3aa30a8/artifacts
+end_time: 1749927373770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c69735c4883c49bb990ed0ead3aa30a8
+run_name: fortunate-colt-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749927238157
+status: 3
+tags: []
+user_id: runner
