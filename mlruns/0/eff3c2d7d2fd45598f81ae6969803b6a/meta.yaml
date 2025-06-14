@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eff3c2d7d2fd45598f81ae6969803b6a/artifacts
+end_time: 1749921797235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff3c2d7d2fd45598f81ae6969803b6a
+run_name: painted-mouse-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749921660837
+status: 3
+tags: []
+user_id: runner
