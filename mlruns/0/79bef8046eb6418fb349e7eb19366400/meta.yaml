@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/79bef8046eb6418fb349e7eb19366400/artifacts
+end_time: 1749921989830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79bef8046eb6418fb349e7eb19366400
+run_name: painted-roo-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749921853624
+status: 3
+tags: []
+user_id: runner
