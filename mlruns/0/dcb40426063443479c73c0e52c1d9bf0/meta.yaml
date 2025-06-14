@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dcb40426063443479c73c0e52c1d9bf0/artifacts
+end_time: 1749924301646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcb40426063443479c73c0e52c1d9bf0
+run_name: dazzling-stork-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749924166677
+status: 3
+tags: []
+user_id: runner
