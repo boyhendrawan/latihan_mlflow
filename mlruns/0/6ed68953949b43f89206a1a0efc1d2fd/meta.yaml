@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ed68953949b43f89206a1a0efc1d2fd/artifacts
+end_time: 1749885002913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ed68953949b43f89206a1a0efc1d2fd
+run_name: luminous-lamb-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749884865920
+status: 3
+tags: []
+user_id: runner
