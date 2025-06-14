@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bdeb7e8a1b045dea8da634c2717e974/artifacts
+end_time: 1749911371375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bdeb7e8a1b045dea8da634c2717e974
+run_name: burly-grouse-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749911236906
+status: 3
+tags: []
+user_id: runner
