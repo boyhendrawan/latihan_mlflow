@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ee351055596426ab5707a75cf7f3d12/artifacts
+end_time: 1749873246640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ee351055596426ab5707a75cf7f3d12
+run_name: salty-dove-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749873111858
+status: 3
+tags: []
+user_id: runner
