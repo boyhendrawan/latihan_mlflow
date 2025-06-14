@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e82497ba2c6e4da1b95c63db3da712c3/artifacts
+end_time: 1749879621622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e82497ba2c6e4da1b95c63db3da712c3
+run_name: kindly-shoat-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749879486197
+status: 3
+tags: []
+user_id: runner
