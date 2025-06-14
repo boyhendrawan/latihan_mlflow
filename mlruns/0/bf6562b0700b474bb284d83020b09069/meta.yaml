@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf6562b0700b474bb284d83020b09069/artifacts
+end_time: 1749909827007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf6562b0700b474bb284d83020b09069
+run_name: respected-shrew-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749909689253
+status: 3
+tags: []
+user_id: runner
