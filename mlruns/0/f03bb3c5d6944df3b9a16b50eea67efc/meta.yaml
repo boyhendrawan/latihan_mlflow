@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f03bb3c5d6944df3b9a16b50eea67efc/artifacts
+end_time: 1749883849500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f03bb3c5d6944df3b9a16b50eea67efc
+run_name: ambitious-moose-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749883714970
+status: 3
+tags: []
+user_id: runner
