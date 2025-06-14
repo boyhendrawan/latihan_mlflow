@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d92f9c4bc2f4e91b3e2badff3b143d4/artifacts
+end_time: 1749928713698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d92f9c4bc2f4e91b3e2badff3b143d4
+run_name: bedecked-bear-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749928578210
+status: 3
+tags: []
+user_id: runner
