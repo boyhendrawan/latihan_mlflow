@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2785c173439a41c9a8a6149cdbf87646/artifacts
+end_time: 1749939889335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2785c173439a41c9a8a6149cdbf87646
+run_name: funny-bass-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749939752249
+status: 3
+tags: []
+user_id: runner
