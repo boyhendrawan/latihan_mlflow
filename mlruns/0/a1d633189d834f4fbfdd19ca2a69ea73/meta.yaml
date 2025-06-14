@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a1d633189d834f4fbfdd19ca2a69ea73/artifacts
+end_time: 1749870736618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d633189d834f4fbfdd19ca2a69ea73
+run_name: mercurial-slug-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749870600382
+status: 3
+tags: []
+user_id: runner
