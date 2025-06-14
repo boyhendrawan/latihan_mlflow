@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a09c17073644d30a7393456817b4393/artifacts
+end_time: 1749890399916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a09c17073644d30a7393456817b4393
+run_name: amusing-koi-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749890265003
+status: 3
+tags: []
+user_id: runner
