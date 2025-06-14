@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c119ea47696b4e0ea4384612527ba1cd/artifacts
+end_time: 1749875774089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c119ea47696b4e0ea4384612527ba1cd
+run_name: thoughtful-bat-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749875638712
+status: 3
+tags: []
+user_id: runner
