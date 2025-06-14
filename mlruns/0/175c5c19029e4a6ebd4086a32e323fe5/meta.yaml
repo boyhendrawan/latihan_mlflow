@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/175c5c19029e4a6ebd4086a32e323fe5/artifacts
+end_time: 1749935448197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 175c5c19029e4a6ebd4086a32e323fe5
+run_name: abrasive-squid-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749935313764
+status: 3
+tags: []
+user_id: runner
