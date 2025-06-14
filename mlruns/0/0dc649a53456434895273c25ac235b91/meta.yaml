@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0dc649a53456434895273c25ac235b91/artifacts
+end_time: 1749930063530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dc649a53456434895273c25ac235b91
+run_name: grandiose-rat-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749929927154
+status: 3
+tags: []
+user_id: runner
