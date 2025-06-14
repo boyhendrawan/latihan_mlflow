@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25420f0231c644aeae29eef4ce4c0114/artifacts
+end_time: 1749926801211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25420f0231c644aeae29eef4ce4c0114
+run_name: upbeat-lamb-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749926665527
+status: 3
+tags: []
+user_id: runner
