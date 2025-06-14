@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a31d4f633354e01997961cf854b2b15/artifacts
+end_time: 1749900978410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a31d4f633354e01997961cf854b2b15
+run_name: carefree-hawk-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900842756
+status: 3
+tags: []
+user_id: runner
