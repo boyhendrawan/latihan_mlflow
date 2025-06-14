@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/055f3ff423484a8892cbdf0c7cb9fba7/artifacts
+end_time: 1749905604407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 055f3ff423484a8892cbdf0c7cb9fba7
+run_name: persistent-kite-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905469020
+status: 3
+tags: []
+user_id: runner
