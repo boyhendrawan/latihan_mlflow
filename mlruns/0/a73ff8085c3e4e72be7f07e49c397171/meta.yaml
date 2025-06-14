@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a73ff8085c3e4e72be7f07e49c397171/artifacts
+end_time: 1749887317278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a73ff8085c3e4e72be7f07e49c397171
+run_name: auspicious-sow-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749887181906
+status: 3
+tags: []
+user_id: runner
