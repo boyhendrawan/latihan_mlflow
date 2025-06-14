@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f181d1ffe8bf45369fe4e6660d19e783/artifacts
+end_time: 1749872487145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f181d1ffe8bf45369fe4e6660d19e783
+run_name: suave-ape-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749872351810
+status: 3
+tags: []
+user_id: runner
