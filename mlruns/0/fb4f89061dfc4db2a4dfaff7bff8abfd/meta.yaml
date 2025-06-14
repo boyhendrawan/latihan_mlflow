@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fb4f89061dfc4db2a4dfaff7bff8abfd/artifacts
+end_time: 1749869189641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4f89061dfc4db2a4dfaff7bff8abfd
+run_name: exultant-frog-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749869054877
+status: 3
+tags: []
+user_id: runner
