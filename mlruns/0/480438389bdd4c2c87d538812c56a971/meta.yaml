@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/480438389bdd4c2c87d538812c56a971/artifacts
+end_time: 1749879241157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 480438389bdd4c2c87d538812c56a971
+run_name: gentle-trout-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749879102771
+status: 3
+tags: []
+user_id: runner
