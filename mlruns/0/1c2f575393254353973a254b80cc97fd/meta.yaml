@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c2f575393254353973a254b80cc97fd/artifacts
+end_time: 1749897715866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c2f575393254353973a254b80cc97fd
+run_name: shivering-finch-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749897581368
+status: 3
+tags: []
+user_id: runner
