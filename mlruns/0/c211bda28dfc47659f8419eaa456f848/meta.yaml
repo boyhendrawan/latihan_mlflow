@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c211bda28dfc47659f8419eaa456f848/artifacts
+end_time: 1749871896844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c211bda28dfc47659f8419eaa456f848
+run_name: merciful-worm-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749871761278
+status: 3
+tags: []
+user_id: runner
