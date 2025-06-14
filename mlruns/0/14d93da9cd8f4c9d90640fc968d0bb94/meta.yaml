@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14d93da9cd8f4c9d90640fc968d0bb94/artifacts
+end_time: 1749872855730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d93da9cd8f4c9d90640fc968d0bb94
+run_name: righteous-quail-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749872729433
+status: 3
+tags: []
+user_id: runner
