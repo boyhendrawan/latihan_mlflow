@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f270e122275d450292f6bca05b0b6ebe/artifacts
+end_time: 1749926226616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f270e122275d450292f6bca05b0b6ebe
+run_name: shivering-wasp-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749926090926
+status: 3
+tags: []
+user_id: runner
