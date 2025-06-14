@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a2a080b923c34338b31968412a8ba24a/artifacts
+end_time: 1749916762425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a080b923c34338b31968412a8ba24a
+run_name: rumbling-dove-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749916626622
+status: 3
+tags: []
+user_id: runner
