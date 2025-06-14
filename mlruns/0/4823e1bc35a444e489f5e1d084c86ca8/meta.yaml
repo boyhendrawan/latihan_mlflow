@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4823e1bc35a444e489f5e1d084c86ca8/artifacts
+end_time: 1749879814904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4823e1bc35a444e489f5e1d084c86ca8
+run_name: selective-shark-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749879679624
+status: 3
+tags: []
+user_id: runner
