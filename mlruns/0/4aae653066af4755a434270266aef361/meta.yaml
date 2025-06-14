@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4aae653066af4755a434270266aef361/artifacts
+end_time: 1749942781633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4aae653066af4755a434270266aef361
+run_name: honorable-goat-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749942645895
+status: 3
+tags: []
+user_id: runner
