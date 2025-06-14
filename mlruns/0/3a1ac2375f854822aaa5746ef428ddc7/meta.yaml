@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a1ac2375f854822aaa5746ef428ddc7/artifacts
+end_time: 1749867849261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a1ac2375f854822aaa5746ef428ddc7
+run_name: calm-bear-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749867714950
+status: 3
+tags: []
+user_id: runner
