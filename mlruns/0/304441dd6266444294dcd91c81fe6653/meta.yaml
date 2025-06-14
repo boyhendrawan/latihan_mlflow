@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/304441dd6266444294dcd91c81fe6653/artifacts
+end_time: 1749907713549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 304441dd6266444294dcd91c81fe6653
+run_name: capable-auk-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749907578426
+status: 3
+tags: []
+user_id: runner
