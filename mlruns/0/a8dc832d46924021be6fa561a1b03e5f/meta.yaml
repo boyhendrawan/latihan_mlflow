@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a8dc832d46924021be6fa561a1b03e5f/artifacts
+end_time: 1749881729123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8dc832d46924021be6fa561a1b03e5f
+run_name: calm-toad-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749881594234
+status: 3
+tags: []
+user_id: runner
