@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b9507b974b064b90b9c3821480bd92be/artifacts
+end_time: 1749886544534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9507b974b064b90b9c3821480bd92be
+run_name: resilient-cat-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749886409693
+status: 3
+tags: []
+user_id: runner
