@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6fd06bd1f94c44a58ae85dbab193322d/artifacts
+end_time: 1749903480010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd06bd1f94c44a58ae85dbab193322d
+run_name: secretive-stag-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749903344912
+status: 3
+tags: []
+user_id: runner
