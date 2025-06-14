@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d7e80755a0b04f3da91d47f2500e08d1/artifacts
+end_time: 1749860157044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e80755a0b04f3da91d47f2500e08d1
+run_name: unequaled-squid-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749860022333
+status: 3
+tags: []
+user_id: runner
