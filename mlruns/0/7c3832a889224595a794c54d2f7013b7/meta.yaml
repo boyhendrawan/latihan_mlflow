@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c3832a889224595a794c54d2f7013b7/artifacts
+end_time: 1749893481378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c3832a889224595a794c54d2f7013b7
+run_name: intelligent-asp-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893346161
+status: 3
+tags: []
+user_id: runner
