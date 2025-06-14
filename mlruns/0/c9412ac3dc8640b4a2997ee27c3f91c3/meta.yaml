@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9412ac3dc8640b4a2997ee27c3f91c3/artifacts
+end_time: 1749931998003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9412ac3dc8640b4a2997ee27c3f91c3
+run_name: skillful-pug-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749931863101
+status: 3
+tags: []
+user_id: runner
