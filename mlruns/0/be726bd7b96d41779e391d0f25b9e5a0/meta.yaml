@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be726bd7b96d41779e391d0f25b9e5a0/artifacts
+end_time: 1749886931667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be726bd7b96d41779e391d0f25b9e5a0
+run_name: wise-snipe-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749886796296
+status: 3
+tags: []
+user_id: runner
