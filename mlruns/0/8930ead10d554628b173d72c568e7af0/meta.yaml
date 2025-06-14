@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8930ead10d554628b173d72c568e7af0/artifacts
+end_time: 1749883089274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8930ead10d554628b173d72c568e7af0
+run_name: intrigued-conch-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882953874
+status: 3
+tags: []
+user_id: runner
