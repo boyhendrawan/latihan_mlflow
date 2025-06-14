@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c36096bc3dd45899b2c562b7a906fcc/artifacts
+end_time: 1749936797434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c36096bc3dd45899b2c562b7a906fcc
+run_name: clean-snake-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749936661643
+status: 3
+tags: []
+user_id: runner
