@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e71865d2e3424ee59a11961cf474500e/artifacts
+end_time: 1749870347456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71865d2e3424ee59a11961cf474500e
+run_name: gregarious-dove-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749870211671
+status: 3
+tags: []
+user_id: runner
