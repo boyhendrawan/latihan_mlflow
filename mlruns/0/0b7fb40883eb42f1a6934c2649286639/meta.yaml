@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b7fb40883eb42f1a6934c2649286639/artifacts
+end_time: 1749892327710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7fb40883eb42f1a6934c2649286639
+run_name: gentle-skunk-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892191738
+status: 3
+tags: []
+user_id: runner
