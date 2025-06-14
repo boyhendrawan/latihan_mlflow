@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3bb5a4992c244e3aaa3821db60c2d862/artifacts
+end_time: 1749877888853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bb5a4992c244e3aaa3821db60c2d862
+run_name: sedate-seal-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749877752922
+status: 3
+tags: []
+user_id: runner
