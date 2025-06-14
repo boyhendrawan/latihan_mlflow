@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bcfccf31ea574a07b0ba983625f22f31/artifacts
+end_time: 1749911567225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcfccf31ea574a07b0ba983625f22f31
+run_name: blushing-hen-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749911430270
+status: 3
+tags: []
+user_id: runner
