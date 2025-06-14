@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a5545a3344c42929cfb1d4432f93ef0/artifacts
+end_time: 1749912918446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a5545a3344c42929cfb1d4432f93ef0
+run_name: languid-loon-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749912781799
+status: 3
+tags: []
+user_id: runner
