@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09550d16982942669fd711d7f7804c1b/artifacts
+end_time: 1749862674468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09550d16982942669fd711d7f7804c1b
+run_name: monumental-worm-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749862539463
+status: 3
+tags: []
+user_id: runner
