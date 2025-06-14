@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b710dfd1815f403096607d789f85e725/artifacts
+end_time: 1749883467296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b710dfd1815f403096607d789f85e725
+run_name: luxuriant-dog-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749883332439
+status: 3
+tags: []
+user_id: runner
