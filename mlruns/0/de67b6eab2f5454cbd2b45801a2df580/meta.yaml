@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de67b6eab2f5454cbd2b45801a2df580/artifacts
+end_time: 1749864400466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de67b6eab2f5454cbd2b45801a2df580
+run_name: omniscient-pig-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864264742
+status: 3
+tags: []
+user_id: runner
