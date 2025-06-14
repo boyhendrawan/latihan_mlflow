@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea39b81ab3b94d02a9baaafa0a70d3ef/artifacts
+end_time: 1749900402477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea39b81ab3b94d02a9baaafa0a70d3ef
+run_name: thoughtful-ray-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900265701
+status: 3
+tags: []
+user_id: runner
