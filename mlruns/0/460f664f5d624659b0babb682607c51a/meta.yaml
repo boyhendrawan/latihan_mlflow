@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/460f664f5d624659b0babb682607c51a/artifacts
+end_time: 1749919271028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 460f664f5d624659b0babb682607c51a
+run_name: skittish-perch-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919134766
+status: 3
+tags: []
+user_id: runner
