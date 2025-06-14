@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a4fb28fb2a3b4543a7ed7881ef9b2c35/artifacts
+end_time: 1749921016592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4fb28fb2a3b4543a7ed7881ef9b2c35
+run_name: carefree-wolf-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920881166
+status: 3
+tags: []
+user_id: runner
