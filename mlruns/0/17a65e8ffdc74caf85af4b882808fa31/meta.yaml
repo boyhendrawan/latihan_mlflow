@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17a65e8ffdc74caf85af4b882808fa31/artifacts
+end_time: 1749871706607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17a65e8ffdc74caf85af4b882808fa31
+run_name: persistent-whale-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749871570180
+status: 3
+tags: []
+user_id: runner
