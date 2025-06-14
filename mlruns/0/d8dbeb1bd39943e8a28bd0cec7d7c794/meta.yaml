@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8dbeb1bd39943e8a28bd0cec7d7c794/artifacts
+end_time: 1749892517343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8dbeb1bd39943e8a28bd0cec7d7c794
+run_name: colorful-rook-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892382621
+status: 3
+tags: []
+user_id: runner
