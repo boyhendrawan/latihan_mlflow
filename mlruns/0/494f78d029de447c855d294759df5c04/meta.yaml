@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/494f78d029de447c855d294759df5c04/artifacts
+end_time: 1749934682177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 494f78d029de447c855d294759df5c04
+run_name: chill-chimp-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749934547306
+status: 3
+tags: []
+user_id: runner
