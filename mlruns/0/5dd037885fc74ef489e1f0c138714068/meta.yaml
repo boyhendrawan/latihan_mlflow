@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5dd037885fc74ef489e1f0c138714068/artifacts
+end_time: 1749898868895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd037885fc74ef489e1f0c138714068
+run_name: casual-frog-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749898732517
+status: 3
+tags: []
+user_id: runner
