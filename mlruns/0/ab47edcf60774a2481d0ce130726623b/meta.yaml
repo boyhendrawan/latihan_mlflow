@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab47edcf60774a2481d0ce130726623b/artifacts
+end_time: 1749876156796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab47edcf60774a2481d0ce130726623b
+run_name: orderly-mouse-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876021645
+status: 3
+tags: []
+user_id: runner
