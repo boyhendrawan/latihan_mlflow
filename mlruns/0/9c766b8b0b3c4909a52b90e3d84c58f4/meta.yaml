@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c766b8b0b3c4909a52b90e3d84c58f4/artifacts
+end_time: 1749918306690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c766b8b0b3c4909a52b90e3d84c58f4
+run_name: masked-bear-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749918171689
+status: 3
+tags: []
+user_id: runner
