@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b5bd4e1bd9b4dd1a036e76dbaaef20a/artifacts
+end_time: 1749886738521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5bd4e1bd9b4dd1a036e76dbaaef20a
+run_name: chill-koi-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749886602692
+status: 3
+tags: []
+user_id: runner
