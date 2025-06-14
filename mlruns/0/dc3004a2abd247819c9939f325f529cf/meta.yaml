@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc3004a2abd247819c9939f325f529cf/artifacts
+end_time: 1749928330915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3004a2abd247819c9939f325f529cf
+run_name: awesome-lamb-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749928196407
+status: 3
+tags: []
+user_id: runner
