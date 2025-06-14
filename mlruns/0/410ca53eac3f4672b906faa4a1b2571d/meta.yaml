@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/410ca53eac3f4672b906faa4a1b2571d/artifacts
+end_time: 1749912726048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 410ca53eac3f4672b906faa4a1b2571d
+run_name: defiant-bear-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749912590771
+status: 3
+tags: []
+user_id: runner
