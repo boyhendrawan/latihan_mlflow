@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/022f7c20bf224e4ea1e9fb5427256737/artifacts
+end_time: 1749872090180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 022f7c20bf224e4ea1e9fb5427256737
+run_name: able-horse-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749871953855
+status: 3
+tags: []
+user_id: runner
