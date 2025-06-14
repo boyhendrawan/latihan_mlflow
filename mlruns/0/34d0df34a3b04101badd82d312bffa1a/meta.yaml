@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34d0df34a3b04101badd82d312bffa1a/artifacts
+end_time: 1749945083771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d0df34a3b04101badd82d312bffa1a
+run_name: fortunate-stork-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749944947407
+status: 3
+tags: []
+user_id: runner
