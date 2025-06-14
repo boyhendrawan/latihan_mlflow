@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43dd8b65212f4e029c77e9105d21f99d/artifacts
+end_time: 1749907330591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43dd8b65212f4e029c77e9105d21f99d
+run_name: clean-sow-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749907193161
+status: 3
+tags: []
+user_id: runner
