@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e6d573cd3f34dd2b1d70fb49f67b529/artifacts
+end_time: 1749889821999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e6d573cd3f34dd2b1d70fb49f67b529
+run_name: exultant-tern-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749889686522
+status: 3
+tags: []
+user_id: runner
