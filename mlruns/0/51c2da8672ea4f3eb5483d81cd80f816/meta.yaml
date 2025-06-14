@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51c2da8672ea4f3eb5483d81cd80f816/artifacts
+end_time: 1749882509229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c2da8672ea4f3eb5483d81cd80f816
+run_name: classy-worm-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882373939
+status: 3
+tags: []
+user_id: runner
