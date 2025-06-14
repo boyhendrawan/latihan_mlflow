@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/688b4a93c76549deaf21d002a18ed41e/artifacts
+end_time: 1749916954458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688b4a93c76549deaf21d002a18ed41e
+run_name: industrious-wasp-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749916818897
+status: 3
+tags: []
+user_id: runner
