@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ede1f1c5b0b43ecaa7a61b71c39c29f/artifacts
+end_time: 1749931025657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ede1f1c5b0b43ecaa7a61b71c39c29f
+run_name: caring-snake-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749930889643
+status: 3
+tags: []
+user_id: runner
