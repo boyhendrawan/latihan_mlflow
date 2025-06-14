@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cc27017d077f44b39cbef82d87a73b89/artifacts
+end_time: 1749934873511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc27017d077f44b39cbef82d87a73b89
+run_name: bald-shrimp-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749934738730
+status: 3
+tags: []
+user_id: runner
