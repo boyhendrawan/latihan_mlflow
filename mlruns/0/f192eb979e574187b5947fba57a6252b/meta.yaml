@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f192eb979e574187b5947fba57a6252b/artifacts
+end_time: 1749903095972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f192eb979e574187b5947fba57a6252b
+run_name: luxuriant-zebra-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749902960284
+status: 3
+tags: []
+user_id: runner
