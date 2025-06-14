@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17b596226b3c4c60b59901ddcc0883ce/artifacts
+end_time: 1749903868539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b596226b3c4c60b59901ddcc0883ce
+run_name: adorable-dove-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749903732634
+status: 3
+tags: []
+user_id: runner
