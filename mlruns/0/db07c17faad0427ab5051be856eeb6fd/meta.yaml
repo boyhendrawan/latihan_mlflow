@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db07c17faad0427ab5051be856eeb6fd/artifacts
+end_time: 1749863246492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db07c17faad0427ab5051be856eeb6fd
+run_name: masked-dog-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749863110588
+status: 3
+tags: []
+user_id: runner
