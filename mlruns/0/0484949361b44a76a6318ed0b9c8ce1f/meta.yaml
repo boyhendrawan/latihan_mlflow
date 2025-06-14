@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0484949361b44a76a6318ed0b9c8ce1f/artifacts
+end_time: 1749936604195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0484949361b44a76a6318ed0b9c8ce1f
+run_name: skillful-hawk-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749936469112
+status: 3
+tags: []
+user_id: runner
