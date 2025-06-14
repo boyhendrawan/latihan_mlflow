@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ce2d9acc14a94f26bf90f6e64c79a52d/artifacts
+end_time: 1749917535531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce2d9acc14a94f26bf90f6e64c79a52d
+run_name: colorful-donkey-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749917399537
+status: 3
+tags: []
+user_id: runner
