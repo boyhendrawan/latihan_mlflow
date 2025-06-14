@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73abc988b15a4518a2f48d3d1d90a045/artifacts
+end_time: 1749899252231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73abc988b15a4518a2f48d3d1d90a045
+run_name: luxuriant-slug-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749899117318
+status: 3
+tags: []
+user_id: runner
