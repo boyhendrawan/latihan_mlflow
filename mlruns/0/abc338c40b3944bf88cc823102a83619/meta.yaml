@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abc338c40b3944bf88cc823102a83619/artifacts
+end_time: 1749880963213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abc338c40b3944bf88cc823102a83619
+run_name: dashing-pig-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749880827993
+status: 3
+tags: []
+user_id: runner
