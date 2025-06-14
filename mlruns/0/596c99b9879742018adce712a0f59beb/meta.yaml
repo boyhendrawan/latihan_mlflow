@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/596c99b9879742018adce712a0f59beb/artifacts
+end_time: 1749895392346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596c99b9879742018adce712a0f59beb
+run_name: salty-robin-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749895255985
+status: 3
+tags: []
+user_id: runner
