@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b2a933189084748921019061b648f1d/artifacts
+end_time: 1749914448517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b2a933189084748921019061b648f1d
+run_name: redolent-cow-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749914313348
+status: 3
+tags: []
+user_id: runner
