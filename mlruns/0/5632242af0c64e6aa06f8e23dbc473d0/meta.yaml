@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5632242af0c64e6aa06f8e23dbc473d0/artifacts
+end_time: 1749935829024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5632242af0c64e6aa06f8e23dbc473d0
+run_name: victorious-fowl-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749935697005
+status: 3
+tags: []
+user_id: runner
