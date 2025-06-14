@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/619eb51bc687439f8e0f56f870f6354f/artifacts
+end_time: 1749888283977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 619eb51bc687439f8e0f56f870f6354f
+run_name: suave-squid-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888147308
+status: 3
+tags: []
+user_id: runner
