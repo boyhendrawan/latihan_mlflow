@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d06cef5e5314099a1303a5ecddf1c2d/artifacts
+end_time: 1749920821177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d06cef5e5314099a1303a5ecddf1c2d
+run_name: orderly-stork-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920684099
+status: 3
+tags: []
+user_id: runner
