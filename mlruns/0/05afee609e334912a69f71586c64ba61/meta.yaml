@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/05afee609e334912a69f71586c64ba61/artifacts
+end_time: 1749908485604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05afee609e334912a69f71586c64ba61
+run_name: dazzling-foal-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749908350553
+status: 3
+tags: []
+user_id: runner
