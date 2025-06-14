@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d7e5f917a8044aed8d0962d3802cd0b9/artifacts
+end_time: 1749865364821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e5f917a8044aed8d0962d3802cd0b9
+run_name: amusing-mink-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749865228982
+status: 3
+tags: []
+user_id: runner
