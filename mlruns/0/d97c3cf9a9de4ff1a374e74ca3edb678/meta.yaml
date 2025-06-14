@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d97c3cf9a9de4ff1a374e74ca3edb678/artifacts
+end_time: 1749894436935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d97c3cf9a9de4ff1a374e74ca3edb678
+run_name: legendary-bird-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749894301911
+status: 3
+tags: []
+user_id: runner
