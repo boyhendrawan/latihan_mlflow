@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0f20ff9c5d24c2694e049e2866ddefc/artifacts
+end_time: 1749931613124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0f20ff9c5d24c2694e049e2866ddefc
+run_name: capricious-bear-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749931475858
+status: 3
+tags: []
+user_id: runner
