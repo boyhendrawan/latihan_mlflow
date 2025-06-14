@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3d7400d2a7e24e72a01503b93388b941/artifacts
+end_time: 1749897521727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d7400d2a7e24e72a01503b93388b941
+run_name: delightful-gull-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749897386485
+status: 3
+tags: []
+user_id: runner
