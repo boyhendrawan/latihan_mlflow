@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f6fe0ad19cf4b328199f31da5c4f7bc/artifacts
+end_time: 1749870545485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6fe0ad19cf4b328199f31da5c4f7bc
+run_name: rebellious-sloth-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749870409078
+status: 3
+tags: []
+user_id: runner
