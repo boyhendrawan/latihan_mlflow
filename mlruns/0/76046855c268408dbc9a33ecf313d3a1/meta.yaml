@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/76046855c268408dbc9a33ecf313d3a1/artifacts
+end_time: 1749931805854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76046855c268408dbc9a33ecf313d3a1
+run_name: angry-rook-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749931670368
+status: 3
+tags: []
+user_id: runner
