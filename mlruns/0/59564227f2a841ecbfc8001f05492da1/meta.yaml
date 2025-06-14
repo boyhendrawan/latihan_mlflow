@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/59564227f2a841ecbfc8001f05492da1/artifacts
+end_time: 1749865939933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59564227f2a841ecbfc8001f05492da1
+run_name: righteous-snake-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749865803428
+status: 3
+tags: []
+user_id: runner
