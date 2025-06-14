@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f057dc01c78041448e7db5cbcbc5f51b/artifacts
+end_time: 1749887703609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f057dc01c78041448e7db5cbcbc5f51b
+run_name: carefree-grub-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749887568400
+status: 3
+tags: []
+user_id: runner
