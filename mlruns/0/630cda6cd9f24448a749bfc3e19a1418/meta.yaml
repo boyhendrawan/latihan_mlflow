@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/630cda6cd9f24448a749bfc3e19a1418/artifacts
+end_time: 1749922379589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 630cda6cd9f24448a749bfc3e19a1418
+run_name: secretive-squid-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749922241657
+status: 3
+tags: []
+user_id: runner
