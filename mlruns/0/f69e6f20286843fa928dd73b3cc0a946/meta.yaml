@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f69e6f20286843fa928dd73b3cc0a946/artifacts
+end_time: 1749913682170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f69e6f20286843fa928dd73b3cc0a946
+run_name: sassy-chimp-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749913546146
+status: 3
+tags: []
+user_id: runner
