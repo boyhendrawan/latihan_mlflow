@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d47ff33ceed4400ab2c96cc6a4de76e5/artifacts
+end_time: 1749880005883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47ff33ceed4400ab2c96cc6a4de76e5
+run_name: peaceful-hawk-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749879869900
+status: 3
+tags: []
+user_id: runner
