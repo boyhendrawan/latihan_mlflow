@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8f7ff9dfb614b6f974cb62f074f74b5/artifacts
+end_time: 1749930831716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8f7ff9dfb614b6f974cb62f074f74b5
+run_name: merciful-turtle-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749930696068
+status: 3
+tags: []
+user_id: runner
