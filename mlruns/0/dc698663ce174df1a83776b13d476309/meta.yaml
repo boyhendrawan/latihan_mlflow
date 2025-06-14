@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc698663ce174df1a83776b13d476309/artifacts
+end_time: 1749861510979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc698663ce174df1a83776b13d476309
+run_name: luminous-stoat-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749861374329
+status: 3
+tags: []
+user_id: runner
