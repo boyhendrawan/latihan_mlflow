@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b7b8bbf491147a59c5c8979203fbb42/artifacts
+end_time: 1749932959995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b7b8bbf491147a59c5c8979203fbb42
+run_name: skillful-shad-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749932825264
+status: 3
+tags: []
+user_id: runner
