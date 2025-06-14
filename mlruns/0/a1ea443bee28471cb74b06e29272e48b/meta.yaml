@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a1ea443bee28471cb74b06e29272e48b/artifacts
+end_time: 1749876544767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1ea443bee28471cb74b06e29272e48b
+run_name: unique-kit-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876409994
+status: 3
+tags: []
+user_id: runner
