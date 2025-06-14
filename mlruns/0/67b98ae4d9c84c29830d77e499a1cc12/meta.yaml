@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67b98ae4d9c84c29830d77e499a1cc12/artifacts
+end_time: 1749925458312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67b98ae4d9c84c29830d77e499a1cc12
+run_name: orderly-bear-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749925323087
+status: 3
+tags: []
+user_id: runner
