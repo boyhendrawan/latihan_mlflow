@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4646fd6ed4f5405aa5b0b2d2a0b70ba1/artifacts
+end_time: 1749878273116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4646fd6ed4f5405aa5b0b2d2a0b70ba1
+run_name: learned-hare-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749878138473
+status: 3
+tags: []
+user_id: runner
