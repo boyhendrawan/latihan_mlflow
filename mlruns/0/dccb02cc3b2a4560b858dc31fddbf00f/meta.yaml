@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dccb02cc3b2a4560b858dc31fddbf00f/artifacts
+end_time: 1749908865497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dccb02cc3b2a4560b858dc31fddbf00f
+run_name: bustling-goat-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749908729678
+status: 3
+tags: []
+user_id: runner
