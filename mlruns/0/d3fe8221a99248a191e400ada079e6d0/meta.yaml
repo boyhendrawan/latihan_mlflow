@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3fe8221a99248a191e400ada079e6d0/artifacts
+end_time: 1749933149553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3fe8221a99248a191e400ada079e6d0
+run_name: silent-ox-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749933014242
+status: 3
+tags: []
+user_id: runner
