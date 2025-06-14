@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/033b4c3641f24d3f974e2f4bcc730ed1/artifacts
+end_time: 1749864205476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 033b4c3641f24d3f974e2f4bcc730ed1
+run_name: grandiose-stag-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864068764
+status: 3
+tags: []
+user_id: runner
