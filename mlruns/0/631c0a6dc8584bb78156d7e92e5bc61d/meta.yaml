@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/631c0a6dc8584bb78156d7e92e5bc61d/artifacts
+end_time: 1749863625118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 631c0a6dc8584bb78156d7e92e5bc61d
+run_name: angry-mouse-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749863490603
+status: 3
+tags: []
+user_id: runner
