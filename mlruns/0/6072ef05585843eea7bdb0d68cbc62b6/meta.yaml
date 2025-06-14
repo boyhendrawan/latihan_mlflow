@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6072ef05585843eea7bdb0d68cbc62b6/artifacts
+end_time: 1749943932967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6072ef05585843eea7bdb0d68cbc62b6
+run_name: colorful-pig-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749943798406
+status: 3
+tags: []
+user_id: runner
