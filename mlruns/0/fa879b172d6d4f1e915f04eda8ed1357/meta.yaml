@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa879b172d6d4f1e915f04eda8ed1357/artifacts
+end_time: 1749915601118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa879b172d6d4f1e915f04eda8ed1357
+run_name: monumental-fish-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749915465455
+status: 3
+tags: []
+user_id: runner
