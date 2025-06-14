@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ce16cfab71b40b4a5c3840beff40d6a/artifacts
+end_time: 1749864792059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ce16cfab71b40b4a5c3840beff40d6a
+run_name: gifted-finch-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864655143
+status: 3
+tags: []
+user_id: runner
