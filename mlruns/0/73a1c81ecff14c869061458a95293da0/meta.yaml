@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73a1c81ecff14c869061458a95293da0/artifacts
+end_time: 1749891941129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73a1c81ecff14c869061458a95293da0
+run_name: beautiful-whale-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891804974
+status: 3
+tags: []
+user_id: runner
