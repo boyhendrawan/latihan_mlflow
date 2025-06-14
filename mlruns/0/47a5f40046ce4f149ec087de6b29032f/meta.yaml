@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47a5f40046ce4f149ec087de6b29032f/artifacts
+end_time: 1749874411705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47a5f40046ce4f149ec087de6b29032f
+run_name: upset-ant-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749874263707
+status: 3
+tags: []
+user_id: runner
