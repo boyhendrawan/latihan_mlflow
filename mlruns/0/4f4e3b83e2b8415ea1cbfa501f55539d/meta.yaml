@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f4e3b83e2b8415ea1cbfa501f55539d/artifacts
+end_time: 1749862859205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4e3b83e2b8415ea1cbfa501f55539d
+run_name: defiant-ox-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749862730281
+status: 3
+tags: []
+user_id: runner
