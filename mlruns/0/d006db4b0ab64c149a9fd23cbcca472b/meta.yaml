@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d006db4b0ab64c149a9fd23cbcca472b/artifacts
+end_time: 1749870155408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d006db4b0ab64c149a9fd23cbcca472b
+run_name: industrious-wolf-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749870020441
+status: 3
+tags: []
+user_id: runner
