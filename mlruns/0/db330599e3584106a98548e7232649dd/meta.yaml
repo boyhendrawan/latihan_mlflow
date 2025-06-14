@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db330599e3584106a98548e7232649dd/artifacts
+end_time: 1749942588805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db330599e3584106a98548e7232649dd
+run_name: upbeat-duck-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749942451115
+status: 3
+tags: []
+user_id: runner
