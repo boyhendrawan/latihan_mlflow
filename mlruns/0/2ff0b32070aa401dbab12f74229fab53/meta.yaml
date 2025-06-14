@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2ff0b32070aa401dbab12f74229fab53/artifacts
+end_time: 1749876930181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ff0b32070aa401dbab12f74229fab53
+run_name: dapper-snake-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876794867
+status: 3
+tags: []
+user_id: runner
