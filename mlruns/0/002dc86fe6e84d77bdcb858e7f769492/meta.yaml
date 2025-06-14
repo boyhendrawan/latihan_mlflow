@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/002dc86fe6e84d77bdcb858e7f769492/artifacts
+end_time: 1749866895836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 002dc86fe6e84d77bdcb858e7f769492
+run_name: amusing-donkey-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749866760158
+status: 3
+tags: []
+user_id: runner
