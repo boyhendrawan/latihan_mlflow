@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/39a6ad1a55404aad8aa1474420ea15ed/artifacts
+end_time: 1749868427353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39a6ad1a55404aad8aa1474420ea15ed
+run_name: fun-mole-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868291678
+status: 3
+tags: []
+user_id: runner
