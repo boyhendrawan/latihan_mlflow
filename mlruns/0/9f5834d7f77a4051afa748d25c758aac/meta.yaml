@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f5834d7f77a4051afa748d25c758aac/artifacts
+end_time: 1749942000013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f5834d7f77a4051afa748d25c758aac
+run_name: victorious-smelt-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749941864520
+status: 3
+tags: []
+user_id: runner
