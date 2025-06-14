@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/191125ea4915473f9d3724aa1faa1766/artifacts
+end_time: 1749904061166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191125ea4915473f9d3724aa1faa1766
+run_name: gentle-toad-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749903925044
+status: 3
+tags: []
+user_id: runner
