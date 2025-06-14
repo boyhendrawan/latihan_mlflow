@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87a84c3c2c034d27be51d8158a93bb55/artifacts
+end_time: 1749944506412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87a84c3c2c034d27be51d8158a93bb55
+run_name: unleashed-worm-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749944371234
+status: 3
+tags: []
+user_id: runner
