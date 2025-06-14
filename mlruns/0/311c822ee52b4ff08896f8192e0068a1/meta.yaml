@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/311c822ee52b4ff08896f8192e0068a1/artifacts
+end_time: 1749888476631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311c822ee52b4ff08896f8192e0068a1
+run_name: bittersweet-newt-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888340731
+status: 3
+tags: []
+user_id: runner
