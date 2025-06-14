@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3070f4a76c3a42db9d7cc09dc55e8e29/artifacts
+end_time: 1749859964417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3070f4a76c3a42db9d7cc09dc55e8e29
+run_name: invincible-toad-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749859829104
+status: 3
+tags: []
+user_id: runner
