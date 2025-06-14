@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eeb2ec0c0fa04faba19a729d3ef62171/artifacts
+end_time: 1749864983932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeb2ec0c0fa04faba19a729d3ef62171
+run_name: placid-moth-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864848960
+status: 3
+tags: []
+user_id: runner
