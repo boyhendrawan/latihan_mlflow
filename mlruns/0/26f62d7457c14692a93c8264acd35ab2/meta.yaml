@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26f62d7457c14692a93c8264acd35ab2/artifacts
+end_time: 1749910788483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26f62d7457c14692a93c8264acd35ab2
+run_name: crawling-skunk-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749910652973
+status: 3
+tags: []
+user_id: runner
