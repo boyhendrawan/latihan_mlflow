@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7aec67875fd5489799d8f0b68e0e2000/artifacts
+end_time: 1749890976604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aec67875fd5489799d8f0b68e0e2000
+run_name: unique-donkey-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749890841216
+status: 3
+tags: []
+user_id: runner
