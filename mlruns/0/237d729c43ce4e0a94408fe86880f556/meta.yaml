@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/237d729c43ce4e0a94408fe86880f556/artifacts
+end_time: 1749869382359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 237d729c43ce4e0a94408fe86880f556
+run_name: treasured-mouse-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749869246491
+status: 3
+tags: []
+user_id: runner
