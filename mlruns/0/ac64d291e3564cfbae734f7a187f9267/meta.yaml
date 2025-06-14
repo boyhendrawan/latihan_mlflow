@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac64d291e3564cfbae734f7a187f9267/artifacts
+end_time: 1749919078453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac64d291e3564cfbae734f7a187f9267
+run_name: sneaky-slug-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749918944177
+status: 3
+tags: []
+user_id: runner
