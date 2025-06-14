@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18d9aa907d4b476bbe0bc3f279e83499/artifacts
+end_time: 1749910403289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18d9aa907d4b476bbe0bc3f279e83499
+run_name: dashing-squirrel-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749910267720
+status: 3
+tags: []
+user_id: runner
