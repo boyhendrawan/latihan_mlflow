@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/219fb7f9563e41c1a2b3c5aa03467bc4/artifacts
+end_time: 1749869965399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 219fb7f9563e41c1a2b3c5aa03467bc4
+run_name: rebellious-worm-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749869828597
+status: 3
+tags: []
+user_id: runner
