@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d550b816e44b4a38a8c5751d7db8bdfd/artifacts
+end_time: 1749938729665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d550b816e44b4a38a8c5751d7db8bdfd
+run_name: sassy-kite-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749938593805
+status: 3
+tags: []
+user_id: runner
