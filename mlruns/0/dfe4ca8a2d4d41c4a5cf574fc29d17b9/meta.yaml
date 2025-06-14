@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dfe4ca8a2d4d41c4a5cf574fc29d17b9/artifacts
+end_time: 1749885580860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfe4ca8a2d4d41c4a5cf574fc29d17b9
+run_name: youthful-sloth-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749885445360
+status: 3
+tags: []
+user_id: runner
