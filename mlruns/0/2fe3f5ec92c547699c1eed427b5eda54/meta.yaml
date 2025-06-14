@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2fe3f5ec92c547699c1eed427b5eda54/artifacts
+end_time: 1749932770052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe3f5ec92c547699c1eed427b5eda54
+run_name: traveling-loon-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749932636167
+status: 3
+tags: []
+user_id: runner
