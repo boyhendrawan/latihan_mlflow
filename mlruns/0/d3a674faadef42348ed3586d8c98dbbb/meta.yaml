@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3a674faadef42348ed3586d8c98dbbb/artifacts
+end_time: 1749937566427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3a674faadef42348ed3586d8c98dbbb
+run_name: exultant-wolf-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749937431729
+status: 3
+tags: []
+user_id: runner
