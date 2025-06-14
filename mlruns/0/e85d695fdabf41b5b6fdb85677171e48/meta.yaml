@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e85d695fdabf41b5b6fdb85677171e48/artifacts
+end_time: 1749882318127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e85d695fdabf41b5b6fdb85677171e48
+run_name: fun-tern-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882179789
+status: 3
+tags: []
+user_id: runner
