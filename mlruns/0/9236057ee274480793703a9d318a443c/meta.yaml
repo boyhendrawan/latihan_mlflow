@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9236057ee274480793703a9d318a443c/artifacts
+end_time: 1749905796215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9236057ee274480793703a9d318a443c
+run_name: skittish-sheep-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905660780
+status: 3
+tags: []
+user_id: runner
