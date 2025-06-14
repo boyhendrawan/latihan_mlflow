@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b742c8f5c18046e38c1a8bd3fc6f0e33/artifacts
+end_time: 1749885966170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b742c8f5c18046e38c1a8bd3fc6f0e33
+run_name: traveling-wasp-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749885831067
+status: 3
+tags: []
+user_id: runner
