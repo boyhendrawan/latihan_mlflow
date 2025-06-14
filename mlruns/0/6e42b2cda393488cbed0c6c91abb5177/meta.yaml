@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e42b2cda393488cbed0c6c91abb5177/artifacts
+end_time: 1749923157546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e42b2cda393488cbed0c6c91abb5177
+run_name: blushing-ram-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749923022008
+status: 3
+tags: []
+user_id: runner
