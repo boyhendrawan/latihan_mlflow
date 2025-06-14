@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5f07f03778d34714ab485f079f13c595/artifacts
+end_time: 1749927942644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f07f03778d34714ab485f079f13c595
+run_name: dapper-bear-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749927807221
+status: 3
+tags: []
+user_id: runner
