@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/124030676d5d45b9a34d9cf82be8436b/artifacts
+end_time: 1749905029671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 124030676d5d45b9a34d9cf82be8436b
+run_name: carefree-fly-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749904893476
+status: 3
+tags: []
+user_id: runner
