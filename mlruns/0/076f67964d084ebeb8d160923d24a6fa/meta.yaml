@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/076f67964d084ebeb8d160923d24a6fa/artifacts
+end_time: 1749860932656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 076f67964d084ebeb8d160923d24a6fa
+run_name: intrigued-smelt-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749860798308
+status: 3
+tags: []
+user_id: runner
