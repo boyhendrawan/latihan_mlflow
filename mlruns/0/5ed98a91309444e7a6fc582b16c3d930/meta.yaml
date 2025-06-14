@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ed98a91309444e7a6fc582b16c3d930/artifacts
+end_time: 1749882896472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed98a91309444e7a6fc582b16c3d930
+run_name: gaudy-swan-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882760535
+status: 3
+tags: []
+user_id: runner
