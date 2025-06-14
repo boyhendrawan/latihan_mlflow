@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/35064d92384046b0805751d607f30921/artifacts
+end_time: 1749939311379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35064d92384046b0805751d607f30921
+run_name: crawling-deer-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749939176425
+status: 3
+tags: []
+user_id: runner
