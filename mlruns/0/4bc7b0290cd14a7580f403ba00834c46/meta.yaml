@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4bc7b0290cd14a7580f403ba00834c46/artifacts
+end_time: 1749935643042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bc7b0290cd14a7580f403ba00834c46
+run_name: receptive-mare-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749935507496
+status: 3
+tags: []
+user_id: runner
