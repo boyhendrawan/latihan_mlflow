@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d1e700dccc044983b18a883f3d8b161f/artifacts
+end_time: 1749874017009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1e700dccc044983b18a883f3d8b161f
+run_name: painted-boar-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749873881781
+status: 3
+tags: []
+user_id: runner
