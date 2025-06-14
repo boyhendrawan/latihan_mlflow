@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1d713f46e4324f0e8766bc01643548fd/artifacts
+end_time: 1749919656192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d713f46e4324f0e8766bc01643548fd
+run_name: luxuriant-skink-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919519929
+status: 3
+tags: []
+user_id: runner
