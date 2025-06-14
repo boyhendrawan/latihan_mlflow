@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30bc2c578da34c499847d953ed746921/artifacts
+end_time: 1749891746889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30bc2c578da34c499847d953ed746921
+run_name: valuable-stag-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891610837
+status: 3
+tags: []
+user_id: runner
