@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6486d7ade96147fcb44ee5f793e2df8a/artifacts
+end_time: 1749893096175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6486d7ade96147fcb44ee5f793e2df8a
+run_name: unequaled-ram-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892959352
+status: 3
+tags: []
+user_id: runner
