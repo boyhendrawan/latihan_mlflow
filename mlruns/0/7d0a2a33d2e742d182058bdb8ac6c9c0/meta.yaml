@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7d0a2a33d2e742d182058bdb8ac6c9c0/artifacts
+end_time: 1749863053802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d0a2a33d2e742d182058bdb8ac6c9c0
+run_name: colorful-loon-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749862917547
+status: 3
+tags: []
+user_id: runner
