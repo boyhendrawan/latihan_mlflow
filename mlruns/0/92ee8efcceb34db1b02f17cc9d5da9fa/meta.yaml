@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92ee8efcceb34db1b02f17cc9d5da9fa/artifacts
+end_time: 1749947197422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ee8efcceb34db1b02f17cc9d5da9fa
+run_name: lyrical-bee-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749947061542
+status: 3
+tags: []
+user_id: runner
