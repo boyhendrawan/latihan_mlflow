@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd87789e1f6d4165bc6749769b7f707a/artifacts
+end_time: 1750020325497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd87789e1f6d4165bc6749769b7f707a
+run_name: marvelous-loon-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750020190313
+status: 3
+tags: []
+user_id: runner
