@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a03a872167d04a3093b119fdda726b32/artifacts
+end_time: 1750002965260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a03a872167d04a3093b119fdda726b32
+run_name: enchanting-cod-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750002829896
+status: 3
+tags: []
+user_id: runner
