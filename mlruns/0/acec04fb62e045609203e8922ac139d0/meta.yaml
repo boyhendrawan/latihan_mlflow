@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/acec04fb62e045609203e8922ac139d0/artifacts
+end_time: 1750010867873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acec04fb62e045609203e8922ac139d0
+run_name: gregarious-lamb-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750010731695
+status: 3
+tags: []
+user_id: runner
