@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5795b7ce3d554a3da5b052a44e2218e1/artifacts
+end_time: 1750001620684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5795b7ce3d554a3da5b052a44e2218e1
+run_name: unequaled-shrimp-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750001484190
+status: 3
+tags: []
+user_id: runner
