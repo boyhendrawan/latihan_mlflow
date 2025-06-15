@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2870a9ef71274319b1251927f8c0fbc8/artifacts
+end_time: 1750002390186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2870a9ef71274319b1251927f8c0fbc8
+run_name: welcoming-hawk-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750002255191
+status: 3
+tags: []
+user_id: runner
