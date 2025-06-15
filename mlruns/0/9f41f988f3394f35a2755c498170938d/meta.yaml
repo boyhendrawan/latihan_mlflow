@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f41f988f3394f35a2755c498170938d/artifacts
+end_time: 1749996608328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f41f988f3394f35a2755c498170938d
+run_name: rogue-fawn-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749996472825
+status: 3
+tags: []
+user_id: runner
