@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/72d7eccc0bc64045893a3a71c064804b/artifacts
+end_time: 1750013777354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72d7eccc0bc64045893a3a71c064804b
+run_name: zealous-penguin-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750013642434
+status: 3
+tags: []
+user_id: runner
