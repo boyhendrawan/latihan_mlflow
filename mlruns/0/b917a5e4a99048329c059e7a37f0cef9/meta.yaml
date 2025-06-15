@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b917a5e4a99048329c059e7a37f0cef9/artifacts
+end_time: 1749965912523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b917a5e4a99048329c059e7a37f0cef9
+run_name: enchanting-sheep-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749965776391
+status: 3
+tags: []
+user_id: runner
