@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de166ad4610e4489b4b58dda7a97d158/artifacts
+end_time: 1750023595330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de166ad4610e4489b4b58dda7a97d158
+run_name: rumbling-fish-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750023459938
+status: 3
+tags: []
+user_id: runner
