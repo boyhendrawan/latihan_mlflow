@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfb4a30b65e54b9b93b1c53ea75de03c/artifacts
+end_time: 1750004703249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb4a30b65e54b9b93b1c53ea75de03c
+run_name: hilarious-shrew-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750004566273
+status: 3
+tags: []
+user_id: runner
