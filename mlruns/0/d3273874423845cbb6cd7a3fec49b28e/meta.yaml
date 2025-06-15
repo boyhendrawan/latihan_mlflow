@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3273874423845cbb6cd7a3fec49b28e/artifacts
+end_time: 1750018394795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3273874423845cbb6cd7a3fec49b28e
+run_name: skittish-shad-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750018259967
+status: 3
+tags: []
+user_id: runner
