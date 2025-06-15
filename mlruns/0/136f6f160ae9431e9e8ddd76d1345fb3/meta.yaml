@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/136f6f160ae9431e9e8ddd76d1345fb3/artifacts
+end_time: 1750011061563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 136f6f160ae9431e9e8ddd76d1345fb3
+run_name: shivering-lark-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750010926923
+status: 3
+tags: []
+user_id: runner
