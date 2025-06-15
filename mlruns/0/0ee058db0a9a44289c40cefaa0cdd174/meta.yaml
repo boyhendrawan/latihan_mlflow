@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ee058db0a9a44289c40cefaa0cdd174/artifacts
+end_time: 1750029997361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ee058db0a9a44289c40cefaa0cdd174
+run_name: aged-wolf-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750029862867
+status: 3
+tags: []
+user_id: runner
