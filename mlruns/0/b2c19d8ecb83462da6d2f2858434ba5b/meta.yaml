@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2c19d8ecb83462da6d2f2858434ba5b/artifacts
+end_time: 1749999114906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2c19d8ecb83462da6d2f2858434ba5b
+run_name: treasured-stag-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749998978389
+status: 3
+tags: []
+user_id: runner
