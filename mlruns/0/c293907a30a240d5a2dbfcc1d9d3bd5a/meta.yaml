@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c293907a30a240d5a2dbfcc1d9d3bd5a/artifacts
+end_time: 1750002197670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c293907a30a240d5a2dbfcc1d9d3bd5a
+run_name: salty-wolf-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750002062563
+status: 3
+tags: []
+user_id: runner
