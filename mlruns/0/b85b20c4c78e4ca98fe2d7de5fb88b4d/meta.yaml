@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b85b20c4c78e4ca98fe2d7de5fb88b4d/artifacts
+end_time: 1750030382708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b85b20c4c78e4ca98fe2d7de5fb88b4d
+run_name: unruly-gnat-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750030246597
+status: 3
+tags: []
+user_id: runner
