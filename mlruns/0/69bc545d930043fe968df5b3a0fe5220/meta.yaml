@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69bc545d930043fe968df5b3a0fe5220/artifacts
+end_time: 1750015714308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69bc545d930043fe968df5b3a0fe5220
+run_name: classy-wolf-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750015579231
+status: 3
+tags: []
+user_id: runner
