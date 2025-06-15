@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba9de15519294e0b853f0427e5d2f3ba/artifacts
+end_time: 1749998531120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9de15519294e0b853f0427e5d2f3ba
+run_name: rogue-loon-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749998395533
+status: 3
+tags: []
+user_id: runner
