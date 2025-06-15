@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a243f08a621340b2b87faf1c4f06e473/artifacts
+end_time: 1749956457041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a243f08a621340b2b87faf1c4f06e473
+run_name: worried-lamb-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749956321942
+status: 3
+tags: []
+user_id: runner
