@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/04ba76cd362a4813bcd2c471c2967156/artifacts
+end_time: 1749992363061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04ba76cd362a4813bcd2c471c2967156
+run_name: nebulous-kit-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749992227070
+status: 3
+tags: []
+user_id: runner
