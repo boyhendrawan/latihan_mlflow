@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9cd2b18d582a4a5788e0883a236de906/artifacts
+end_time: 1750006048098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd2b18d582a4a5788e0883a236de906
+run_name: angry-chimp-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750005910644
+status: 3
+tags: []
+user_id: runner
