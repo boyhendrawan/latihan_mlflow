@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97e497abef164afdb1540fe0967ffffb/artifacts
+end_time: 1750008349250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97e497abef164afdb1540fe0967ffffb
+run_name: honorable-donkey-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750008214242
+status: 3
+tags: []
+user_id: runner
