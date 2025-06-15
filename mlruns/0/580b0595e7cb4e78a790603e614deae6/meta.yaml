@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/580b0595e7cb4e78a790603e614deae6/artifacts
+end_time: 1750023987708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 580b0595e7cb4e78a790603e614deae6
+run_name: adaptable-fowl-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750023851260
+status: 3
+tags: []
+user_id: runner
