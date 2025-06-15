@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98e8f37ad1fe4d7caa7ce7324a154dfc/artifacts
+end_time: 1749959940040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e8f37ad1fe4d7caa7ce7324a154dfc
+run_name: redolent-fly-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749959804907
+status: 3
+tags: []
+user_id: runner
