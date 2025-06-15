@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/33c7e1a4a9194ad9908fcb009860ae12/artifacts
+end_time: 1750016858912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33c7e1a4a9194ad9908fcb009860ae12
+run_name: marvelous-gnu-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750016724232
+status: 3
+tags: []
+user_id: runner
