@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d75b57443a9d4da7aee3687a7f21e711/artifacts
+end_time: 1750009122770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d75b57443a9d4da7aee3687a7f21e711
+run_name: resilient-yak-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750008987443
+status: 3
+tags: []
+user_id: runner
