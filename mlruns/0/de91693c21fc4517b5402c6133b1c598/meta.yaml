@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de91693c21fc4517b5402c6133b1c598/artifacts
+end_time: 1750019161355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de91693c21fc4517b5402c6133b1c598
+run_name: stately-koi-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750019025611
+status: 3
+tags: []
+user_id: runner
