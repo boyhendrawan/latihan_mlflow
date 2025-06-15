@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28e43b94486c45d2afb5b31b8ad56aef/artifacts
+end_time: 1749991978344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e43b94486c45d2afb5b31b8ad56aef
+run_name: loud-swan-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749991842836
+status: 3
+tags: []
+user_id: runner
