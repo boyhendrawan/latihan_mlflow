@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a7c1f5f72874e97932c11c96e5c1fdd/artifacts
+end_time: 1750018010265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7c1f5f72874e97932c11c96e5c1fdd
+run_name: dapper-pig-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750017874158
+status: 3
+tags: []
+user_id: runner
