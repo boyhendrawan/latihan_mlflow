@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea93dddaca4f4a1692273dbbece6da10/artifacts
+end_time: 1749975564351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea93dddaca4f4a1692273dbbece6da10
+run_name: defiant-steed-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749975429024
+status: 3
+tags: []
+user_id: runner
