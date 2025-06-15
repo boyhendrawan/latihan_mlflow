@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4cdbc6c0970d4fcf8460c6dc47e9dc1d/artifacts
+end_time: 1749980003416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cdbc6c0970d4fcf8460c6dc47e9dc1d
+run_name: crawling-flea-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749979867187
+status: 3
+tags: []
+user_id: runner
