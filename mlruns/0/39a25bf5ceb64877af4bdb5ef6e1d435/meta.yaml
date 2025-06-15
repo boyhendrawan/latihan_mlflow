@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/39a25bf5ceb64877af4bdb5ef6e1d435/artifacts
+end_time: 1749950087896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39a25bf5ceb64877af4bdb5ef6e1d435
+run_name: loud-fish-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749949952259
+status: 3
+tags: []
+user_id: runner
