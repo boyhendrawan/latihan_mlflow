@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6db8478ce9e04cb5b92bf8c1332507f3/artifacts
+end_time: 1750003159367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db8478ce9e04cb5b92bf8c1332507f3
+run_name: adorable-pug-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750003022441
+status: 3
+tags: []
+user_id: runner
