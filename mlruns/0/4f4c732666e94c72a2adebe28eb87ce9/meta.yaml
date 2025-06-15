@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f4c732666e94c72a2adebe28eb87ce9/artifacts
+end_time: 1749961673736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4c732666e94c72a2adebe28eb87ce9
+run_name: nervous-sheep-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749961538472
+status: 3
+tags: []
+user_id: runner
