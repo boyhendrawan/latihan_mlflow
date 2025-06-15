@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/120105fd8a2e4d70b8fc69b8f7b62ec2/artifacts
+end_time: 1749975183687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 120105fd8a2e4d70b8fc69b8f7b62ec2
+run_name: agreeable-rook-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749975048165
+status: 3
+tags: []
+user_id: runner
