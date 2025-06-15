@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0da35b75eaf34865b3dacaa7aab34440/artifacts
+end_time: 1749960712113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0da35b75eaf34865b3dacaa7aab34440
+run_name: sincere-colt-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749960576223
+status: 3
+tags: []
+user_id: runner
