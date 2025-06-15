@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82a8ac38aa314a159c1647f3228cbd20/artifacts
+end_time: 1749950470708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82a8ac38aa314a159c1647f3228cbd20
+run_name: clean-goat-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749950335059
+status: 3
+tags: []
+user_id: runner
