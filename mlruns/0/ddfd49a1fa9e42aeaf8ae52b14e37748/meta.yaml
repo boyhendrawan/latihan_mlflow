@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddfd49a1fa9e42aeaf8ae52b14e37748/artifacts
+end_time: 1749982126913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddfd49a1fa9e42aeaf8ae52b14e37748
+run_name: rebellious-gnu-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749981991321
+status: 3
+tags: []
+user_id: runner
