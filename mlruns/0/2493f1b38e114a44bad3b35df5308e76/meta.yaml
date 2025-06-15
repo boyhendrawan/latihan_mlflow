@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2493f1b38e114a44bad3b35df5308e76/artifacts
+end_time: 1749971497925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2493f1b38e114a44bad3b35df5308e76
+run_name: judicious-yak-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749971362437
+status: 3
+tags: []
+user_id: runner
