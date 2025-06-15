@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5a07def4c505412c81147ccaf19b1c54/artifacts
+end_time: 1750000463796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a07def4c505412c81147ccaf19b1c54
+run_name: charming-grouse-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750000328726
+status: 3
+tags: []
+user_id: runner
