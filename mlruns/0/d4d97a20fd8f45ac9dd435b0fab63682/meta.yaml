@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d4d97a20fd8f45ac9dd435b0fab63682/artifacts
+end_time: 1749974219245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4d97a20fd8f45ac9dd435b0fab63682
+run_name: melodic-owl-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749974083194
+status: 3
+tags: []
+user_id: runner
