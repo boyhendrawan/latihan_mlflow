@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95087fa68cd740a0bd6eba7a67616327/artifacts
+end_time: 1750025724177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95087fa68cd740a0bd6eba7a67616327
+run_name: luxuriant-koi-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750025587512
+status: 3
+tags: []
+user_id: runner
