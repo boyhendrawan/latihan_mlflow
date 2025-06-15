@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8d721a868ae4e36acd04a8751f8f6cc/artifacts
+end_time: 1750024183010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8d721a868ae4e36acd04a8751f8f6cc
+run_name: aged-rook-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750024047786
+status: 3
+tags: []
+user_id: runner
