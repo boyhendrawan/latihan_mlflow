@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0d7b1b7f4cc14953b96016fb189732b9/artifacts
+end_time: 1750013190576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7b1b7f4cc14953b96016fb189732b9
+run_name: mysterious-mule-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750013054948
+status: 3
+tags: []
+user_id: runner
