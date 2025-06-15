@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5657bb3fdc143d78431fccf8aaede15/artifacts
+end_time: 1750006433483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5657bb3fdc143d78431fccf8aaede15
+run_name: marvelous-snipe-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750006297955
+status: 3
+tags: []
+user_id: runner
