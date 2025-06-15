@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ace3b9c8298146c9ba50a9f4eeeade24/artifacts
+end_time: 1749956847087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ace3b9c8298146c9ba50a9f4eeeade24
+run_name: wise-steed-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749956710529
+status: 3
+tags: []
+user_id: runner
