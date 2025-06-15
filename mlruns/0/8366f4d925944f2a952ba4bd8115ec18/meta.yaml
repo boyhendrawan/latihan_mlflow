@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8366f4d925944f2a952ba4bd8115ec18/artifacts
+end_time: 1749975374757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8366f4d925944f2a952ba4bd8115ec18
+run_name: bustling-lynx-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749975239945
+status: 3
+tags: []
+user_id: runner
