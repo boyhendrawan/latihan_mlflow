@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7573bd4e1068410596b1ac35743d47c2/artifacts
+end_time: 1750005853326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7573bd4e1068410596b1ac35743d47c2
+run_name: amazing-snake-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750005717380
+status: 3
+tags: []
+user_id: runner
