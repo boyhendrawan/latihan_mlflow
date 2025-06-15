@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f21baac2d254cb1a46b9dc3efaefb05/artifacts
+end_time: 1750001234354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f21baac2d254cb1a46b9dc3efaefb05
+run_name: peaceful-wren-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750001098475
+status: 3
+tags: []
+user_id: runner
