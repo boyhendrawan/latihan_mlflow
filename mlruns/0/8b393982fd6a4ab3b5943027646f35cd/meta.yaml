@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b393982fd6a4ab3b5943027646f35cd/artifacts
+end_time: 1749964941802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b393982fd6a4ab3b5943027646f35cd
+run_name: peaceful-frog-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749964806453
+status: 3
+tags: []
+user_id: runner
