@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46a286952f974fe588715d2d6ac091b7/artifacts
+end_time: 1750022635774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46a286952f974fe588715d2d6ac091b7
+run_name: receptive-boar-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750022501115
+status: 3
+tags: []
+user_id: runner
