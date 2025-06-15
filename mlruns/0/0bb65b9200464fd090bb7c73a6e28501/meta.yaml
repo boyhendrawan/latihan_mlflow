@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0bb65b9200464fd090bb7c73a6e28501/artifacts
+end_time: 1749947583500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bb65b9200464fd090bb7c73a6e28501
+run_name: monumental-mouse-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749947448007
+status: 3
+tags: []
+user_id: runner
