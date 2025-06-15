@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfa2e8a7000844e5a1bfc958832a342b/artifacts
+end_time: 1750027070739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfa2e8a7000844e5a1bfc958832a342b
+run_name: useful-hare-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750026934148
+status: 3
+tags: []
+user_id: runner
