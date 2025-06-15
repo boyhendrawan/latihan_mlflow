@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dfb1cc5482214d5cb8d059fc38015a8c/artifacts
+end_time: 1749946810354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfb1cc5482214d5cb8d059fc38015a8c
+run_name: spiffy-sow-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749946674866
+status: 3
+tags: []
+user_id: runner
