@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/32cbd4bc281548a7a8517dd1932fb834/artifacts
+end_time: 1749955681776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32cbd4bc281548a7a8517dd1932fb834
+run_name: rogue-boar-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749955546708
+status: 3
+tags: []
+user_id: runner
