@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ebcfb659cd54c4aad554998f7c93125/artifacts
+end_time: 1749970725070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ebcfb659cd54c4aad554998f7c93125
+run_name: agreeable-smelt-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749970590387
+status: 3
+tags: []
+user_id: runner
