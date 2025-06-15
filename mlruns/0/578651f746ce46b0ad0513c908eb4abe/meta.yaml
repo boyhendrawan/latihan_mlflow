@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/578651f746ce46b0ad0513c908eb4abe/artifacts
+end_time: 1749978849195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 578651f746ce46b0ad0513c908eb4abe
+run_name: burly-skunk-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749978713356
+status: 3
+tags: []
+user_id: runner
