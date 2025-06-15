@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6d6ea888da8479692c7c3bf98f02b10/artifacts
+end_time: 1749968996174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d6ea888da8479692c7c3bf98f02b10
+run_name: bouncy-sow-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749968861093
+status: 3
+tags: []
+user_id: runner
