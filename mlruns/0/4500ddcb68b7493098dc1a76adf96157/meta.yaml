@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4500ddcb68b7493098dc1a76adf96157/artifacts
+end_time: 1750017818569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4500ddcb68b7493098dc1a76adf96157
+run_name: awesome-turtle-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750017683399
+status: 3
+tags: []
+user_id: runner
