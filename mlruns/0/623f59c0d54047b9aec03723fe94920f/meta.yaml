@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/623f59c0d54047b9aec03723fe94920f/artifacts
+end_time: 1749981153206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623f59c0d54047b9aec03723fe94920f
+run_name: invincible-sheep-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749981017588
+status: 3
+tags: []
+user_id: runner
