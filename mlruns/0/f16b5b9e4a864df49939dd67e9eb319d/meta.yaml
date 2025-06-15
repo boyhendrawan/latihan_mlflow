@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f16b5b9e4a864df49939dd67e9eb319d/artifacts
+end_time: 1749979613675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f16b5b9e4a864df49939dd67e9eb319d
+run_name: secretive-hound-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749979478927
+status: 3
+tags: []
+user_id: runner
