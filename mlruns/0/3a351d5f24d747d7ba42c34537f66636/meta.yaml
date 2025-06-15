@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a351d5f24d747d7ba42c34537f66636/artifacts
+end_time: 1749969959514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a351d5f24d747d7ba42c34537f66636
+run_name: valuable-newt-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749969823507
+status: 3
+tags: []
+user_id: runner
