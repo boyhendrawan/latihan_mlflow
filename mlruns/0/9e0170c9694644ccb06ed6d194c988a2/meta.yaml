@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e0170c9694644ccb06ed6d194c988a2/artifacts
+end_time: 1749958210209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e0170c9694644ccb06ed6d194c988a2
+run_name: bedecked-mouse-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749958072592
+status: 3
+tags: []
+user_id: runner
