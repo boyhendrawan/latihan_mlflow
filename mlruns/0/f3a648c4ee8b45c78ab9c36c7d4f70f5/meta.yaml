@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f3a648c4ee8b45c78ab9c36c7d4f70f5/artifacts
+end_time: 1749995262672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3a648c4ee8b45c78ab9c36c7d4f70f5
+run_name: amusing-grub-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749995126294
+status: 3
+tags: []
+user_id: runner
