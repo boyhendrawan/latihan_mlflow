@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a00f19932ca340439be4f17c51d866a7/artifacts
+end_time: 1749964174983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a00f19932ca340439be4f17c51d866a7
+run_name: carefree-shoat-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749964039148
+status: 3
+tags: []
+user_id: runner
