@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a996300581d84a8c9abd8abfb8e00578/artifacts
+end_time: 1749954721926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a996300581d84a8c9abd8abfb8e00578
+run_name: glamorous-panda-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749954584988
+status: 3
+tags: []
+user_id: runner
