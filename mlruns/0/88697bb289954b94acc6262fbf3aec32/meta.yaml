@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/88697bb289954b94acc6262fbf3aec32/artifacts
+end_time: 1750024956415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88697bb289954b94acc6262fbf3aec32
+run_name: overjoyed-bird-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750024820193
+status: 3
+tags: []
+user_id: runner
