@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e22f32668a524b4c88d492765f7e97e1/artifacts
+end_time: 1750008158005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22f32668a524b4c88d492765f7e97e1
+run_name: funny-stag-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750008021841
+status: 3
+tags: []
+user_id: runner
