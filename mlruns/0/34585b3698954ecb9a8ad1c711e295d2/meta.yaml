@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34585b3698954ecb9a8ad1c711e295d2/artifacts
+end_time: 1750017050393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34585b3698954ecb9a8ad1c711e295d2
+run_name: magnificent-carp-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750016916018
+status: 3
+tags: []
+user_id: runner
