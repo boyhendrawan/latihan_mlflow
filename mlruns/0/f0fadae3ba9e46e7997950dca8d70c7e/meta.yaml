@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0fadae3ba9e46e7997950dca8d70c7e/artifacts
+end_time: 1749976716157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0fadae3ba9e46e7997950dca8d70c7e
+run_name: placid-snail-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749976580529
+status: 3
+tags: []
+user_id: runner
