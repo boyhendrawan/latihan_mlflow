@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5174418d73fa42ae807a92d50fd5d190/artifacts
+end_time: 1750026105549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5174418d73fa42ae807a92d50fd5d190
+run_name: burly-skink-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750025970909
+status: 3
+tags: []
+user_id: runner
