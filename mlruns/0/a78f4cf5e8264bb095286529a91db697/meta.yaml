@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a78f4cf5e8264bb095286529a91db697/artifacts
+end_time: 1750024761901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a78f4cf5e8264bb095286529a91db697
+run_name: grandiose-mouse-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750024626747
+status: 3
+tags: []
+user_id: runner
