@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe7813f592b84f3e9a334fa5c5fdb092/artifacts
+end_time: 1750031161505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe7813f592b84f3e9a334fa5c5fdb092
+run_name: adaptable-shrike-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750031026251
+status: 3
+tags: []
+user_id: runner
