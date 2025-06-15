@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c6501a9c888f4a4d858d7731ab84f845/artifacts
+end_time: 1750026878807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6501a9c888f4a4d858d7731ab84f845
+run_name: debonair-gull-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750026743295
+status: 3
+tags: []
+user_id: runner
