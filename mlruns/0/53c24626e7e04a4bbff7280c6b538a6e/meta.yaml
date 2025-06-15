@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53c24626e7e04a4bbff7280c6b538a6e/artifacts
+end_time: 1749975949040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c24626e7e04a4bbff7280c6b538a6e
+run_name: agreeable-sow-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749975812304
+status: 3
+tags: []
+user_id: runner
