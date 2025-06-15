@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f36d5b4961cc45b1ae2ed0f991b051d9/artifacts
+end_time: 1749994301321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f36d5b4961cc45b1ae2ed0f991b051d9
+run_name: languid-frog-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749994165696
+status: 3
+tags: []
+user_id: runner
