@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3106ccfcf00c4f25bb3a51e9fef6d1ff/artifacts
+end_time: 1749996414841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3106ccfcf00c4f25bb3a51e9fef6d1ff
+run_name: big-cow-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749996276650
+status: 3
+tags: []
+user_id: runner
