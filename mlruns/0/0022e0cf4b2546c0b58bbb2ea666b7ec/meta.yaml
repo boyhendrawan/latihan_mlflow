@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0022e0cf4b2546c0b58bbb2ea666b7ec/artifacts
+end_time: 1750030185243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0022e0cf4b2546c0b58bbb2ea666b7ec
+run_name: carefree-steed-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750030054775
+status: 3
+tags: []
+user_id: runner
