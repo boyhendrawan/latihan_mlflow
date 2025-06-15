@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94aca0a66de14da19b58eb007bb76bfb/artifacts
+end_time: 1750027872907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94aca0a66de14da19b58eb007bb76bfb
+run_name: bemused-hound-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750027737431
+status: 3
+tags: []
+user_id: runner
