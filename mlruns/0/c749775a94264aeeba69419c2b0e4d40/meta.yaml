@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c749775a94264aeeba69419c2b0e4d40/artifacts
+end_time: 1750015522767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c749775a94264aeeba69419c2b0e4d40
+run_name: languid-dolphin-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750015385810
+status: 3
+tags: []
+user_id: runner
