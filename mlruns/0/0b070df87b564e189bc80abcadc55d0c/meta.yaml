@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b070df87b564e189bc80abcadc55d0c/artifacts
+end_time: 1749952782998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b070df87b564e189bc80abcadc55d0c
+run_name: chill-mule-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749952646875
+status: 3
+tags: []
+user_id: runner
