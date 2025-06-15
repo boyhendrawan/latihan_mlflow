@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/677bba252a9d4d1c9245eca99611983a/artifacts
+end_time: 1750025338796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 677bba252a9d4d1c9245eca99611983a
+run_name: angry-snipe-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750025203058
+status: 3
+tags: []
+user_id: runner
