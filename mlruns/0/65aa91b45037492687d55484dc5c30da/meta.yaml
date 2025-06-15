@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/65aa91b45037492687d55484dc5c30da/artifacts
+end_time: 1749981926713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65aa91b45037492687d55484dc5c30da
+run_name: valuable-perch-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749981791035
+status: 3
+tags: []
+user_id: runner
