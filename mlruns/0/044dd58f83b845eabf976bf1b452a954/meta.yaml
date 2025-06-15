@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/044dd58f83b845eabf976bf1b452a954/artifacts
+end_time: 1749993328873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 044dd58f83b845eabf976bf1b452a954
+run_name: beautiful-tern-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749993191775
+status: 3
+tags: []
+user_id: runner
