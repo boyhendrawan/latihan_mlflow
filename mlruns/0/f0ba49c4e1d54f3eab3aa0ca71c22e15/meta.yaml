@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0ba49c4e1d54f3eab3aa0ca71c22e15/artifacts
+end_time: 1750018587108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ba49c4e1d54f3eab3aa0ca71c22e15
+run_name: big-whale-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750018451106
+status: 3
+tags: []
+user_id: runner
