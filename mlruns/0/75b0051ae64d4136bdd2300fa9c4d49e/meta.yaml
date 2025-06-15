@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75b0051ae64d4136bdd2300fa9c4d49e/artifacts
+end_time: 1750018968714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75b0051ae64d4136bdd2300fa9c4d49e
+run_name: orderly-bear-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750018833503
+status: 3
+tags: []
+user_id: runner
