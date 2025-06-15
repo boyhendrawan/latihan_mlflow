@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f9e384bc1214f928b946d61ef81c4fc/artifacts
+end_time: 1749960131456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f9e384bc1214f928b946d61ef81c4fc
+run_name: honorable-quail-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749959995779
+status: 3
+tags: []
+user_id: runner
