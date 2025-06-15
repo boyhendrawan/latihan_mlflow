@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f636bd95d62f4406a0c1ba463cab86f8/artifacts
+end_time: 1750019354648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f636bd95d62f4406a0c1ba463cab86f8
+run_name: brawny-doe-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750019219432
+status: 3
+tags: []
+user_id: runner
