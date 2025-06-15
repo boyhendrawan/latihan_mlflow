@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/13ed142450cc482ab768c5a8e478bebc/artifacts
+end_time: 1749998918739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ed142450cc482ab768c5a8e478bebc
+run_name: stately-frog-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749998783403
+status: 3
+tags: []
+user_id: runner
