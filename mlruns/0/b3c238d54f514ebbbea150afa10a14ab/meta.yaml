@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b3c238d54f514ebbbea150afa10a14ab/artifacts
+end_time: 1749961482357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c238d54f514ebbbea150afa10a14ab
+run_name: debonair-seal-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749961346237
+status: 3
+tags: []
+user_id: runner
