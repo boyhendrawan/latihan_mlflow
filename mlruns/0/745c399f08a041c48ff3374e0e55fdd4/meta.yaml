@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/745c399f08a041c48ff3374e0e55fdd4/artifacts
+end_time: 1749993721727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 745c399f08a041c48ff3374e0e55fdd4
+run_name: honorable-perch-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749993583225
+status: 3
+tags: []
+user_id: runner
