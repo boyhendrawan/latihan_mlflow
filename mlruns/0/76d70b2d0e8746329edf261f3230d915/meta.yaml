@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/76d70b2d0e8746329edf261f3230d915/artifacts
+end_time: 1749945654000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76d70b2d0e8746329edf261f3230d915
+run_name: unequaled-stag-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749945519224
+status: 3
+tags: []
+user_id: runner
