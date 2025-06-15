@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8b3d01e07104a0682e303f2f3371671/artifacts
+end_time: 1749956650450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8b3d01e07104a0682e303f2f3371671
+run_name: nervous-sloth-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749956515169
+status: 3
+tags: []
+user_id: runner
