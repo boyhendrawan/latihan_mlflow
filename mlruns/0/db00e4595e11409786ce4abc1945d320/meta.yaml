@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db00e4595e11409786ce4abc1945d320/artifacts
+end_time: 1749981349072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db00e4595e11409786ce4abc1945d320
+run_name: upbeat-fawn-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749981211266
+status: 3
+tags: []
+user_id: runner
