@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a96b12ed3b34bb2b7742200bd61f96b/artifacts
+end_time: 1749983673475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a96b12ed3b34bb2b7742200bd61f96b
+run_name: peaceful-doe-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749983538745
+status: 3
+tags: []
+user_id: runner
