@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3585121a1bb24e47bed06887aafcdfb3/artifacts
+end_time: 1749996800171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3585121a1bb24e47bed06887aafcdfb3
+run_name: glamorous-mink-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749996664658
+status: 3
+tags: []
+user_id: runner
