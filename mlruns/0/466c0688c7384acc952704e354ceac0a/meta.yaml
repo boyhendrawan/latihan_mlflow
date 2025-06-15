@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/466c0688c7384acc952704e354ceac0a/artifacts
+end_time: 1749945847563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 466c0688c7384acc952704e354ceac0a
+run_name: nervous-mare-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749945711733
+status: 3
+tags: []
+user_id: runner
