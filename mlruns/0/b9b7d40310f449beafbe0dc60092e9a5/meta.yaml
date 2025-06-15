@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b9b7d40310f449beafbe0dc60092e9a5/artifacts
+end_time: 1750023402743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9b7d40310f449beafbe0dc60092e9a5
+run_name: lyrical-smelt-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750023273031
+status: 3
+tags: []
+user_id: runner
