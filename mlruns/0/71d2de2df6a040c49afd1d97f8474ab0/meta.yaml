@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71d2de2df6a040c49afd1d97f8474ab0/artifacts
+end_time: 1749969192707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71d2de2df6a040c49afd1d97f8474ab0
+run_name: valuable-sheep-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749969056174
+status: 3
+tags: []
+user_id: runner
