@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0d923c9095084300b0d9c51f76285430/artifacts
+end_time: 1749997565505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d923c9095084300b0d9c51f76285430
+run_name: sneaky-shrew-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749997429811
+status: 3
+tags: []
+user_id: runner
