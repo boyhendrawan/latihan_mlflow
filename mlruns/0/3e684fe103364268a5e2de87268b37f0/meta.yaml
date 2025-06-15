@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3e684fe103364268a5e2de87268b37f0/artifacts
+end_time: 1749978271199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e684fe103364268a5e2de87268b37f0
+run_name: upset-ox-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749978135550
+status: 3
+tags: []
+user_id: runner
