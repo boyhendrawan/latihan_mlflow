@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6744634dea848ce8d63287695a9b96f/artifacts
+end_time: 1750014356291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6744634dea848ce8d63287695a9b96f
+run_name: rare-finch-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750014221259
+status: 3
+tags: []
+user_id: runner
