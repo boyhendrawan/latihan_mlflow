@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3533c2d9c7f74e2c9ceee6685a434196/artifacts
+end_time: 1749957812744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3533c2d9c7f74e2c9ceee6685a434196
+run_name: adaptable-fish-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749957677883
+status: 3
+tags: []
+user_id: runner
