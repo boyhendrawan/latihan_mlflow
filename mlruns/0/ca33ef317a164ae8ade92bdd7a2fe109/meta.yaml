@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ca33ef317a164ae8ade92bdd7a2fe109/artifacts
+end_time: 1749956262019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca33ef317a164ae8ade92bdd7a2fe109
+run_name: agreeable-moose-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749956127013
+status: 3
+tags: []
+user_id: runner
