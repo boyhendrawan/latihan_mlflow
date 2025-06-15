@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/568749f50fbf4423a41522069620eb7b/artifacts
+end_time: 1749980194766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 568749f50fbf4423a41522069620eb7b
+run_name: upbeat-ram-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749980061457
+status: 3
+tags: []
+user_id: runner
