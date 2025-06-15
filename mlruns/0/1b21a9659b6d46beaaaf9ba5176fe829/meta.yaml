@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b21a9659b6d46beaaaf9ba5176fe829/artifacts
+end_time: 1750028257546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b21a9659b6d46beaaaf9ba5176fe829
+run_name: gentle-auk-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750028121826
+status: 3
+tags: []
+user_id: runner
