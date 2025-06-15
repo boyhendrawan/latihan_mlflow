@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82b6a6e0b9f94c6480b751ebc7354efd/artifacts
+end_time: 1749987154543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b6a6e0b9f94c6480b751ebc7354efd
+run_name: zealous-flea-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749987019796
+status: 3
+tags: []
+user_id: runner
