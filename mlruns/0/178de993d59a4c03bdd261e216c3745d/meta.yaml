@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/178de993d59a4c03bdd261e216c3745d/artifacts
+end_time: 1749960325868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178de993d59a4c03bdd261e216c3745d
+run_name: agreeable-frog-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749960190287
+status: 3
+tags: []
+user_id: runner
