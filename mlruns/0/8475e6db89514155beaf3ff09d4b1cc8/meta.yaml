@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8475e6db89514155beaf3ff09d4b1cc8/artifacts
+end_time: 1750031549519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8475e6db89514155beaf3ff09d4b1cc8
+run_name: fortunate-stoat-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750031413396
+status: 3
+tags: []
+user_id: runner
