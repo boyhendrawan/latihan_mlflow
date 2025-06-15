@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4efc4c320e654c0c9171e0fc20ed0634/artifacts
+end_time: 1749988695147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4efc4c320e654c0c9171e0fc20ed0634
+run_name: sneaky-sloth-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749988560397
+status: 3
+tags: []
+user_id: runner
