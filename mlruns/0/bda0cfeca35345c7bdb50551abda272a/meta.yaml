@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bda0cfeca35345c7bdb50551abda272a/artifacts
+end_time: 1750002772774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda0cfeca35345c7bdb50551abda272a
+run_name: polite-panda-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750002637197
+status: 3
+tags: []
+user_id: runner
