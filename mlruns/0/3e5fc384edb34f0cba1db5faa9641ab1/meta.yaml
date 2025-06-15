@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3e5fc384edb34f0cba1db5faa9641ab1/artifacts
+end_time: 1750027456563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e5fc384edb34f0cba1db5faa9641ab1
+run_name: ambitious-shrike-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750027320634
+status: 3
+tags: []
+user_id: runner
