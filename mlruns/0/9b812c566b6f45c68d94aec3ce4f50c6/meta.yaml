@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9b812c566b6f45c68d94aec3ce4f50c6/artifacts
+end_time: 1749951816351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b812c566b6f45c68d94aec3ce4f50c6
+run_name: useful-gnu-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749951681394
+status: 3
+tags: []
+user_id: runner
