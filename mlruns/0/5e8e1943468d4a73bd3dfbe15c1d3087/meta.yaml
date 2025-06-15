@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e8e1943468d4a73bd3dfbe15c1d3087/artifacts
+end_time: 1750020710653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e8e1943468d4a73bd3dfbe15c1d3087
+run_name: powerful-ant-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750020576316
+status: 3
+tags: []
+user_id: runner
