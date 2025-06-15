@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/84c7b20df8f7463e8b6327648ece5a4e/artifacts
+end_time: 1750028837183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84c7b20df8f7463e8b6327648ece5a4e
+run_name: tasteful-fly-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750028699877
+status: 3
+tags: []
+user_id: runner
