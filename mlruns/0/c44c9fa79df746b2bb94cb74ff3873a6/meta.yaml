@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c44c9fa79df746b2bb94cb74ff3873a6/artifacts
+end_time: 1749954136143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c44c9fa79df746b2bb94cb74ff3873a6
+run_name: redolent-hare-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749954000788
+status: 3
+tags: []
+user_id: runner
