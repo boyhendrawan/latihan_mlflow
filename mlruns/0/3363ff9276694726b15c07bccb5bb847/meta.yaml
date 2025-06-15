@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3363ff9276694726b15c07bccb5bb847/artifacts
+end_time: 1749953362086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3363ff9276694726b15c07bccb5bb847
+run_name: sincere-donkey-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749953227147
+status: 3
+tags: []
+user_id: runner
