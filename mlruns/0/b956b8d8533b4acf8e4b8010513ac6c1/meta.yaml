@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b956b8d8533b4acf8e4b8010513ac6c1/artifacts
+end_time: 1749964747777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b956b8d8533b4acf8e4b8010513ac6c1
+run_name: delicate-pig-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749964612493
+status: 3
+tags: []
+user_id: runner
