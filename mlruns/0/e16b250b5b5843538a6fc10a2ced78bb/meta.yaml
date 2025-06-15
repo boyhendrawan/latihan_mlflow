@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e16b250b5b5843538a6fc10a2ced78bb/artifacts
+end_time: 1749972675679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16b250b5b5843538a6fc10a2ced78bb
+run_name: youthful-ray-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749972537954
+status: 3
+tags: []
+user_id: runner
