@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16b4a85a71064569a849940304f3ecd6/artifacts
+end_time: 1749958006183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b4a85a71064569a849940304f3ecd6
+run_name: big-bird-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749957868801
+status: 3
+tags: []
+user_id: runner
