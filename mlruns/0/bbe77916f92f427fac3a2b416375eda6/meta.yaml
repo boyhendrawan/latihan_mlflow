@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bbe77916f92f427fac3a2b416375eda6/artifacts
+end_time: 1750015133708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbe77916f92f427fac3a2b416375eda6
+run_name: bald-bat-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750014996547
+status: 3
+tags: []
+user_id: runner
