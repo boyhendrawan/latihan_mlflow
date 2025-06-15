@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a41b19e2001641bd88b78a8ef9931418/artifacts
+end_time: 1749985612072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a41b19e2001641bd88b78a8ef9931418
+run_name: monumental-smelt-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749985476364
+status: 3
+tags: []
+user_id: runner
