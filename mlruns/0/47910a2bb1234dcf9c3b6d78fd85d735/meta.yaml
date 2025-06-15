@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47910a2bb1234dcf9c3b6d78fd85d735/artifacts
+end_time: 1749973830630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47910a2bb1234dcf9c3b6d78fd85d735
+run_name: languid-seal-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749973694686
+status: 3
+tags: []
+user_id: runner
