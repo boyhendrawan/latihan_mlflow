@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ccc8f580acb40e4bb45471e6cfdeacb/artifacts
+end_time: 1749996992725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ccc8f580acb40e4bb45471e6cfdeacb
+run_name: traveling-sloth-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749996857208
+status: 3
+tags: []
+user_id: runner
