@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd2aa50ef660462591f7249c33daf78e/artifacts
+end_time: 1750001427752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2aa50ef660462591f7249c33daf78e
+run_name: sassy-bear-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750001292887
+status: 3
+tags: []
+user_id: runner
