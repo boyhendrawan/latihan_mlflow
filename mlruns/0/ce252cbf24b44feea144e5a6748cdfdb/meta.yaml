@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ce252cbf24b44feea144e5a6748cdfdb/artifacts
+end_time: 1749979231527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce252cbf24b44feea144e5a6748cdfdb
+run_name: languid-horse-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749979097100
+status: 3
+tags: []
+user_id: runner
