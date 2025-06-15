@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/002f37355adc44d8b2dac8b0e4876520/artifacts
+end_time: 1750011260031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 002f37355adc44d8b2dac8b0e4876520
+run_name: merciful-rat-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750011122756
+status: 3
+tags: []
+user_id: runner
