@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1449b452c5cd4a5086e192e05c1bd305/artifacts
+end_time: 1749994109404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1449b452c5cd4a5086e192e05c1bd305
+run_name: caring-owl-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749993973383
+status: 3
+tags: []
+user_id: runner
