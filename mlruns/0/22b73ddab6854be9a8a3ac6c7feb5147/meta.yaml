@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22b73ddab6854be9a8a3ac6c7feb5147/artifacts
+end_time: 1749990240709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b73ddab6854be9a8a3ac6c7feb5147
+run_name: trusting-moth-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749990105555
+status: 3
+tags: []
+user_id: runner
