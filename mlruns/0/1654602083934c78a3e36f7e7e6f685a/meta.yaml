@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1654602083934c78a3e36f7e7e6f685a/artifacts
+end_time: 1749984058964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1654602083934c78a3e36f7e7e6f685a
+run_name: melodic-turtle-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749983922610
+status: 3
+tags: []
+user_id: runner
