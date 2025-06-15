@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/030628de4b88442bb81bda5f0800618d/artifacts
+end_time: 1749999499261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 030628de4b88442bb81bda5f0800618d
+run_name: rare-panda-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999364448
+status: 3
+tags: []
+user_id: runner
