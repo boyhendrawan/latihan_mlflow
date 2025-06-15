@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8af42a1bcfd54beaa5141d202f9a6a40/artifacts
+end_time: 1750027262858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af42a1bcfd54beaa5141d202f9a6a40
+run_name: upbeat-hog-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750027127493
+status: 3
+tags: []
+user_id: runner
