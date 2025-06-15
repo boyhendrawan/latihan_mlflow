@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47991da526b54976a8da761309db5abd/artifacts
+end_time: 1749954913753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47991da526b54976a8da761309db5abd
+run_name: marvelous-midge-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749954778510
+status: 3
+tags: []
+user_id: runner
