@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06fd4647193a48a8a774eb4c46e6371d/artifacts
+end_time: 1750016484055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06fd4647193a48a8a774eb4c46e6371d
+run_name: selective-ape-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750016348575
+status: 3
+tags: []
+user_id: runner
