@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac8a1b31b01f463d8379c12896a95843/artifacts
+end_time: 1749969577129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac8a1b31b01f463d8379c12896a95843
+run_name: gentle-midge-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749969440799
+status: 3
+tags: []
+user_id: runner
