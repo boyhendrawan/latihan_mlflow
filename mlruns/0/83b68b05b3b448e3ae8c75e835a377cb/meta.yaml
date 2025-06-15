@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83b68b05b3b448e3ae8c75e835a377cb/artifacts
+end_time: 1749991398245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83b68b05b3b448e3ae8c75e835a377cb
+run_name: rumbling-sloth-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749991262826
+status: 3
+tags: []
+user_id: runner
