@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2bebccf7280e4e6ea15eb8402a2ad24a/artifacts
+end_time: 1749978464940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bebccf7280e4e6ea15eb8402a2ad24a
+run_name: nosy-steed-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749978328503
+status: 3
+tags: []
+user_id: runner
