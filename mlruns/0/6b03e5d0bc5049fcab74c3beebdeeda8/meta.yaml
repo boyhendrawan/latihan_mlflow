@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b03e5d0bc5049fcab74c3beebdeeda8/artifacts
+end_time: 1749963404073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b03e5d0bc5049fcab74c3beebdeeda8
+run_name: respected-loon-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749963267190
+status: 3
+tags: []
+user_id: runner
