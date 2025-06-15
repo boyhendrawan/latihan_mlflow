@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/205628537ba24c8ba494eda3463ab5dc/artifacts
+end_time: 1749955491070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 205628537ba24c8ba494eda3463ab5dc
+run_name: vaunted-mouse-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749955355792
+status: 3
+tags: []
+user_id: runner
