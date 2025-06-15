@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a1ab7f4cd354ac4831fc382e02cbcbb/artifacts
+end_time: 1749972095801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1ab7f4cd354ac4831fc382e02cbcbb
+run_name: mysterious-whale-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749971959009
+status: 3
+tags: []
+user_id: runner
