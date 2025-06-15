@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ca89f8a67b74bfeb4f8596a8676ad03/artifacts
+end_time: 1749957425673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ca89f8a67b74bfeb4f8596a8676ad03
+run_name: bedecked-crab-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749957288221
+status: 3
+tags: []
+user_id: runner
