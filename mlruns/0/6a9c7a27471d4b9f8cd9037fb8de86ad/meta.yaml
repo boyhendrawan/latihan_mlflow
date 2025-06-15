@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a9c7a27471d4b9f8cd9037fb8de86ad/artifacts
+end_time: 1750012418182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a9c7a27471d4b9f8cd9037fb8de86ad
+run_name: unequaled-ray-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750012283320
+status: 3
+tags: []
+user_id: runner
