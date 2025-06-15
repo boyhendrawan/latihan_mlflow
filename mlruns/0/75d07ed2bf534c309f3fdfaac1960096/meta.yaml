@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75d07ed2bf534c309f3fdfaac1960096/artifacts
+end_time: 1749967072132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75d07ed2bf534c309f3fdfaac1960096
+run_name: fearless-robin-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749966936594
+status: 3
+tags: []
+user_id: runner
