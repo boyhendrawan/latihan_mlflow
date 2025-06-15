@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aba2b046fe274cf49930dd33e8e59198/artifacts
+end_time: 1749999695327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aba2b046fe274cf49930dd33e8e59198
+run_name: bittersweet-seal-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999558296
+status: 3
+tags: []
+user_id: runner
