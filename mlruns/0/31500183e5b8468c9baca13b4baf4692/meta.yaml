@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31500183e5b8468c9baca13b4baf4692/artifacts
+end_time: 1749988114261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31500183e5b8468c9baca13b4baf4692
+run_name: popular-flea-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749987978177
+status: 3
+tags: []
+user_id: runner
