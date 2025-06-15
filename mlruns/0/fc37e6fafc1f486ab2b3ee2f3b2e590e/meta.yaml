@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fc37e6fafc1f486ab2b3ee2f3b2e590e/artifacts
+end_time: 1749986579708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc37e6fafc1f486ab2b3ee2f3b2e590e
+run_name: resilient-foal-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749986442574
+status: 3
+tags: []
+user_id: runner
