@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f9bb158af75643159bb37d949f91cdaf/artifacts
+end_time: 1750031937781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9bb158af75643159bb37d949f91cdaf
+run_name: indecisive-hare-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750031802890
+status: 3
+tags: []
+user_id: runner
