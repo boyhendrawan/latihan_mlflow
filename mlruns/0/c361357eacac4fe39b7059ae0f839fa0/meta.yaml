@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c361357eacac4fe39b7059ae0f839fa0/artifacts
+end_time: 1749953946639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c361357eacac4fe39b7059ae0f839fa0
+run_name: funny-snail-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749953803298
+status: 3
+tags: []
+user_id: runner
