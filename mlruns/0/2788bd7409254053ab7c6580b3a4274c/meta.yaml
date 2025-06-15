@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2788bd7409254053ab7c6580b3a4274c/artifacts
+end_time: 1750031356400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2788bd7409254053ab7c6580b3a4274c
+run_name: victorious-snipe-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750031220439
+status: 3
+tags: []
+user_id: runner
