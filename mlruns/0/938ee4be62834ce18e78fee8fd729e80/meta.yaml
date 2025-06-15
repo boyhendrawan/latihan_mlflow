@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/938ee4be62834ce18e78fee8fd729e80/artifacts
+end_time: 1749973447920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938ee4be62834ce18e78fee8fd729e80
+run_name: nosy-bass-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749973311924
+status: 3
+tags: []
+user_id: runner
