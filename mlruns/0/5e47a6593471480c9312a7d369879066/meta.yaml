@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e47a6593471480c9312a7d369879066/artifacts
+end_time: 1749967452715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e47a6593471480c9312a7d369879066
+run_name: indecisive-goat-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749967318155
+status: 3
+tags: []
+user_id: runner
