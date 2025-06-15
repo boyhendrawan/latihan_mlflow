@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3c1a84dbb0a475b8f70236100fdea76/artifacts
+end_time: 1750016293663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3c1a84dbb0a475b8f70236100fdea76
+run_name: sassy-pug-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750016158427
+status: 3
+tags: []
+user_id: runner
