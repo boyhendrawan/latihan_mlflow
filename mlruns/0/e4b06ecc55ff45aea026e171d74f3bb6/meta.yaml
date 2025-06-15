@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4b06ecc55ff45aea026e171d74f3bb6/artifacts
+end_time: 1749968031491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4b06ecc55ff45aea026e171d74f3bb6
+run_name: calm-mule-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749967895803
+status: 3
+tags: []
+user_id: runner
