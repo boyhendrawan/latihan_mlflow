@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dceec5e3011b4188ab317ed47fbd4a1d/artifacts
+end_time: 1749976525579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dceec5e3011b4188ab317ed47fbd4a1d
+run_name: upbeat-crab-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749976389513
+status: 3
+tags: []
+user_id: runner
