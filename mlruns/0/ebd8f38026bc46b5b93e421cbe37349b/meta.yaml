@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebd8f38026bc46b5b93e421cbe37349b/artifacts
+end_time: 1749976333150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebd8f38026bc46b5b93e421cbe37349b
+run_name: funny-loon-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749976197870
+status: 3
+tags: []
+user_id: runner
