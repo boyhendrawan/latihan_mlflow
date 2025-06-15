@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50688ddccead4e34accf0394dd22d551/artifacts
+end_time: 1749975756258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50688ddccead4e34accf0394dd22d551
+run_name: respected-wolf-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749975620585
+status: 3
+tags: []
+user_id: runner
