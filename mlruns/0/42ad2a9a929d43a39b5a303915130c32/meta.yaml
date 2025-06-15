@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42ad2a9a929d43a39b5a303915130c32/artifacts
+end_time: 1749984840706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42ad2a9a929d43a39b5a303915130c32
+run_name: learned-steed-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749984704759
+status: 3
+tags: []
+user_id: runner
