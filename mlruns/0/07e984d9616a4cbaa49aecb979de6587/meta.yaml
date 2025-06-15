@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07e984d9616a4cbaa49aecb979de6587/artifacts
+end_time: 1749970151072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e984d9616a4cbaa49aecb979de6587
+run_name: lyrical-ram-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749970015316
+status: 3
+tags: []
+user_id: runner
