@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/54cbf95f963d4d74bc85cb4744dd968d/artifacts
+end_time: 1749970342087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54cbf95f963d4d74bc85cb4744dd968d
+run_name: colorful-newt-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749970206941
+status: 3
+tags: []
+user_id: runner
