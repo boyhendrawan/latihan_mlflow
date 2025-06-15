@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c90bee5cd2114a41a9b65a86c8cc8a9c/artifacts
+end_time: 1750001042869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90bee5cd2114a41a9b65a86c8cc8a9c
+run_name: nebulous-zebra-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750000907659
+status: 3
+tags: []
+user_id: runner
