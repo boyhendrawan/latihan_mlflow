@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e86194d75e3348be9ea21f02c7e9f8b1/artifacts
+end_time: 1749991783461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86194d75e3348be9ea21f02c7e9f8b1
+run_name: wistful-newt-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749991648311
+status: 3
+tags: []
+user_id: runner
