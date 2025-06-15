@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2ab54cb0a5f44f0ea1849e4213496a49/artifacts
+end_time: 1750005279178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ab54cb0a5f44f0ea1849e4213496a49
+run_name: mysterious-fish-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750005142928
+status: 3
+tags: []
+user_id: runner
