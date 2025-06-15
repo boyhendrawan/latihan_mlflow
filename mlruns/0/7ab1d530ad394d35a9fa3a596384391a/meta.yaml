@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ab1d530ad394d35a9fa3a596384391a/artifacts
+end_time: 1750010092896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ab1d530ad394d35a9fa3a596384391a
+run_name: enthused-hound-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750009956869
+status: 3
+tags: []
+user_id: runner
