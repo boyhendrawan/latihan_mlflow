@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abcf13cd21f9449d83160843876ae704/artifacts
+end_time: 1750007388827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abcf13cd21f9449d83160843876ae704
+run_name: able-shark-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750007253096
+status: 3
+tags: []
+user_id: runner
