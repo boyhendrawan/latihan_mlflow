@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9903ade445a40d8a41fa5a3301bc472/artifacts
+end_time: 1749989274635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9903ade445a40d8a41fa5a3301bc472
+run_name: exultant-toad-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749989138323
+status: 3
+tags: []
+user_id: runner
