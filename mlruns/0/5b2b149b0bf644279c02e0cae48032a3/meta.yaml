@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b2b149b0bf644279c02e0cae48032a3/artifacts
+end_time: 1749948742818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b2b149b0bf644279c02e0cae48032a3
+run_name: peaceful-sloth-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749948607865
+status: 3
+tags: []
+user_id: runner
