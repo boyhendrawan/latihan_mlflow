@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f7745badb0b642338b47036d92a05789/artifacts
+end_time: 1749972867306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7745badb0b642338b47036d92a05789
+run_name: honorable-snipe-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749972732588
+status: 3
+tags: []
+user_id: runner
