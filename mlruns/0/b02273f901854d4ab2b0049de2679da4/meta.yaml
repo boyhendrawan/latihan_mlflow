@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b02273f901854d4ab2b0049de2679da4/artifacts
+end_time: 1749960519568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b02273f901854d4ab2b0049de2679da4
+run_name: fortunate-bird-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749960382841
+status: 3
+tags: []
+user_id: runner
