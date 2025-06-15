@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/72bdb157d74d46bdbe0ae54cc5c0b370/artifacts
+end_time: 1749999309197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72bdb157d74d46bdbe0ae54cc5c0b370
+run_name: judicious-foal-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999172755
+status: 3
+tags: []
+user_id: runner
