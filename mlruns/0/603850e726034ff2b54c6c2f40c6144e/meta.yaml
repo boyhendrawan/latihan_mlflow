@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/603850e726034ff2b54c6c2f40c6144e/artifacts
+end_time: 1749951431149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 603850e726034ff2b54c6c2f40c6144e
+run_name: flawless-kit-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749951294852
+status: 3
+tags: []
+user_id: runner
