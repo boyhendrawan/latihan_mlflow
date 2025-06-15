@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a4e75d9ed06843cba6e894120c4ffe2d/artifacts
+end_time: 1750004510528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4e75d9ed06843cba6e894120c4ffe2d
+run_name: bold-dog-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750004373668
+status: 3
+tags: []
+user_id: runner
