@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/81e3632acea24c04af773311cf7df08a/artifacts
+end_time: 1749958977396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81e3632acea24c04af773311cf7df08a
+run_name: whimsical-gull-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749958842564
+status: 3
+tags: []
+user_id: runner
