@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a62ea12e044453981fe1252a33cdf2a/artifacts
+end_time: 1749990048749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a62ea12e044453981fe1252a33cdf2a
+run_name: lyrical-loon-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749989912050
+status: 3
+tags: []
+user_id: runner
