@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab60f234c8f1459c8865e29391b794eb/artifacts
+end_time: 1749985033893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab60f234c8f1459c8865e29391b794eb
+run_name: classy-chimp-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749984897663
+status: 3
+tags: []
+user_id: runner
