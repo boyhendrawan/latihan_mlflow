@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa315b3947984e05af04970de8e7157d/artifacts
+end_time: 1749948924669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa315b3947984e05af04970de8e7157d
+run_name: righteous-donkey-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749948797713
+status: 3
+tags: []
+user_id: runner
