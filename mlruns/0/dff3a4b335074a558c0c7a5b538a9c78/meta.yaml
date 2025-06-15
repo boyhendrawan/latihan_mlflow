@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dff3a4b335074a558c0c7a5b538a9c78/artifacts
+end_time: 1749966494570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff3a4b335074a558c0c7a5b538a9c78
+run_name: calm-crow-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749966358853
+status: 3
+tags: []
+user_id: runner
