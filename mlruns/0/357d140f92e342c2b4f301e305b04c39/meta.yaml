@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/357d140f92e342c2b4f301e305b04c39/artifacts
+end_time: 1750021862785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357d140f92e342c2b4f301e305b04c39
+run_name: clean-crane-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750021726587
+status: 3
+tags: []
+user_id: runner
