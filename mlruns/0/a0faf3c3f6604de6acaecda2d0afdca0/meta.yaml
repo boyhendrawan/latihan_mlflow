@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0faf3c3f6604de6acaecda2d0afdca0/artifacts
+end_time: 1749961288286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0faf3c3f6604de6acaecda2d0afdca0
+run_name: secretive-sheep-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749961153324
+status: 3
+tags: []
+user_id: runner
