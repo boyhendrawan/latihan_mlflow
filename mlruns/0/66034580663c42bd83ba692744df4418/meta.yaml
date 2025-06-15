@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/66034580663c42bd83ba692744df4418/artifacts
+end_time: 1749976142208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66034580663c42bd83ba692744df4418
+run_name: unruly-stag-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749976006500
+status: 3
+tags: []
+user_id: runner
