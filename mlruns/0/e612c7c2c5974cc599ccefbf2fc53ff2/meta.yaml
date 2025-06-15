@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e612c7c2c5974cc599ccefbf2fc53ff2/artifacts
+end_time: 1750011835268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e612c7c2c5974cc599ccefbf2fc53ff2
+run_name: selective-mule-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750011700504
+status: 3
+tags: []
+user_id: runner
