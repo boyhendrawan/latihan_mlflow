@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e78017e85ee749d287e35db42e519fdd/artifacts
+end_time: 1749950658776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78017e85ee749d287e35db42e519fdd
+run_name: adaptable-flea-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749950524312
+status: 3
+tags: []
+user_id: runner
