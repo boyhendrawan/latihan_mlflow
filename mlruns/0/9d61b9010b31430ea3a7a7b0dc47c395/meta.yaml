@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d61b9010b31430ea3a7a7b0dc47c395/artifacts
+end_time: 1750024571278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d61b9010b31430ea3a7a7b0dc47c395
+run_name: legendary-hare-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750024434777
+status: 3
+tags: []
+user_id: runner
