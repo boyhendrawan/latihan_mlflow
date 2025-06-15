@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/283f3aaa87704f7ba093f166403450bf/artifacts
+end_time: 1750000272520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 283f3aaa87704f7ba093f166403450bf
+run_name: sincere-worm-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750000136919
+status: 3
+tags: []
+user_id: runner
