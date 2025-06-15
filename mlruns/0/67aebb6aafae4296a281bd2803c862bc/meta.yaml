@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67aebb6aafae4296a281bd2803c862bc/artifacts
+end_time: 1750022250793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67aebb6aafae4296a281bd2803c862bc
+run_name: nimble-carp-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750022114817
+status: 3
+tags: []
+user_id: runner
