@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75b6390d0c2646bcbce93f88cba5370c/artifacts
+end_time: 1750025531794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75b6390d0c2646bcbce93f88cba5370c
+run_name: stylish-bat-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750025395953
+status: 3
+tags: []
+user_id: runner
