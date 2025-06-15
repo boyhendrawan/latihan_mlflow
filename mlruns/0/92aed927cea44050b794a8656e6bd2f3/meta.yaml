@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92aed927cea44050b794a8656e6bd2f3/artifacts
+end_time: 1749951045629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92aed927cea44050b794a8656e6bd2f3
+run_name: adventurous-cub-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749950909427
+status: 3
+tags: []
+user_id: runner
