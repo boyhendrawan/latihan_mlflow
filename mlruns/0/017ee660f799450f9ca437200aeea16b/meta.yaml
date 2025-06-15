@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/017ee660f799450f9ca437200aeea16b/artifacts
+end_time: 1749984649512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 017ee660f799450f9ca437200aeea16b
+run_name: wistful-hawk-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749984513358
+status: 3
+tags: []
+user_id: runner
