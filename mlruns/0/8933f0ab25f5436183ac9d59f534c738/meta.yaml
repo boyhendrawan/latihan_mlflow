@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8933f0ab25f5436183ac9d59f534c738/artifacts
+end_time: 1749949893000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8933f0ab25f5436183ac9d59f534c738
+run_name: classy-grouse-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749949757290
+status: 3
+tags: []
+user_id: runner
