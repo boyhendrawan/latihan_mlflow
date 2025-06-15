@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e8f2bcb869b4597b36ebf60769d5356/artifacts
+end_time: 1750017437718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e8f2bcb869b4597b36ebf60769d5356
+run_name: rebellious-chimp-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750017302278
+status: 3
+tags: []
+user_id: runner
