@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d52becbfe5dd4b8f8b86d48da7c14faa/artifacts
+end_time: 1749965330049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d52becbfe5dd4b8f8b86d48da7c14faa
+run_name: worried-gnat-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749965194571
+status: 3
+tags: []
+user_id: runner
