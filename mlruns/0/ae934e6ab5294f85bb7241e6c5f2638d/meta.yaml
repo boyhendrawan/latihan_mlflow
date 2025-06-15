@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae934e6ab5294f85bb7241e6c5f2638d/artifacts
+end_time: 1749998724072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae934e6ab5294f85bb7241e6c5f2638d
+run_name: blushing-snail-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749998588496
+status: 3
+tags: []
+user_id: runner
