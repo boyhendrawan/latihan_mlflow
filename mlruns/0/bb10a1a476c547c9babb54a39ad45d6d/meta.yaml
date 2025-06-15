@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bb10a1a476c547c9babb54a39ad45d6d/artifacts
+end_time: 1749974605125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb10a1a476c547c9babb54a39ad45d6d
+run_name: mysterious-flea-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749974469987
+status: 3
+tags: []
+user_id: runner
