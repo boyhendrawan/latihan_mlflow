@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0befd6d355de44739ae73395726ee61b/artifacts
+end_time: 1749962639926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0befd6d355de44739ae73395726ee61b
+run_name: legendary-rook-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749962503951
+status: 3
+tags: []
+user_id: runner
