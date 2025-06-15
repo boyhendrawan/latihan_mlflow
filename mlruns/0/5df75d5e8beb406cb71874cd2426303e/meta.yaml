@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5df75d5e8beb406cb71874cd2426303e/artifacts
+end_time: 1749949116971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5df75d5e8beb406cb71874cd2426303e
+run_name: blushing-bird-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749948981276
+status: 3
+tags: []
+user_id: runner
