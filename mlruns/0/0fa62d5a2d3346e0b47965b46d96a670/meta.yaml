@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0fa62d5a2d3346e0b47965b46d96a670/artifacts
+end_time: 1749971903499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fa62d5a2d3346e0b47965b46d96a670
+run_name: defiant-hog-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749971761410
+status: 3
+tags: []
+user_id: runner
