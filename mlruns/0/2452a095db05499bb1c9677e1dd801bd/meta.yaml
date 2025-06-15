@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2452a095db05499bb1c9677e1dd801bd/artifacts
+end_time: 1749995837381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2452a095db05499bb1c9677e1dd801bd
+run_name: classy-elk-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749995701511
+status: 3
+tags: []
+user_id: runner
