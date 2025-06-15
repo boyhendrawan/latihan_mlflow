@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ddeed751d4d4c2681d580876e494ebd/artifacts
+end_time: 1749949504953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ddeed751d4d4c2681d580876e494ebd
+run_name: likeable-goat-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749949369440
+status: 3
+tags: []
+user_id: runner
