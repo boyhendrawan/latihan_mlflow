@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e71c2302657e4e5d86ef7b1a01c1bac8/artifacts
+end_time: 1750015328429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71c2302657e4e5d86ef7b1a01c1bac8
+run_name: judicious-tern-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750015193141
+status: 3
+tags: []
+user_id: runner
