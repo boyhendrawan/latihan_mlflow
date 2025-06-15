@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73d85ab38dba4c9983596bd7745ceeed/artifacts
+end_time: 1749958593300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73d85ab38dba4c9983596bd7745ceeed
+run_name: welcoming-fish-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749958457609
+status: 3
+tags: []
+user_id: runner
