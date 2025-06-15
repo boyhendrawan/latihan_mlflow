@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d64bb100110646949b0dbe797902792b/artifacts
+end_time: 1750009504330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d64bb100110646949b0dbe797902792b
+run_name: aged-horse-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750009368031
+status: 3
+tags: []
+user_id: runner
