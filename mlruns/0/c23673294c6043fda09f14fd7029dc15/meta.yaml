@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c23673294c6043fda09f14fd7029dc15/artifacts
+end_time: 1749947390226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c23673294c6043fda09f14fd7029dc15
+run_name: bedecked-wasp-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749947254631
+status: 3
+tags: []
+user_id: runner
