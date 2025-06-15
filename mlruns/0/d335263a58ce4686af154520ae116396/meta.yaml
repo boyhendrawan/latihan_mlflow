@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d335263a58ce4686af154520ae116396/artifacts
+end_time: 1750007773376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d335263a58ce4686af154520ae116396
+run_name: righteous-skink-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750007636676
+status: 3
+tags: []
+user_id: runner
