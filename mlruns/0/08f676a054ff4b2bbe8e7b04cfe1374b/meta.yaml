@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/08f676a054ff4b2bbe8e7b04cfe1374b/artifacts
+end_time: 1749990434585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08f676a054ff4b2bbe8e7b04cfe1374b
+run_name: smiling-fox-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749990295774
+status: 3
+tags: []
+user_id: runner
