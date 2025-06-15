@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7629ab3208b84e2b8c0c77fe0768b50c/artifacts
+end_time: 1750021288764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7629ab3208b84e2b8c0c77fe0768b50c
+run_name: thundering-gnu-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750021153684
+status: 3
+tags: []
+user_id: runner
