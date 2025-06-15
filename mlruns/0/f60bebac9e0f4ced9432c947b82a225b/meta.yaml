@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f60bebac9e0f4ced9432c947b82a225b/artifacts
+end_time: 1749972481368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60bebac9e0f4ced9432c947b82a225b
+run_name: respected-grub-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749972346278
+status: 3
+tags: []
+user_id: runner
