@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b7862b0b43264d96841990e7f58321d2/artifacts
+end_time: 1750074668573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7862b0b43264d96841990e7f58321d2
+run_name: illustrious-shad-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750074532172
+status: 3
+tags: []
+user_id: runner
