@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6f3816e807e4bd0865ad99befa4a122/artifacts
+end_time: 1750043361850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6f3816e807e4bd0865ad99befa4a122
+run_name: omniscient-deer-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750043226221
+status: 3
+tags: []
+user_id: runner
