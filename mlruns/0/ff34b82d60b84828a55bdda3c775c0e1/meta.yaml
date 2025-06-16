@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff34b82d60b84828a55bdda3c775c0e1/artifacts
+end_time: 1750046465497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff34b82d60b84828a55bdda3c775c0e1
+run_name: loud-ox-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750046329973
+status: 3
+tags: []
+user_id: runner
