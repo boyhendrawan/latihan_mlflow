@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/798aa851563640c58162baf27c88254d/artifacts
+end_time: 1750107231367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 798aa851563640c58162baf27c88254d
+run_name: legendary-foal-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750107096280
+status: 3
+tags: []
+user_id: runner
