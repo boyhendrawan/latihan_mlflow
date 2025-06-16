@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c23063c8453b4bd58b989ac6568c6e2f/artifacts
+end_time: 1750109558204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c23063c8453b4bd58b989ac6568c6e2f
+run_name: delightful-whale-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750109423760
+status: 3
+tags: []
+user_id: runner
