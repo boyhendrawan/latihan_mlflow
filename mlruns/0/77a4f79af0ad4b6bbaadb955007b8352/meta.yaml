@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77a4f79af0ad4b6bbaadb955007b8352/artifacts
+end_time: 1750070194898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77a4f79af0ad4b6bbaadb955007b8352
+run_name: powerful-mule-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750070059537
+status: 3
+tags: []
+user_id: runner
