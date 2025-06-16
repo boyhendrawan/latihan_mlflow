@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/35c8b8c53b5f45ada48649ebe5a1b06d/artifacts
+end_time: 1750032534076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35c8b8c53b5f45ada48649ebe5a1b06d
+run_name: funny-hare-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750032396024
+status: 3
+tags: []
+user_id: runner
