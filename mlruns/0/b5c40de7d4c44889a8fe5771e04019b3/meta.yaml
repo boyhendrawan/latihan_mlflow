@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5c40de7d4c44889a8fe5771e04019b3/artifacts
+end_time: 1750078385095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5c40de7d4c44889a8fe5771e04019b3
+run_name: bittersweet-asp-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750078250074
+status: 3
+tags: []
+user_id: runner
