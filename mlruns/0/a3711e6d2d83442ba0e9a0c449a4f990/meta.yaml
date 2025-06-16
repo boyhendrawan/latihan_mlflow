@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a3711e6d2d83442ba0e9a0c449a4f990/artifacts
+end_time: 1750070586918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3711e6d2d83442ba0e9a0c449a4f990
+run_name: orderly-ant-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750070448447
+status: 3
+tags: []
+user_id: runner
