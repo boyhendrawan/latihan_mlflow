@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7899a75065b649b489b749d5732e6859/artifacts
+end_time: 1750061016457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7899a75065b649b489b749d5732e6859
+run_name: welcoming-auk-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750060880201
+status: 3
+tags: []
+user_id: runner
