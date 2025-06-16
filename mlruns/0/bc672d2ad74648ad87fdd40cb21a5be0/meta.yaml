@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc672d2ad74648ad87fdd40cb21a5be0/artifacts
+end_time: 1750067279726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc672d2ad74648ad87fdd40cb21a5be0
+run_name: gentle-croc-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067142152
+status: 3
+tags: []
+user_id: runner
