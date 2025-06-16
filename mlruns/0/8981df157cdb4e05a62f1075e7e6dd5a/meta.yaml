@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8981df157cdb4e05a62f1075e7e6dd5a/artifacts
+end_time: 1750046271989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8981df157cdb4e05a62f1075e7e6dd5a
+run_name: rumbling-deer-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750046136288
+status: 3
+tags: []
+user_id: runner
