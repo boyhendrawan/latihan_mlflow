@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fbe982eb5654cd98ecb464f0a4e9303/artifacts
+end_time: 1750105088513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fbe982eb5654cd98ecb464f0a4e9303
+run_name: melodic-finch-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750104951988
+status: 3
+tags: []
+user_id: runner
