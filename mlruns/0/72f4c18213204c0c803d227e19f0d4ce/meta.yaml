@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/72f4c18213204c0c803d227e19f0d4ce/artifacts
+end_time: 1750065722743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f4c18213204c0c803d227e19f0d4ce
+run_name: skittish-carp-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750065585859
+status: 3
+tags: []
+user_id: runner
