@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e2252f89aee425c83aa51347b078d3b/artifacts
+end_time: 1750061991143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e2252f89aee425c83aa51347b078d3b
+run_name: amusing-dove-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750061855545
+status: 3
+tags: []
+user_id: runner
