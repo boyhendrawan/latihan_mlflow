@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09cf0ac3414848fdbb3f0d2c6642b110/artifacts
+end_time: 1750072323493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09cf0ac3414848fdbb3f0d2c6642b110
+run_name: dashing-stag-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072188596
+status: 3
+tags: []
+user_id: runner
