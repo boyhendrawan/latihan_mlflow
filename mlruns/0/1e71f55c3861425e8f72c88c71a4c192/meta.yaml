@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e71f55c3861425e8f72c88c71a4c192/artifacts
+end_time: 1750054995817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e71f55c3861425e8f72c88c71a4c192
+run_name: sneaky-perch-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750054860646
+status: 3
+tags: []
+user_id: runner
