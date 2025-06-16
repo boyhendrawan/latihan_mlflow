@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9956399e637a4536a4dc94f911d0a433/artifacts
+end_time: 1750071547970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9956399e637a4536a4dc94f911d0a433
+run_name: nervous-mole-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750071413283
+status: 3
+tags: []
+user_id: runner
