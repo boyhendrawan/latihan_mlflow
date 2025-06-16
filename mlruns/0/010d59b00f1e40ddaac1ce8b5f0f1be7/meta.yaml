@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/010d59b00f1e40ddaac1ce8b5f0f1be7/artifacts
+end_time: 1750041829994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 010d59b00f1e40ddaac1ce8b5f0f1be7
+run_name: likeable-panda-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750041693235
+status: 3
+tags: []
+user_id: runner
