@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/473ccc40d53c42769abc13603b924319/artifacts
+end_time: 1750063181449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 473ccc40d53c42769abc13603b924319
+run_name: overjoyed-koi-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750063045206
+status: 3
+tags: []
+user_id: runner
