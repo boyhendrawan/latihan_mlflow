@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f7f2dce8789f44d9bae696c24fc7fd96/artifacts
+end_time: 1750044727302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7f2dce8789f44d9bae696c24fc7fd96
+run_name: intrigued-chimp-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750044590221
+status: 3
+tags: []
+user_id: runner
