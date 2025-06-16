@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8132701cecbd44438f4069e67cabc128/artifacts
+end_time: 1750091186493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8132701cecbd44438f4069e67cabc128
+run_name: unleashed-yak-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750091051379
+status: 3
+tags: []
+user_id: runner
