@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/348338015f1e4dd0a96c7337f5282bd9/artifacts
+end_time: 1750103908030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 348338015f1e4dd0a96c7337f5282bd9
+run_name: handsome-mule-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750103771524
+status: 3
+tags: []
+user_id: runner
