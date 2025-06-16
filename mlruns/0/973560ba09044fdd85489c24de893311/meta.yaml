@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/973560ba09044fdd85489c24de893311/artifacts
+end_time: 1750077400305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 973560ba09044fdd85489c24de893311
+run_name: indecisive-pug-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077263532
+status: 3
+tags: []
+user_id: runner
