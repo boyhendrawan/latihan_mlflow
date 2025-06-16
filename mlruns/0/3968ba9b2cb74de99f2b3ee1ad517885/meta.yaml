@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3968ba9b2cb74de99f2b3ee1ad517885/artifacts
+end_time: 1750033693030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3968ba9b2cb74de99f2b3ee1ad517885
+run_name: welcoming-pug-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750033557912
+status: 3
+tags: []
+user_id: runner
