@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eac37210e0284e5fa487a7a500f28ebe/artifacts
+end_time: 1750107424714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eac37210e0284e5fa487a7a500f28ebe
+run_name: adaptable-koi-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750107288514
+status: 3
+tags: []
+user_id: runner
