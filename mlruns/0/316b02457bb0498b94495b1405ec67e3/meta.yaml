@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/316b02457bb0498b94495b1405ec67e3/artifacts
+end_time: 1750117128718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 316b02457bb0498b94495b1405ec67e3
+run_name: painted-yak-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750116993861
+status: 3
+tags: []
+user_id: runner
