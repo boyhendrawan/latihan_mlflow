@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa0859a0a2634a3f9fd0c0c113908ac3/artifacts
+end_time: 1750095310256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa0859a0a2634a3f9fd0c0c113908ac3
+run_name: marvelous-sloth-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750095174654
+status: 3
+tags: []
+user_id: runner
