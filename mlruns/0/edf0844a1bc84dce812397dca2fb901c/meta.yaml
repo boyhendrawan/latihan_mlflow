@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/edf0844a1bc84dce812397dca2fb901c/artifacts
+end_time: 1750065529049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edf0844a1bc84dce812397dca2fb901c
+run_name: rogue-sponge-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750065394228
+status: 3
+tags: []
+user_id: runner
