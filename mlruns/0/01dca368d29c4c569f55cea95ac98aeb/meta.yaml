@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/01dca368d29c4c569f55cea95ac98aeb/artifacts
+end_time: 1750113229552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01dca368d29c4c569f55cea95ac98aeb
+run_name: carefree-worm-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750113094949
+status: 3
+tags: []
+user_id: runner
