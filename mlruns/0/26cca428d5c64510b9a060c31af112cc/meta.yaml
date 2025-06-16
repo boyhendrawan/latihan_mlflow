@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26cca428d5c64510b9a060c31af112cc/artifacts
+end_time: 1750077202508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26cca428d5c64510b9a060c31af112cc
+run_name: rogue-newt-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077067276
+status: 3
+tags: []
+user_id: runner
