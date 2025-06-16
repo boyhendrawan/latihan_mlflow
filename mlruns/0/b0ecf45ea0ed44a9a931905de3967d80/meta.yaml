@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0ecf45ea0ed44a9a931905de3967d80/artifacts
+end_time: 1750085128318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0ecf45ea0ed44a9a931905de3967d80
+run_name: sassy-grouse-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750084993189
+status: 3
+tags: []
+user_id: runner
