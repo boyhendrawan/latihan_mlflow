@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/86fe4c4ffa6245aca75b6bcf65776176/artifacts
+end_time: 1750080939368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86fe4c4ffa6245aca75b6bcf65776176
+run_name: placid-lark-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080804224
+status: 3
+tags: []
+user_id: runner
