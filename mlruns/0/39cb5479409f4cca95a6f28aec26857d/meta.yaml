@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/39cb5479409f4cca95a6f28aec26857d/artifacts
+end_time: 1750094337012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39cb5479409f4cca95a6f28aec26857d
+run_name: blushing-frog-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750094199213
+status: 3
+tags: []
+user_id: runner
