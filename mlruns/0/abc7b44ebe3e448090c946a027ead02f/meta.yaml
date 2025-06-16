@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abc7b44ebe3e448090c946a027ead02f/artifacts
+end_time: 1750060822099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abc7b44ebe3e448090c946a027ead02f
+run_name: treasured-mare-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750060686297
+status: 3
+tags: []
+user_id: runner
