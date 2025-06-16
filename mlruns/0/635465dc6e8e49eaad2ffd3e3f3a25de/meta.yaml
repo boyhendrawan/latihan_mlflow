@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/635465dc6e8e49eaad2ffd3e3f3a25de/artifacts
+end_time: 1750051126079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 635465dc6e8e49eaad2ffd3e3f3a25de
+run_name: mercurial-colt-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750050997998
+status: 3
+tags: []
+user_id: runner
