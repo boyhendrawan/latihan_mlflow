@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/974bd2f0f0cb460bbd41bdec11480c05/artifacts
+end_time: 1750053449505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 974bd2f0f0cb460bbd41bdec11480c05
+run_name: angry-gnat-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750053313438
+status: 3
+tags: []
+user_id: runner
