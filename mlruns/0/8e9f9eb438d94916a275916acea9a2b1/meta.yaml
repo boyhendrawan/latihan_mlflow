@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e9f9eb438d94916a275916acea9a2b1/artifacts
+end_time: 1750110714812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e9f9eb438d94916a275916acea9a2b1
+run_name: industrious-mink-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750110578907
+status: 3
+tags: []
+user_id: runner
