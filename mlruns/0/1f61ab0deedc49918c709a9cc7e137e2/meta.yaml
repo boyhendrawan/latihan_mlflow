@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f61ab0deedc49918c709a9cc7e137e2/artifacts
+end_time: 1750064156031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f61ab0deedc49918c709a9cc7e137e2
+run_name: intrigued-foal-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750064019846
+status: 3
+tags: []
+user_id: runner
