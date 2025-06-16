@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f70725395c1446a1a754c6c4e8b4a072/artifacts
+end_time: 1750072517426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70725395c1446a1a754c6c4e8b4a072
+run_name: useful-deer-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072381643
+status: 3
+tags: []
+user_id: runner
