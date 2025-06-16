@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/80e4517868024e40be8aa11b4bcb350a/artifacts
+end_time: 1750107040187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e4517868024e40be8aa11b4bcb350a
+run_name: unique-shrike-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750106904254
+status: 3
+tags: []
+user_id: runner
