@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68099634a38240a997a945f415d6e141/artifacts
+end_time: 1750058494576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68099634a38240a997a945f415d6e141
+run_name: rogue-fish-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750058358316
+status: 3
+tags: []
+user_id: runner
