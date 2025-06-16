@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1399c7039a1948f2ac77881c3ef932cf/artifacts
+end_time: 1750078782040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1399c7039a1948f2ac77881c3ef932cf
+run_name: worried-bat-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750078645032
+status: 3
+tags: []
+user_id: runner
