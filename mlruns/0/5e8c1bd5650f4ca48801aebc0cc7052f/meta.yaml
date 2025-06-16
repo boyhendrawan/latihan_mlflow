@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e8c1bd5650f4ca48801aebc0cc7052f/artifacts
+end_time: 1750114984484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e8c1bd5650f4ca48801aebc0cc7052f
+run_name: silent-fox-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750114848725
+status: 3
+tags: []
+user_id: runner
