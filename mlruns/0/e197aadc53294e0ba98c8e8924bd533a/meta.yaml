@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e197aadc53294e0ba98c8e8924bd533a/artifacts
+end_time: 1750064932845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e197aadc53294e0ba98c8e8924bd533a
+run_name: classy-fly-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750064797331
+status: 3
+tags: []
+user_id: runner
