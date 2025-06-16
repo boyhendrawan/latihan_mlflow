@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a31246ef4f7b47c9a5250848dc1a27ac/artifacts
+end_time: 1750058687559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a31246ef4f7b47c9a5250848dc1a27ac
+run_name: powerful-bee-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750058551639
+status: 3
+tags: []
+user_id: runner
