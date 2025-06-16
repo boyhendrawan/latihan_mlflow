@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6fe6305b3e0b4eacab766d094959198b/artifacts
+end_time: 1750092541202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fe6305b3e0b4eacab766d094959198b
+run_name: illustrious-bee-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750092405720
+status: 3
+tags: []
+user_id: runner
