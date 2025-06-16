@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aedbc6bca8bc4d989f58b8bfed9410f5/artifacts
+end_time: 1750090211713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aedbc6bca8bc4d989f58b8bfed9410f5
+run_name: dapper-snipe-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090076321
+status: 3
+tags: []
+user_id: runner
