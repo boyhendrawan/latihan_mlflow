@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a9b5be9f7cf94ccdb1fb88fa973cf227/artifacts
+end_time: 1750034466381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9b5be9f7cf94ccdb1fb88fa973cf227
+run_name: dashing-midge-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750034330196
+status: 3
+tags: []
+user_id: runner
