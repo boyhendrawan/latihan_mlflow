@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/08e24699e612487abf6d5609d0e7433e/artifacts
+end_time: 1750101365424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08e24699e612487abf6d5609d0e7433e
+run_name: rogue-steed-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750101229177
+status: 3
+tags: []
+user_id: runner
