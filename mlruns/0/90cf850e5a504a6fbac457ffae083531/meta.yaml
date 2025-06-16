@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90cf850e5a504a6fbac457ffae083531/artifacts
+end_time: 1750115962101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cf850e5a504a6fbac457ffae083531
+run_name: fortunate-whale-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750115824669
+status: 3
+tags: []
+user_id: runner
