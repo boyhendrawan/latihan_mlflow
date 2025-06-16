@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3df2e4a969f94738bdc4612d7ad90e6f/artifacts
+end_time: 1750057525545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3df2e4a969f94738bdc4612d7ad90e6f
+run_name: receptive-asp-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750057390448
+status: 3
+tags: []
+user_id: runner
