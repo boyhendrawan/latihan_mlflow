@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c01542e17f184df69bf23c09b61aa03a/artifacts
+end_time: 1750076231218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01542e17f184df69bf23c09b61aa03a
+run_name: skillful-fish-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750076096468
+status: 3
+tags: []
+user_id: runner
