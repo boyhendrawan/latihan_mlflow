@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9b8dfb67178f45dfb7835297b4534d19/artifacts
+end_time: 1750051319646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b8dfb67178f45dfb7835297b4534d19
+run_name: dapper-eel-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051184629
+status: 3
+tags: []
+user_id: runner
