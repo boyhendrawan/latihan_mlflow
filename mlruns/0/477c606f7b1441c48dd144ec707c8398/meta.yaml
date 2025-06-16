@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/477c606f7b1441c48dd144ec707c8398/artifacts
+end_time: 1750068641120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 477c606f7b1441c48dd144ec707c8398
+run_name: peaceful-fowl-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750068505284
+status: 3
+tags: []
+user_id: runner
