@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/184c211bde184feba11c352237a4f07e/artifacts
+end_time: 1750046079398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 184c211bde184feba11c352237a4f07e
+run_name: merciful-stag-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750045942582
+status: 3
+tags: []
+user_id: runner
