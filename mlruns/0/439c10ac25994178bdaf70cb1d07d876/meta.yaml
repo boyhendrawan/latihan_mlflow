@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/439c10ac25994178bdaf70cb1d07d876/artifacts
+end_time: 1750087664376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 439c10ac25994178bdaf70cb1d07d876
+run_name: intelligent-cow-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087527400
+status: 3
+tags: []
+user_id: runner
