@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da64de4b0a344445879fb056c4716119/artifacts
+end_time: 1750048986446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da64de4b0a344445879fb056c4716119
+run_name: industrious-dove-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750048850865
+status: 3
+tags: []
+user_id: runner
