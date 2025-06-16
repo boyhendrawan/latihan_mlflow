@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b6802d2e9f524f8b8a1e4e181a71db3b/artifacts
+end_time: 1750047624318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6802d2e9f524f8b8a1e4e181a71db3b
+run_name: charming-fox-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750047489646
+status: 3
+tags: []
+user_id: runner
