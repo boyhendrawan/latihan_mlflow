@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b977925c4cf44d2995b9c645a7591496/artifacts
+end_time: 1750102731798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b977925c4cf44d2995b9c645a7591496
+run_name: zealous-sheep-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750102596070
+status: 3
+tags: []
+user_id: runner
