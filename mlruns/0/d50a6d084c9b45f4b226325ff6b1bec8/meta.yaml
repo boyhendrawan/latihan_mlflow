@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d50a6d084c9b45f4b226325ff6b1bec8/artifacts
+end_time: 1750090990063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d50a6d084c9b45f4b226325ff6b1bec8
+run_name: industrious-fly-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090854255
+status: 3
+tags: []
+user_id: runner
