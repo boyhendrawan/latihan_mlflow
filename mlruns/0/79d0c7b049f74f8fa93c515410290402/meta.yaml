@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/79d0c7b049f74f8fa93c515410290402/artifacts
+end_time: 1750032918207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79d0c7b049f74f8fa93c515410290402
+run_name: caring-sow-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750032782912
+status: 3
+tags: []
+user_id: runner
