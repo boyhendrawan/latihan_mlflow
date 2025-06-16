@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34a1a697ebad48bcab3f4a8a1a7f225e/artifacts
+end_time: 1750074281123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34a1a697ebad48bcab3f4a8a1a7f225e
+run_name: dapper-robin-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750074145108
+status: 3
+tags: []
+user_id: runner
