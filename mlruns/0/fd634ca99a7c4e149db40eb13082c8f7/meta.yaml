@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd634ca99a7c4e149db40eb13082c8f7/artifacts
+end_time: 1750100187387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd634ca99a7c4e149db40eb13082c8f7
+run_name: treasured-fawn-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750100051118
+status: 3
+tags: []
+user_id: runner
