@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b972524ee97244898bebac62281cbd55/artifacts
+end_time: 1750074088995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b972524ee97244898bebac62281cbd55
+run_name: youthful-asp-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750073952136
+status: 3
+tags: []
+user_id: runner
