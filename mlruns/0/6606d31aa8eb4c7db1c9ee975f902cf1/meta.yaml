@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6606d31aa8eb4c7db1c9ee975f902cf1/artifacts
+end_time: 1750063962372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6606d31aa8eb4c7db1c9ee975f902cf1
+run_name: flawless-mole-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750063826036
+status: 3
+tags: []
+user_id: runner
