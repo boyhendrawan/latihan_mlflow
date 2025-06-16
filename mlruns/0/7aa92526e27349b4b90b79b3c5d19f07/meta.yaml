@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7aa92526e27349b4b90b79b3c5d19f07/artifacts
+end_time: 1750113812457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aa92526e27349b4b90b79b3c5d19f07
+run_name: stately-pug-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750113676111
+status: 3
+tags: []
+user_id: runner
