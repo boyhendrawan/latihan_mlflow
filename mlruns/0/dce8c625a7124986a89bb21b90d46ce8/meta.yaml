@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dce8c625a7124986a89bb21b90d46ce8/artifacts
+end_time: 1750108592706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dce8c625a7124986a89bb21b90d46ce8
+run_name: rogue-fly-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750108457627
+status: 3
+tags: []
+user_id: runner
