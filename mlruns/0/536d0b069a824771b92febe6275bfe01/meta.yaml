@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/536d0b069a824771b92febe6275bfe01/artifacts
+end_time: 1750090601258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 536d0b069a824771b92febe6275bfe01
+run_name: youthful-grub-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090464525
+status: 3
+tags: []
+user_id: runner
