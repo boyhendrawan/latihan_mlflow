@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e1901ae77b54dde8fefc9ac9e64fb3d/artifacts
+end_time: 1750104699670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e1901ae77b54dde8fefc9ac9e64fb3d
+run_name: wistful-gnu-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750104563555
+status: 3
+tags: []
+user_id: runner
