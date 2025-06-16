@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4493cdcd9e945149c3351ad8c7a5a21/artifacts
+end_time: 1750102151155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4493cdcd9e945149c3351ad8c7a5a21
+run_name: sassy-hen-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750102016095
+status: 3
+tags: []
+user_id: runner
