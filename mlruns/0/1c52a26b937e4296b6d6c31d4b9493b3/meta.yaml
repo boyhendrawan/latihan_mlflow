@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c52a26b937e4296b6d6c31d4b9493b3/artifacts
+end_time: 1750095118730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c52a26b937e4296b6d6c31d4b9493b3
+run_name: serious-pug-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750094983682
+status: 3
+tags: []
+user_id: runner
