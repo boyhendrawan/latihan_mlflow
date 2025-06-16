@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab5943ab9e024ff4aba224281ffcb1c8/artifacts
+end_time: 1750085719105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab5943ab9e024ff4aba224281ffcb1c8
+run_name: nosy-bee-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750085582531
+status: 3
+tags: []
+user_id: runner
