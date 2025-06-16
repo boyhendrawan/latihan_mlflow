@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd2e1ff043ef4dfc85509a8f6c54285a/artifacts
+end_time: 1750079969959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2e1ff043ef4dfc85509a8f6c54285a
+run_name: abundant-asp-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079834659
+status: 3
+tags: []
+user_id: runner
