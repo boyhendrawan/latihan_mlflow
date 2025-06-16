@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/efc66192850f4fdba969649b39907d33/artifacts
+end_time: 1750088266059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc66192850f4fdba969649b39907d33
+run_name: invincible-sloth-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750088129559
+status: 3
+tags: []
+user_id: runner
