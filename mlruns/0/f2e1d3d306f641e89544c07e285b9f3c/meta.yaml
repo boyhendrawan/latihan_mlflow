@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2e1d3d306f641e89544c07e285b9f3c/artifacts
+end_time: 1750048593783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e1d3d306f641e89544c07e285b9f3c
+run_name: agreeable-fowl-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750048457766
+status: 3
+tags: []
+user_id: runner
