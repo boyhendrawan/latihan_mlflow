@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/819fbe4fa0cb4487bdf22712fd8f68d0/artifacts
+end_time: 1750092151077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 819fbe4fa0cb4487bdf22712fd8f68d0
+run_name: stylish-lynx-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750092014476
+status: 3
+tags: []
+user_id: runner
