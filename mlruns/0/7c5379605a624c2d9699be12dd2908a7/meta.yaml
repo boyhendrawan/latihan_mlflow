@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c5379605a624c2d9699be12dd2908a7/artifacts
+end_time: 1750072912709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c5379605a624c2d9699be12dd2908a7
+run_name: blushing-worm-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072771844
+status: 3
+tags: []
+user_id: runner
