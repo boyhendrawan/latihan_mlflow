@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/52b83b3d4cfd484ea638113410e099ef/artifacts
+end_time: 1750101562420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52b83b3d4cfd484ea638113410e099ef
+run_name: classy-robin-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750101426451
+status: 3
+tags: []
+user_id: runner
