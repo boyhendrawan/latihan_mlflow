@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/643514f518894450aca42894fdbf6cc5/artifacts
+end_time: 1750035826736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 643514f518894450aca42894fdbf6cc5
+run_name: peaceful-wasp-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750035690152
+status: 3
+tags: []
+user_id: runner
