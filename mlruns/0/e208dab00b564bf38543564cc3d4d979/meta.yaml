@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e208dab00b564bf38543564cc3d4d979/artifacts
+end_time: 1750062986659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e208dab00b564bf38543564cc3d4d979
+run_name: useful-pig-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750062848359
+status: 3
+tags: []
+user_id: runner
