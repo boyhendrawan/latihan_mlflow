@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/292a0dc4da22480d8c96cba6596bf2d2/artifacts
+end_time: 1750062595325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292a0dc4da22480d8c96cba6596bf2d2
+run_name: gaudy-hawk-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750062460047
+status: 3
+tags: []
+user_id: runner
