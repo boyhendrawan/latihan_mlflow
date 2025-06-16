@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0430be75d7be40f78c4a325188a86ef9/artifacts
+end_time: 1750079773984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0430be75d7be40f78c4a325188a86ef9
+run_name: treasured-vole-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079638192
+status: 3
+tags: []
+user_id: runner
