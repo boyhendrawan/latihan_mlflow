@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a8590a5d5e44c4088bda2f9a8f1d42f/artifacts
+end_time: 1750051705509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a8590a5d5e44c4088bda2f9a8f1d42f
+run_name: funny-carp-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051569812
+status: 3
+tags: []
+user_id: runner
