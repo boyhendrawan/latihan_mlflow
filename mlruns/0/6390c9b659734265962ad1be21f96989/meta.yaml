@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6390c9b659734265962ad1be21f96989/artifacts
+end_time: 1750087467085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6390c9b659734265962ad1be21f96989
+run_name: languid-worm-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087331027
+status: 3
+tags: []
+user_id: runner
