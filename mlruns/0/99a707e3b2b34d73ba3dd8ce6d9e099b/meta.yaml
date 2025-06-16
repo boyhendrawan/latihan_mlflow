@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/99a707e3b2b34d73ba3dd8ce6d9e099b/artifacts
+end_time: 1750055972810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99a707e3b2b34d73ba3dd8ce6d9e099b
+run_name: powerful-ape-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750055836571
+status: 3
+tags: []
+user_id: runner
