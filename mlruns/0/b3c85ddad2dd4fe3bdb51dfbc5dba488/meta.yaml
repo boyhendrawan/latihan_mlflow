@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b3c85ddad2dd4fe3bdb51dfbc5dba488/artifacts
+end_time: 1750070777595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c85ddad2dd4fe3bdb51dfbc5dba488
+run_name: languid-quail-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750070642707
+status: 3
+tags: []
+user_id: runner
