@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f00887883d7f4de3831f8b2f87107294/artifacts
+end_time: 1750044136891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f00887883d7f4de3831f8b2f87107294
+run_name: melodic-shad-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750044000900
+status: 3
+tags: []
+user_id: runner
