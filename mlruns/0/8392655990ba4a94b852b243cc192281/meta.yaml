@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8392655990ba4a94b852b243cc192281/artifacts
+end_time: 1750054609979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8392655990ba4a94b852b243cc192281
+run_name: placid-boar-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750054474117
+status: 3
+tags: []
+user_id: runner
