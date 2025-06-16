@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/321a8d21b3fb41d1a5b7b2d56e1fd141/artifacts
+end_time: 1750048789250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 321a8d21b3fb41d1a5b7b2d56e1fd141
+run_name: vaunted-seal-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750048653613
+status: 3
+tags: []
+user_id: runner
