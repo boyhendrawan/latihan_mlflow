@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/49ede399d3544e769083ca217ec80dee/artifacts
+end_time: 1750045692846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ede399d3544e769083ca217ec80dee
+run_name: angry-ox-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750045557136
+status: 3
+tags: []
+user_id: runner
