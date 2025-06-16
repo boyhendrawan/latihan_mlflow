@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da8abc8e1e0e4802b032dac37ce3d36c/artifacts
+end_time: 1750089046711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da8abc8e1e0e4802b032dac37ce3d36c
+run_name: gentle-conch-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750088909987
+status: 3
+tags: []
+user_id: runner
