@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f8152f8037ce42a5978f93e980d84f6c/artifacts
+end_time: 1750095893566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8152f8037ce42a5978f93e980d84f6c
+run_name: wistful-rook-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750095756602
+status: 3
+tags: []
+user_id: runner
