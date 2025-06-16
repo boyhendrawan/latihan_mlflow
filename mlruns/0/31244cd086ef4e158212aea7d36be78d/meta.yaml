@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31244cd086ef4e158212aea7d36be78d/artifacts
+end_time: 1750090797248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31244cd086ef4e158212aea7d36be78d
+run_name: efficient-foal-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090659193
+status: 3
+tags: []
+user_id: runner
