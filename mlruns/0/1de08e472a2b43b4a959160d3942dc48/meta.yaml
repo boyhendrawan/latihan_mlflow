@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1de08e472a2b43b4a959160d3942dc48/artifacts
+end_time: 1750064349712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1de08e472a2b43b4a959160d3942dc48
+run_name: secretive-sow-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750064213821
+status: 3
+tags: []
+user_id: runner
