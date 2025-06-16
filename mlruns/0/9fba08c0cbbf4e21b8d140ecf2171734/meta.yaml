@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9fba08c0cbbf4e21b8d140ecf2171734/artifacts
+end_time: 1750091571000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fba08c0cbbf4e21b8d140ecf2171734
+run_name: stylish-snail-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750091436601
+status: 3
+tags: []
+user_id: runner
