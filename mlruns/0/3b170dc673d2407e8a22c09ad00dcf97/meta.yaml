@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b170dc673d2407e8a22c09ad00dcf97/artifacts
+end_time: 1750108784152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b170dc673d2407e8a22c09ad00dcf97
+run_name: salty-chimp-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750108648611
+status: 3
+tags: []
+user_id: runner
