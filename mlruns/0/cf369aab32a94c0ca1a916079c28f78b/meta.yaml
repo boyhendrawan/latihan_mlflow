@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf369aab32a94c0ca1a916079c28f78b/artifacts
+end_time: 1750073891680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf369aab32a94c0ca1a916079c28f78b
+run_name: rare-hawk-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750073755435
+status: 3
+tags: []
+user_id: runner
