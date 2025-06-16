@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/570cb6a4995444b79b1b6e7855f44f0b/artifacts
+end_time: 1750038925648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 570cb6a4995444b79b1b6e7855f44f0b
+run_name: funny-shrimp-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750038789342
+status: 3
+tags: []
+user_id: runner
