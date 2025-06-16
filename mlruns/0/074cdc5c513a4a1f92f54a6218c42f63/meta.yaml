@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/074cdc5c513a4a1f92f54a6218c42f63/artifacts
+end_time: 1750106453895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 074cdc5c513a4a1f92f54a6218c42f63
+run_name: legendary-pig-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750106318296
+status: 3
+tags: []
+user_id: runner
