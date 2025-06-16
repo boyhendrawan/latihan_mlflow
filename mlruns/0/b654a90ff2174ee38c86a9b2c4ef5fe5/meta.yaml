@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b654a90ff2174ee38c86a9b2c4ef5fe5/artifacts
+end_time: 1750081521230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b654a90ff2174ee38c86a9b2c4ef5fe5
+run_name: stylish-duck-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750081385096
+status: 3
+tags: []
+user_id: runner
