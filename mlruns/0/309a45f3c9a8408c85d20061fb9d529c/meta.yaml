@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/309a45f3c9a8408c85d20061fb9d529c/artifacts
+end_time: 1750100386287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 309a45f3c9a8408c85d20061fb9d529c
+run_name: salty-colt-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750100247454
+status: 3
+tags: []
+user_id: runner
