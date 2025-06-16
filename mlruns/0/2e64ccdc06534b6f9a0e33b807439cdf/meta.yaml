@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e64ccdc06534b6f9a0e33b807439cdf/artifacts
+end_time: 1750077795229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e64ccdc06534b6f9a0e33b807439cdf
+run_name: invincible-finch-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077659338
+status: 3
+tags: []
+user_id: runner
