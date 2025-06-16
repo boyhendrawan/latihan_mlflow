@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0f403581ef14993a6d8696b4263050e/artifacts
+end_time: 1750047433080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0f403581ef14993a6d8696b4263050e
+run_name: polite-turtle-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750047296717
+status: 3
+tags: []
+user_id: runner
