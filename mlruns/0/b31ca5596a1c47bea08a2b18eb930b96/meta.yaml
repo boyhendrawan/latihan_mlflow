@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b31ca5596a1c47bea08a2b18eb930b96/artifacts
+end_time: 1750109749692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b31ca5596a1c47bea08a2b18eb930b96
+run_name: nosy-newt-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750109614586
+status: 3
+tags: []
+user_id: runner
