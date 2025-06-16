@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f458ab6421546cc8d01fea35bfae49d/artifacts
+end_time: 1750066301745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f458ab6421546cc8d01fea35bfae49d
+run_name: carefree-asp-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750066166136
+status: 3
+tags: []
+user_id: runner
