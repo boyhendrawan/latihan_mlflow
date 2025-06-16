@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0a063939949a4cb7b49cecd35a4f4eb9/artifacts
+end_time: 1750066492593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a063939949a4cb7b49cecd35a4f4eb9
+run_name: puzzled-smelt-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750066357684
+status: 3
+tags: []
+user_id: runner
