@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0cc51f46016748c29e3b6f9e40aecb62/artifacts
+end_time: 1750093938388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc51f46016748c29e3b6f9e40aecb62
+run_name: casual-bass-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750093801074
+status: 3
+tags: []
+user_id: runner
