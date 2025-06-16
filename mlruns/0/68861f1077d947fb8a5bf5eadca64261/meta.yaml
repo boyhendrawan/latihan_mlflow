@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68861f1077d947fb8a5bf5eadca64261/artifacts
+end_time: 1750047239216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68861f1077d947fb8a5bf5eadca64261
+run_name: sedate-shoat-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750047104200
+status: 3
+tags: []
+user_id: runner
