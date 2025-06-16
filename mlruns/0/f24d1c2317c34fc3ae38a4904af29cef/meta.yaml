@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f24d1c2317c34fc3ae38a4904af29cef/artifacts
+end_time: 1750070387778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f24d1c2317c34fc3ae38a4904af29cef
+run_name: gaudy-perch-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750070250780
+status: 3
+tags: []
+user_id: runner
