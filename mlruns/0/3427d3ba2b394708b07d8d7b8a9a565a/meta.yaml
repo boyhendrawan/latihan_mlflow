@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3427d3ba2b394708b07d8d7b8a9a565a/artifacts
+end_time: 1750101955220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3427d3ba2b394708b07d8d7b8a9a565a
+run_name: popular-koi-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750101821206
+status: 3
+tags: []
+user_id: runner
