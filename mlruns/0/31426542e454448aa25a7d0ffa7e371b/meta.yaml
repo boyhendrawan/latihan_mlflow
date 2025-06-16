@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31426542e454448aa25a7d0ffa7e371b/artifacts
+end_time: 1750114402596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31426542e454448aa25a7d0ffa7e371b
+run_name: traveling-mare-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750114264635
+status: 3
+tags: []
+user_id: runner
