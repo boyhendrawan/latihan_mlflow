@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17e331e66e9b46568112b58e8a3bfd9d/artifacts
+end_time: 1750048396720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e331e66e9b46568112b58e8a3bfd9d
+run_name: dashing-koi-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750048261536
+status: 3
+tags: []
+user_id: runner
