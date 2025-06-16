@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1e5a3e489104f13a59b12687028a564/artifacts
+end_time: 1750069615533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1e5a3e489104f13a59b12687028a564
+run_name: industrious-ram-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750069477396
+status: 3
+tags: []
+user_id: runner
