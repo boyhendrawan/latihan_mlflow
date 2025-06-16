@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/61877d505a8d41769c0211948328251b/artifacts
+end_time: 1750111693269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61877d505a8d41769c0211948328251b
+run_name: fearless-dog-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750111556542
+status: 3
+tags: []
+user_id: runner
