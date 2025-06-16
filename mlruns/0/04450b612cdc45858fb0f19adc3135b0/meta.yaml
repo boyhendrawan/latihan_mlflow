@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/04450b612cdc45858fb0f19adc3135b0/artifacts
+end_time: 1750088655621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04450b612cdc45858fb0f19adc3135b0
+run_name: gifted-bass-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750088520670
+status: 3
+tags: []
+user_id: runner
