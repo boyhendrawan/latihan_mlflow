@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f68e25af3be74ab1aa81d8ea06cac24a/artifacts
+end_time: 1750106072699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f68e25af3be74ab1aa81d8ea06cac24a
+run_name: agreeable-grouse-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750105936512
+status: 3
+tags: []
+user_id: runner
