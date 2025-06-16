@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a063551d4fd0428f9dc3430f3ae8bdff/artifacts
+end_time: 1750111298776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a063551d4fd0428f9dc3430f3ae8bdff
+run_name: gregarious-auk-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750111162281
+status: 3
+tags: []
+user_id: runner
