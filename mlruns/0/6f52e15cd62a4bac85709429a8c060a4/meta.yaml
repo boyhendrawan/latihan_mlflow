@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f52e15cd62a4bac85709429a8c060a4/artifacts
+end_time: 1750077007764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f52e15cd62a4bac85709429a8c060a4
+run_name: adventurous-cow-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750076872456
+status: 3
+tags: []
+user_id: runner
