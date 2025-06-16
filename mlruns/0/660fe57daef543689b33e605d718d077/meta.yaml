@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/660fe57daef543689b33e605d718d077/artifacts
+end_time: 1750083854989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660fe57daef543689b33e605d718d077
+run_name: stately-fawn-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750083719045
+status: 3
+tags: []
+user_id: runner
