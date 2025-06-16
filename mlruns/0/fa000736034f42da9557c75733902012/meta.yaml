@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa000736034f42da9557c75733902012/artifacts
+end_time: 1750054219537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa000736034f42da9557c75733902012
+run_name: adorable-deer-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750054084230
+status: 3
+tags: []
+user_id: runner
