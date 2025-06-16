@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea276eb4c3d64399b600a5956f983f5a/artifacts
+end_time: 1750114011056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea276eb4c3d64399b600a5956f983f5a
+run_name: stately-chimp-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750113873632
+status: 3
+tags: []
+user_id: runner
