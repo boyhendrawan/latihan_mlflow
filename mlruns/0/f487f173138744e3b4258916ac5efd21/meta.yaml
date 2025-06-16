@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f487f173138744e3b4258916ac5efd21/artifacts
+end_time: 1750085325157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f487f173138744e3b4258916ac5efd21
+run_name: wistful-ox-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750085188030
+status: 3
+tags: []
+user_id: runner
