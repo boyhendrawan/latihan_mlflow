@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2562111ff0674f16b60b26c15f3a63f1/artifacts
+end_time: 1750089432930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2562111ff0674f16b60b26c15f3a63f1
+run_name: defiant-mink-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750089296343
+status: 3
+tags: []
+user_id: runner
