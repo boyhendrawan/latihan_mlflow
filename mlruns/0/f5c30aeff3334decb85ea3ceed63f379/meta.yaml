@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5c30aeff3334decb85ea3ceed63f379/artifacts
+end_time: 1750047047960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5c30aeff3334decb85ea3ceed63f379
+run_name: amusing-mouse-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750046911584
+status: 3
+tags: []
+user_id: runner
