@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f10e5f57b8c64756bbcad0e6cf0b4a29/artifacts
+end_time: 1750050554734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f10e5f57b8c64756bbcad0e6cf0b4a29
+run_name: rogue-pug-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750050418984
+status: 3
+tags: []
+user_id: runner
