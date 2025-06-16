@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f4983cb5de4a49c0a0c76d084d5fece4/artifacts
+end_time: 1750103712022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4983cb5de4a49c0a0c76d084d5fece4
+run_name: gifted-yak-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750103576223
+status: 3
+tags: []
+user_id: runner
