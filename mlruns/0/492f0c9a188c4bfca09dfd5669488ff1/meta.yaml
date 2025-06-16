@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/492f0c9a188c4bfca09dfd5669488ff1/artifacts
+end_time: 1750037570785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 492f0c9a188c4bfca09dfd5669488ff1
+run_name: clumsy-donkey-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750037435492
+status: 3
+tags: []
+user_id: runner
