@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bd9ee9b1aaa4f81a0208e83b5b9b43b/artifacts
+end_time: 1750053640162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bd9ee9b1aaa4f81a0208e83b5b9b43b
+run_name: unique-bass-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750053504381
+status: 3
+tags: []
+user_id: runner
