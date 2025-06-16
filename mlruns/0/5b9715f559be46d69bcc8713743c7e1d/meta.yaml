@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b9715f559be46d69bcc8713743c7e1d/artifacts
+end_time: 1750086100303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b9715f559be46d69bcc8713743c7e1d
+run_name: peaceful-carp-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750085964720
+status: 3
+tags: []
+user_id: runner
