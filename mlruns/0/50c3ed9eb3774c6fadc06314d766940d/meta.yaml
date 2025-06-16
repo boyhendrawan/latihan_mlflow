@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50c3ed9eb3774c6fadc06314d766940d/artifacts
+end_time: 1750060626209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50c3ed9eb3774c6fadc06314d766940d
+run_name: trusting-panda-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750060491285
+status: 3
+tags: []
+user_id: runner
