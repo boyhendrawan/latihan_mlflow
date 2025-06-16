@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddd52d99cbd744e0a1c566a4be350e4a/artifacts
+end_time: 1750045887364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd52d99cbd744e0a1c566a4be350e4a
+run_name: able-fish-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750045751492
+status: 3
+tags: []
+user_id: runner
