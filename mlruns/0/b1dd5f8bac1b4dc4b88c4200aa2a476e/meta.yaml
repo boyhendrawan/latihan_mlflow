@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b1dd5f8bac1b4dc4b88c4200aa2a476e/artifacts
+end_time: 1750084252991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1dd5f8bac1b4dc4b88c4200aa2a476e
+run_name: persistent-ape-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750084117136
+status: 3
+tags: []
+user_id: runner
