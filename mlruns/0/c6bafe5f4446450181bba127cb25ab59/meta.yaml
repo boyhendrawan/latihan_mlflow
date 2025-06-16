@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c6bafe5f4446450181bba127cb25ab59/artifacts
+end_time: 1750034273629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6bafe5f4446450181bba127cb25ab59
+run_name: adaptable-robin-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750034136720
+status: 3
+tags: []
+user_id: runner
