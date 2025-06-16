@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9bb8f09c4c9545c6a49e1814054c3c66/artifacts
+end_time: 1750106848033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb8f09c4c9545c6a49e1814054c3c66
+run_name: skittish-penguin-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750106712449
+status: 3
+tags: []
+user_id: runner
