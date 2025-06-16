@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2df268731e4e491b9452304ac7fba64e/artifacts
+end_time: 1750042780074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2df268731e4e491b9452304ac7fba64e
+run_name: shivering-hog-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750042644333
+status: 3
+tags: []
+user_id: runner
