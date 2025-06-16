@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3f6c668db6164704b9d004fd80f77d21/artifacts
+end_time: 1750052873148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f6c668db6164704b9d004fd80f77d21
+run_name: polite-elk-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750052737186
+status: 3
+tags: []
+user_id: runner
