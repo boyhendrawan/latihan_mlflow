@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd75f9cdb6ab4ed0b6b99b4d0501cbf1/artifacts
+end_time: 1750076033828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd75f9cdb6ab4ed0b6b99b4d0501cbf1
+run_name: unleashed-calf-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750075897458
+status: 3
+tags: []
+user_id: runner
