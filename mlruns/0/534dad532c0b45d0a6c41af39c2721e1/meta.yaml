@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/534dad532c0b45d0a6c41af39c2721e1/artifacts
+end_time: 1750047817685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 534dad532c0b45d0a6c41af39c2721e1
+run_name: sneaky-hen-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750047681652
+status: 3
+tags: []
+user_id: runner
