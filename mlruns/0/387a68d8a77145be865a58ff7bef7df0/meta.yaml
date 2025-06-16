@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/387a68d8a77145be865a58ff7bef7df0/artifacts
+end_time: 1750106653401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 387a68d8a77145be865a58ff7bef7df0
+run_name: bold-pug-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750106514475
+status: 3
+tags: []
+user_id: runner
