@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/698d4c56fc1a43278f1e595be513577b/artifacts
+end_time: 1750067475674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698d4c56fc1a43278f1e595be513577b
+run_name: bustling-squid-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067340204
+status: 3
+tags: []
+user_id: runner
