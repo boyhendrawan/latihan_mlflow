@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a699dd16c58a463fa6d4b515fa6ec8af/artifacts
+end_time: 1750080355882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a699dd16c58a463fa6d4b515fa6ec8af
+run_name: zealous-hen-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080220205
+status: 3
+tags: []
+user_id: runner
