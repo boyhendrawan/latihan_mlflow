@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/753c1c5ba3984390a4409a3246a000c1/artifacts
+end_time: 1750045111656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 753c1c5ba3984390a4409a3246a000c1
+run_name: brawny-mule-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750044975774
+status: 3
+tags: []
+user_id: runner
