@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dbcfd6338011478b874745cc8f18ae4c/artifacts
+end_time: 1750036989656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbcfd6338011478b874745cc8f18ae4c
+run_name: magnificent-slug-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750036854093
+status: 3
+tags: []
+user_id: runner
