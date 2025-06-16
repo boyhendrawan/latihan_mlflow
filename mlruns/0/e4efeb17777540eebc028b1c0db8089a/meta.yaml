@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4efeb17777540eebc028b1c0db8089a/artifacts
+end_time: 1750081906955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4efeb17777540eebc028b1c0db8089a
+run_name: exultant-flea-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750081771355
+status: 3
+tags: []
+user_id: runner
