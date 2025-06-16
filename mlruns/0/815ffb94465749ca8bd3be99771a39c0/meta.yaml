@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/815ffb94465749ca8bd3be99771a39c0/artifacts
+end_time: 1750059076025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 815ffb94465749ca8bd3be99771a39c0
+run_name: learned-fox-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750058941762
+status: 3
+tags: []
+user_id: runner
