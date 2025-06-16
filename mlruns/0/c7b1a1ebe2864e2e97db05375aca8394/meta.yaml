@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c7b1a1ebe2864e2e97db05375aca8394/artifacts
+end_time: 1750073501734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7b1a1ebe2864e2e97db05375aca8394
+run_name: gentle-chimp-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750073365095
+status: 3
+tags: []
+user_id: runner
