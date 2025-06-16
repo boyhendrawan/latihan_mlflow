@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/59b5293247b14d3ab00d5683540e9f7c/artifacts
+end_time: 1750052295005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59b5293247b14d3ab00d5683540e9f7c
+run_name: sassy-eel-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750052157877
+status: 3
+tags: []
+user_id: runner
