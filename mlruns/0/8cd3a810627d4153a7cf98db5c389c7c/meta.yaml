@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cd3a810627d4153a7cf98db5c389c7c/artifacts
+end_time: 1750072713967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cd3a810627d4153a7cf98db5c389c7c
+run_name: grandiose-grouse-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072577977
+status: 3
+tags: []
+user_id: runner
