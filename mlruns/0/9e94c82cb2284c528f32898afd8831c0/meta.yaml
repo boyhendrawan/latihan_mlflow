@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e94c82cb2284c528f32898afd8831c0/artifacts
+end_time: 1750108203639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e94c82cb2284c528f32898afd8831c0
+run_name: amazing-stoat-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750108067344
+status: 3
+tags: []
+user_id: runner
