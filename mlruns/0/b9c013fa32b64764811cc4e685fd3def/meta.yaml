@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b9c013fa32b64764811cc4e685fd3def/artifacts
+end_time: 1750075443197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9c013fa32b64764811cc4e685fd3def
+run_name: upbeat-wren-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750075307071
+status: 3
+tags: []
+user_id: runner
