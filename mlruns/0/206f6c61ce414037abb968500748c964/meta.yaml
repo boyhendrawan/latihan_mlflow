@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/206f6c61ce414037abb968500748c964/artifacts
+end_time: 1750090406615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206f6c61ce414037abb968500748c964
+run_name: traveling-boar-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090268562
+status: 3
+tags: []
+user_id: runner
