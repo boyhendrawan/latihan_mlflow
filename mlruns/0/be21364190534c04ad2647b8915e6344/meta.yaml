@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be21364190534c04ad2647b8915e6344/artifacts
+end_time: 1750089632293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be21364190534c04ad2647b8915e6344
+run_name: painted-pug-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750089495452
+status: 3
+tags: []
+user_id: runner
