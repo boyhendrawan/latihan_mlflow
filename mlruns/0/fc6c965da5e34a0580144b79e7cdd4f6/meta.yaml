@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fc6c965da5e34a0580144b79e7cdd4f6/artifacts
+end_time: 1750118299200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc6c965da5e34a0580144b79e7cdd4f6
+run_name: mysterious-pug-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750118161798
+status: 3
+tags: []
+user_id: runner
