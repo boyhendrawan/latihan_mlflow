@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b03a3f398a7b482a9be9e78ed2d2fb2e/artifacts
+end_time: 1750042588422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b03a3f398a7b482a9be9e78ed2d2fb2e
+run_name: learned-gull-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750042458240
+status: 3
+tags: []
+user_id: runner
