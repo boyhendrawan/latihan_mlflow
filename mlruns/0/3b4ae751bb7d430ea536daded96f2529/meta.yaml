@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b4ae751bb7d430ea536daded96f2529/artifacts
+end_time: 1750043945139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b4ae751bb7d430ea536daded96f2529
+run_name: nosy-shoat-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750043809652
+status: 3
+tags: []
+user_id: runner
