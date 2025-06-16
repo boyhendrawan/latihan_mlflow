@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0aa64cddc2e24c958e0bffcd0d0087c2/artifacts
+end_time: 1750042975191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aa64cddc2e24c958e0bffcd0d0087c2
+run_name: popular-lark-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750042837545
+status: 3
+tags: []
+user_id: runner
