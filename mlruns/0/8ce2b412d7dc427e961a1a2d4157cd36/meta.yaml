@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ce2b412d7dc427e961a1a2d4157cd36/artifacts
+end_time: 1750077992664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ce2b412d7dc427e961a1a2d4157cd36
+run_name: burly-calf-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077857243
+status: 3
+tags: []
+user_id: runner
