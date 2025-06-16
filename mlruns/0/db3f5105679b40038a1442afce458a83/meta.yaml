@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db3f5105679b40038a1442afce458a83/artifacts
+end_time: 1750085520392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db3f5105679b40038a1442afce458a83
+run_name: sassy-dove-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750085384791
+status: 3
+tags: []
+user_id: runner
