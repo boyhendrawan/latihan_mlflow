@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a3736a61f22a49d784625361ddb73e6a/artifacts
+end_time: 1750045303707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3736a61f22a49d784625361ddb73e6a
+run_name: marvelous-shrike-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750045168074
+status: 3
+tags: []
+user_id: runner
