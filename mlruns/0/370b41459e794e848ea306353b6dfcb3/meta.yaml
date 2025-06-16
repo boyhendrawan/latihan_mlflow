@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/370b41459e794e848ea306353b6dfcb3/artifacts
+end_time: 1750050173116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 370b41459e794e848ea306353b6dfcb3
+run_name: rare-skink-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750050037302
+status: 3
+tags: []
+user_id: runner
