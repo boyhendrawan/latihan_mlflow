@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/864a43127e2547f6b54b6bfbd11d9889/artifacts
+end_time: 1750075246216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 864a43127e2547f6b54b6bfbd11d9889
+run_name: likeable-doe-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750075109681
+status: 3
+tags: []
+user_id: runner
