@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3bfdeb8524184d318da60fb9a86a9a2d/artifacts
+end_time: 1750097250016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bfdeb8524184d318da60fb9a86a9a2d
+run_name: magnificent-shoat-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750097113458
+status: 3
+tags: []
+user_id: runner
