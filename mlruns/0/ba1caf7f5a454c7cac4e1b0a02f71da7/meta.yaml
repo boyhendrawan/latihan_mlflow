@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba1caf7f5a454c7cac4e1b0a02f71da7/artifacts
+end_time: 1750049590203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba1caf7f5a454c7cac4e1b0a02f71da7
+run_name: grandiose-smelt-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750049451401
+status: 3
+tags: []
+user_id: runner
