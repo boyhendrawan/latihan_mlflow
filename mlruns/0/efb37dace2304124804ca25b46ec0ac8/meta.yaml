@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/efb37dace2304124804ca25b46ec0ac8/artifacts
+end_time: 1750054411605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb37dace2304124804ca25b46ec0ac8
+run_name: luminous-mink-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750054275587
+status: 3
+tags: []
+user_id: runner
