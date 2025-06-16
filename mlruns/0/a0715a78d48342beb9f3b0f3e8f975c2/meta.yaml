@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0715a78d48342beb9f3b0f3e8f975c2/artifacts
+end_time: 1750040661845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0715a78d48342beb9f3b0f3e8f975c2
+run_name: bedecked-dog-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750040525380
+status: 3
+tags: []
+user_id: runner
