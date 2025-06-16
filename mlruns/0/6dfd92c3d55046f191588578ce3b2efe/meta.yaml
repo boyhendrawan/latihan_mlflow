@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6dfd92c3d55046f191588578ce3b2efe/artifacts
+end_time: 1750059468225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dfd92c3d55046f191588578ce3b2efe
+run_name: learned-horse-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750059331822
+status: 3
+tags: []
+user_id: runner
