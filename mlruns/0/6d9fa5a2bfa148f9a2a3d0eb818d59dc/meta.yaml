@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6d9fa5a2bfa148f9a2a3d0eb818d59dc/artifacts
+end_time: 1750043556819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d9fa5a2bfa148f9a2a3d0eb818d59dc
+run_name: skillful-shrimp-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750043419796
+status: 3
+tags: []
+user_id: runner
