@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6acbdcfb7aab4c1996b6d954a01ae957/artifacts
+end_time: 1750036019746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6acbdcfb7aab4c1996b6d954a01ae957
+run_name: victorious-stork-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750035883829
+status: 3
+tags: []
+user_id: runner
