@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/841c8b3096924729b4709acbbb4fb711/artifacts
+end_time: 1750041052920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 841c8b3096924729b4709acbbb4fb711
+run_name: bouncy-snake-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750040916824
+status: 3
+tags: []
+user_id: runner
