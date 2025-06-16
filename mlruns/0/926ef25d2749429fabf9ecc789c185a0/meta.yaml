@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/926ef25d2749429fabf9ecc789c185a0/artifacts
+end_time: 1750046657045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 926ef25d2749429fabf9ecc789c185a0
+run_name: nimble-seal-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750046522386
+status: 3
+tags: []
+user_id: runner
