@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/817b858ec75f4036b0a41afbbea22f3c/artifacts
+end_time: 1750112655107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 817b858ec75f4036b0a41afbbea22f3c
+run_name: sassy-sheep-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750112519850
+status: 3
+tags: []
+user_id: runner
