@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/59ad65408f644fea9cd2f9845afd0855/artifacts
+end_time: 1750057916740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59ad65408f644fea9cd2f9845afd0855
+run_name: puzzled-ape-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750057779315
+status: 3
+tags: []
+user_id: runner
