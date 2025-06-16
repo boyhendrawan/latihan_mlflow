@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ba7f079f4c7413dae011297116d187d/artifacts
+end_time: 1750099009243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ba7f079f4c7413dae011297116d187d
+run_name: lyrical-croc-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750098873195
+status: 3
+tags: []
+user_id: runner
