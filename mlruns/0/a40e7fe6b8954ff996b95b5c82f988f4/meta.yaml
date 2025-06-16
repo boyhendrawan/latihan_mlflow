@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a40e7fe6b8954ff996b95b5c82f988f4/artifacts
+end_time: 1750053062445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a40e7fe6b8954ff996b95b5c82f988f4
+run_name: adaptable-yak-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750052927702
+status: 3
+tags: []
+user_id: runner
