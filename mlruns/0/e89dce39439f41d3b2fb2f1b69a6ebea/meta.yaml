@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e89dce39439f41d3b2fb2f1b69a6ebea/artifacts
+end_time: 1750099796948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89dce39439f41d3b2fb2f1b69a6ebea
+run_name: popular-sheep-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750099661098
+status: 3
+tags: []
+user_id: runner
