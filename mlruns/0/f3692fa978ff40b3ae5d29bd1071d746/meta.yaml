@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f3692fa978ff40b3ae5d29bd1071d746/artifacts
+end_time: 1750092347472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3692fa978ff40b3ae5d29bd1071d746
+run_name: merciful-koi-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750092210266
+status: 3
+tags: []
+user_id: runner
