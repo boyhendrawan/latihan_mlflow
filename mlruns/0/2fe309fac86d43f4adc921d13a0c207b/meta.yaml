@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2fe309fac86d43f4adc921d13a0c207b/artifacts
+end_time: 1750093352745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe309fac86d43f4adc921d13a0c207b
+run_name: stylish-bug-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750093215268
+status: 3
+tags: []
+user_id: runner
