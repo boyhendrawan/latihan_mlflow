@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/193271f1076e494d9b40f7c27f039404/artifacts
+end_time: 1750052094573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 193271f1076e494d9b40f7c27f039404
+run_name: crawling-shark-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051957054
+status: 3
+tags: []
+user_id: runner
