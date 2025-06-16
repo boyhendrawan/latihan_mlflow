@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3fdf6a6b71e1454ab71640e99ebb2607/artifacts
+end_time: 1750042211012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fdf6a6b71e1454ab71640e99ebb2607
+run_name: youthful-sheep-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750042076303
+status: 3
+tags: []
+user_id: runner
