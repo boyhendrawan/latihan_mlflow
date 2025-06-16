@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3365010119104a40805b2abd41eeeeb6/artifacts
+end_time: 1750104506386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3365010119104a40805b2abd41eeeeb6
+run_name: capricious-snail-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750104368645
+status: 3
+tags: []
+user_id: runner
