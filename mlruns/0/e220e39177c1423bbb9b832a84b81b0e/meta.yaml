@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e220e39177c1423bbb9b832a84b81b0e/artifacts
+end_time: 1750080162499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e220e39177c1423bbb9b832a84b81b0e
+run_name: defiant-dog-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080026868
+status: 3
+tags: []
+user_id: runner
