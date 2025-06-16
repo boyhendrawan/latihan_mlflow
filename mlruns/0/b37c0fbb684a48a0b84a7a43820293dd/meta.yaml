@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b37c0fbb684a48a0b84a7a43820293dd/artifacts
+end_time: 1750067083744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b37c0fbb684a48a0b84a7a43820293dd
+run_name: amusing-zebra-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750066947220
+status: 3
+tags: []
+user_id: runner
