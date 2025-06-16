@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6c1327984bd45a0943b55e7be64099c/artifacts
+end_time: 1750087867720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6c1327984bd45a0943b55e7be64099c
+run_name: bald-fawn-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087730485
+status: 3
+tags: []
+user_id: runner
