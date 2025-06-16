@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f400eb58a8a454aa1098f83b7656e8e/artifacts
+end_time: 1750080550685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f400eb58a8a454aa1098f83b7656e8e
+run_name: unleashed-snake-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080413672
+status: 3
+tags: []
+user_id: runner
