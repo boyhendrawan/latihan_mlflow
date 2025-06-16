@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3da7b7bdb644ce3b1123c6b9fc08ca8/artifacts
+end_time: 1750039120079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3da7b7bdb644ce3b1123c6b9fc08ca8
+run_name: persistent-cow-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750038983746
+status: 3
+tags: []
+user_id: runner
