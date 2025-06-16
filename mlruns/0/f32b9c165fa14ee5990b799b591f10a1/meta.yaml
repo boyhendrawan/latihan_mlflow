@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f32b9c165fa14ee5990b799b591f10a1/artifacts
+end_time: 1750083275681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f32b9c165fa14ee5990b799b591f10a1
+run_name: persistent-goat-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750083138988
+status: 3
+tags: []
+user_id: runner
