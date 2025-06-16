@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/058dbd87397c4090bb0bf5d3d7a77f2b/artifacts
+end_time: 1750113038599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 058dbd87397c4090bb0bf5d3d7a77f2b
+run_name: melodic-trout-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750112903400
+status: 3
+tags: []
+user_id: runner
