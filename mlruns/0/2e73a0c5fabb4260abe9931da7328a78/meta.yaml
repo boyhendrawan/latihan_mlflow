@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e73a0c5fabb4260abe9931da7328a78/artifacts
+end_time: 1750044533890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e73a0c5fabb4260abe9931da7328a78
+run_name: bright-grouse-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750044396072
+status: 3
+tags: []
+user_id: runner
