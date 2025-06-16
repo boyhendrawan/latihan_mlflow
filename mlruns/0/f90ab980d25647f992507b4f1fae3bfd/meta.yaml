@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f90ab980d25647f992507b4f1fae3bfd/artifacts
+end_time: 1750062377005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90ab980d25647f992507b4f1fae3bfd
+run_name: secretive-loon-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750062241788
+status: 3
+tags: []
+user_id: runner
