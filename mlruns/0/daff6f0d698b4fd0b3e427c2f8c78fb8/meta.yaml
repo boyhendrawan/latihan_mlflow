@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/daff6f0d698b4fd0b3e427c2f8c78fb8/artifacts
+end_time: 1750069221808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daff6f0d698b4fd0b3e427c2f8c78fb8
+run_name: calm-mole-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750069084635
+status: 3
+tags: []
+user_id: runner
