@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1cfdf07470624405a89d0ea7db70c873/artifacts
+end_time: 1750089825542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cfdf07470624405a89d0ea7db70c873
+run_name: worried-mole-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750089690032
+status: 3
+tags: []
+user_id: runner
