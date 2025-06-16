@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec5a2abf9f374604a44d5a977a9158b5/artifacts
+end_time: 1750071937617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec5a2abf9f374604a44d5a977a9158b5
+run_name: merciful-stork-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750071801698
+status: 3
+tags: []
+user_id: runner
