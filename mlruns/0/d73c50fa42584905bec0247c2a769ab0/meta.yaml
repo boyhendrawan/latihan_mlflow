@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d73c50fa42584905bec0247c2a769ab0/artifacts
+end_time: 1750079370616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d73c50fa42584905bec0247c2a769ab0
+run_name: suave-mare-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079233689
+status: 3
+tags: []
+user_id: runner
