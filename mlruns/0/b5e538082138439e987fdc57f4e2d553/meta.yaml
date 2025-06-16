@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5e538082138439e987fdc57f4e2d553/artifacts
+end_time: 1750105672234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5e538082138439e987fdc57f4e2d553
+run_name: bedecked-donkey-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750105534952
+status: 3
+tags: []
+user_id: runner
