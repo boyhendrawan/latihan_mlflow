@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92d475004f444dd3a9eb4deb8952de3b/artifacts
+end_time: 1750035439624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d475004f444dd3a9eb4deb8952de3b
+run_name: amazing-skink-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750035303029
+status: 3
+tags: []
+user_id: runner
