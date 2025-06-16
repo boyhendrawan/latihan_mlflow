@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97753bce354e49269672fae780e71f02/artifacts
+end_time: 1750068252938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97753bce354e49269672fae780e71f02
+run_name: dashing-calf-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750068115533
+status: 3
+tags: []
+user_id: runner
