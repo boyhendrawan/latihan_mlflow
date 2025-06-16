@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/314ab8217e5d482a8b54ad85c3d12f59/artifacts
+end_time: 1750075052780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314ab8217e5d482a8b54ad85c3d12f59
+run_name: adaptable-bug-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750074917765
+status: 3
+tags: []
+user_id: runner
