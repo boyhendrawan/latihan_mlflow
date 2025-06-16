@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/133387368f104ecbb8b70f9297eef031/artifacts
+end_time: 1750100579382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 133387368f104ecbb8b70f9297eef031
+run_name: puzzled-lark-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750100443231
+status: 3
+tags: []
+user_id: runner
