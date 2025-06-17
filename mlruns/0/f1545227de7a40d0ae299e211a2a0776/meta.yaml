@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1545227de7a40d0ae299e211a2a0776/artifacts
+end_time: 1750123950158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1545227de7a40d0ae299e211a2a0776
+run_name: luxuriant-yak-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750123814710
+status: 3
+tags: []
+user_id: runner
