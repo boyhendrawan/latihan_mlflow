@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73b5a8d9472648a0af40fdc7b7f3e41a/artifacts
+end_time: 1750169410225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b5a8d9472648a0af40fdc7b7f3e41a
+run_name: fortunate-doe-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750169274501
+status: 3
+tags: []
+user_id: runner
