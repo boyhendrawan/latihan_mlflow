@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa4e4bddacc14aad81b9c89edb65094f/artifacts
+end_time: 1750183164855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa4e4bddacc14aad81b9c89edb65094f
+run_name: sneaky-gnat-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183024647
+status: 3
+tags: []
+user_id: runner
