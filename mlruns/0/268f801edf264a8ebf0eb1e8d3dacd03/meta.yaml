@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/268f801edf264a8ebf0eb1e8d3dacd03/artifacts
+end_time: 1750185502164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 268f801edf264a8ebf0eb1e8d3dacd03
+run_name: spiffy-midge-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750185365392
+status: 3
+tags: []
+user_id: runner
