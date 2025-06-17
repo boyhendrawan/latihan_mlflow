@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/054929e1418d43d9a8f5f399f5ffea9d/artifacts
+end_time: 1750134458145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 054929e1418d43d9a8f5f399f5ffea9d
+run_name: merciful-moose-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750134321960
+status: 3
+tags: []
+user_id: runner
