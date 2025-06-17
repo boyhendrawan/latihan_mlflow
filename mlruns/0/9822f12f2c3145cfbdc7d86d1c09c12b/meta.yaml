@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9822f12f2c3145cfbdc7d86d1c09c12b/artifacts
+end_time: 1750145931395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9822f12f2c3145cfbdc7d86d1c09c12b
+run_name: suave-foal-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750145795790
+status: 3
+tags: []
+user_id: runner
