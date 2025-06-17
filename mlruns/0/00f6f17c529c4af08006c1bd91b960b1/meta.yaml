@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/00f6f17c529c4af08006c1bd91b960b1/artifacts
+end_time: 1750135043869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00f6f17c529c4af08006c1bd91b960b1
+run_name: luminous-croc-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750134907470
+status: 3
+tags: []
+user_id: runner
