@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21af8cb7e03d43c5984dc604d208a57d/artifacts
+end_time: 1750177321309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21af8cb7e03d43c5984dc604d208a57d
+run_name: whimsical-sponge-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750177185821
+status: 3
+tags: []
+user_id: runner
