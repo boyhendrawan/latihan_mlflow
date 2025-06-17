@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c85fd3bcb6044d948e44e357ba3f56e5/artifacts
+end_time: 1750132136575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c85fd3bcb6044d948e44e357ba3f56e5
+run_name: skittish-bass-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132000843
+status: 3
+tags: []
+user_id: runner
