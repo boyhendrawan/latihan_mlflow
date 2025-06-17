@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a71a12bf722a4cff87f7c6b80ea725cb/artifacts
+end_time: 1750169213648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a71a12bf722a4cff87f7c6b80ea725cb
+run_name: abrasive-hound-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750169077078
+status: 3
+tags: []
+user_id: runner
