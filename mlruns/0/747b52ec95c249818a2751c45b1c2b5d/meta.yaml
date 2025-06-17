@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/747b52ec95c249818a2751c45b1c2b5d/artifacts
+end_time: 1750157453616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 747b52ec95c249818a2751c45b1c2b5d
+run_name: angry-koi-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750157318396
+status: 3
+tags: []
+user_id: runner
