@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d79bfd18134c4e5fbdd073989d359f73/artifacts
+end_time: 1750152778692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d79bfd18134c4e5fbdd073989d359f73
+run_name: monumental-mink-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750152643232
+status: 3
+tags: []
+user_id: runner
