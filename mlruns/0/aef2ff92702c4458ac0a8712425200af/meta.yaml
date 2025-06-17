@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aef2ff92702c4458ac0a8712425200af/artifacts
+end_time: 1750173808223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aef2ff92702c4458ac0a8712425200af
+run_name: salty-ape-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750173672810
+status: 3
+tags: []
+user_id: runner
