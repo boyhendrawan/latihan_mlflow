@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2afb3c2852bf49999894b9d3a60e7a0c/artifacts
+end_time: 1750132522866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afb3c2852bf49999894b9d3a60e7a0c
+run_name: popular-owl-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132385744
+status: 3
+tags: []
+user_id: runner
