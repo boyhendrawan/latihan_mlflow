@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ffa60a7ff2a4f138e83f2b4a1d205e8/artifacts
+end_time: 1750188227007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ffa60a7ff2a4f138e83f2b4a1d205e8
+run_name: nebulous-crane-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750188090949
+status: 3
+tags: []
+user_id: runner
