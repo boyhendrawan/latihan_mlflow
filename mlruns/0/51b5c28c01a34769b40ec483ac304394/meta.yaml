@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51b5c28c01a34769b40ec483ac304394/artifacts
+end_time: 1750184137234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51b5c28c01a34769b40ec483ac304394
+run_name: invincible-shark-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183998563
+status: 3
+tags: []
+user_id: runner
