@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/651e4f826a8d490d8360cc3c2e6faf3c/artifacts
+end_time: 1750186667794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 651e4f826a8d490d8360cc3c2e6faf3c
+run_name: bald-hog-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750186531220
+status: 3
+tags: []
+user_id: runner
