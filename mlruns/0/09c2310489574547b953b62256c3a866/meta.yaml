@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09c2310489574547b953b62256c3a866/artifacts
+end_time: 1750162733035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09c2310489574547b953b62256c3a866
+run_name: legendary-snail-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750162598082
+status: 3
+tags: []
+user_id: runner
