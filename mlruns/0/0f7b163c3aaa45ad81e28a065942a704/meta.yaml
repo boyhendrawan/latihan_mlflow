@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0f7b163c3aaa45ad81e28a065942a704/artifacts
+end_time: 1750187841629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f7b163c3aaa45ad81e28a065942a704
+run_name: masked-loon-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187704327
+status: 3
+tags: []
+user_id: runner
