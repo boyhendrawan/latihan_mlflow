@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/285a6a7575b54440bfd6404c7957debb/artifacts
+end_time: 1750144955668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 285a6a7575b54440bfd6404c7957debb
+run_name: serious-squid-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144819028
+status: 3
+tags: []
+user_id: runner
