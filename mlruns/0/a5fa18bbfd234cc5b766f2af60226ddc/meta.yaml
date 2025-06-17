@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5fa18bbfd234cc5b766f2af60226ddc/artifacts
+end_time: 1750142806031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fa18bbfd234cc5b766f2af60226ddc
+run_name: carefree-fawn-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750142670648
+status: 3
+tags: []
+user_id: runner
