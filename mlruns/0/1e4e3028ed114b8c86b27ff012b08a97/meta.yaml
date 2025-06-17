@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e4e3028ed114b8c86b27ff012b08a97/artifacts
+end_time: 1750124530053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e4e3028ed114b8c86b27ff012b08a97
+run_name: judicious-vole-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750124394384
+status: 3
+tags: []
+user_id: runner
