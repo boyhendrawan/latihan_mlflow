@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/574321afaf8046029dbf312c5533ab19/artifacts
+end_time: 1750140665616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 574321afaf8046029dbf312c5533ab19
+run_name: traveling-panda-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750140529411
+status: 3
+tags: []
+user_id: runner
