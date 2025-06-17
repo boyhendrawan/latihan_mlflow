@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe261f3fc6a7434c8d0520f4be12589f/artifacts
+end_time: 1750151609662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe261f3fc6a7434c8d0520f4be12589f
+run_name: sedate-goose-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750151473783
+status: 3
+tags: []
+user_id: runner
