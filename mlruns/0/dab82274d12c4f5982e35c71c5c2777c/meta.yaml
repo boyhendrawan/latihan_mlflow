@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dab82274d12c4f5982e35c71c5c2777c/artifacts
+end_time: 1750176340299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dab82274d12c4f5982e35c71c5c2777c
+run_name: welcoming-shrimp-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750176205072
+status: 3
+tags: []
+user_id: runner
