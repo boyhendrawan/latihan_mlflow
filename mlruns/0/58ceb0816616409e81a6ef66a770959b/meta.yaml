@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/58ceb0816616409e81a6ef66a770959b/artifacts
+end_time: 1750138723428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58ceb0816616409e81a6ef66a770959b
+run_name: silent-colt-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750138587718
+status: 3
+tags: []
+user_id: runner
