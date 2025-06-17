@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8610fbf2a9064f1c8ab55f12e2f652ce/artifacts
+end_time: 1750158231588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8610fbf2a9064f1c8ab55f12e2f652ce
+run_name: glamorous-yak-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750158096853
+status: 3
+tags: []
+user_id: runner
