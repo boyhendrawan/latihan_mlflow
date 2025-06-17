@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c12112ad0b84a5f983f7233ba8add8e/artifacts
+end_time: 1750120830021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c12112ad0b84a5f983f7233ba8add8e
+run_name: spiffy-penguin-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750120693642
+status: 3
+tags: []
+user_id: runner
