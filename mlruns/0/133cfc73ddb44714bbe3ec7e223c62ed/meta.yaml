@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/133cfc73ddb44714bbe3ec7e223c62ed/artifacts
+end_time: 1750122589067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 133cfc73ddb44714bbe3ec7e223c62ed
+run_name: overjoyed-kite-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750122453578
+status: 3
+tags: []
+user_id: runner
