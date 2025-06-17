@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8bd3013714c54c918bbee3881551104f/artifacts
+end_time: 1750188618649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd3013714c54c918bbee3881551104f
+run_name: nebulous-deer-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750188482236
+status: 3
+tags: []
+user_id: runner
