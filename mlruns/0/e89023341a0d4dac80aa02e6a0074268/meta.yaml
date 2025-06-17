@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e89023341a0d4dac80aa02e6a0074268/artifacts
+end_time: 1750161565083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89023341a0d4dac80aa02e6a0074268
+run_name: skillful-gnu-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750161429997
+status: 3
+tags: []
+user_id: runner
