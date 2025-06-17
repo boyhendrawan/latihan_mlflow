@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f41cb5eb1e1f4ff696c4cd3cf4566256/artifacts
+end_time: 1750154144491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f41cb5eb1e1f4ff696c4cd3cf4566256
+run_name: caring-cat-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750154009164
+status: 3
+tags: []
+user_id: runner
