@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e1d6116b3916482cac1c53ed4e7dbf19/artifacts
+end_time: 1750153167277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d6116b3916482cac1c53ed4e7dbf19
+run_name: enthused-shrike-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750153032084
+status: 3
+tags: []
+user_id: runner
