@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a71597a88467467790ca70a2802bf80a/artifacts
+end_time: 1750180443936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a71597a88467467790ca70a2802bf80a
+run_name: wise-stoat-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750180306964
+status: 3
+tags: []
+user_id: runner
