@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e74140cd42d9448c91c96987b5fd286f/artifacts
+end_time: 1750132909271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e74140cd42d9448c91c96987b5fd286f
+run_name: adventurous-panda-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750132774279
+status: 3
+tags: []
+user_id: runner
