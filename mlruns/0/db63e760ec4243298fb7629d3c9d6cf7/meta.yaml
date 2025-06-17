@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db63e760ec4243298fb7629d3c9d6cf7/artifacts
+end_time: 1750146710786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db63e760ec4243298fb7629d3c9d6cf7
+run_name: placid-pig-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750146575469
+status: 3
+tags: []
+user_id: runner
