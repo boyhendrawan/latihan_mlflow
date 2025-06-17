@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bcd84f679a5c4d008f1d7e51c23a6104/artifacts
+end_time: 1750158632301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcd84f679a5c4d008f1d7e51c23a6104
+run_name: brawny-mink-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750158495807
+status: 3
+tags: []
+user_id: runner
