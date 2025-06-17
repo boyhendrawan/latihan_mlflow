@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/58bca96b5be843bfb6622f8dd038d699/artifacts
+end_time: 1750168230022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58bca96b5be843bfb6622f8dd038d699
+run_name: aged-finch-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750168091870
+status: 3
+tags: []
+user_id: runner
