@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/05e02e2adfa048d88b0e95a7580f5ac8/artifacts
+end_time: 1750131148047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e02e2adfa048d88b0e95a7580f5ac8
+run_name: beautiful-hare-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131012756
+status: 3
+tags: []
+user_id: runner
