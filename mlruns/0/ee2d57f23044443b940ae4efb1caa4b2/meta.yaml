@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee2d57f23044443b940ae4efb1caa4b2/artifacts
+end_time: 1750127257166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2d57f23044443b940ae4efb1caa4b2
+run_name: bald-fox-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750127120905
+status: 3
+tags: []
+user_id: runner
