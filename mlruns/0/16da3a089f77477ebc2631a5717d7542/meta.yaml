@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16da3a089f77477ebc2631a5717d7542/artifacts
+end_time: 1750156087959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16da3a089f77477ebc2631a5717d7542
+run_name: luminous-conch-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750155952202
+status: 3
+tags: []
+user_id: runner
