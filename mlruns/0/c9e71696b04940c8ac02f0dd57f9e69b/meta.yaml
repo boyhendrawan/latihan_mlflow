@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9e71696b04940c8ac02f0dd57f9e69b/artifacts
+end_time: 1750172391455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e71696b04940c8ac02f0dd57f9e69b
+run_name: traveling-fox-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750172255870
+status: 3
+tags: []
+user_id: runner
