@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/595b4fb784f34777a2c9935c797dd28c/artifacts
+end_time: 1750131750337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 595b4fb784f34777a2c9935c797dd28c
+run_name: ambitious-hog-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131615655
+status: 3
+tags: []
+user_id: runner
