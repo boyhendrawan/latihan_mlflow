@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c044433e5ac149c6bd6b52598064ebae/artifacts
+end_time: 1750124927420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c044433e5ac149c6bd6b52598064ebae
+run_name: incongruous-wasp-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750124790094
+status: 3
+tags: []
+user_id: runner
