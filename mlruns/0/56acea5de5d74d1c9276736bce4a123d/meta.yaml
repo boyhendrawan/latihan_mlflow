@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56acea5de5d74d1c9276736bce4a123d/artifacts
+end_time: 1750168422637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56acea5de5d74d1c9276736bce4a123d
+run_name: placid-crane-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750168287636
+status: 3
+tags: []
+user_id: runner
