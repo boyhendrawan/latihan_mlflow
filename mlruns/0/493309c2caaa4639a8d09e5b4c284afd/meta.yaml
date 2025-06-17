@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/493309c2caaa4639a8d09e5b4c284afd/artifacts
+end_time: 1750178297127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 493309c2caaa4639a8d09e5b4c284afd
+run_name: stately-flea-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750178161254
+status: 3
+tags: []
+user_id: runner
