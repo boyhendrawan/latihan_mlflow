@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fae0c288d9dd4e98b4ae1bcd36a7ea08/artifacts
+end_time: 1750146125447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fae0c288d9dd4e98b4ae1bcd36a7ea08
+run_name: capricious-hare-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750145989115
+status: 3
+tags: []
+user_id: runner
