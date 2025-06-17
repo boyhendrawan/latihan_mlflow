@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/828ec425f2d44d84adf5c644b2444ccf/artifacts
+end_time: 1750134848485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 828ec425f2d44d84adf5c644b2444ccf
+run_name: funny-cod-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750134712462
+status: 3
+tags: []
+user_id: runner
