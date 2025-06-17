@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c4d7d6018ea420b977ed995ff8d008b/artifacts
+end_time: 1750144569969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c4d7d6018ea420b977ed995ff8d008b
+run_name: funny-penguin-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750144430475
+status: 3
+tags: []
+user_id: runner
