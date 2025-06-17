@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba8813aa412c4314a8786e30b4bcdea7/artifacts
+end_time: 1750152581900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba8813aa412c4314a8786e30b4bcdea7
+run_name: polite-pug-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750152446779
+status: 3
+tags: []
+user_id: runner
