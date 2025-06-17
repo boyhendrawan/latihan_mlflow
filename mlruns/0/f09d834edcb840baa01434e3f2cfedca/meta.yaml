@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f09d834edcb840baa01434e3f2cfedca/artifacts
+end_time: 1750138915583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09d834edcb840baa01434e3f2cfedca
+run_name: fearless-trout-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750138780364
+status: 3
+tags: []
+user_id: runner
