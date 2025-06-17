@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aac77af98346400b88c209af6f0796ca/artifacts
+end_time: 1750167049293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aac77af98346400b88c209af6f0796ca
+run_name: puzzled-seal-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750166914793
+status: 3
+tags: []
+user_id: runner
