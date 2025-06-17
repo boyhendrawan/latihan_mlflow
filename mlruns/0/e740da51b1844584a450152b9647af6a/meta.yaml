@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e740da51b1844584a450152b9647af6a/artifacts
+end_time: 1750150638247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e740da51b1844584a450152b9647af6a
+run_name: valuable-mule-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750150501606
+status: 3
+tags: []
+user_id: runner
