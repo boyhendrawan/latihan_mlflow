@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f19f3961a8724009a741b42c26dafd51/artifacts
+end_time: 1750136784442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f19f3961a8724009a741b42c26dafd51
+run_name: overjoyed-worm-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750136648674
+status: 3
+tags: []
+user_id: runner
