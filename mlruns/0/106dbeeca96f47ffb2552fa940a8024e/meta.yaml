@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/106dbeeca96f47ffb2552fa940a8024e/artifacts
+end_time: 1750179465295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 106dbeeca96f47ffb2552fa940a8024e
+run_name: clumsy-auk-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750179329290
+status: 3
+tags: []
+user_id: runner
