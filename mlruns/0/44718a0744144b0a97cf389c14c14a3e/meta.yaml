@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/44718a0744144b0a97cf389c14c14a3e/artifacts
+end_time: 1750169015593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44718a0744144b0a97cf389c14c14a3e
+run_name: gaudy-bass-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750168880220
+status: 3
+tags: []
+user_id: runner
