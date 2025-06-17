@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff6092546c724e3a9bffc4955d3e2b68/artifacts
+end_time: 1750138146042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff6092546c724e3a9bffc4955d3e2b68
+run_name: enthused-grub-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750138009264
+status: 3
+tags: []
+user_id: runner
