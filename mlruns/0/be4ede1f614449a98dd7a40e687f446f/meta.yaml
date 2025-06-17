@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be4ede1f614449a98dd7a40e687f446f/artifacts
+end_time: 1750156872398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be4ede1f614449a98dd7a40e687f446f
+run_name: blushing-smelt-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750156737685
+status: 3
+tags: []
+user_id: runner
