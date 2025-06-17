@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a63661841c344a528aa33f5cb1187a1d/artifacts
+end_time: 1750184525153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a63661841c344a528aa33f5cb1187a1d
+run_name: beautiful-robin-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184389923
+status: 3
+tags: []
+user_id: runner
