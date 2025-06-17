@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e6fbe497beea4f378b837572e374c7c9/artifacts
+end_time: 1750119079421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6fbe497beea4f378b837572e374c7c9
+run_name: bright-worm-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750118944051
+status: 3
+tags: []
+user_id: runner
