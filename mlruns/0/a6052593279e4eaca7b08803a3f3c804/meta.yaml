@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6052593279e4eaca7b08803a3f3c804/artifacts
+end_time: 1750176143922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6052593279e4eaca7b08803a3f3c804
+run_name: zealous-bat-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750176008653
+status: 3
+tags: []
+user_id: runner
