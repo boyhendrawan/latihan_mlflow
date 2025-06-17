@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57a66a09b48d44e7b035c058cea2c1a3/artifacts
+end_time: 1750163709439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57a66a09b48d44e7b035c058cea2c1a3
+run_name: righteous-swan-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750163577813
+status: 3
+tags: []
+user_id: runner
