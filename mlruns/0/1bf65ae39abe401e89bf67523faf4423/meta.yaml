@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bf65ae39abe401e89bf67523faf4423/artifacts
+end_time: 1750130568105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bf65ae39abe401e89bf67523faf4423
+run_name: capricious-midge-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750130431641
+status: 3
+tags: []
+user_id: runner
