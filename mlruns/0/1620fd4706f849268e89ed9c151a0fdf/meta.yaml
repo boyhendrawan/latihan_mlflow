@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1620fd4706f849268e89ed9c151a0fdf/artifacts
+end_time: 1750188420315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1620fd4706f849268e89ed9c151a0fdf
+run_name: polite-squid-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750188284722
+status: 3
+tags: []
+user_id: runner
