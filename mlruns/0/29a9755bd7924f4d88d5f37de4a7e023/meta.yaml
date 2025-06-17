@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29a9755bd7924f4d88d5f37de4a7e023/artifacts
+end_time: 1750149667485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29a9755bd7924f4d88d5f37de4a7e023
+run_name: learned-snake-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750149531861
+status: 3
+tags: []
+user_id: runner
