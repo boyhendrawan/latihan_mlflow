@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b87a8326c0a4655a6b14060258fe810/artifacts
+end_time: 1750127449688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b87a8326c0a4655a6b14060258fe810
+run_name: unleashed-sponge-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750127316350
+status: 3
+tags: []
+user_id: runner
