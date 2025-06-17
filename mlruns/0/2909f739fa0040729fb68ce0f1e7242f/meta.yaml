@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2909f739fa0040729fb68ce0f1e7242f/artifacts
+end_time: 1750188816032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2909f739fa0040729fb68ce0f1e7242f
+run_name: mysterious-goat-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750188680468
+status: 3
+tags: []
+user_id: runner
