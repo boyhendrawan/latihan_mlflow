@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f6c1eef494b44c7298e82909a765d6f6/artifacts
+end_time: 1750176537044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c1eef494b44c7298e82909a765d6f6
+run_name: big-penguin-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750176400445
+status: 3
+tags: []
+user_id: runner
