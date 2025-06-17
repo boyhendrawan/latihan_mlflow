@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/149b4cea9e96446d928102e20450acbf/artifacts
+end_time: 1750182963734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 149b4cea9e96446d928102e20450acbf
+run_name: delightful-crab-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750182826319
+status: 3
+tags: []
+user_id: runner
