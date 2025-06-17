@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98a5c3982bf94c7c95f7013e35764118/artifacts
+end_time: 1750175951291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98a5c3982bf94c7c95f7013e35764118
+run_name: dapper-rat-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750175815612
+status: 3
+tags: []
+user_id: runner
