@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4017e4d40f704ef097b4bc23032aacaa/artifacts
+end_time: 1750140860958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4017e4d40f704ef097b4bc23032aacaa
+run_name: unleashed-seal-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750140725760
+status: 3
+tags: []
+user_id: runner
