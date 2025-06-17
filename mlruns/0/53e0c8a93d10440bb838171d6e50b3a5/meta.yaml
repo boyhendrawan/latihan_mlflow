@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53e0c8a93d10440bb838171d6e50b3a5/artifacts
+end_time: 1750186087830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53e0c8a93d10440bb838171d6e50b3a5
+run_name: fortunate-crane-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750185950953
+status: 3
+tags: []
+user_id: runner
