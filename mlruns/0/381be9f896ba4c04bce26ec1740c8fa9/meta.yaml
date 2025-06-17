@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/381be9f896ba4c04bce26ec1740c8fa9/artifacts
+end_time: 1750170811451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 381be9f896ba4c04bce26ec1740c8fa9
+run_name: capable-ant-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750170676715
+status: 3
+tags: []
+user_id: runner
