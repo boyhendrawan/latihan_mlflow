@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/292caf7545a440b898ecdd224491532d/artifacts
+end_time: 1750143199458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292caf7545a440b898ecdd224491532d
+run_name: stately-penguin-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750143063730
+status: 3
+tags: []
+user_id: runner
