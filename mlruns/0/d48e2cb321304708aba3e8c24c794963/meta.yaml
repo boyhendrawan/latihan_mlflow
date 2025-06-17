@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d48e2cb321304708aba3e8c24c794963/artifacts
+end_time: 1750160786328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d48e2cb321304708aba3e8c24c794963
+run_name: bald-grub-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160651012
+status: 3
+tags: []
+user_id: runner
