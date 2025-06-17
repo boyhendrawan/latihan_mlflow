@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c89eb2cf8c7d40d0a85cc7b54b75a0ea/artifacts
+end_time: 1750187645253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c89eb2cf8c7d40d0a85cc7b54b75a0ea
+run_name: incongruous-bass-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187509466
+status: 3
+tags: []
+user_id: runner
