@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98d542fe155a4b5b88b631e41f247c37/artifacts
+end_time: 1750178876723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98d542fe155a4b5b88b631e41f247c37
+run_name: grandiose-panda-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750178739571
+status: 3
+tags: []
+user_id: runner
