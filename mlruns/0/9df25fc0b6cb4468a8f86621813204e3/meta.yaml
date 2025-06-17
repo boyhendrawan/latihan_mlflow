@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9df25fc0b6cb4468a8f86621813204e3/artifacts
+end_time: 1750182767737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df25fc0b6cb4468a8f86621813204e3
+run_name: marvelous-trout-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750182632280
+status: 3
+tags: []
+user_id: runner
