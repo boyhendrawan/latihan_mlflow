@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc552e19189e49faa8d15b0ce60f3350/artifacts
+end_time: 1750135818167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc552e19189e49faa8d15b0ce60f3350
+run_name: caring-ox-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750135683391
+status: 3
+tags: []
+user_id: runner
