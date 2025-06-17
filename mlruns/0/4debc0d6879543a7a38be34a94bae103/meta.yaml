@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4debc0d6879543a7a38be34a94bae103/artifacts
+end_time: 1750163123104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4debc0d6879543a7a38be34a94bae103
+run_name: bald-slug-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750162987033
+status: 3
+tags: []
+user_id: runner
