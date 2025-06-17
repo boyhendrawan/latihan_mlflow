@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6cddc90fd4a43ca8f37417aa9899cae/artifacts
+end_time: 1750133494525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6cddc90fd4a43ca8f37417aa9899cae
+run_name: loud-mole-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750133357878
+status: 3
+tags: []
+user_id: runner
