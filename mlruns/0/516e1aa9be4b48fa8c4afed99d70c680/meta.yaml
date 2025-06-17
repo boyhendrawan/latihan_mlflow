@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/516e1aa9be4b48fa8c4afed99d70c680/artifacts
+end_time: 1750182187189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516e1aa9be4b48fa8c4afed99d70c680
+run_name: incongruous-ape-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750182051371
+status: 3
+tags: []
+user_id: runner
