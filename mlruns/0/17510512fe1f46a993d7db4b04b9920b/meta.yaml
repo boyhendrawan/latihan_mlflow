@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17510512fe1f46a993d7db4b04b9920b/artifacts
+end_time: 1750164291229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17510512fe1f46a993d7db4b04b9920b
+run_name: stately-stag-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164156577
+status: 3
+tags: []
+user_id: runner
