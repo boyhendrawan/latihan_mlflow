@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac00aed84a2a4cab8214891628080433/artifacts
+end_time: 1750168026210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac00aed84a2a4cab8214891628080433
+run_name: spiffy-stork-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750167889514
+status: 3
+tags: []
+user_id: runner
