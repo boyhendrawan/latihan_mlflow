@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2df35bcb0fb04092b14d93b2a061b9f3/artifacts
+end_time: 1750147107237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2df35bcb0fb04092b14d93b2a061b9f3
+run_name: abundant-zebra-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750146969268
+status: 3
+tags: []
+user_id: runner
