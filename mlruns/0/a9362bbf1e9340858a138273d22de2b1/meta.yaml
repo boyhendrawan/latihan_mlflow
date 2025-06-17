@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a9362bbf1e9340858a138273d22de2b1/artifacts
+end_time: 1750125503396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9362bbf1e9340858a138273d22de2b1
+run_name: brawny-calf-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750125368700
+status: 3
+tags: []
+user_id: runner
