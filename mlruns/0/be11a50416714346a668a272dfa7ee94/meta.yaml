@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be11a50416714346a668a272dfa7ee94/artifacts
+end_time: 1750159808722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be11a50416714346a668a272dfa7ee94
+run_name: defiant-hare-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750159673296
+status: 3
+tags: []
+user_id: runner
