@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a96a6cf270454ef1b23db244770137e7/artifacts
+end_time: 1750155117132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a96a6cf270454ef1b23db244770137e7
+run_name: respected-shoat-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750154980765
+status: 3
+tags: []
+user_id: runner
