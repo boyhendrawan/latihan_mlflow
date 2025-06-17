@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aadb28e720e748d8b6741b035248dcf8/artifacts
+end_time: 1750182575593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aadb28e720e748d8b6741b035248dcf8
+run_name: orderly-cub-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750182440226
+status: 3
+tags: []
+user_id: runner
