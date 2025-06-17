@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e168bee5f83146038875f77b4742c84c/artifacts
+end_time: 1750118885002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e168bee5f83146038875f77b4742c84c
+run_name: intrigued-bug-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750118746049
+status: 3
+tags: []
+user_id: runner
