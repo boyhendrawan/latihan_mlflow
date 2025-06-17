@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c39be195c128496a804e913f9771bfd3/artifacts
+end_time: 1750127063305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c39be195c128496a804e913f9771bfd3
+run_name: big-gnu-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750126928055
+status: 3
+tags: []
+user_id: runner
