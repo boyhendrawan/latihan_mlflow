@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c5ba5bc09a34c6d8846fce0b7ded2b5/artifacts
+end_time: 1750187450963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5ba5bc09a34c6d8846fce0b7ded2b5
+run_name: receptive-frog-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187314280
+status: 3
+tags: []
+user_id: runner
