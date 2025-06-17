@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c715e658cbd4f4b820f783e8edbba09/artifacts
+end_time: 1750149471435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c715e658cbd4f4b820f783e8edbba09
+run_name: bold-wolf-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750149334900
+status: 3
+tags: []
+user_id: runner
