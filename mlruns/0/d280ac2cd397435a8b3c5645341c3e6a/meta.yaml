@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d280ac2cd397435a8b3c5645341c3e6a/artifacts
+end_time: 1750152194273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d280ac2cd397435a8b3c5645341c3e6a
+run_name: agreeable-vole-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750152058003
+status: 3
+tags: []
+user_id: runner
