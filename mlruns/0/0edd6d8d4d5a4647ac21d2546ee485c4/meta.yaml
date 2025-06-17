@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0edd6d8d4d5a4647ac21d2546ee485c4/artifacts
+end_time: 1750128031106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0edd6d8d4d5a4647ac21d2546ee485c4
+run_name: lyrical-hog-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750127895851
+status: 3
+tags: []
+user_id: runner
