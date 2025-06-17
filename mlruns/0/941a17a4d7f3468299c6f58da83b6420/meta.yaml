@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/941a17a4d7f3468299c6f58da83b6420/artifacts
+end_time: 1750153951137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 941a17a4d7f3468299c6f58da83b6420
+run_name: caring-stork-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750153815051
+status: 3
+tags: []
+user_id: runner
