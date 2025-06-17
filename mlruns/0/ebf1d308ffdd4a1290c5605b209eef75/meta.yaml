@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebf1d308ffdd4a1290c5605b209eef75/artifacts
+end_time: 1750121414482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf1d308ffdd4a1290c5605b209eef75
+run_name: calm-cat-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750121279630
+status: 3
+tags: []
+user_id: runner
