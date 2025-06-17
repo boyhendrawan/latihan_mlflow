@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5065fc520404403b9359735af3751bd/artifacts
+end_time: 1750180247215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5065fc520404403b9359735af3751bd
+run_name: bouncy-finch-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750180111169
+status: 3
+tags: []
+user_id: runner
