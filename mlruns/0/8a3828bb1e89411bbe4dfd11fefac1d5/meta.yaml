@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a3828bb1e89411bbe4dfd11fefac1d5/artifacts
+end_time: 1750178680630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a3828bb1e89411bbe4dfd11fefac1d5
+run_name: languid-snake-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750178546235
+status: 3
+tags: []
+user_id: runner
