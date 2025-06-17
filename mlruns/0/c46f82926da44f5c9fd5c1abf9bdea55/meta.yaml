@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c46f82926da44f5c9fd5c1abf9bdea55/artifacts
+end_time: 1750171989648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46f82926da44f5c9fd5c1abf9bdea55
+run_name: delightful-lark-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750171854548
+status: 3
+tags: []
+user_id: runner
