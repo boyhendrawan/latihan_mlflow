@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c150338535a04909ae7ad5f9a4f88285/artifacts
+end_time: 1750155505055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c150338535a04909ae7ad5f9a4f88285
+run_name: languid-sponge-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750155368422
+status: 3
+tags: []
+user_id: runner
