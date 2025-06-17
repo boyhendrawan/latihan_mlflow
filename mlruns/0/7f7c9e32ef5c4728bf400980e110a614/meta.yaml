@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7f7c9e32ef5c4728bf400980e110a614/artifacts
+end_time: 1750151221935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f7c9e32ef5c4728bf400980e110a614
+run_name: sincere-vole-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750151084554
+status: 3
+tags: []
+user_id: runner
