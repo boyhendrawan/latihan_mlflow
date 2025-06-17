@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77c246367e7b498f838b09f921d576dc/artifacts
+end_time: 1750158828927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77c246367e7b498f838b09f921d576dc
+run_name: invincible-moth-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750158692218
+status: 3
+tags: []
+user_id: runner
