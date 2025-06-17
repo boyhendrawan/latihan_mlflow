@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/557550b33f2d428f8ef869da706419af/artifacts
+end_time: 1750160595502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 557550b33f2d428f8ef869da706419af
+run_name: bright-dog-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750160459541
+status: 3
+tags: []
+user_id: runner
