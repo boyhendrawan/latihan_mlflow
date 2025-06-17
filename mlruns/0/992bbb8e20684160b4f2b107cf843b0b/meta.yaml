@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/992bbb8e20684160b4f2b107cf843b0b/artifacts
+end_time: 1750156483416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 992bbb8e20684160b4f2b107cf843b0b
+run_name: invincible-bass-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750156348064
+status: 3
+tags: []
+user_id: runner
