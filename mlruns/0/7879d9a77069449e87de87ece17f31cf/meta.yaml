@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7879d9a77069449e87de87ece17f31cf/artifacts
+end_time: 1750155309428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7879d9a77069449e87de87ece17f31cf
+run_name: marvelous-asp-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750155178651
+status: 3
+tags: []
+user_id: runner
