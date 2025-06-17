@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e174a6a6b44d4ae8b91eb9b76eec3340/artifacts
+end_time: 1750129785925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e174a6a6b44d4ae8b91eb9b76eec3340
+run_name: dashing-mink-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750129650785
+status: 3
+tags: []
+user_id: runner
