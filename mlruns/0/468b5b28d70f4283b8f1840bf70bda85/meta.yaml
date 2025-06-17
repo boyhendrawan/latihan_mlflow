@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/468b5b28d70f4283b8f1840bf70bda85/artifacts
+end_time: 1750128225999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 468b5b28d70f4283b8f1840bf70bda85
+run_name: fortunate-gnu-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750128089909
+status: 3
+tags: []
+user_id: runner
