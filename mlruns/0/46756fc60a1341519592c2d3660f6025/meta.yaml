@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46756fc60a1341519592c2d3660f6025/artifacts
+end_time: 1750163521347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46756fc60a1341519592c2d3660f6025
+run_name: selective-cub-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750163384358
+status: 3
+tags: []
+user_id: runner
