@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae728edbf5f647b6ba28e5e3b5dbbf7b/artifacts
+end_time: 1750147896320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae728edbf5f647b6ba28e5e3b5dbbf7b
+run_name: stylish-whale-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750147759896
+status: 3
+tags: []
+user_id: runner
