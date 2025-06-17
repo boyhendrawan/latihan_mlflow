@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de476c4cd31d4ecb937f2817ff1c7bf8/artifacts
+end_time: 1750123168370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de476c4cd31d4ecb937f2817ff1c7bf8
+run_name: big-frog-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750123032569
+status: 3
+tags: []
+user_id: runner
