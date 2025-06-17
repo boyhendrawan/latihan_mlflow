@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fc7b9e7dd78487a911d54ce8c5006dc/artifacts
+end_time: 1750181800345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc7b9e7dd78487a911d54ce8c5006dc
+run_name: secretive-bee-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750181665970
+status: 3
+tags: []
+user_id: runner
