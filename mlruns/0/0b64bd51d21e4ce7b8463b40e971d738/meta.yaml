@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b64bd51d21e4ce7b8463b40e971d738/artifacts
+end_time: 1750141634932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b64bd51d21e4ce7b8463b40e971d738
+run_name: gifted-snail-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750141500163
+status: 3
+tags: []
+user_id: runner
