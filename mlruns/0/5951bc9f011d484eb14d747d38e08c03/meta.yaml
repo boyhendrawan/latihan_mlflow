@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5951bc9f011d484eb14d747d38e08c03/artifacts
+end_time: 1750157066912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5951bc9f011d484eb14d747d38e08c03
+run_name: selective-stoat-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750156929728
+status: 3
+tags: []
+user_id: runner
