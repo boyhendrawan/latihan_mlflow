@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0cf91a36b6d40a7a5aca20bf84510be/artifacts
+end_time: 1750124726185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0cf91a36b6d40a7a5aca20bf84510be
+run_name: abundant-skink-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750124590168
+status: 3
+tags: []
+user_id: runner
