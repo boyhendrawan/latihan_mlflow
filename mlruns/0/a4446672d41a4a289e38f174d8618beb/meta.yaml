@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a4446672d41a4a289e38f174d8618beb/artifacts
+end_time: 1750119656092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4446672d41a4a289e38f174d8618beb
+run_name: kindly-shark-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750119520683
+status: 3
+tags: []
+user_id: runner
