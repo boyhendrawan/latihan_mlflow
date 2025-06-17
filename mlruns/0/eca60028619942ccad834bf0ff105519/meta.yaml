@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eca60028619942ccad834bf0ff105519/artifacts
+end_time: 1750131538453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca60028619942ccad834bf0ff105519
+run_name: gregarious-duck-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131402870
+status: 3
+tags: []
+user_id: runner
