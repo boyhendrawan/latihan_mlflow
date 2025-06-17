@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ea4c672de2645b1a746c30af1630c96/artifacts
+end_time: 1750141829637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ea4c672de2645b1a746c30af1630c96
+run_name: tasteful-stoat-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750141693732
+status: 3
+tags: []
+user_id: runner
