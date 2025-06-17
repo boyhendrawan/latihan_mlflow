@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2dbc286d52894fe19334fe2a8b1f2f03/artifacts
+end_time: 1750167245483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dbc286d52894fe19334fe2a8b1f2f03
+run_name: aged-doe-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750167110018
+status: 3
+tags: []
+user_id: runner
