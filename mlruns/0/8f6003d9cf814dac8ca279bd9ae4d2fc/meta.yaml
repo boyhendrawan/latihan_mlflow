@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f6003d9cf814dac8ca279bd9ae4d2fc/artifacts
+end_time: 1750129594612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f6003d9cf814dac8ca279bd9ae4d2fc
+run_name: peaceful-shad-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750129458112
+status: 3
+tags: []
+user_id: runner
