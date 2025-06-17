@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b68a8bded6fa4b78bce01427c1a94fbd/artifacts
+end_time: 1750165477935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b68a8bded6fa4b78bce01427c1a94fbd
+run_name: classy-lark-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750165341018
+status: 3
+tags: []
+user_id: runner
