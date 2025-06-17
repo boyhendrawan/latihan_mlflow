@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5ef2b44607f4426bd16a884afa7b632/artifacts
+end_time: 1750179853772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5ef2b44607f4426bd16a884afa7b632
+run_name: grandiose-hog-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750179718237
+status: 3
+tags: []
+user_id: runner
