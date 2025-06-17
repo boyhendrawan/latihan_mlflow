@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/98196182be984a35b097cd487a72f7c4/artifacts
+end_time: 1750167442479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98196182be984a35b097cd487a72f7c4
+run_name: upbeat-sloth-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750167304333
+status: 3
+tags: []
+user_id: runner
