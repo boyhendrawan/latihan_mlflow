@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ab6735e558d4e4ab4ecdc29bda9b91a/artifacts
+end_time: 1750121799887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab6735e558d4e4ab4ecdc29bda9b91a
+run_name: enchanting-kite-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750121662567
+status: 3
+tags: []
+user_id: runner
