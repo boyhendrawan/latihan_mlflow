@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0bc0f4ddad9a40979b258d10553784fc/artifacts
+end_time: 1750183549376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bc0f4ddad9a40979b258d10553784fc
+run_name: agreeable-shrimp-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183413648
+status: 3
+tags: []
+user_id: runner
