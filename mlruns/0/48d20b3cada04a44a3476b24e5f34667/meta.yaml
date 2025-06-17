@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/48d20b3cada04a44a3476b24e5f34667/artifacts
+end_time: 1750174790496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48d20b3cada04a44a3476b24e5f34667
+run_name: whimsical-crow-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750174654671
+status: 3
+tags: []
+user_id: runner
