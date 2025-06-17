@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16b4992cabaa462d98aa091a8d476197/artifacts
+end_time: 1750158031109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b4992cabaa462d98aa091a8d476197
+run_name: wistful-dolphin-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750157895235
+status: 3
+tags: []
+user_id: runner
