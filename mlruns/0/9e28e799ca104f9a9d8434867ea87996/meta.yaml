@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e28e799ca104f9a9d8434867ea87996/artifacts
+end_time: 1750165676353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e28e799ca104f9a9d8434867ea87996
+run_name: useful-goat-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750165540550
+status: 3
+tags: []
+user_id: runner
