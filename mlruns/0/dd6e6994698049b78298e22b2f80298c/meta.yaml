@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd6e6994698049b78298e22b2f80298c/artifacts
+end_time: 1750137758589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd6e6994698049b78298e22b2f80298c
+run_name: bright-sow-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750137621776
+status: 3
+tags: []
+user_id: runner
