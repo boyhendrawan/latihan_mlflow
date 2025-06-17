@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f4e9fc75d63940b9a8afcba80a15832f/artifacts
+end_time: 1750134654415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4e9fc75d63940b9a8afcba80a15832f
+run_name: peaceful-moth-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750134518146
+status: 3
+tags: []
+user_id: runner
