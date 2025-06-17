@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d79cdfde167f4b96b84be10568f3e141/artifacts
+end_time: 1750146322880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d79cdfde167f4b96b84be10568f3e141
+run_name: dapper-quail-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750146184101
+status: 3
+tags: []
+user_id: runner
