@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a7a96149c0ec4748bf71f5e2ee85466f/artifacts
+end_time: 1750119272147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7a96149c0ec4748bf71f5e2ee85466f
+run_name: delightful-pug-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750119136698
+status: 3
+tags: []
+user_id: runner
