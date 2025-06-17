@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/802378e896dd41ed871b1b825b134c39/artifacts
+end_time: 1750159611243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802378e896dd41ed871b1b825b134c39
+run_name: dazzling-carp-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750159474148
+status: 3
+tags: []
+user_id: runner
