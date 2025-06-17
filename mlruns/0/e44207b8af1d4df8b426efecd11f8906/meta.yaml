@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e44207b8af1d4df8b426efecd11f8906/artifacts
+end_time: 1750165070622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e44207b8af1d4df8b426efecd11f8906
+run_name: calm-bird-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164934546
+status: 3
+tags: []
+user_id: runner
