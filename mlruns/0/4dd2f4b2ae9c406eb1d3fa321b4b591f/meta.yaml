@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4dd2f4b2ae9c406eb1d3fa321b4b591f/artifacts
+end_time: 1750142614448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dd2f4b2ae9c406eb1d3fa321b4b591f
+run_name: bold-rook-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750142477474
+status: 3
+tags: []
+user_id: runner
