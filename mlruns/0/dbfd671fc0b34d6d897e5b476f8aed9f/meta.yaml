@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dbfd671fc0b34d6d897e5b476f8aed9f/artifacts
+end_time: 1750177518019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbfd671fc0b34d6d897e5b476f8aed9f
+run_name: gifted-bird-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750177380115
+status: 3
+tags: []
+user_id: runner
