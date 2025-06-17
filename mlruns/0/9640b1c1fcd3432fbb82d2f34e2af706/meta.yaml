@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9640b1c1fcd3432fbb82d2f34e2af706/artifacts
+end_time: 1750136006478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9640b1c1fcd3432fbb82d2f34e2af706
+run_name: silent-loon-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750135871679
+status: 3
+tags: []
+user_id: runner
