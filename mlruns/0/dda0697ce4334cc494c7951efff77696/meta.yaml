@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dda0697ce4334cc494c7951efff77696/artifacts
+end_time: 1750154336782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dda0697ce4334cc494c7951efff77696
+run_name: aged-conch-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750154200759
+status: 3
+tags: []
+user_id: runner
