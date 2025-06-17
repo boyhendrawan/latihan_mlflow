@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/31295c700902442580ee7bd801cdf9d4/artifacts
+end_time: 1750165876571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31295c700902442580ee7bd801cdf9d4
+run_name: sassy-stoat-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750165739129
+status: 3
+tags: []
+user_id: runner
