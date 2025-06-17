@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21ed6e7995a0428b9af411f33d923b8f/artifacts
+end_time: 1750129401792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ed6e7995a0428b9af411f33d923b8f
+run_name: whimsical-doe-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750129265464
+status: 3
+tags: []
+user_id: runner
