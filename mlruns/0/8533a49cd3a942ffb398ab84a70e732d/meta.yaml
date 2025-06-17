@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8533a49cd3a942ffb398ab84a70e732d/artifacts
+end_time: 1750119463534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8533a49cd3a942ffb398ab84a70e732d
+run_name: serious-crow-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750119328161
+status: 3
+tags: []
+user_id: runner
