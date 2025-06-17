@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46cc4d7377e545e28860e4160e69a92c/artifacts
+end_time: 1750162927765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46cc4d7377e545e28860e4160e69a92c
+run_name: luxuriant-vole-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750162791801
+status: 3
+tags: []
+user_id: runner
