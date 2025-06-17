@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e132d24d70f43118b86487a971ba49f/artifacts
+end_time: 1750172806951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e132d24d70f43118b86487a971ba49f
+run_name: languid-asp-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750172671853
+status: 3
+tags: []
+user_id: runner
