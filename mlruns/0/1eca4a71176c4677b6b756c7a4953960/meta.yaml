@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1eca4a71176c4677b6b756c7a4953960/artifacts
+end_time: 1750157258504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eca4a71176c4677b6b756c7a4953960
+run_name: loud-doe-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750157123173
+status: 3
+tags: []
+user_id: runner
