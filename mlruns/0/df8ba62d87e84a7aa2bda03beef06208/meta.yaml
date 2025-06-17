@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df8ba62d87e84a7aa2bda03beef06208/artifacts
+end_time: 1750163318833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df8ba62d87e84a7aa2bda03beef06208
+run_name: secretive-pig-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750163179799
+status: 3
+tags: []
+user_id: runner
