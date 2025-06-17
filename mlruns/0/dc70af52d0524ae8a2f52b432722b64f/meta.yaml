@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc70af52d0524ae8a2f52b432722b64f/artifacts
+end_time: 1750133301870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc70af52d0524ae8a2f52b432722b64f
+run_name: traveling-goat-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750133164767
+status: 3
+tags: []
+user_id: runner
