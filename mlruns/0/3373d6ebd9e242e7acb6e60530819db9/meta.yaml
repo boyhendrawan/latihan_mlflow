@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3373d6ebd9e242e7acb6e60530819db9/artifacts
+end_time: 1750149077381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3373d6ebd9e242e7acb6e60530819db9
+run_name: angry-ape-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750148942502
+status: 3
+tags: []
+user_id: runner
