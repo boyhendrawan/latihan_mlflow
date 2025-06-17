@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4952587c959040a58f1049a4b7d15505/artifacts
+end_time: 1750151417429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4952587c959040a58f1049a4b7d15505
+run_name: merciful-asp-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750151282045
+status: 3
+tags: []
+user_id: runner
