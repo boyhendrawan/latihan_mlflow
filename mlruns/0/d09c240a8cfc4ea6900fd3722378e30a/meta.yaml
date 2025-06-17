@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d09c240a8cfc4ea6900fd3722378e30a/artifacts
+end_time: 1750166266511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d09c240a8cfc4ea6900fd3722378e30a
+run_name: gentle-rook-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750166130978
+status: 3
+tags: []
+user_id: runner
