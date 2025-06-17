@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51b481b3860d46fcb172c5ab6cabbba0/artifacts
+end_time: 1750184916215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51b481b3860d46fcb172c5ab6cabbba0
+run_name: powerful-midge-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184779971
+status: 3
+tags: []
+user_id: runner
