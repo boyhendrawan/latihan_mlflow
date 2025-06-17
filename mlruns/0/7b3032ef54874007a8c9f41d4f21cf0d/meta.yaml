@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b3032ef54874007a8c9f41d4f21cf0d/artifacts
+end_time: 1750175757325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b3032ef54874007a8c9f41d4f21cf0d
+run_name: agreeable-cat-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750175619151
+status: 3
+tags: []
+user_id: runner
