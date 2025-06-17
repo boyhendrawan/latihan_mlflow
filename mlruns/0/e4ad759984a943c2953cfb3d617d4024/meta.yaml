@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4ad759984a943c2953cfb3d617d4024/artifacts
+end_time: 1750180051653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4ad759984a943c2953cfb3d617d4024
+run_name: ambitious-snipe-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750179913905
+status: 3
+tags: []
+user_id: runner
