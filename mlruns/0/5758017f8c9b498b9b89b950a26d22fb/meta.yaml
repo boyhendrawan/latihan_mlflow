@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5758017f8c9b498b9b89b950a26d22fb/artifacts
+end_time: 1750174597032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5758017f8c9b498b9b89b950a26d22fb
+run_name: receptive-jay-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750174459028
+status: 3
+tags: []
+user_id: runner
