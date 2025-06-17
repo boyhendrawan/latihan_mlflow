@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/33499cb41d2e4b2c8a495dd0480f067a/artifacts
+end_time: 1750171012165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33499cb41d2e4b2c8a495dd0480f067a
+run_name: treasured-roo-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750170874872
+status: 3
+tags: []
+user_id: runner
