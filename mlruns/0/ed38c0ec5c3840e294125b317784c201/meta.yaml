@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed38c0ec5c3840e294125b317784c201/artifacts
+end_time: 1750131343117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed38c0ec5c3840e294125b317784c201
+run_name: luxuriant-pug-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750131207265
+status: 3
+tags: []
+user_id: runner
