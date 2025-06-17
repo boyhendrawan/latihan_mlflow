@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d74f7652bb3048f5a73029f72ab0aa62/artifacts
+end_time: 1750121604661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74f7652bb3048f5a73029f72ab0aa62
+run_name: unruly-fawn-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750121469767
+status: 3
+tags: []
+user_id: runner
