@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3fe59edf12b4db1a04b5d7f5118173b/artifacts
+end_time: 1750151996788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3fe59edf12b4db1a04b5d7f5118173b
+run_name: beautiful-hawk-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750151860610
+status: 3
+tags: []
+user_id: runner
