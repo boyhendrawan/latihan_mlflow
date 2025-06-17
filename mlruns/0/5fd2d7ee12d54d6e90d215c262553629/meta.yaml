@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5fd2d7ee12d54d6e90d215c262553629/artifacts
+end_time: 1750136591915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fd2d7ee12d54d6e90d215c262553629
+run_name: colorful-bear-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750136456429
+status: 3
+tags: []
+user_id: runner
