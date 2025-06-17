@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4cd00821d4a247ac9461b11b91750400/artifacts
+end_time: 1750188035370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cd00821d4a247ac9461b11b91750400
+run_name: unruly-snail-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187898970
+status: 3
+tags: []
+user_id: runner
