@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a125511b4aa4debaa978323e9666437/artifacts
+end_time: 1750175368779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a125511b4aa4debaa978323e9666437
+run_name: selective-pig-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750175233845
+status: 3
+tags: []
+user_id: runner
