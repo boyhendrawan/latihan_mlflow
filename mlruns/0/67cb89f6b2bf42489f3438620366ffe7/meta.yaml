@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67cb89f6b2bf42489f3438620366ffe7/artifacts
+end_time: 1750127644557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67cb89f6b2bf42489f3438620366ffe7
+run_name: abundant-tern-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750127508611
+status: 3
+tags: []
+user_id: runner
