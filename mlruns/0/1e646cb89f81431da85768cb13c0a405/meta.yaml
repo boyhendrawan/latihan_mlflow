@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e646cb89f81431da85768cb13c0a405/artifacts
+end_time: 1750166854918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e646cb89f81431da85768cb13c0a405
+run_name: burly-bee-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750166716966
+status: 3
+tags: []
+user_id: runner
