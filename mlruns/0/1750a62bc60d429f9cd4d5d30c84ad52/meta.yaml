@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1750a62bc60d429f9cd4d5d30c84ad52/artifacts
+end_time: 1750169623917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1750a62bc60d429f9cd4d5d30c84ad52
+run_name: bittersweet-gnu-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750169487858
+status: 3
+tags: []
+user_id: runner
