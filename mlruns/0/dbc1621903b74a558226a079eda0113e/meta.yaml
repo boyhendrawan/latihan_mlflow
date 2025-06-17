@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dbc1621903b74a558226a079eda0113e/artifacts
+end_time: 1750123561567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbc1621903b74a558226a079eda0113e
+run_name: adventurous-auk-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750123424724
+status: 3
+tags: []
+user_id: runner
