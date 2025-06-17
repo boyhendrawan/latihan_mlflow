@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0b67a3b212d4ecebe3e55d1d6a6fabb/artifacts
+end_time: 1750151025589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b67a3b212d4ecebe3e55d1d6a6fabb
+run_name: hilarious-doe-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750150889826
+status: 3
+tags: []
+user_id: runner
