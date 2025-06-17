@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42406974f2f64f91ab7c985b70764efa/artifacts
+end_time: 1750150830504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42406974f2f64f91ab7c985b70764efa
+run_name: thundering-crow-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750150695252
+status: 3
+tags: []
+user_id: runner
