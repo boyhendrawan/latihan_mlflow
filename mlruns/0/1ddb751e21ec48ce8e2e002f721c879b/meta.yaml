@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ddb751e21ec48ce8e2e002f721c879b/artifacts
+end_time: 1750128422467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ddb751e21ec48ce8e2e002f721c879b
+run_name: stately-worm-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750128286349
+status: 3
+tags: []
+user_id: runner
