@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/39881b7dfa5b4726a29120413d8c47e0/artifacts
+end_time: 1750186279009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39881b7dfa5b4726a29120413d8c47e0
+run_name: delightful-grub-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750186143884
+status: 3
+tags: []
+user_id: runner
