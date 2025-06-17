@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6168133c22184e5694e820727bf22353/artifacts
+end_time: 1750143001934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6168133c22184e5694e820727bf22353
+run_name: sneaky-bee-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750142866495
+status: 3
+tags: []
+user_id: runner
