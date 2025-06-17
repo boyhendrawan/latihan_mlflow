@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bad7d8bde39f482e8d2eb21edc35d763/artifacts
+end_time: 1750152390408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad7d8bde39f482e8d2eb21edc35d763
+run_name: suave-grub-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750152254584
+status: 3
+tags: []
+user_id: runner
