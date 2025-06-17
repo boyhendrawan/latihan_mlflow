@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1755f86b3d574393b4ce28cc0ab0652e/artifacts
+end_time: 1750186470153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1755f86b3d574393b4ce28cc0ab0652e
+run_name: stylish-sheep-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750186334846
+status: 3
+tags: []
+user_id: runner
