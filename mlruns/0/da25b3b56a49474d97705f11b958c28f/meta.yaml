@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da25b3b56a49474d97705f11b958c28f/artifacts
+end_time: 1750141250868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da25b3b56a49474d97705f11b958c28f
+run_name: nosy-sponge-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750141115340
+status: 3
+tags: []
+user_id: runner
