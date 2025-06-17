@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2bbaf0cb0f648b9b3d4d432406f965b/artifacts
+end_time: 1750184329767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2bbaf0cb0f648b9b3d4d432406f965b
+run_name: charming-lynx-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184194313
+status: 3
+tags: []
+user_id: runner
