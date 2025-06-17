@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/993c369a43474aa69d88644a78ecca5c/artifacts
+end_time: 1750171798405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 993c369a43474aa69d88644a78ecca5c
+run_name: able-auk-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750171660053
+status: 3
+tags: []
+user_id: runner
