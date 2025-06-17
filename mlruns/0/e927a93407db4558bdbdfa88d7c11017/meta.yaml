@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e927a93407db4558bdbdfa88d7c11017/artifacts
+end_time: 1750154529427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e927a93407db4558bdbdfa88d7c11017
+run_name: abrasive-koi-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750154393590
+status: 3
+tags: []
+user_id: runner
