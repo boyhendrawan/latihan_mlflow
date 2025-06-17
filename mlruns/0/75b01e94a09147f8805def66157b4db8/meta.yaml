@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75b01e94a09147f8805def66157b4db8/artifacts
+end_time: 1750157836134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75b01e94a09147f8805def66157b4db8
+run_name: casual-penguin-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750157700466
+status: 3
+tags: []
+user_id: runner
