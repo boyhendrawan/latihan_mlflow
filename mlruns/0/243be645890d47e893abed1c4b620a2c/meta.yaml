@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/243be645890d47e893abed1c4b620a2c/artifacts
+end_time: 1750215611133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 243be645890d47e893abed1c4b620a2c
+run_name: secretive-ant-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750215473698
+status: 3
+tags: []
+user_id: runner
