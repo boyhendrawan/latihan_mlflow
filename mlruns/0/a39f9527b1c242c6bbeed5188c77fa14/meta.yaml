@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a39f9527b1c242c6bbeed5188c77fa14/artifacts
+end_time: 1750243274770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39f9527b1c242c6bbeed5188c77fa14
+run_name: overjoyed-colt-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750243139111
+status: 3
+tags: []
+user_id: runner
