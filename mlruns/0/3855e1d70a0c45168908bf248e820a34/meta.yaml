@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3855e1d70a0c45168908bf248e820a34/artifacts
+end_time: 1750212677490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3855e1d70a0c45168908bf248e820a34
+run_name: abrasive-vole-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750212543521
+status: 3
+tags: []
+user_id: runner
