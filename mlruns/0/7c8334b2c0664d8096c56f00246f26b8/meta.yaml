@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c8334b2c0664d8096c56f00246f26b8/artifacts
+end_time: 1750217174941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c8334b2c0664d8096c56f00246f26b8
+run_name: skillful-bug-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750217039158
+status: 3
+tags: []
+user_id: runner
