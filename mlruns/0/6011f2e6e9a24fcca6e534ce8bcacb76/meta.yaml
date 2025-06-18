@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6011f2e6e9a24fcca6e534ce8bcacb76/artifacts
+end_time: 1750283498525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6011f2e6e9a24fcca6e534ce8bcacb76
+run_name: chill-quail-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750283360978
+status: 3
+tags: []
+user_id: runner
