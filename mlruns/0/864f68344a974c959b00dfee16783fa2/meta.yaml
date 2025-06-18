@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/864f68344a974c959b00dfee16783fa2/artifacts
+end_time: 1750214234484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 864f68344a974c959b00dfee16783fa2
+run_name: unequaled-robin-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750214098356
+status: 3
+tags: []
+user_id: runner
