@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d17e86a464774f4bb4a684602330eb57/artifacts
+end_time: 1750249511210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d17e86a464774f4bb4a684602330eb57
+run_name: crawling-jay-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750249373223
+status: 3
+tags: []
+user_id: runner
