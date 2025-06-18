@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fde6d1d32e6a484db1ec92c9488ade4b/artifacts
+end_time: 1750262152948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde6d1d32e6a484db1ec92c9488ade4b
+run_name: bemused-ram-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750262013884
+status: 3
+tags: []
+user_id: runner
