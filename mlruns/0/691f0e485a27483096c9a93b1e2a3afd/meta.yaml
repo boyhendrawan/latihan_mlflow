@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/691f0e485a27483096c9a93b1e2a3afd/artifacts
+end_time: 1750279992351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 691f0e485a27483096c9a93b1e2a3afd
+run_name: stylish-gnat-931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750279857333
+status: 3
+tags: []
+user_id: runner
