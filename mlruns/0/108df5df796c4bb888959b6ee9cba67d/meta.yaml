@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/108df5df796c4bb888959b6ee9cba67d/artifacts
+end_time: 1750214430791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 108df5df796c4bb888959b6ee9cba67d
+run_name: loud-sponge-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750214293762
+status: 3
+tags: []
+user_id: runner
