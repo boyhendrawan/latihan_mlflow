@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a721b8f8e7042f9bc2322020ffad2eb/artifacts
+end_time: 1750284847782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a721b8f8e7042f9bc2322020ffad2eb
+run_name: nebulous-asp-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750284712793
+status: 3
+tags: []
+user_id: runner
