@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c15fe4ee7934ef288590925207c5570/artifacts
+end_time: 1750233882031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c15fe4ee7934ef288590925207c5570
+run_name: crawling-duck-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233747720
+status: 3
+tags: []
+user_id: runner
