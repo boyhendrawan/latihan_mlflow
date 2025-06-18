@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef609902a077440e8754bbd607c9c0f2/artifacts
+end_time: 1750222625928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef609902a077440e8754bbd607c9c0f2
+run_name: abrasive-newt-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750222490439
+status: 3
+tags: []
+user_id: runner
