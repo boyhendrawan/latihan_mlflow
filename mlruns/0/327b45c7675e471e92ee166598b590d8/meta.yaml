@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/327b45c7675e471e92ee166598b590d8/artifacts
+end_time: 1750215024147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 327b45c7675e471e92ee166598b590d8
+run_name: wise-swan-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750214888652
+status: 3
+tags: []
+user_id: runner
