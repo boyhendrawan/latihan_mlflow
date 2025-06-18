@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b8eaf31693a459bb53a8ff809faddac/artifacts
+end_time: 1750245991944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8eaf31693a459bb53a8ff809faddac
+run_name: calm-donkey-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750245857359
+status: 3
+tags: []
+user_id: runner
