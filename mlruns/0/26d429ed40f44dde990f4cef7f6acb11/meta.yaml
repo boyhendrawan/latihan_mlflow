@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26d429ed40f44dde990f4cef7f6acb11/artifacts
+end_time: 1750273338359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26d429ed40f44dde990f4cef7f6acb11
+run_name: agreeable-whale-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273202122
+status: 3
+tags: []
+user_id: runner
