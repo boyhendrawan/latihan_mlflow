@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/628c9e2377d444f9bbbaab583ef4e9b6/artifacts
+end_time: 1750247741850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628c9e2377d444f9bbbaab583ef4e9b6
+run_name: delightful-gnat-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750247606247
+status: 3
+tags: []
+user_id: runner
