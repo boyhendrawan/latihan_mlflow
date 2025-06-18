@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6afcfe97586e432c87f32941586c6258/artifacts
+end_time: 1750226302442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6afcfe97586e432c87f32941586c6258
+run_name: honorable-shark-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750226166791
+status: 3
+tags: []
+user_id: runner
