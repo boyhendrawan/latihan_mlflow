@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bda32643e3d14181ace5755b6a9c9ec6/artifacts
+end_time: 1750287387473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda32643e3d14181ace5755b6a9c9ec6
+run_name: dazzling-turtle-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750287251576
+status: 3
+tags: []
+user_id: runner
