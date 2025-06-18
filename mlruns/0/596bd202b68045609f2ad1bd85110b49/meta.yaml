@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/596bd202b68045609f2ad1bd85110b49/artifacts
+end_time: 1750219905563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596bd202b68045609f2ad1bd85110b49
+run_name: omniscient-kite-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750219770687
+status: 3
+tags: []
+user_id: runner
