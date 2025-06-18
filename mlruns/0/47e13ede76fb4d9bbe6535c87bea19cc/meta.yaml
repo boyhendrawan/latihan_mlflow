@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47e13ede76fb4d9bbe6535c87bea19cc/artifacts
+end_time: 1750228835953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e13ede76fb4d9bbe6535c87bea19cc
+run_name: resilient-sponge-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750228700437
+status: 3
+tags: []
+user_id: runner
