@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/19aaacd6a39541d38898fa890ebe2062/artifacts
+end_time: 1750247355991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19aaacd6a39541d38898fa890ebe2062
+run_name: unruly-croc-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750247219542
+status: 3
+tags: []
+user_id: runner
