@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dee10e9532a841c98a1dee1f24f75d8c/artifacts
+end_time: 1750248534119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee10e9532a841c98a1dee1f24f75d8c
+run_name: carefree-dolphin-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750248397008
+status: 3
+tags: []
+user_id: runner
