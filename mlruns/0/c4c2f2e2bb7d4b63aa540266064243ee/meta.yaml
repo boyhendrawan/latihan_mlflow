@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c4c2f2e2bb7d4b63aa540266064243ee/artifacts
+end_time: 1750254830189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4c2f2e2bb7d4b63aa540266064243ee
+run_name: glamorous-moth-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750254692874
+status: 3
+tags: []
+user_id: runner
