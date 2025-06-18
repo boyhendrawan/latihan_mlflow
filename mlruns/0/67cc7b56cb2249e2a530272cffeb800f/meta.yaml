@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67cc7b56cb2249e2a530272cffeb800f/artifacts
+end_time: 1750232717252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67cc7b56cb2249e2a530272cffeb800f
+run_name: nimble-zebra-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750232579341
+status: 3
+tags: []
+user_id: runner
