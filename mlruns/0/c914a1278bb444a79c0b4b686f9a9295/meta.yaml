@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c914a1278bb444a79c0b4b686f9a9295/artifacts
+end_time: 1750234868609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c914a1278bb444a79c0b4b686f9a9295
+run_name: zealous-newt-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234732254
+status: 3
+tags: []
+user_id: runner
