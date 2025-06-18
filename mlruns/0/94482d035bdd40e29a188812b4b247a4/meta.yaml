@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94482d035bdd40e29a188812b4b247a4/artifacts
+end_time: 1750211116730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94482d035bdd40e29a188812b4b247a4
+run_name: enthused-turtle-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750210978711
+status: 3
+tags: []
+user_id: runner
