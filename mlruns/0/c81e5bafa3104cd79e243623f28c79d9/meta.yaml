@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c81e5bafa3104cd79e243623f28c79d9/artifacts
+end_time: 1750243081971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c81e5bafa3104cd79e243623f28c79d9
+run_name: invincible-crow-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750242946364
+status: 3
+tags: []
+user_id: runner
