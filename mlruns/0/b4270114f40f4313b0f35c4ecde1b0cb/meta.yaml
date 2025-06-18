@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4270114f40f4313b0f35c4ecde1b0cb/artifacts
+end_time: 1750241128718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4270114f40f4313b0f35c4ecde1b0cb
+run_name: likeable-horse-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750240992959
+status: 3
+tags: []
+user_id: runner
