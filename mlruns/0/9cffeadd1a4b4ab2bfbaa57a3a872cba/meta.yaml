@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9cffeadd1a4b4ab2bfbaa57a3a872cba/artifacts
+end_time: 1750236049523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cffeadd1a4b4ab2bfbaa57a3a872cba
+run_name: bustling-toad-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750235913231
+status: 3
+tags: []
+user_id: runner
