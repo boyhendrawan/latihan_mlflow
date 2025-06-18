@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/03f34901817042e0a311df68a9863f3a/artifacts
+end_time: 1750246577575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03f34901817042e0a311df68a9863f3a
+run_name: incongruous-goose-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750246441767
+status: 3
+tags: []
+user_id: runner
