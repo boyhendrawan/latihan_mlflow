@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e54027f0cf244aceac097ca6a2094188/artifacts
+end_time: 1750224950277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54027f0cf244aceac097ca6a2094188
+run_name: blushing-moose-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750224814549
+status: 3
+tags: []
+user_id: runner
