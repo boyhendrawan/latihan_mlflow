@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c00bae0d48d249c5ab26423fb8aa768d/artifacts
+end_time: 1750268823328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c00bae0d48d249c5ab26423fb8aa768d
+run_name: grandiose-fowl-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750268686566
+status: 3
+tags: []
+user_id: runner
