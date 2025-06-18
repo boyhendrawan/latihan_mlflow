@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a561d2cc6f24d5fa581d6ceb990cbaa/artifacts
+end_time: 1750288168435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a561d2cc6f24d5fa581d6ceb990cbaa
+run_name: resilient-mouse-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750288033071
+status: 3
+tags: []
+user_id: runner
