@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57cd13d098344c0493ef59ac41d7f05b/artifacts
+end_time: 1750273912653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57cd13d098344c0493ef59ac41d7f05b
+run_name: learned-goat-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273778423
+status: 3
+tags: []
+user_id: runner
