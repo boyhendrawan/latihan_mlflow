@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d59a70f954c248fca53336ca3294f8d7/artifacts
+end_time: 1750262749511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59a70f954c248fca53336ca3294f8d7
+run_name: gaudy-goose-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750262614550
+status: 3
+tags: []
+user_id: runner
