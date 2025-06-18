@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0cc2e3b7abb14d88988c4a8caca19a4e/artifacts
+end_time: 1750253437622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc2e3b7abb14d88988c4a8caca19a4e
+run_name: brawny-hound-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750253302951
+status: 3
+tags: []
+user_id: runner
