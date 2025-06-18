@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef1c46ed8985479098a1d8b714393bfa/artifacts
+end_time: 1750236829322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef1c46ed8985479098a1d8b714393bfa
+run_name: blushing-stork-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750236693512
+status: 3
+tags: []
+user_id: runner
