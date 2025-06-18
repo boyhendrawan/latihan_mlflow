@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a00585616ca84d1eb34a88b1dc1ab011/artifacts
+end_time: 1750220291322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a00585616ca84d1eb34a88b1dc1ab011
+run_name: carefree-sponge-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750220156769
+status: 3
+tags: []
+user_id: runner
