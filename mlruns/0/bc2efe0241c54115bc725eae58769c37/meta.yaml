@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc2efe0241c54115bc725eae58769c37/artifacts
+end_time: 1750247939066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc2efe0241c54115bc725eae58769c37
+run_name: honorable-swan-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750247803143
+status: 3
+tags: []
+user_id: runner
