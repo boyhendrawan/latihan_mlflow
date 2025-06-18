@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d94635d61a9648f293653f01d22c991f/artifacts
+end_time: 1750253048742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d94635d61a9648f293653f01d22c991f
+run_name: big-stork-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750252913060
+status: 3
+tags: []
+user_id: runner
