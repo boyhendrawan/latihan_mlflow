@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a6fdeabbf684b46afa0ae8ad77bc344/artifacts
+end_time: 1750261563650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a6fdeabbf684b46afa0ae8ad77bc344
+run_name: big-moth-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750261426247
+status: 3
+tags: []
+user_id: runner
