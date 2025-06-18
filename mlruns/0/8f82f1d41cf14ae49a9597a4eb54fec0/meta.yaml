@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f82f1d41cf14ae49a9597a4eb54fec0/artifacts
+end_time: 1750216783221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f82f1d41cf14ae49a9597a4eb54fec0
+run_name: handsome-shrike-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750216645294
+status: 3
+tags: []
+user_id: runner
