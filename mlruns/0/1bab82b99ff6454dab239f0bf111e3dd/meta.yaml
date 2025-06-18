@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bab82b99ff6454dab239f0bf111e3dd/artifacts
+end_time: 1750272751428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bab82b99ff6454dab239f0bf111e3dd
+run_name: whimsical-carp-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750272614381
+status: 3
+tags: []
+user_id: runner
