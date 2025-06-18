@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c233a3af9cc444688aba32a352da264f/artifacts
+end_time: 1750252465689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c233a3af9cc444688aba32a352da264f
+run_name: nebulous-swan-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750252329033
+status: 3
+tags: []
+user_id: runner
