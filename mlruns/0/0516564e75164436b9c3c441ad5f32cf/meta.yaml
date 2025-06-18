@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0516564e75164436b9c3c441ad5f32cf/artifacts
+end_time: 1750277634886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0516564e75164436b9c3c441ad5f32cf
+run_name: caring-shrike-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277498645
+status: 3
+tags: []
+user_id: runner
