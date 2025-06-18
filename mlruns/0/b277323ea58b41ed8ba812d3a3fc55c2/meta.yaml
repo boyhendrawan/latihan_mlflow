@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b277323ea58b41ed8ba812d3a3fc55c2/artifacts
+end_time: 1750253247375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b277323ea58b41ed8ba812d3a3fc55c2
+run_name: incongruous-lynx-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750253111525
+status: 3
+tags: []
+user_id: runner
