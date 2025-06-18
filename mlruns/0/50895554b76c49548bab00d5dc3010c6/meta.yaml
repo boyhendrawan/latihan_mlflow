@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50895554b76c49548bab00d5dc3010c6/artifacts
+end_time: 1750229999570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50895554b76c49548bab00d5dc3010c6
+run_name: silent-bear-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750229864256
+status: 3
+tags: []
+user_id: runner
