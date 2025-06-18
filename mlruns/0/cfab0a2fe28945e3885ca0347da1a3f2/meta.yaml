@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfab0a2fe28945e3885ca0347da1a3f2/artifacts
+end_time: 1750236631679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfab0a2fe28945e3885ca0347da1a3f2
+run_name: fortunate-mare-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750236495093
+status: 3
+tags: []
+user_id: runner
