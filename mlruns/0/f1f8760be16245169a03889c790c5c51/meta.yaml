@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1f8760be16245169a03889c790c5c51/artifacts
+end_time: 1750249310993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1f8760be16245169a03889c790c5c51
+run_name: beautiful-wren-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750249174649
+status: 3
+tags: []
+user_id: runner
