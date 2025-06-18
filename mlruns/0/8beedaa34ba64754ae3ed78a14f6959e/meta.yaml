@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8beedaa34ba64754ae3ed78a14f6959e/artifacts
+end_time: 1750239771114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8beedaa34ba64754ae3ed78a14f6959e
+run_name: masked-grub-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750239635141
+status: 3
+tags: []
+user_id: runner
