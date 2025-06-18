@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/52ffe3e230f34a78aad4d722761c6dac/artifacts
+end_time: 1750250488117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52ffe3e230f34a78aad4d722761c6dac
+run_name: chill-shrimp-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250352431
+status: 3
+tags: []
+user_id: runner
