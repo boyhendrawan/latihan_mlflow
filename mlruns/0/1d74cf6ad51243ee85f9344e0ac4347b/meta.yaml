@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1d74cf6ad51243ee85f9344e0ac4347b/artifacts
+end_time: 1750272556275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d74cf6ad51243ee85f9344e0ac4347b
+run_name: shivering-hare-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750272421341
+status: 3
+tags: []
+user_id: runner
