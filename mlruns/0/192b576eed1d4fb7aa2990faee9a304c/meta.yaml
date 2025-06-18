@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/192b576eed1d4fb7aa2990faee9a304c/artifacts
+end_time: 1750218152310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 192b576eed1d4fb7aa2990faee9a304c
+run_name: mysterious-chimp-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750218014948
+status: 3
+tags: []
+user_id: runner
