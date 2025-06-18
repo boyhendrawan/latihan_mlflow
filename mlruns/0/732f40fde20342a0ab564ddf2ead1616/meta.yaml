@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/732f40fde20342a0ab564ddf2ead1616/artifacts
+end_time: 1750228643026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 732f40fde20342a0ab564ddf2ead1616
+run_name: chill-hound-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750228506107
+status: 3
+tags: []
+user_id: runner
