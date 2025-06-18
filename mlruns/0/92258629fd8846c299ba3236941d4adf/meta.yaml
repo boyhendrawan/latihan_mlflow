@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92258629fd8846c299ba3236941d4adf/artifacts
+end_time: 1750288551395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92258629fd8846c299ba3236941d4adf
+run_name: judicious-horse-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750288415882
+status: 3
+tags: []
+user_id: runner
