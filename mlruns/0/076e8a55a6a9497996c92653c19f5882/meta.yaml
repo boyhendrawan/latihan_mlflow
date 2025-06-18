@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/076e8a55a6a9497996c92653c19f5882/artifacts
+end_time: 1750278028366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 076e8a55a6a9497996c92653c19f5882
+run_name: placid-shrew-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277891968
+status: 3
+tags: []
+user_id: runner
