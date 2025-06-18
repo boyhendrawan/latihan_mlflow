@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9af3ddbfcb8b43e4a242f84b9a36edbd/artifacts
+end_time: 1750252658333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9af3ddbfcb8b43e4a242f84b9a36edbd
+run_name: painted-ray-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750252522264
+status: 3
+tags: []
+user_id: runner
