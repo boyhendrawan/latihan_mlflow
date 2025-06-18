@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64e519a99268418c9752ac5b9dc760d0/artifacts
+end_time: 1750264515618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e519a99268418c9752ac5b9dc760d0
+run_name: wistful-skunk-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750264378866
+status: 3
+tags: []
+user_id: runner
