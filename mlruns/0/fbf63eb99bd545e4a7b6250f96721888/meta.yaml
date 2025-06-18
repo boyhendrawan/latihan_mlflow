@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fbf63eb99bd545e4a7b6250f96721888/artifacts
+end_time: 1750275674226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbf63eb99bd545e4a7b6250f96721888
+run_name: amusing-trout-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750275538326
+status: 3
+tags: []
+user_id: runner
