@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5b319b6dea04c4583cde096b9dca99d/artifacts
+end_time: 1750288361420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5b319b6dea04c4583cde096b9dca99d
+run_name: delicate-perch-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750288225774
+status: 3
+tags: []
+user_id: runner
