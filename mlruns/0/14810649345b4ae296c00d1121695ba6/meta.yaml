@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14810649345b4ae296c00d1121695ba6/artifacts
+end_time: 1750239384827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14810649345b4ae296c00d1121695ba6
+run_name: bouncy-quail-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750239247825
+status: 3
+tags: []
+user_id: runner
