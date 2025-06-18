@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a9d3d09d7cd43fda9a6fc184d207b87/artifacts
+end_time: 1750285626168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a9d3d09d7cd43fda9a6fc184d207b87
+run_name: sneaky-fowl-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750285490326
+status: 3
+tags: []
+user_id: runner
