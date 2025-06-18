@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b09795ecc2e48fbafd192e35f80ac1e/artifacts
+end_time: 1750271970933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b09795ecc2e48fbafd192e35f80ac1e
+run_name: wistful-hog-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750271833799
+status: 3
+tags: []
+user_id: runner
