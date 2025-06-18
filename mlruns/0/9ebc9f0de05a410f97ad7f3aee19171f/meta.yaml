@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ebc9f0de05a410f97ad7f3aee19171f/artifacts
+end_time: 1750284274208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ebc9f0de05a410f97ad7f3aee19171f
+run_name: invincible-bee-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750284138034
+status: 3
+tags: []
+user_id: runner
