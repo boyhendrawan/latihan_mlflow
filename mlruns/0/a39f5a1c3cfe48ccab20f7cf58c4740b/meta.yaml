@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a39f5a1c3cfe48ccab20f7cf58c4740b/artifacts
+end_time: 1750248330579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39f5a1c3cfe48ccab20f7cf58c4740b
+run_name: righteous-gull-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750248195260
+status: 3
+tags: []
+user_id: runner
