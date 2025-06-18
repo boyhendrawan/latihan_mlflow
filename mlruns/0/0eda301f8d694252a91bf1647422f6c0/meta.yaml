@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0eda301f8d694252a91bf1647422f6c0/artifacts
+end_time: 1750217952530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0eda301f8d694252a91bf1647422f6c0
+run_name: flawless-smelt-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750217817159
+status: 3
+tags: []
+user_id: runner
