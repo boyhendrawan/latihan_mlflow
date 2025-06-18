@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b6f1b17aad3434b928cd7ab6b10511b/artifacts
+end_time: 1750274692456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b6f1b17aad3434b928cd7ab6b10511b
+run_name: capricious-skunk-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750274557287
+status: 3
+tags: []
+user_id: runner
