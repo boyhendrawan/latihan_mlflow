@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b5b5e536b3646cda7d11de75a1e5238/artifacts
+end_time: 1750228059276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b5b5e536b3646cda7d11de75a1e5238
+run_name: colorful-rat-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750227922457
+status: 3
+tags: []
+user_id: runner
