@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/70e63f110b954da7afbf40d4a755a96b/artifacts
+end_time: 1750289727184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70e63f110b954da7afbf40d4a755a96b
+run_name: defiant-mule-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750289591053
+status: 3
+tags: []
+user_id: runner
