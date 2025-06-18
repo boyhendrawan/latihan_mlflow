@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c45cddd7be9f4ee392753d13f33618da/artifacts
+end_time: 1750224756974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c45cddd7be9f4ee392753d13f33618da
+run_name: mercurial-gnat-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750224621038
+status: 3
+tags: []
+user_id: runner
