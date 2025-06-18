@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f578df514f4468fa89323c4a38291cc/artifacts
+end_time: 1750264907336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f578df514f4468fa89323c4a38291cc
+run_name: rare-horse-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750264771207
+status: 3
+tags: []
+user_id: runner
