@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5fe5c85cbad4909846e548de294231d/artifacts
+end_time: 1750258005788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fe5c85cbad4909846e548de294231d
+run_name: big-ox-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750257868209
+status: 3
+tags: []
+user_id: runner
