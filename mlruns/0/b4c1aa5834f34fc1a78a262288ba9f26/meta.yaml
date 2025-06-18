@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4c1aa5834f34fc1a78a262288ba9f26/artifacts
+end_time: 1750269999193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4c1aa5834f34fc1a78a262288ba9f26
+run_name: angry-doe-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269862650
+status: 3
+tags: []
+user_id: runner
