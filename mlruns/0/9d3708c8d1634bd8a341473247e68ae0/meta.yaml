@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d3708c8d1634bd8a341473247e68ae0/artifacts
+end_time: 1750216583439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d3708c8d1634bd8a341473247e68ae0
+run_name: gaudy-rat-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750216446384
+status: 3
+tags: []
+user_id: runner
