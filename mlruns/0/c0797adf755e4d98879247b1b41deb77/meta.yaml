@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c0797adf755e4d98879247b1b41deb77/artifacts
+end_time: 1750260781528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0797adf755e4d98879247b1b41deb77
+run_name: respected-ram-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750260645617
+status: 3
+tags: []
+user_id: runner
