@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c85deaca201a4b29b3c49b26342a814d/artifacts
+end_time: 1750273529680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c85deaca201a4b29b3c49b26342a814d
+run_name: painted-deer-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273394664
+status: 3
+tags: []
+user_id: runner
