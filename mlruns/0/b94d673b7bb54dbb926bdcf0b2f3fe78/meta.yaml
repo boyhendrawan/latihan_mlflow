@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b94d673b7bb54dbb926bdcf0b2f3fe78/artifacts
+end_time: 1750281946515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b94d673b7bb54dbb926bdcf0b2f3fe78
+run_name: sneaky-gull-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750281809717
+status: 3
+tags: []
+user_id: runner
