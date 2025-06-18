@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/526a587822f546af87467eeab9bed84a/artifacts
+end_time: 1750283689144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 526a587822f546af87467eeab9bed84a
+run_name: adaptable-mouse-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750283554090
+status: 3
+tags: []
+user_id: runner
