@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17ff7277d0684f20806512a73eb9e4a3/artifacts
+end_time: 1750277042769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ff7277d0684f20806512a73eb9e4a3
+run_name: receptive-dove-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750276906786
+status: 3
+tags: []
+user_id: runner
