@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8849d4cd68d8427580914873d9fbcc0e/artifacts
+end_time: 1750209552346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8849d4cd68d8427580914873d9fbcc0e
+run_name: rare-toad-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750209416434
+status: 3
+tags: []
+user_id: runner
