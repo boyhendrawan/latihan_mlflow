@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dac5a30c307c43d6871ef91e3dd09eac/artifacts
+end_time: 1750255620068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dac5a30c307c43d6871ef91e3dd09eac
+run_name: victorious-calf-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750255484829
+status: 3
+tags: []
+user_id: runner
