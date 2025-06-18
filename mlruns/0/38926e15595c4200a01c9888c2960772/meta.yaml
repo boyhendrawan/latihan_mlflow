@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38926e15595c4200a01c9888c2960772/artifacts
+end_time: 1750255418233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38926e15595c4200a01c9888c2960772
+run_name: chill-trout-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750255279651
+status: 3
+tags: []
+user_id: runner
