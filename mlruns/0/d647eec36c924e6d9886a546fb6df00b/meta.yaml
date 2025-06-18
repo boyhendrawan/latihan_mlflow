@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d647eec36c924e6d9886a546fb6df00b/artifacts
+end_time: 1750231549219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d647eec36c924e6d9886a546fb6df00b
+run_name: popular-ram-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750231414663
+status: 3
+tags: []
+user_id: runner
