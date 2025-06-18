@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17945e00fbe548298097a130c2e66157/artifacts
+end_time: 1750210330275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17945e00fbe548298097a130c2e66157
+run_name: secretive-cow-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750210194014
+status: 3
+tags: []
+user_id: runner
