@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/861a9d37f2cf486e942b3bdc83db3ef0/artifacts
+end_time: 1750256414517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 861a9d37f2cf486e942b3bdc83db3ef0
+run_name: learned-skunk-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750256274929
+status: 3
+tags: []
+user_id: runner
