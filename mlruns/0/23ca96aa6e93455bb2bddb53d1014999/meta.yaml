@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/23ca96aa6e93455bb2bddb53d1014999/artifacts
+end_time: 1750288747523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23ca96aa6e93455bb2bddb53d1014999
+run_name: ambitious-fowl-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750288611070
+status: 3
+tags: []
+user_id: runner
