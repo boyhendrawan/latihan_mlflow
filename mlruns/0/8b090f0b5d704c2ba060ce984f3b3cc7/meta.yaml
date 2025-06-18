@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b090f0b5d704c2ba060ce984f3b3cc7/artifacts
+end_time: 1750289134782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b090f0b5d704c2ba060ce984f3b3cc7
+run_name: mysterious-jay-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750288999875
+status: 3
+tags: []
+user_id: runner
