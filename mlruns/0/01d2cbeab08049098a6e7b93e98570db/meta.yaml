@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/01d2cbeab08049098a6e7b93e98570db/artifacts
+end_time: 1750234077239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01d2cbeab08049098a6e7b93e98570db
+run_name: bright-gull-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233941707
+status: 3
+tags: []
+user_id: runner
