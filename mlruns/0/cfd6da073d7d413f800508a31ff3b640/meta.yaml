@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfd6da073d7d413f800508a31ff3b640/artifacts
+end_time: 1750251074521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd6da073d7d413f800508a31ff3b640
+run_name: glamorous-ant-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250938885
+status: 3
+tags: []
+user_id: runner
