@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47597934a62a4bb584164ff6ae963b7d/artifacts
+end_time: 1750265686512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47597934a62a4bb584164ff6ae963b7d
+run_name: righteous-asp-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750265551260
+status: 3
+tags: []
+user_id: runner
