@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e09bf4dd36074be68a747188d19bdb4d/artifacts
+end_time: 1750246772612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e09bf4dd36074be68a747188d19bdb4d
+run_name: powerful-lark-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750246636367
+status: 3
+tags: []
+user_id: runner
