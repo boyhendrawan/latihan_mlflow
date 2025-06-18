@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1b4be6280b04209a12a85b0aa329295/artifacts
+end_time: 1750254431535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1b4be6280b04209a12a85b0aa329295
+run_name: rumbling-hen-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750254295352
+status: 3
+tags: []
+user_id: runner
