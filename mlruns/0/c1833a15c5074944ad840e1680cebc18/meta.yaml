@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1833a15c5074944ad840e1680cebc18/artifacts
+end_time: 1750229028082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1833a15c5074944ad840e1680cebc18
+run_name: delightful-ray-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750228893710
+status: 3
+tags: []
+user_id: runner
