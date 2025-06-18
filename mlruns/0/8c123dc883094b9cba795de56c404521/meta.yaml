@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c123dc883094b9cba795de56c404521/artifacts
+end_time: 1750247550344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c123dc883094b9cba795de56c404521
+run_name: rogue-zebra-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750247413818
+status: 3
+tags: []
+user_id: runner
