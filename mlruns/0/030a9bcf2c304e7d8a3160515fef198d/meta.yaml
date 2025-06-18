@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/030a9bcf2c304e7d8a3160515fef198d/artifacts
+end_time: 1750244241049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 030a9bcf2c304e7d8a3160515fef198d
+run_name: resilient-chimp-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750244105382
+status: 3
+tags: []
+user_id: runner
