@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b785e1026c2b4041a51854cca42d3bd1/artifacts
+end_time: 1750287781383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b785e1026c2b4041a51854cca42d3bd1
+run_name: debonair-mule-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750287645399
+status: 3
+tags: []
+user_id: runner
