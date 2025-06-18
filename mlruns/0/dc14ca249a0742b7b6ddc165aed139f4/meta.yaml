@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc14ca249a0742b7b6ddc165aed139f4/artifacts
+end_time: 1750237225480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc14ca249a0742b7b6ddc165aed139f4
+run_name: selective-newt-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750237087935
+status: 3
+tags: []
+user_id: runner
