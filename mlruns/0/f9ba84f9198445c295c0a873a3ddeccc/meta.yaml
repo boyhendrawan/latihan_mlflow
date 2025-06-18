@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f9ba84f9198445c295c0a873a3ddeccc/artifacts
+end_time: 1750273143858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9ba84f9198445c295c0a873a3ddeccc
+run_name: rumbling-colt-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273012268
+status: 3
+tags: []
+user_id: runner
