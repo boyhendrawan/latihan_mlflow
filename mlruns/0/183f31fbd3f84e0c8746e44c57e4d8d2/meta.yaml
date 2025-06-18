@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/183f31fbd3f84e0c8746e44c57e4d8d2/artifacts
+end_time: 1750219321543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 183f31fbd3f84e0c8746e44c57e4d8d2
+run_name: mysterious-boar-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750219186444
+status: 3
+tags: []
+user_id: runner
