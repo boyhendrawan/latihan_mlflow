@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fb3fac8731804d3b8119f5024585e294/artifacts
+end_time: 1750235062733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb3fac8731804d3b8119f5024585e294
+run_name: bustling-ram-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234927380
+status: 3
+tags: []
+user_id: runner
