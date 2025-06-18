@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d4ecc6539a134d9d9bc7c7b6f55131d4/artifacts
+end_time: 1750212874433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4ecc6539a134d9d9bc7c7b6f55131d4
+run_name: nebulous-shrike-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750212736239
+status: 3
+tags: []
+user_id: runner
