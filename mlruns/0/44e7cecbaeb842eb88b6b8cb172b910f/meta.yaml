@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/44e7cecbaeb842eb88b6b8cb172b910f/artifacts
+end_time: 1750238207666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44e7cecbaeb842eb88b6b8cb172b910f
+run_name: silent-vole-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750238070279
+status: 3
+tags: []
+user_id: runner
