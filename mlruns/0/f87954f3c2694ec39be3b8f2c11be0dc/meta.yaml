@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f87954f3c2694ec39be3b8f2c11be0dc/artifacts
+end_time: 1750222435016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f87954f3c2694ec39be3b8f2c11be0dc
+run_name: chill-rook-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750222299207
+status: 3
+tags: []
+user_id: runner
