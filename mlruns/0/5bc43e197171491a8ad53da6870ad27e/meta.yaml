@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5bc43e197171491a8ad53da6870ad27e/artifacts
+end_time: 1750261951685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bc43e197171491a8ad53da6870ad27e
+run_name: bald-ox-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750261814987
+status: 3
+tags: []
+user_id: runner
