@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/20234a9ca0994635bb34e0fcc0a209de/artifacts
+end_time: 1750257014697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20234a9ca0994635bb34e0fcc0a209de
+run_name: mercurial-hare-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750256879235
+status: 3
+tags: []
+user_id: runner
