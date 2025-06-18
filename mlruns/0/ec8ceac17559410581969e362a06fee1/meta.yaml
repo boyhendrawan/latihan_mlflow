@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec8ceac17559410581969e362a06fee1/artifacts
+end_time: 1750237815086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec8ceac17559410581969e362a06fee1
+run_name: salty-quail-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750237679547
+status: 3
+tags: []
+user_id: runner
