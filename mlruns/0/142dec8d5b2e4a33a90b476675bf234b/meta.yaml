@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/142dec8d5b2e4a33a90b476675bf234b/artifacts
+end_time: 1750232327519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 142dec8d5b2e4a33a90b476675bf234b
+run_name: zealous-sloth-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750232191709
+status: 3
+tags: []
+user_id: runner
