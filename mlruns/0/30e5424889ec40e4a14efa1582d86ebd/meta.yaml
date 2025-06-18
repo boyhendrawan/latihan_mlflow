@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30e5424889ec40e4a14efa1582d86ebd/artifacts
+end_time: 1750274889949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30e5424889ec40e4a14efa1582d86ebd
+run_name: amazing-loon-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750274753731
+status: 3
+tags: []
+user_id: runner
