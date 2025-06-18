@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e53133c7b77f4ee29989d9db58b461cb/artifacts
+end_time: 1750230391164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e53133c7b77f4ee29989d9db58b461cb
+run_name: funny-ox-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750230256043
+status: 3
+tags: []
+user_id: runner
