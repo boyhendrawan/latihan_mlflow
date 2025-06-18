@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83dc979107ae402c876c50d43dd27621/artifacts
+end_time: 1750279605622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83dc979107ae402c876c50d43dd27621
+run_name: aged-mouse-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750279470482
+status: 3
+tags: []
+user_id: runner
