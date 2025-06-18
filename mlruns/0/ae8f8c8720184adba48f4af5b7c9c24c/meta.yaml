@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae8f8c8720184adba48f4af5b7c9c24c/artifacts
+end_time: 1750219711674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae8f8c8720184adba48f4af5b7c9c24c
+run_name: orderly-mink-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750219575854
+status: 3
+tags: []
+user_id: runner
