@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56a2e1bd608f4514a6a56104e265e1a3/artifacts
+end_time: 1750217370551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56a2e1bd608f4514a6a56104e265e1a3
+run_name: adorable-moth-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750217233121
+status: 3
+tags: []
+user_id: runner
