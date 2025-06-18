@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3aaff37857dc42b1b41a4401eba3467b/artifacts
+end_time: 1750234473514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aaff37857dc42b1b41a4401eba3467b
+run_name: dashing-vole-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234337665
+status: 3
+tags: []
+user_id: runner
