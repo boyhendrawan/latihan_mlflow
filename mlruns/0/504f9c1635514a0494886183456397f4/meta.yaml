@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/504f9c1635514a0494886183456397f4/artifacts
+end_time: 1750268432108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 504f9c1635514a0494886183456397f4
+run_name: nimble-chimp-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750268295023
+status: 3
+tags: []
+user_id: runner
