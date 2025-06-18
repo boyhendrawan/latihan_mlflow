@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/083c01c9981143f5b40d7c1ed7d7ffd7/artifacts
+end_time: 1750255023043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 083c01c9981143f5b40d7c1ed7d7ffd7
+run_name: burly-cub-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750254887792
+status: 3
+tags: []
+user_id: runner
