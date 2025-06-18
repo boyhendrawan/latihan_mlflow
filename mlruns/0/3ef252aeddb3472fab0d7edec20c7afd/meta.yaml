@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ef252aeddb3472fab0d7edec20c7afd/artifacts
+end_time: 1750215998574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ef252aeddb3472fab0d7edec20c7afd
+run_name: resilient-dog-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750215861721
+status: 3
+tags: []
+user_id: runner
