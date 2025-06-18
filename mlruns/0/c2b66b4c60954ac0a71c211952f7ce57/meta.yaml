@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c2b66b4c60954ac0a71c211952f7ce57/artifacts
+end_time: 1750289331361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b66b4c60954ac0a71c211952f7ce57
+run_name: unique-ram-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750289195257
+status: 3
+tags: []
+user_id: runner
