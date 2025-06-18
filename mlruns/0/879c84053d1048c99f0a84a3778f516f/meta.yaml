@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/879c84053d1048c99f0a84a3778f516f/artifacts
+end_time: 1750260590290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 879c84053d1048c99f0a84a3778f516f
+run_name: puzzled-chimp-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750260452344
+status: 3
+tags: []
+user_id: runner
