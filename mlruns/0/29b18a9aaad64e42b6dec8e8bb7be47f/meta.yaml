@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29b18a9aaad64e42b6dec8e8bb7be47f/artifacts
+end_time: 1750213263490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b18a9aaad64e42b6dec8e8bb7be47f
+run_name: abrasive-dove-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750213127846
+status: 3
+tags: []
+user_id: runner
