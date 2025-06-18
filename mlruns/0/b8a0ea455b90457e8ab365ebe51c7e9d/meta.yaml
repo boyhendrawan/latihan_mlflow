@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8a0ea455b90457e8ab365ebe51c7e9d/artifacts
+end_time: 1750229618906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8a0ea455b90457e8ab365ebe51c7e9d
+run_name: learned-mouse-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750229482715
+status: 3
+tags: []
+user_id: runner
