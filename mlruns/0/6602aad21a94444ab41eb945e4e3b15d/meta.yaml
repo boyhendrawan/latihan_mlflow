@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6602aad21a94444ab41eb945e4e3b15d/artifacts
+end_time: 1750227862263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6602aad21a94444ab41eb945e4e3b15d
+run_name: unruly-hound-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750227726026
+status: 3
+tags: []
+user_id: runner
