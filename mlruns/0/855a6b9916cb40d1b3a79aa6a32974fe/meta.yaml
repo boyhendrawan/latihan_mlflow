@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/855a6b9916cb40d1b3a79aa6a32974fe/artifacts
+end_time: 1750242106398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 855a6b9916cb40d1b3a79aa6a32974fe
+run_name: defiant-sow-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750241971034
+status: 3
+tags: []
+user_id: runner
