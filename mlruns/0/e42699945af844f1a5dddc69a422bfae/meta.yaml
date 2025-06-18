@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e42699945af844f1a5dddc69a422bfae/artifacts
+end_time: 1750237026934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42699945af844f1a5dddc69a422bfae
+run_name: suave-colt-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750236890684
+status: 3
+tags: []
+user_id: runner
