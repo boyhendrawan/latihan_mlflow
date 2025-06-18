@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/341ee22cd5ae4ef0884614d3386e99cf/artifacts
+end_time: 1750287195625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 341ee22cd5ae4ef0884614d3386e99cf
+run_name: unequaled-snake-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750287060931
+status: 3
+tags: []
+user_id: runner
