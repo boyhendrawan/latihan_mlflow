@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c832a1eb49fb435dac793ff7c6545c99/artifacts
+end_time: 1750258409933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c832a1eb49fb435dac793ff7c6545c99
+run_name: honorable-snake-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258275035
+status: 3
+tags: []
+user_id: runner
