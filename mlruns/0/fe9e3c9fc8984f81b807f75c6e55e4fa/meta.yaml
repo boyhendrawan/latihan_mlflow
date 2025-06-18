@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe9e3c9fc8984f81b807f75c6e55e4fa/artifacts
+end_time: 1750215803662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe9e3c9fc8984f81b807f75c6e55e4fa
+run_name: enthused-slug-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750215666974
+status: 3
+tags: []
+user_id: runner
