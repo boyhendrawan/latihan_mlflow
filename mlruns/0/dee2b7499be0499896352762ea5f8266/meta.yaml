@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dee2b7499be0499896352762ea5f8266/artifacts
+end_time: 1750287584000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee2b7499be0499896352762ea5f8266
+run_name: brawny-pig-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750287447419
+status: 3
+tags: []
+user_id: runner
