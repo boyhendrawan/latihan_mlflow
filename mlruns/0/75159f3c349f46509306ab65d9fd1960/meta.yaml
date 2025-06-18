@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75159f3c349f46509306ab65d9fd1960/artifacts
+end_time: 1750243659710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75159f3c349f46509306ab65d9fd1960
+run_name: wistful-toad-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750243524266
+status: 3
+tags: []
+user_id: runner
