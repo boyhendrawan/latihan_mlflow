@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5b9ea13502f4f29a87acddeb3128bdb/artifacts
+end_time: 1750230585364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5b9ea13502f4f29a87acddeb3128bdb
+run_name: powerful-bug-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750230449290
+status: 3
+tags: []
+user_id: runner
