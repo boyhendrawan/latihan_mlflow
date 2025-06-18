@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/689fa7ba7952440aac4f7d5036a37285/artifacts
+end_time: 1750244632072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689fa7ba7952440aac4f7d5036a37285
+run_name: intrigued-stoat-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750244495323
+status: 3
+tags: []
+user_id: runner
