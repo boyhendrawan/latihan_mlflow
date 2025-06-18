@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/74e85d9c53ae4c27bc6141a4ffa1b2b2/artifacts
+end_time: 1750254033744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e85d9c53ae4c27bc6141a4ffa1b2b2
+run_name: vaunted-cat-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750253896662
+status: 3
+tags: []
+user_id: runner
