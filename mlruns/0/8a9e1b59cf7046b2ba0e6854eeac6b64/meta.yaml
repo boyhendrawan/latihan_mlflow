@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a9e1b59cf7046b2ba0e6854eeac6b64/artifacts
+end_time: 1750270787644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a9e1b59cf7046b2ba0e6854eeac6b64
+run_name: mysterious-chimp-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270649849
+status: 3
+tags: []
+user_id: runner
