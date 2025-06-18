@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5c0f0d3fbb74549b31034d0a80ef2b1/artifacts
+end_time: 1750266863604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c0f0d3fbb74549b31034d0a80ef2b1
+run_name: youthful-crane-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266727163
+status: 3
+tags: []
+user_id: runner
