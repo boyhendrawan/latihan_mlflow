@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4704f5c221449199a1823637c871051/artifacts
+end_time: 1750226108835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4704f5c221449199a1823637c871051
+run_name: magnificent-tern-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750225972785
+status: 3
+tags: []
+user_id: runner
