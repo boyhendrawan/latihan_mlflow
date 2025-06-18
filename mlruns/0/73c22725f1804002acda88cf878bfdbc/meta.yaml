@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73c22725f1804002acda88cf878bfdbc/artifacts
+end_time: 1750280189083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c22725f1804002acda88cf878bfdbc
+run_name: bald-moth-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750280052629
+status: 3
+tags: []
+user_id: runner
