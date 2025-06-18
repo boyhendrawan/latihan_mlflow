@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cf14b6cc9814572a63e291b4aed1b7e/artifacts
+end_time: 1750274500018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cf14b6cc9814572a63e291b4aed1b7e
+run_name: sneaky-zebra-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750274364210
+status: 3
+tags: []
+user_id: runner
