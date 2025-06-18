@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a99c3e51bdf45dc8a9c75f22ba31990/artifacts
+end_time: 1750235657369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a99c3e51bdf45dc8a9c75f22ba31990
+run_name: vaunted-smelt-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750235519930
+status: 3
+tags: []
+user_id: runner
