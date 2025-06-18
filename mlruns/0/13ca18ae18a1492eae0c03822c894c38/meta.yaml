@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/13ca18ae18a1492eae0c03822c894c38/artifacts
+end_time: 1750269411174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ca18ae18a1492eae0c03822c894c38
+run_name: fearless-roo-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750269275516
+status: 3
+tags: []
+user_id: runner
