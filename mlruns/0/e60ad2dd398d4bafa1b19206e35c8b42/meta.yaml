@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e60ad2dd398d4bafa1b19206e35c8b42/artifacts
+end_time: 1750268038474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e60ad2dd398d4bafa1b19206e35c8b42
+run_name: calm-sow-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750267902848
+status: 3
+tags: []
+user_id: runner
