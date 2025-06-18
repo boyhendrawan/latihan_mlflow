@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a64aaf2e68547a4af7c033ce2ebe576/artifacts
+end_time: 1750286021587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a64aaf2e68547a4af7c033ce2ebe576
+run_name: honorable-snail-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750285886115
+status: 3
+tags: []
+user_id: runner
