@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/740ee714e5f24e529281de18d3399c9f/artifacts
+end_time: 1750258605334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 740ee714e5f24e529281de18d3399c9f
+run_name: sneaky-sow-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258468550
+status: 3
+tags: []
+user_id: runner
