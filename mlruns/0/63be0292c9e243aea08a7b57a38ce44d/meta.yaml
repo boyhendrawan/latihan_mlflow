@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63be0292c9e243aea08a7b57a38ce44d/artifacts
+end_time: 1750287977351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63be0292c9e243aea08a7b57a38ce44d
+run_name: welcoming-shrike-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750287840698
+status: 3
+tags: []
+user_id: runner
