@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c23773025d94c479a3195a7e88b1082/artifacts
+end_time: 1750263528561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c23773025d94c479a3195a7e88b1082
+run_name: mercurial-worm-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750263391445
+status: 3
+tags: []
+user_id: runner
