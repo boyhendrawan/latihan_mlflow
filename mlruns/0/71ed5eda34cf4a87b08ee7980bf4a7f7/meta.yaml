@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71ed5eda34cf4a87b08ee7980bf4a7f7/artifacts
+end_time: 1750211311756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71ed5eda34cf4a87b08ee7980bf4a7f7
+run_name: tasteful-toad-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750211175519
+status: 3
+tags: []
+user_id: runner
