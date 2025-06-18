@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3cd62d5d1ee34b7e98577da816854b0b/artifacts
+end_time: 1750221463344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cd62d5d1ee34b7e98577da816854b0b
+run_name: nebulous-fish-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750221327688
+status: 3
+tags: []
+user_id: runner
