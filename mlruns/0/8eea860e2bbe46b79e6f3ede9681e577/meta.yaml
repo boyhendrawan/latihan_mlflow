@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8eea860e2bbe46b79e6f3ede9681e577/artifacts
+end_time: 1750263136980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eea860e2bbe46b79e6f3ede9681e577
+run_name: unequaled-foal-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750263000751
+status: 3
+tags: []
+user_id: runner
