@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb3783f34f7744d397bb8a27c5e1ac60/artifacts
+end_time: 1750230778424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb3783f34f7744d397bb8a27c5e1ac60
+run_name: redolent-newt-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750230642572
+status: 3
+tags: []
+user_id: runner
