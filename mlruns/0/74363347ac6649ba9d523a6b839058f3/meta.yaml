@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/74363347ac6649ba9d523a6b839058f3/artifacts
+end_time: 1750250684337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74363347ac6649ba9d523a6b839058f3
+run_name: gregarious-mule-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250547272
+status: 3
+tags: []
+user_id: runner
