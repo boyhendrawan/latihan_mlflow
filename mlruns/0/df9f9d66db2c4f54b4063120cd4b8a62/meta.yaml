@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df9f9d66db2c4f54b4063120cd4b8a62/artifacts
+end_time: 1750282331268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df9f9d66db2c4f54b4063120cd4b8a62
+run_name: gregarious-yak-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750282195895
+status: 3
+tags: []
+user_id: runner
