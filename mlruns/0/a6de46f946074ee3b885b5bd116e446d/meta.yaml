@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6de46f946074ee3b885b5bd116e446d/artifacts
+end_time: 1750232131969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6de46f946074ee3b885b5bd116e446d
+run_name: secretive-lynx-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750231996547
+status: 3
+tags: []
+user_id: runner
