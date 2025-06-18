@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0864d69d580540eebe840325e7ba0800/artifacts
+end_time: 1750220100241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0864d69d580540eebe840325e7ba0800
+run_name: invincible-hen-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750219963843
+status: 3
+tags: []
+user_id: runner
