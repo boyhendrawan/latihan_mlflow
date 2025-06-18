@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c198e0364acf491fabdefd3719e7a9be/artifacts
+end_time: 1750282525229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c198e0364acf491fabdefd3719e7a9be
+run_name: mercurial-ape-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750282389082
+status: 3
+tags: []
+user_id: runner
