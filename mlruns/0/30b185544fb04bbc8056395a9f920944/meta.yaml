@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30b185544fb04bbc8056395a9f920944/artifacts
+end_time: 1750258216208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30b185544fb04bbc8056395a9f920944
+run_name: beautiful-dove-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258080465
+status: 3
+tags: []
+user_id: runner
