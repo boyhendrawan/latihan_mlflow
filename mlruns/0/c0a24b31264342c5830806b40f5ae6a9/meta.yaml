@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c0a24b31264342c5830806b40f5ae6a9/artifacts
+end_time: 1750274108874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a24b31264342c5830806b40f5ae6a9
+run_name: magnificent-cub-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273972447
+status: 3
+tags: []
+user_id: runner
