@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad422d5d05ac427eae0c55d93307c7e0/artifacts
+end_time: 1750285825997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad422d5d05ac427eae0c55d93307c7e0
+run_name: bedecked-shoat-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750285688668
+status: 3
+tags: []
+user_id: runner
