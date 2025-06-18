@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b04b3a8cc15b469182225120d0cd3ccb/artifacts
+end_time: 1750225914866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b04b3a8cc15b469182225120d0cd3ccb
+run_name: amusing-moose-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750225778711
+status: 3
+tags: []
+user_id: runner
