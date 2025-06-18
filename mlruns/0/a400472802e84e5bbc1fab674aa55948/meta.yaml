@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a400472802e84e5bbc1fab674aa55948/artifacts
+end_time: 1750223596482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a400472802e84e5bbc1fab674aa55948
+run_name: carefree-dove-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750223460851
+status: 3
+tags: []
+user_id: runner
