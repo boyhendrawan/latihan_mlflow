@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de6af1031a9c40f785b03e0e633f7a0d/artifacts
+end_time: 1750248726798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de6af1031a9c40f785b03e0e633f7a0d
+run_name: powerful-quail-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750248591394
+status: 3
+tags: []
+user_id: runner
