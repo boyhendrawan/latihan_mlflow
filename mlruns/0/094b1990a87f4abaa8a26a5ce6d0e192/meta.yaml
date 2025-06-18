@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/094b1990a87f4abaa8a26a5ce6d0e192/artifacts
+end_time: 1750282721909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094b1990a87f4abaa8a26a5ce6d0e192
+run_name: beautiful-crow-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750282586686
+status: 3
+tags: []
+user_id: runner
