@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5974c53e36024d2c9f6d2050537433b5/artifacts
+end_time: 1750235457374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5974c53e36024d2c9f6d2050537433b5
+run_name: upbeat-wolf-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750235320958
+status: 3
+tags: []
+user_id: runner
