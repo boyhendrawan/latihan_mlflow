@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5979104ffea4245bd975be3928a8486/artifacts
+end_time: 1750279215296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5979104ffea4245bd975be3928a8486
+run_name: ambitious-sow-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750279077857
+status: 3
+tags: []
+user_id: runner
