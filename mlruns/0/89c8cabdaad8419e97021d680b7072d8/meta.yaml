@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89c8cabdaad8419e97021d680b7072d8/artifacts
+end_time: 1750225335214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89c8cabdaad8419e97021d680b7072d8
+run_name: bold-midge-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750225199925
+status: 3
+tags: []
+user_id: runner
