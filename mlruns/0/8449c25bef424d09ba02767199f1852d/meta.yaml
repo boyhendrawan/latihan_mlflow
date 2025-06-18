@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8449c25bef424d09ba02767199f1852d/artifacts
+end_time: 1750273722088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8449c25bef424d09ba02767199f1852d
+run_name: calm-turtle-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750273587674
+status: 3
+tags: []
+user_id: runner
