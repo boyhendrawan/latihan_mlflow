@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa4147412bc14577814a31953aacf2b2/artifacts
+end_time: 1750224175514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4147412bc14577814a31953aacf2b2
+run_name: casual-snipe-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750224038355
+status: 3
+tags: []
+user_id: runner
