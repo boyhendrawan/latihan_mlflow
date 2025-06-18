@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdeb67888b304704bdcf756516be80f7/artifacts
+end_time: 1750290886159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdeb67888b304704bdcf756516be80f7
+run_name: capable-sow-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750290749236
+status: 3
+tags: []
+user_id: runner
