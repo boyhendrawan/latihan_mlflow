@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3031fc97845c4fb49c924b4d0e117ad4/artifacts
+end_time: 1750211700013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3031fc97845c4fb49c924b4d0e117ad4
+run_name: amusing-smelt-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750211564037
+status: 3
+tags: []
+user_id: runner
