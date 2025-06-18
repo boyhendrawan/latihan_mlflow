@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50e1248c0575431c91b54c83cd2b7e96/artifacts
+end_time: 1750218548438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e1248c0575431c91b54c83cd2b7e96
+run_name: adorable-hawk-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750218409540
+status: 3
+tags: []
+user_id: runner
