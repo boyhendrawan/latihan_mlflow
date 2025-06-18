@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8dd7437c190d4505a5313e54fdae94fc/artifacts
+end_time: 1750254228816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd7437c190d4505a5313e54fdae94fc
+run_name: sedate-trout-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750254094077
+status: 3
+tags: []
+user_id: runner
