@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1443c61b4d1f4663b1bc4938d358f389/artifacts
+end_time: 1750260973508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1443c61b4d1f4663b1bc4938d358f389
+run_name: merciful-ram-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750260838161
+status: 3
+tags: []
+user_id: runner
