@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ada2613e130746179b63f65c842dec29/artifacts
+end_time: 1750219517652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada2613e130746179b63f65c842dec29
+run_name: sedate-shark-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750219383392
+status: 3
+tags: []
+user_id: runner
