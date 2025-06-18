@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/359cda32edaa4419a0bcdaceb027d932/artifacts
+end_time: 1750231355124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 359cda32edaa4419a0bcdaceb027d932
+run_name: whimsical-ape-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750231219854
+status: 3
+tags: []
+user_id: runner
