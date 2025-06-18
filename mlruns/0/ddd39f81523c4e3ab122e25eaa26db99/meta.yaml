@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddd39f81523c4e3ab122e25eaa26db99/artifacts
+end_time: 1750218346610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd39f81523c4e3ab122e25eaa26db99
+run_name: gentle-ant-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750218212272
+status: 3
+tags: []
+user_id: runner
