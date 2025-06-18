@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/628053a495d44a00ac25c29b4cb2bdef/artifacts
+end_time: 1750240935797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628053a495d44a00ac25c29b4cb2bdef
+run_name: selective-ray-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750240799635
+status: 3
+tags: []
+user_id: runner
