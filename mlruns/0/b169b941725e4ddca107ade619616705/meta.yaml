@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b169b941725e4ddca107ade619616705/artifacts
+end_time: 1750223787243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b169b941725e4ddca107ade619616705
+run_name: crawling-lamb-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750223652146
+status: 3
+tags: []
+user_id: runner
