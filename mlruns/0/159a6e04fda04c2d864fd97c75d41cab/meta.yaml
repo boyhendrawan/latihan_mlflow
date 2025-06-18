@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/159a6e04fda04c2d864fd97c75d41cab/artifacts
+end_time: 1750221266683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 159a6e04fda04c2d864fd97c75d41cab
+run_name: defiant-penguin-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750221131068
+status: 3
+tags: []
+user_id: runner
