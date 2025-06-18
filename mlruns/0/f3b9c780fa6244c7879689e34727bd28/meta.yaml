@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f3b9c780fa6244c7879689e34727bd28/artifacts
+end_time: 1750212089185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3b9c780fa6244c7879689e34727bd28
+run_name: entertaining-sow-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750211953633
+status: 3
+tags: []
+user_id: runner
