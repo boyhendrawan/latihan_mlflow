@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d5cb459df414987b761fc0a48560bfd/artifacts
+end_time: 1750242297829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d5cb459df414987b761fc0a48560bfd
+run_name: stately-rat-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750242161850
+status: 3
+tags: []
+user_id: runner
