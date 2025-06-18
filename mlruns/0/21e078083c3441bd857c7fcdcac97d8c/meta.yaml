@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21e078083c3441bd857c7fcdcac97d8c/artifacts
+end_time: 1750260393692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21e078083c3441bd857c7fcdcac97d8c
+run_name: victorious-snake-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750260257731
+status: 3
+tags: []
+user_id: runner
