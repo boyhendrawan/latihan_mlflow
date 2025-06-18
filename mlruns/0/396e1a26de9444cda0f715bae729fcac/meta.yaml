@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/396e1a26de9444cda0f715bae729fcac/artifacts
+end_time: 1750228255978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 396e1a26de9444cda0f715bae729fcac
+run_name: upset-trout-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750228120347
+status: 3
+tags: []
+user_id: runner
