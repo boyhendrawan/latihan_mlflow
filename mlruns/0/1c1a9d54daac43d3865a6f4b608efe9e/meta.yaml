@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c1a9d54daac43d3865a6f4b608efe9e/artifacts
+end_time: 1750278816795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c1a9d54daac43d3865a6f4b608efe9e
+run_name: adaptable-worm-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750278674925
+status: 3
+tags: []
+user_id: runner
