@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83ca1675c5264557a048d0818acfd3b5/artifacts
+end_time: 1750243465087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ca1675c5264557a048d0818acfd3b5
+run_name: delicate-lark-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750243330223
+status: 3
+tags: []
+user_id: runner
