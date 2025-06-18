@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/397220eac28d475482fa047fc23fd85e/artifacts
+end_time: 1750280584477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 397220eac28d475482fa047fc23fd85e
+run_name: able-seal-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750280446221
+status: 3
+tags: []
+user_id: runner
