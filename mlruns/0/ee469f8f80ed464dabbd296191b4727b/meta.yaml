@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee469f8f80ed464dabbd296191b4727b/artifacts
+end_time: 1750279017672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee469f8f80ed464dabbd296191b4727b
+run_name: calm-dog-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750278882976
+status: 3
+tags: []
+user_id: runner
