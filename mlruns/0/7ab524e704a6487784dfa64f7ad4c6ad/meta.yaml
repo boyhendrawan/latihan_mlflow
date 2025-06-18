@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ab524e704a6487784dfa64f7ad4c6ad/artifacts
+end_time: 1750211898990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ab524e704a6487784dfa64f7ad4c6ad
+run_name: zealous-vole-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750211763310
+status: 3
+tags: []
+user_id: runner
