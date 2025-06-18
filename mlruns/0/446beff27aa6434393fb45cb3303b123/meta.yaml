@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/446beff27aa6434393fb45cb3303b123/artifacts
+end_time: 1750210725850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 446beff27aa6434393fb45cb3303b123
+run_name: colorful-fly-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750210590634
+status: 3
+tags: []
+user_id: runner
