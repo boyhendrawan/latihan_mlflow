@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/845482e9f38f46b7a876e0db1437e757/artifacts
+end_time: 1750260195798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 845482e9f38f46b7a876e0db1437e757
+run_name: vaunted-hen-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750260057915
+status: 3
+tags: []
+user_id: runner
