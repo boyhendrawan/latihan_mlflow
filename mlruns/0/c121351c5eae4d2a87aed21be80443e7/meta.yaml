@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c121351c5eae4d2a87aed21be80443e7/artifacts
+end_time: 1750234670378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c121351c5eae4d2a87aed21be80443e7
+run_name: rogue-vole-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234534188
+status: 3
+tags: []
+user_id: runner
