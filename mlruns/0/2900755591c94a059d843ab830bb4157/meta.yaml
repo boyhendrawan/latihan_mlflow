@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2900755591c94a059d843ab830bb4157/artifacts
+end_time: 1750270393317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2900755591c94a059d843ab830bb4157
+run_name: mysterious-perch-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270256276
+status: 3
+tags: []
+user_id: runner
