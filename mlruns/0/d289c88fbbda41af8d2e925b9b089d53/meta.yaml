@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d289c88fbbda41af8d2e925b9b089d53/artifacts
+end_time: 1750257406869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d289c88fbbda41af8d2e925b9b089d53
+run_name: smiling-jay-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750257271275
+status: 3
+tags: []
+user_id: runner
