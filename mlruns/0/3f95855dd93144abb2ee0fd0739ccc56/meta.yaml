@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3f95855dd93144abb2ee0fd0739ccc56/artifacts
+end_time: 1750276456716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f95855dd93144abb2ee0fd0739ccc56
+run_name: unruly-elk-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750276319815
+status: 3
+tags: []
+user_id: runner
