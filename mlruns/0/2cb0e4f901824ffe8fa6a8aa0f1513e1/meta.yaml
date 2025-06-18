@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2cb0e4f901824ffe8fa6a8aa0f1513e1/artifacts
+end_time: 1750280386597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cb0e4f901824ffe8fa6a8aa0f1513e1
+run_name: rumbling-kite-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750280250322
+status: 3
+tags: []
+user_id: runner
