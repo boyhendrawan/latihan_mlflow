@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/27fc65954de3402c9eefc9671fb44afb/artifacts
+end_time: 1750210136171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27fc65954de3402c9eefc9671fb44afb
+run_name: classy-skunk-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750209999704
+status: 3
+tags: []
+user_id: runner
