@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b9a93239e9c425fa47672f9360133b1/artifacts
+end_time: 1750240160252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b9a93239e9c425fa47672f9360133b1
+run_name: crawling-cow-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750240025178
+status: 3
+tags: []
+user_id: runner
