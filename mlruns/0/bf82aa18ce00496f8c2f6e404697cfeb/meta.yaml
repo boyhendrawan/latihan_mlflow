@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf82aa18ce00496f8c2f6e404697cfeb/artifacts
+end_time: 1750270984073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf82aa18ce00496f8c2f6e404697cfeb
+run_name: bright-toad-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750270847426
+status: 3
+tags: []
+user_id: runner
