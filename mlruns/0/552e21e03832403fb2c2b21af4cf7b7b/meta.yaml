@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/552e21e03832403fb2c2b21af4cf7b7b/artifacts
+end_time: 1750265297203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 552e21e03832403fb2c2b21af4cf7b7b
+run_name: gifted-zebra-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750265160178
+status: 3
+tags: []
+user_id: runner
