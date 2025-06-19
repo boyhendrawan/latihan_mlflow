@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d34e1680061b4c10a90edeb24b07ab82/artifacts
+end_time: 1750328355733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d34e1680061b4c10a90edeb24b07ab82
+run_name: trusting-conch-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750328219209
+status: 3
+tags: []
+user_id: runner
