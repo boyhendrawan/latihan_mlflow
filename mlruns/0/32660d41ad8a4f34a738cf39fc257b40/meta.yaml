@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/32660d41ad8a4f34a738cf39fc257b40/artifacts
+end_time: 1750325214322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32660d41ad8a4f34a738cf39fc257b40
+run_name: thoughtful-swan-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325078728
+status: 3
+tags: []
+user_id: runner
