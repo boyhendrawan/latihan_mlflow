@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64c97049ec82481ba70345ae8de8ea52/artifacts
+end_time: 1750346135949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c97049ec82481ba70345ae8de8ea52
+run_name: incongruous-wolf-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750346000322
+status: 3
+tags: []
+user_id: runner
