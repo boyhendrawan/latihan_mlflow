@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a611d16054940918e5e2aad65f06d39/artifacts
+end_time: 1750368861922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a611d16054940918e5e2aad65f06d39
+run_name: carefree-lamb-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750368725276
+status: 3
+tags: []
+user_id: runner
