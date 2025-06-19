@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f775caac79b4d91a569b05143e32d59/artifacts
+end_time: 1750366520355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f775caac79b4d91a569b05143e32d59
+run_name: loud-shrimp-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750366385512
+status: 3
+tags: []
+user_id: runner
