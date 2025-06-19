@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/616c3fd9b9a8405882a851ebe24e4445/artifacts
+end_time: 1750344956566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 616c3fd9b9a8405882a851ebe24e4445
+run_name: nosy-sheep-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750344821357
+status: 3
+tags: []
+user_id: runner
