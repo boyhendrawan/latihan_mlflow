@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d017eb04c04742b89c0c8c148c40e14e/artifacts
+end_time: 1750311746940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d017eb04c04742b89c0c8c148c40e14e
+run_name: judicious-goose-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750311611846
+status: 3
+tags: []
+user_id: runner
