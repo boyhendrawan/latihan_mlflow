@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6bbe1d3492fc48bc8e3ab8eb35def17e/artifacts
+end_time: 1750363407805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bbe1d3492fc48bc8e3ab8eb35def17e
+run_name: kindly-skink-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750363271616
+status: 3
+tags: []
+user_id: runner
