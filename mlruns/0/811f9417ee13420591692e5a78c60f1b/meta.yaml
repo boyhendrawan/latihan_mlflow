@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/811f9417ee13420591692e5a78c60f1b/artifacts
+end_time: 1750304946287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 811f9417ee13420591692e5a78c60f1b
+run_name: fearless-gull-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750304809082
+status: 3
+tags: []
+user_id: runner
