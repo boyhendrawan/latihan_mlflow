@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebd6b7de0d904254bf4aa5cbb00c5782/artifacts
+end_time: 1750371018297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebd6b7de0d904254bf4aa5cbb00c5782
+run_name: orderly-tern-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750370883335
+status: 3
+tags: []
+user_id: runner
