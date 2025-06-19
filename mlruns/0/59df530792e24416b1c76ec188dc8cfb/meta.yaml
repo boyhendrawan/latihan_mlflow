@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/59df530792e24416b1c76ec188dc8cfb/artifacts
+end_time: 1750347113296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59df530792e24416b1c76ec188dc8cfb
+run_name: legendary-rat-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750346976711
+status: 3
+tags: []
+user_id: runner
