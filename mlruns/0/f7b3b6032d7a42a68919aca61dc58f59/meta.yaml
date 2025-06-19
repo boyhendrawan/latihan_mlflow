@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f7b3b6032d7a42a68919aca61dc58f59/artifacts
+end_time: 1750296757422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b3b6032d7a42a68919aca61dc58f59
+run_name: mysterious-lark-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750296622602
+status: 3
+tags: []
+user_id: runner
