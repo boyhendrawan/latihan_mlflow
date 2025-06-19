@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c503ca8d317a40c39c8b11357c3186f3/artifacts
+end_time: 1750344178718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c503ca8d317a40c39c8b11357c3186f3
+run_name: exultant-hare-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750344042323
+status: 3
+tags: []
+user_id: runner
