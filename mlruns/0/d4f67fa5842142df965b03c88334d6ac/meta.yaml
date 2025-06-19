@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d4f67fa5842142df965b03c88334d6ac/artifacts
+end_time: 1750323849413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f67fa5842142df965b03c88334d6ac
+run_name: loud-crane-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750323713651
+status: 3
+tags: []
+user_id: runner
