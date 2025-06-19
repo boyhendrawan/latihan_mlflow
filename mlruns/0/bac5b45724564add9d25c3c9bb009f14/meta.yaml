@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bac5b45724564add9d25c3c9bb009f14/artifacts
+end_time: 1750312708452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac5b45724564add9d25c3c9bb009f14
+run_name: nosy-elk-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312573496
+status: 3
+tags: []
+user_id: runner
