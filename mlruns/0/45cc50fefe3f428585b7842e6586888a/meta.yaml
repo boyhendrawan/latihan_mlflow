@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/45cc50fefe3f428585b7842e6586888a/artifacts
+end_time: 1750349638621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45cc50fefe3f428585b7842e6586888a
+run_name: unruly-sow-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750349508298
+status: 3
+tags: []
+user_id: runner
