@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/00707577ad054f1cba8d205d3c1e309b/artifacts
+end_time: 1750317581586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00707577ad054f1cba8d205d3c1e309b
+run_name: polite-penguin-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750317445354
+status: 3
+tags: []
+user_id: runner
