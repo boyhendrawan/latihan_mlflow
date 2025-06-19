@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71b30f3bff654253abeba5f16bc392c8/artifacts
+end_time: 1750363021863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71b30f3bff654253abeba5f16bc392c8
+run_name: adorable-wren-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750362885756
+status: 3
+tags: []
+user_id: runner
