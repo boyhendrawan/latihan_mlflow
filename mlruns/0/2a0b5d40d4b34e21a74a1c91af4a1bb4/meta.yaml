@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a0b5d40d4b34e21a74a1c91af4a1bb4/artifacts
+end_time: 1750326002655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0b5d40d4b34e21a74a1c91af4a1bb4
+run_name: merciful-toad-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325866476
+status: 3
+tags: []
+user_id: runner
