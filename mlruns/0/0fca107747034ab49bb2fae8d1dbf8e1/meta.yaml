@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0fca107747034ab49bb2fae8d1dbf8e1/artifacts
+end_time: 1750301615080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fca107747034ab49bb2fae8d1dbf8e1
+run_name: powerful-stoat-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750301479901
+status: 3
+tags: []
+user_id: runner
