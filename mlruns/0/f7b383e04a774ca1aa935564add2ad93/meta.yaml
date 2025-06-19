@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f7b383e04a774ca1aa935564add2ad93/artifacts
+end_time: 1750303587996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b383e04a774ca1aa935564add2ad93
+run_name: amazing-grouse-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750303452391
+status: 3
+tags: []
+user_id: runner
