@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/174e4204343e449e883e8db7d9046b3f/artifacts
+end_time: 1750347306920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 174e4204343e449e883e8db7d9046b3f
+run_name: bright-mouse-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750347170537
+status: 3
+tags: []
+user_id: runner
