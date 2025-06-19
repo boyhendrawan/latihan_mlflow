@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b41918859ee4033a1daf2e1221eb9f1/artifacts
+end_time: 1750327170952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b41918859ee4033a1daf2e1221eb9f1
+run_name: thoughtful-vole-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750327034804
+status: 3
+tags: []
+user_id: runner
