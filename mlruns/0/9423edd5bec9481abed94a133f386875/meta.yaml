@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9423edd5bec9481abed94a133f386875/artifacts
+end_time: 1750300456192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9423edd5bec9481abed94a133f386875
+run_name: resilient-moth-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750300319147
+status: 3
+tags: []
+user_id: runner
