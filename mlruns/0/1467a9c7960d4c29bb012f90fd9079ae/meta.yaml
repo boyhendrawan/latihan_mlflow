@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1467a9c7960d4c29bb012f90fd9079ae/artifacts
+end_time: 1750373145589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1467a9c7960d4c29bb012f90fd9079ae
+run_name: welcoming-newt-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750373010049
+status: 3
+tags: []
+user_id: runner
