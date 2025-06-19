@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93e2603e2a494debb3d0f1421bb145c4/artifacts
+end_time: 1750351776533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93e2603e2a494debb3d0f1421bb145c4
+run_name: indecisive-ram-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351639286
+status: 3
+tags: []
+user_id: runner
