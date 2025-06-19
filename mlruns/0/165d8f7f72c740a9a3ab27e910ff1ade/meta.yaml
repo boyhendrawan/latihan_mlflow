@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/165d8f7f72c740a9a3ab27e910ff1ade/artifacts
+end_time: 1750330488962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 165d8f7f72c740a9a3ab27e910ff1ade
+run_name: receptive-mole-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750330351888
+status: 3
+tags: []
+user_id: runner
