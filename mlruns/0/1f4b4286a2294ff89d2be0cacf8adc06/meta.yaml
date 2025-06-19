@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f4b4286a2294ff89d2be0cacf8adc06/artifacts
+end_time: 1750373925697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f4b4286a2294ff89d2be0cacf8adc06
+run_name: merciful-quail-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750373789443
+status: 3
+tags: []
+user_id: runner
