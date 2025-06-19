@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c93b2f7f42646b69d0b76838ed5e62c/artifacts
+end_time: 1750335166247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c93b2f7f42646b69d0b76838ed5e62c
+run_name: enthused-snake-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750335030792
+status: 3
+tags: []
+user_id: runner
