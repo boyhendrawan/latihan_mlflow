@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/696b9040f2e74be09f7116b567e86195/artifacts
+end_time: 1750317386923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 696b9040f2e74be09f7116b567e86195
+run_name: adorable-jay-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750317250752
+status: 3
+tags: []
+user_id: runner
