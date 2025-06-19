@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/171dfda28e0042ea8297598b359928af/artifacts
+end_time: 1750353512928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 171dfda28e0042ea8297598b359928af
+run_name: rare-bear-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750353377877
+status: 3
+tags: []
+user_id: runner
