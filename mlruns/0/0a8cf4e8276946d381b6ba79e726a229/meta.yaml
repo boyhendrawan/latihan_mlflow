@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0a8cf4e8276946d381b6ba79e726a229/artifacts
+end_time: 1750315443157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a8cf4e8276946d381b6ba79e726a229
+run_name: bedecked-goat-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750315305341
+status: 3
+tags: []
+user_id: runner
