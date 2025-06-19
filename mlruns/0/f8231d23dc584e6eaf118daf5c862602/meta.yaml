@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f8231d23dc584e6eaf118daf5c862602/artifacts
+end_time: 1750312904913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8231d23dc584e6eaf118daf5c862602
+run_name: angry-pug-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312768046
+status: 3
+tags: []
+user_id: runner
