@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0fd4cd5a96f431a89a62080cfaa9b4b/artifacts
+end_time: 1750359101181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0fd4cd5a96f431a89a62080cfaa9b4b
+run_name: placid-fish-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750358965306
+status: 3
+tags: []
+user_id: runner
