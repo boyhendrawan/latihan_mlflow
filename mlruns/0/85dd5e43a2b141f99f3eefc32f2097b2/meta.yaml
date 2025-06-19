@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/85dd5e43a2b141f99f3eefc32f2097b2/artifacts
+end_time: 1750363601216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85dd5e43a2b141f99f3eefc32f2097b2
+run_name: legendary-gnat-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750363465666
+status: 3
+tags: []
+user_id: runner
