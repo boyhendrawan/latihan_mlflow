@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e125bf241184411b93328b56483af808/artifacts
+end_time: 1750295788003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e125bf241184411b93328b56483af808
+run_name: funny-kit-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750295652576
+status: 3
+tags: []
+user_id: runner
