@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7fe96fed0dc84f2eb45fe1c8f105f3e5/artifacts
+end_time: 1750365552766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fe96fed0dc84f2eb45fe1c8f105f3e5
+run_name: carefree-kit-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750365417787
+status: 3
+tags: []
+user_id: runner
