@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b480bba7e5a4f0ea7938467d665da8a/artifacts
+end_time: 1750354629468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b480bba7e5a4f0ea7938467d665da8a
+run_name: bittersweet-crow-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750354491575
+status: 3
+tags: []
+user_id: runner
