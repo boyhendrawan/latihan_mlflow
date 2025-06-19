@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5251445d9574166ab1dbcc27c67bad0/artifacts
+end_time: 1750330293918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5251445d9574166ab1dbcc27c67bad0
+run_name: indecisive-gull-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750330157033
+status: 3
+tags: []
+user_id: runner
