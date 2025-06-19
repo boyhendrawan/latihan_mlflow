@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97515842f1604b1c9459f085f590a4f3/artifacts
+end_time: 1750351195029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97515842f1604b1c9459f085f590a4f3
+run_name: fortunate-skink-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351056524
+status: 3
+tags: []
+user_id: runner
