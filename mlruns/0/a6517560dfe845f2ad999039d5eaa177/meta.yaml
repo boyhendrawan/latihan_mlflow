@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6517560dfe845f2ad999039d5eaa177/artifacts
+end_time: 1750324626092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6517560dfe845f2ad999039d5eaa177
+run_name: resilient-gnat-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750324491127
+status: 3
+tags: []
+user_id: runner
