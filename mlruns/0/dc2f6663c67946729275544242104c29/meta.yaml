@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc2f6663c67946729275544242104c29/artifacts
+end_time: 1750338691305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc2f6663c67946729275544242104c29
+run_name: grandiose-ram-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338555878
+status: 3
+tags: []
+user_id: runner
