@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ac809059f754c999764b3b912279bbb/artifacts
+end_time: 1750344373786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ac809059f754c999764b3b912279bbb
+run_name: bright-fawn-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750344238581
+status: 3
+tags: []
+user_id: runner
