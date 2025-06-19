@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/20d232f737d8401b981d3c95b61b5113/artifacts
+end_time: 1750297149098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d232f737d8401b981d3c95b61b5113
+run_name: upbeat-carp-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297013596
+status: 3
+tags: []
+user_id: runner
