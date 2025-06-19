@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/627d5e2fdb3148849d32dac4cc1e77ff/artifacts
+end_time: 1750346918498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 627d5e2fdb3148849d32dac4cc1e77ff
+run_name: thoughtful-zebra-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750346783377
+status: 3
+tags: []
+user_id: runner
