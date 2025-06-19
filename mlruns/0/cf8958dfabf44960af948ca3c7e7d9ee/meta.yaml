@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf8958dfabf44960af948ca3c7e7d9ee/artifacts
+end_time: 1750345939353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf8958dfabf44960af948ca3c7e7d9ee
+run_name: overjoyed-newt-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750345802712
+status: 3
+tags: []
+user_id: runner
