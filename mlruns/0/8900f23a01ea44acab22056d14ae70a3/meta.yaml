@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8900f23a01ea44acab22056d14ae70a3/artifacts
+end_time: 1750321094265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8900f23a01ea44acab22056d14ae70a3
+run_name: unequaled-tern-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750320957349
+status: 3
+tags: []
+user_id: runner
