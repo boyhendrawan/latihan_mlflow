@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eb4f00c5ff29462f849f579797c91d63/artifacts
+end_time: 1750295983342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb4f00c5ff29462f849f579797c91d63
+run_name: bittersweet-calf-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750295847097
+status: 3
+tags: []
+user_id: runner
