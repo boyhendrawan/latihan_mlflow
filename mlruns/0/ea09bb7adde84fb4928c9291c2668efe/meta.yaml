@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea09bb7adde84fb4928c9291c2668efe/artifacts
+end_time: 1750322865323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea09bb7adde84fb4928c9291c2668efe
+run_name: crawling-sow-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750322729395
+status: 3
+tags: []
+user_id: runner
