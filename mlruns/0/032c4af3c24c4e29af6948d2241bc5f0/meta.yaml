@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/032c4af3c24c4e29af6948d2241bc5f0/artifacts
+end_time: 1750336337396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 032c4af3c24c4e29af6948d2241bc5f0
+run_name: capable-horse-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750336200884
+status: 3
+tags: []
+user_id: runner
