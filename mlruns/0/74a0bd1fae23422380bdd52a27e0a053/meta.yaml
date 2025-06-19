@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/74a0bd1fae23422380bdd52a27e0a053/artifacts
+end_time: 1750324040060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74a0bd1fae23422380bdd52a27e0a053
+run_name: dashing-grouse-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750323904967
+status: 3
+tags: []
+user_id: runner
