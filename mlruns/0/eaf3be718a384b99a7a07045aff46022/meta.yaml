@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eaf3be718a384b99a7a07045aff46022/artifacts
+end_time: 1750323654024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf3be718a384b99a7a07045aff46022
+run_name: useful-tern-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750323517361
+status: 3
+tags: []
+user_id: runner
