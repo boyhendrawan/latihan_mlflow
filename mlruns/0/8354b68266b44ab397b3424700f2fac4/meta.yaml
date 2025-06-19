@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8354b68266b44ab397b3424700f2fac4/artifacts
+end_time: 1750339472797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8354b68266b44ab397b3424700f2fac4
+run_name: brawny-stork-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339337917
+status: 3
+tags: []
+user_id: runner
