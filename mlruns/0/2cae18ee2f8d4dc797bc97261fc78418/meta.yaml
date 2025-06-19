@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2cae18ee2f8d4dc797bc97261fc78418/artifacts
+end_time: 1750327955202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cae18ee2f8d4dc797bc97261fc78418
+run_name: learned-hawk-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750327818695
+status: 3
+tags: []
+user_id: runner
