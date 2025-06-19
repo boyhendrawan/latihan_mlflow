@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/423d5f3874654b4fbf044de39062e55e/artifacts
+end_time: 1750345737601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 423d5f3874654b4fbf044de39062e55e
+run_name: fortunate-horse-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750345599493
+status: 3
+tags: []
+user_id: runner
