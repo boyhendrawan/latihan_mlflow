@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0cf1c86988a34caf8bdc05a0dcb896df/artifacts
+end_time: 1750312128865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cf1c86988a34caf8bdc05a0dcb896df
+run_name: abrasive-shark-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750311993475
+status: 3
+tags: []
+user_id: runner
