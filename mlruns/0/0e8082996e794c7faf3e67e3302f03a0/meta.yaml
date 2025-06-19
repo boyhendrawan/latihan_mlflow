@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e8082996e794c7faf3e67e3302f03a0/artifacts
+end_time: 1750374315565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e8082996e794c7faf3e67e3302f03a0
+run_name: defiant-smelt-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750374179804
+status: 3
+tags: []
+user_id: runner
