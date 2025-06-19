@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/91ac29174aac4507974cc6a78ef79854/artifacts
+end_time: 1750325612640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91ac29174aac4507974cc6a78ef79854
+run_name: classy-duck-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325476356
+status: 3
+tags: []
+user_id: runner
