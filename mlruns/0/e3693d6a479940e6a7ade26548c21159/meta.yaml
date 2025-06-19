@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3693d6a479940e6a7ade26548c21159/artifacts
+end_time: 1750349059836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3693d6a479940e6a7ade26548c21159
+run_name: youthful-jay-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750348923929
+status: 3
+tags: []
+user_id: runner
