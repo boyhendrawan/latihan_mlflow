@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/add489b13dc94ff6a5602bf6ee502fd0/artifacts
+end_time: 1750357746986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: add489b13dc94ff6a5602bf6ee502fd0
+run_name: intelligent-dove-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750357611120
+status: 3
+tags: []
+user_id: runner
