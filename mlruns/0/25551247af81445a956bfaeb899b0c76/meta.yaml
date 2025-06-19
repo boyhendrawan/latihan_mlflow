@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25551247af81445a956bfaeb899b0c76/artifacts
+end_time: 1750349828362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25551247af81445a956bfaeb899b0c76
+run_name: bald-cat-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750349693486
+status: 3
+tags: []
+user_id: runner
