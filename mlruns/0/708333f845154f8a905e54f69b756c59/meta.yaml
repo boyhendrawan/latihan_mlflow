@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/708333f845154f8a905e54f69b756c59/artifacts
+end_time: 1750364187625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 708333f845154f8a905e54f69b756c59
+run_name: bustling-penguin-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750364051989
+status: 3
+tags: []
+user_id: runner
