@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90bd4dd1cf2d4c15acc8ae54ac828fae/artifacts
+end_time: 1750316024068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90bd4dd1cf2d4c15acc8ae54ac828fae
+run_name: agreeable-newt-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750315889710
+status: 3
+tags: []
+user_id: runner
