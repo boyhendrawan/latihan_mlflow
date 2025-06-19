@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fb2265c3aea74652995fcb35b4e8ae41/artifacts
+end_time: 1750335359482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb2265c3aea74652995fcb35b4e8ae41
+run_name: rogue-eel-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750335222262
+status: 3
+tags: []
+user_id: runner
