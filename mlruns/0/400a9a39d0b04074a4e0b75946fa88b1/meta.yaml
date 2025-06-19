@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/400a9a39d0b04074a4e0b75946fa88b1/artifacts
+end_time: 1750320511986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 400a9a39d0b04074a4e0b75946fa88b1
+run_name: inquisitive-shark-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750320375975
+status: 3
+tags: []
+user_id: runner
