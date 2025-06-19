@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0d911ae1f0b42d5acee6baeb8c86222/artifacts
+end_time: 1750302398775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0d911ae1f0b42d5acee6baeb8c86222
+run_name: bemused-slug-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750302263359
+status: 3
+tags: []
+user_id: runner
