@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad32520ede8e4a06a3a90665dde73180/artifacts
+end_time: 1750296955405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad32520ede8e4a06a3a90665dde73180
+run_name: delicate-slug-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750296817970
+status: 3
+tags: []
+user_id: runner
