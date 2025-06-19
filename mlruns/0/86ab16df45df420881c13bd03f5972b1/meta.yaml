@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/86ab16df45df420881c13bd03f5972b1/artifacts
+end_time: 1750300065025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86ab16df45df420881c13bd03f5972b1
+run_name: loud-squirrel-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750299929366
+status: 3
+tags: []
+user_id: runner
