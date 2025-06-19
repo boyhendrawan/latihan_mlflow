@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28c608ffb63848d5953cdbfce91f974f/artifacts
+end_time: 1750366328961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c608ffb63848d5953cdbfce91f974f
+run_name: industrious-kit-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750366193462
+status: 3
+tags: []
+user_id: runner
