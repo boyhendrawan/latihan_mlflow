@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cda620939daa4be491149ccc68d481e8/artifacts
+end_time: 1750350023065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda620939daa4be491149ccc68d481e8
+run_name: polite-stag-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750349884493
+status: 3
+tags: []
+user_id: runner
