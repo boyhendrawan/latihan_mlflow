@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3c3be50a5624638863cfb36a0f3c693/artifacts
+end_time: 1750336537588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3c3be50a5624638863cfb36a0f3c693
+run_name: chill-croc-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750336400107
+status: 3
+tags: []
+user_id: runner
