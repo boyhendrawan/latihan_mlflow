@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a2b491d7ed14de786b9754b8097a761/artifacts
+end_time: 1750305330289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a2b491d7ed14de786b9754b8097a761
+run_name: capricious-wasp-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750305195332
+status: 3
+tags: []
+user_id: runner
