@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3b75c85f03e4f639f077ade55a0c80b/artifacts
+end_time: 1750354825074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3b75c85f03e4f639f077ade55a0c80b
+run_name: nosy-grub-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750354687932
+status: 3
+tags: []
+user_id: runner
