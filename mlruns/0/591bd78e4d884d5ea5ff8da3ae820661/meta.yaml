@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/591bd78e4d884d5ea5ff8da3ae820661/artifacts
+end_time: 1750320893797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 591bd78e4d884d5ea5ff8da3ae820661
+run_name: sassy-robin-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750320761331
+status: 3
+tags: []
+user_id: runner
