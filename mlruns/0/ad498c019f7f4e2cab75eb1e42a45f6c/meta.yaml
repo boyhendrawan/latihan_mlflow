@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad498c019f7f4e2cab75eb1e42a45f6c/artifacts
+end_time: 1750348862392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad498c019f7f4e2cab75eb1e42a45f6c
+run_name: bittersweet-frog-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750348726878
+status: 3
+tags: []
+user_id: runner
