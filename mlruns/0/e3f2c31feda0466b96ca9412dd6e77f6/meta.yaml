@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3f2c31feda0466b96ca9412dd6e77f6/artifacts
+end_time: 1750366137330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3f2c31feda0466b96ca9412dd6e77f6
+run_name: ambitious-ant-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750366001411
+status: 3
+tags: []
+user_id: runner
