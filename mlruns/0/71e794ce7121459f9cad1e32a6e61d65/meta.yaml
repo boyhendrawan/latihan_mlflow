@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/71e794ce7121459f9cad1e32a6e61d65/artifacts
+end_time: 1750333611780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71e794ce7121459f9cad1e32a6e61d65
+run_name: luminous-snail-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750333476555
+status: 3
+tags: []
+user_id: runner
