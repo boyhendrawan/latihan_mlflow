@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff13cb5e347c41028c95a9960ef576d0/artifacts
+end_time: 1750299485007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff13cb5e347c41028c95a9960ef576d0
+run_name: glamorous-bird-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750299350265
+status: 3
+tags: []
+user_id: runner
