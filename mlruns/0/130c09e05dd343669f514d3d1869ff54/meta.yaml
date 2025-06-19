@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/130c09e05dd343669f514d3d1869ff54/artifacts
+end_time: 1750325808234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 130c09e05dd343669f514d3d1869ff54
+run_name: powerful-newt-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325672806
+status: 3
+tags: []
+user_id: runner
