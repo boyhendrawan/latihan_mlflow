@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd732e1296c541ef8aa4cf676c72c2f9/artifacts
+end_time: 1750307665050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd732e1296c541ef8aa4cf676c72c2f9
+run_name: rebellious-snail-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750307529091
+status: 3
+tags: []
+user_id: runner
