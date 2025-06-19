@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c17a2568a8b0426e97f4d6791f63b202/artifacts
+end_time: 1750301226520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c17a2568a8b0426e97f4d6791f63b202
+run_name: rare-calf-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750301090690
+status: 3
+tags: []
+user_id: runner
