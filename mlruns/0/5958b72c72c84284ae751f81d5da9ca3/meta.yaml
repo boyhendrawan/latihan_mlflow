@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5958b72c72c84284ae751f81d5da9ca3/artifacts
+end_time: 1750332631188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5958b72c72c84284ae751f81d5da9ca3
+run_name: secretive-bear-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750332495241
+status: 3
+tags: []
+user_id: runner
