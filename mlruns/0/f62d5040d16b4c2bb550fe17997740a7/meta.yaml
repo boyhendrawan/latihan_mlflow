@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f62d5040d16b4c2bb550fe17997740a7/artifacts
+end_time: 1750299095898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f62d5040d16b4c2bb550fe17997740a7
+run_name: unruly-hawk-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750298960632
+status: 3
+tags: []
+user_id: runner
