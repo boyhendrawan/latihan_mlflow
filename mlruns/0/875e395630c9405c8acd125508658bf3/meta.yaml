@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/875e395630c9405c8acd125508658bf3/artifacts
+end_time: 1750302591640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 875e395630c9405c8acd125508658bf3
+run_name: intrigued-cub-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750302453011
+status: 3
+tags: []
+user_id: runner
