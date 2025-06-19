@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5813a899f0aa4612a4d73b4dc903144f/artifacts
+end_time: 1750374902321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5813a899f0aa4612a4d73b4dc903144f
+run_name: big-mare-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750374766991
+status: 3
+tags: []
+user_id: runner
