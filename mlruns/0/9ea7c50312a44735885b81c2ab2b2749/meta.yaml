@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ea7c50312a44735885b81c2ab2b2749/artifacts
+end_time: 1750355604064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ea7c50312a44735885b81c2ab2b2749
+run_name: silent-dolphin-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750355468169
+status: 3
+tags: []
+user_id: runner
