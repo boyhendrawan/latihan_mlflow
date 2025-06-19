@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d25492860e604c14bf4cc0158966d19f/artifacts
+end_time: 1750339281386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d25492860e604c14bf4cc0158966d19f
+run_name: adorable-moose-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339144506
+status: 3
+tags: []
+user_id: runner
