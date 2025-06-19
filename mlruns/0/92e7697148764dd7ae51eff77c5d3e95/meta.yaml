@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92e7697148764dd7ae51eff77c5d3e95/artifacts
+end_time: 1750304167556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e7697148764dd7ae51eff77c5d3e95
+run_name: adaptable-shoat-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750304031833
+status: 3
+tags: []
+user_id: runner
