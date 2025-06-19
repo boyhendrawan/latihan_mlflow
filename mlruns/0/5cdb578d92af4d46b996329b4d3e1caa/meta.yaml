@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5cdb578d92af4d46b996329b4d3e1caa/artifacts
+end_time: 1750340631017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cdb578d92af4d46b996329b4d3e1caa
+run_name: enthused-goat-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750340495206
+status: 3
+tags: []
+user_id: runner
