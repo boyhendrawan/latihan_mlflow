@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/178340d74b72455288bc743b3bbaf347/artifacts
+end_time: 1750343383232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178340d74b72455288bc743b3bbaf347
+run_name: persistent-hound-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750343246032
+status: 3
+tags: []
+user_id: runner
