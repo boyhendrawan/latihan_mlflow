@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c01cf7ea906d4a1c89c0fb79512b1d4f/artifacts
+end_time: 1750354240853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01cf7ea906d4a1c89c0fb79512b1d4f
+run_name: unique-zebra-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750354104394
+status: 3
+tags: []
+user_id: runner
