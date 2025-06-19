@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/24a7986cfab64800861f94c14b13f4e2/artifacts
+end_time: 1750364776786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24a7986cfab64800861f94c14b13f4e2
+run_name: burly-rook-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750364641850
+status: 3
+tags: []
+user_id: runner
