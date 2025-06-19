@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eb6f55e0a64c478b92ace30dd5ccaf09/artifacts
+end_time: 1750372568616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb6f55e0a64c478b92ace30dd5ccaf09
+run_name: redolent-hawk-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750372431655
+status: 3
+tags: []
+user_id: runner
