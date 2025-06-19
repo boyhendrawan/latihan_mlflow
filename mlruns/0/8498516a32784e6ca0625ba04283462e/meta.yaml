@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8498516a32784e6ca0625ba04283462e/artifacts
+end_time: 1750318167750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8498516a32784e6ca0625ba04283462e
+run_name: fortunate-fowl-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750318032732
+status: 3
+tags: []
+user_id: runner
