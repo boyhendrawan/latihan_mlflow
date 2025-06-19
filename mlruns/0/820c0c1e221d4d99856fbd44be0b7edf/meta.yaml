@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/820c0c1e221d4d99856fbd44be0b7edf/artifacts
+end_time: 1750337125309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 820c0c1e221d4d99856fbd44be0b7edf
+run_name: honorable-ape-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750336988133
+status: 3
+tags: []
+user_id: runner
