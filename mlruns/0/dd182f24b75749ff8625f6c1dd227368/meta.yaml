@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd182f24b75749ff8625f6c1dd227368/artifacts
+end_time: 1750294797382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd182f24b75749ff8625f6c1dd227368
+run_name: suave-fawn-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750294661057
+status: 3
+tags: []
+user_id: runner
