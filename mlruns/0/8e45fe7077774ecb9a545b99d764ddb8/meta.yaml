@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e45fe7077774ecb9a545b99d764ddb8/artifacts
+end_time: 1750368079302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e45fe7077774ecb9a545b99d764ddb8
+run_name: caring-duck-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750367943547
+status: 3
+tags: []
+user_id: runner
