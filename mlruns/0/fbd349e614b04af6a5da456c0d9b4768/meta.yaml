@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fbd349e614b04af6a5da456c0d9b4768/artifacts
+end_time: 1750317973566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd349e614b04af6a5da456c0d9b4768
+run_name: abundant-owl-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750317837158
+status: 3
+tags: []
+user_id: runner
