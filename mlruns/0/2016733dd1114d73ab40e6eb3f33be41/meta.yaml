@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2016733dd1114d73ab40e6eb3f33be41/artifacts
+end_time: 1750356773823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2016733dd1114d73ab40e6eb3f33be41
+run_name: indecisive-stork-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750356639413
+status: 3
+tags: []
+user_id: runner
