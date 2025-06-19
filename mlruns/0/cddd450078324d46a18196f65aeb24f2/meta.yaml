@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cddd450078324d46a18196f65aeb24f2/artifacts
+end_time: 1750361841455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cddd450078324d46a18196f65aeb24f2
+run_name: delicate-colt-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750361705970
+status: 3
+tags: []
+user_id: runner
