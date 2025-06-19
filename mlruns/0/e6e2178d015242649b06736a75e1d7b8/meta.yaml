@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e6e2178d015242649b06736a75e1d7b8/artifacts
+end_time: 1750358709682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6e2178d015242649b06736a75e1d7b8
+run_name: inquisitive-fox-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750358574282
+status: 3
+tags: []
+user_id: runner
