@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2dfabcbc55b2453d92e5551390ec9fda/artifacts
+end_time: 1750361649241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dfabcbc55b2453d92e5551390ec9fda
+run_name: ambitious-doe-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750361510236
+status: 3
+tags: []
+user_id: runner
