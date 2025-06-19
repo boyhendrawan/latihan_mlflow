@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e56af408aff54e6ab0ed2ef74948b0b6/artifacts
+end_time: 1750371791366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e56af408aff54e6ab0ed2ef74948b0b6
+run_name: nervous-snipe-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750371654336
+status: 3
+tags: []
+user_id: runner
