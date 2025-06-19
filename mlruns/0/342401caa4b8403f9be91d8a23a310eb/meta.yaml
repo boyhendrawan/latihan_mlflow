@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/342401caa4b8403f9be91d8a23a310eb/artifacts
+end_time: 1750361445656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 342401caa4b8403f9be91d8a23a310eb
+run_name: enchanting-dog-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750361309668
+status: 3
+tags: []
+user_id: runner
