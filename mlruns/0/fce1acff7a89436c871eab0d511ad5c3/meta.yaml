@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fce1acff7a89436c871eab0d511ad5c3/artifacts
+end_time: 1750374513882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fce1acff7a89436c871eab0d511ad5c3
+run_name: shivering-fish-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750374378019
+status: 3
+tags: []
+user_id: runner
