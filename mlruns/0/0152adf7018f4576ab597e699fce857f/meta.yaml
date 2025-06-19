@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0152adf7018f4576ab597e699fce857f/artifacts
+end_time: 1750331847336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0152adf7018f4576ab597e699fce857f
+run_name: painted-mare-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331710490
+status: 3
+tags: []
+user_id: runner
