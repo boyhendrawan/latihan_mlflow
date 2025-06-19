@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97db39c3e9254364b0a8a5cd64e3790f/artifacts
+end_time: 1750311936331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97db39c3e9254364b0a8a5cd64e3790f
+run_name: blushing-flea-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750311801743
+status: 3
+tags: []
+user_id: runner
