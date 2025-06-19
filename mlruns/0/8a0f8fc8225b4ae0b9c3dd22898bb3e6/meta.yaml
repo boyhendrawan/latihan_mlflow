@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a0f8fc8225b4ae0b9c3dd22898bb3e6/artifacts
+end_time: 1750360474420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a0f8fc8225b4ae0b9c3dd22898bb3e6
+run_name: selective-mare-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750360339664
+status: 3
+tags: []
+user_id: runner
