@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9de39c694d9b4147ad9affb1409f6bc1/artifacts
+end_time: 1750351969297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9de39c694d9b4147ad9affb1409f6bc1
+run_name: able-trout-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750351833307
+status: 3
+tags: []
+user_id: runner
