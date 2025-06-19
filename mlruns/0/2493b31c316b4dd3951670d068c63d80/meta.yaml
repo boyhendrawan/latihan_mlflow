@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2493b31c316b4dd3951670d068c63d80/artifacts
+end_time: 1750353706573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2493b31c316b4dd3951670d068c63d80
+run_name: resilient-kite-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750353570885
+status: 3
+tags: []
+user_id: runner
