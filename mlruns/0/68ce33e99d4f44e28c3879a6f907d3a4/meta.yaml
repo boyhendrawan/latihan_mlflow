@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68ce33e99d4f44e28c3879a6f907d3a4/artifacts
+end_time: 1750324430492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68ce33e99d4f44e28c3879a6f907d3a4
+run_name: puzzled-fowl-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750324295507
+status: 3
+tags: []
+user_id: runner
