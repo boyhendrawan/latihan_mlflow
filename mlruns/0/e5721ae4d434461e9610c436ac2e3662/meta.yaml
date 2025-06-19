@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5721ae4d434461e9610c436ac2e3662/artifacts
+end_time: 1750375288676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5721ae4d434461e9610c436ac2e3662
+run_name: rebellious-snake-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750375153389
+status: 3
+tags: []
+user_id: runner
