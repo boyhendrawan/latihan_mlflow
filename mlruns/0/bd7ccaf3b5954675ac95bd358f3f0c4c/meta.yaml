@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd7ccaf3b5954675ac95bd358f3f0c4c/artifacts
+end_time: 1750317775436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd7ccaf3b5954675ac95bd358f3f0c4c
+run_name: receptive-moth-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750317640199
+status: 3
+tags: []
+user_id: runner
