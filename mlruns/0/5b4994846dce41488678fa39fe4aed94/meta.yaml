@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b4994846dce41488678fa39fe4aed94/artifacts
+end_time: 1750341022027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b4994846dce41488678fa39fe4aed94
+run_name: righteous-gnu-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750340885921
+status: 3
+tags: []
+user_id: runner
