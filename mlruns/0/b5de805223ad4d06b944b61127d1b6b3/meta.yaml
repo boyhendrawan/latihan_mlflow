@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5de805223ad4d06b944b61127d1b6b3/artifacts
+end_time: 1750318754594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5de805223ad4d06b944b61127d1b6b3
+run_name: brawny-carp-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750318618530
+status: 3
+tags: []
+user_id: runner
