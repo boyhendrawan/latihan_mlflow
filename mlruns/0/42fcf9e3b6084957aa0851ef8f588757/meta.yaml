@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42fcf9e3b6084957aa0851ef8f588757/artifacts
+end_time: 1750362038369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42fcf9e3b6084957aa0851ef8f588757
+run_name: popular-kite-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750361902009
+status: 3
+tags: []
+user_id: runner
