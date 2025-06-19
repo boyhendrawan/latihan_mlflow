@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed48422903b2499d8d2691e395866e79/artifacts
+end_time: 1750321295562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed48422903b2499d8d2691e395866e79
+run_name: useful-fish-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750321157170
+status: 3
+tags: []
+user_id: runner
