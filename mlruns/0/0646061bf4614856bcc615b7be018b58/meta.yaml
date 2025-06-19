@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0646061bf4614856bcc615b7be018b58/artifacts
+end_time: 1750309224451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0646061bf4614856bcc615b7be018b58
+run_name: wise-bass-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750309088142
+status: 3
+tags: []
+user_id: runner
