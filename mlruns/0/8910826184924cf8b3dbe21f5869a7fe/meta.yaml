@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8910826184924cf8b3dbe21f5869a7fe/artifacts
+end_time: 1750301810276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8910826184924cf8b3dbe21f5869a7fe
+run_name: worried-fowl-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750301673830
+status: 3
+tags: []
+user_id: runner
