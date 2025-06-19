@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/036d6bea6eb94dc8959600a56dbce0dc/artifacts
+end_time: 1750377034797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 036d6bea6eb94dc8959600a56dbce0dc
+run_name: delicate-owl-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750376898550
+status: 3
+tags: []
+user_id: runner
