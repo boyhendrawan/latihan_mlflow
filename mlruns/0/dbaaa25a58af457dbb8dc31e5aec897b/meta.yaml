@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dbaaa25a58af457dbb8dc31e5aec897b/artifacts
+end_time: 1750340238925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbaaa25a58af457dbb8dc31e5aec897b
+run_name: whimsical-horse-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750340103829
+status: 3
+tags: []
+user_id: runner
