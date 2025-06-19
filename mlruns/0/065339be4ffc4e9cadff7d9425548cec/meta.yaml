@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/065339be4ffc4e9cadff7d9425548cec/artifacts
+end_time: 1750369445292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 065339be4ffc4e9cadff7d9425548cec
+run_name: rumbling-swan-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750369310235
+status: 3
+tags: []
+user_id: runner
