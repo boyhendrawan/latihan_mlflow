@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/834b4ee254b14cffac0870e1bc9d6f48/artifacts
+end_time: 1750347499021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 834b4ee254b14cffac0870e1bc9d6f48
+run_name: rumbling-frog-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750347364670
+status: 3
+tags: []
+user_id: runner
