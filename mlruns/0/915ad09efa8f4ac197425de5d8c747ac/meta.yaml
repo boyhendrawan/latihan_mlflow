@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/915ad09efa8f4ac197425de5d8c747ac/artifacts
+end_time: 1750297928618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 915ad09efa8f4ac197425de5d8c747ac
+run_name: efficient-midge-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750297793060
+status: 3
+tags: []
+user_id: runner
