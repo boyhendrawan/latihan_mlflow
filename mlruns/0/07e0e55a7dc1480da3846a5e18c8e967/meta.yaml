@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07e0e55a7dc1480da3846a5e18c8e967/artifacts
+end_time: 1750331649612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e0e55a7dc1480da3846a5e18c8e967
+run_name: unleashed-ape-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331513568
+status: 3
+tags: []
+user_id: runner
