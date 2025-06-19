@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5e457a79362b4ea18407471b6ccb3935/artifacts
+end_time: 1750293821793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e457a79362b4ea18407471b6ccb3935
+run_name: hilarious-panda-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750293685664
+status: 3
+tags: []
+user_id: runner
