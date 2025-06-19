@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8abb652c29a244979b548632f984f7dd/artifacts
+end_time: 1750341621300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8abb652c29a244979b548632f984f7dd
+run_name: wise-ray-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750341486694
+status: 3
+tags: []
+user_id: runner
