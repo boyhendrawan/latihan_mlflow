@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b110b431ff7548bdb13abd30e2533aae/artifacts
+end_time: 1750321686416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b110b431ff7548bdb13abd30e2533aae
+run_name: melodic-gull-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750321550626
+status: 3
+tags: []
+user_id: runner
