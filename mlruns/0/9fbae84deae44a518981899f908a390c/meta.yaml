@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9fbae84deae44a518981899f908a390c/artifacts
+end_time: 1750306688237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fbae84deae44a518981899f908a390c
+run_name: fun-deer-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750306552696
+status: 3
+tags: []
+user_id: runner
