@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/124c518418834e6e98bcccfa22bfaabc/artifacts
+end_time: 1750345346572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 124c518418834e6e98bcccfa22bfaabc
+run_name: treasured-eel-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750345210136
+status: 3
+tags: []
+user_id: runner
