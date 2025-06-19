@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/efdc3fadf6ef4e7fa18480a8e4ac53fd/artifacts
+end_time: 1750309804595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efdc3fadf6ef4e7fa18480a8e4ac53fd
+run_name: merciful-fowl-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750309669815
+status: 3
+tags: []
+user_id: runner
