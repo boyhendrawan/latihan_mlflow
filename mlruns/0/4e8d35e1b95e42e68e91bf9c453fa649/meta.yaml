@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4e8d35e1b95e42e68e91bf9c453fa649/artifacts
+end_time: 1750345539883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e8d35e1b95e42e68e91bf9c453fa649
+run_name: powerful-wasp-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750345404669
+status: 3
+tags: []
+user_id: runner
