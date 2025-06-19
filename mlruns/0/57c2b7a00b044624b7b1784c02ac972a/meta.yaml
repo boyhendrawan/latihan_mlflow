@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57c2b7a00b044624b7b1784c02ac972a/artifacts
+end_time: 1750324235974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57c2b7a00b044624b7b1784c02ac972a
+run_name: worried-auk-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750324099227
+status: 3
+tags: []
+user_id: runner
