@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5978bb1e11df4e9cbcc66b872f8657dc/artifacts
+end_time: 1750357362879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5978bb1e11df4e9cbcc66b872f8657dc
+run_name: abrasive-boar-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750357226515
+status: 3
+tags: []
+user_id: runner
