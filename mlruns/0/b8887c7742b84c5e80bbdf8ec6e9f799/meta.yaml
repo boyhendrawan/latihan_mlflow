@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8887c7742b84c5e80bbdf8ec6e9f799/artifacts
+end_time: 1750334780988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8887c7742b84c5e80bbdf8ec6e9f799
+run_name: loud-gull-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750334645184
+status: 3
+tags: []
+user_id: runner
