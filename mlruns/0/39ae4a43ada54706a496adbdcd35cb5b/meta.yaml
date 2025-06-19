@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/39ae4a43ada54706a496adbdcd35cb5b/artifacts
+end_time: 1750373537368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39ae4a43ada54706a496adbdcd35cb5b
+run_name: unleashed-grub-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750373400707
+status: 3
+tags: []
+user_id: runner
