@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/12c464e2a46c4960b084f1c6b897ab6a/artifacts
+end_time: 1750308250762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c464e2a46c4960b084f1c6b897ab6a
+run_name: agreeable-fawn-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750308114508
+status: 3
+tags: []
+user_id: runner
