@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddcf13dc465a4dfca0e29bdd2eb9651a/artifacts
+end_time: 1750316222598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddcf13dc465a4dfca0e29bdd2eb9651a
+run_name: sedate-dolphin-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750316087285
+status: 3
+tags: []
+user_id: runner
