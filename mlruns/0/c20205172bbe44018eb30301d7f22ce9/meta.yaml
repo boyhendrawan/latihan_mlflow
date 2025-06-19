@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c20205172bbe44018eb30301d7f22ce9/artifacts
+end_time: 1750346527581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c20205172bbe44018eb30301d7f22ce9
+run_name: bemused-skunk-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750346392040
+status: 3
+tags: []
+user_id: runner
