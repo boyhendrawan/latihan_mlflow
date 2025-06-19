@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7bc08ce6b064ef696fa3d043448d4bc/artifacts
+end_time: 1750337909381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7bc08ce6b064ef696fa3d043448d4bc
+run_name: angry-auk-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337773286
+status: 3
+tags: []
+user_id: runner
