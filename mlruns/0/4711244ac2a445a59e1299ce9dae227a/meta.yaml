@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4711244ac2a445a59e1299ce9dae227a/artifacts
+end_time: 1750329903655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4711244ac2a445a59e1299ce9dae227a
+run_name: treasured-wolf-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750329769286
+status: 3
+tags: []
+user_id: runner
