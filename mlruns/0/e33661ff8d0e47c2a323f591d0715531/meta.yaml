@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e33661ff8d0e47c2a323f591d0715531/artifacts
+end_time: 1750337713284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e33661ff8d0e47c2a323f591d0715531
+run_name: spiffy-panda-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337576372
+status: 3
+tags: []
+user_id: runner
