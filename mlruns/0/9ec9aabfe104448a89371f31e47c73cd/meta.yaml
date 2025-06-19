@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ec9aabfe104448a89371f31e47c73cd/artifacts
+end_time: 1750320705973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ec9aabfe104448a89371f31e47c73cd
+run_name: painted-panda-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750320570217
+status: 3
+tags: []
+user_id: runner
