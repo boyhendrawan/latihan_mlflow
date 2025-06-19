@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2f15aa9b0d4145a099ac9484ff8bfd1e/artifacts
+end_time: 1750300650362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f15aa9b0d4145a099ac9484ff8bfd1e
+run_name: delightful-foal-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750300514200
+status: 3
+tags: []
+user_id: runner
