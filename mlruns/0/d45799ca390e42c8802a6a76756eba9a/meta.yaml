@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d45799ca390e42c8802a6a76756eba9a/artifacts
+end_time: 1750339853426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d45799ca390e42c8802a6a76756eba9a
+run_name: bald-ape-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339716048
+status: 3
+tags: []
+user_id: runner
