@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a0902273f604626b360643bcdc68ff6/artifacts
+end_time: 1750322472684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a0902273f604626b360643bcdc68ff6
+run_name: judicious-gnat-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750322335799
+status: 3
+tags: []
+user_id: runner
