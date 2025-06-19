@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/55d811cf72ea4075a4816e2d9adf51d2/artifacts
+end_time: 1750341419738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55d811cf72ea4075a4816e2d9adf51d2
+run_name: nebulous-quail-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750341282030
+status: 3
+tags: []
+user_id: runner
