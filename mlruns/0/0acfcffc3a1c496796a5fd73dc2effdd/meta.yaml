@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0acfcffc3a1c496796a5fd73dc2effdd/artifacts
+end_time: 1750333223170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0acfcffc3a1c496796a5fd73dc2effdd
+run_name: enthused-stork-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750333087991
+status: 3
+tags: []
+user_id: runner
