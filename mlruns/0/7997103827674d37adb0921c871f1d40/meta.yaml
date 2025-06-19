@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7997103827674d37adb0921c871f1d40/artifacts
+end_time: 1750342398754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7997103827674d37adb0921c871f1d40
+run_name: luxuriant-bear-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750342262883
+status: 3
+tags: []
+user_id: runner
