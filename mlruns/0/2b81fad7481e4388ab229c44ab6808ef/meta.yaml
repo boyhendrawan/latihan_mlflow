@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b81fad7481e4388ab229c44ab6808ef/artifacts
+end_time: 1750374120511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b81fad7481e4388ab229c44ab6808ef
+run_name: fearless-quail-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750373984571
+status: 3
+tags: []
+user_id: runner
