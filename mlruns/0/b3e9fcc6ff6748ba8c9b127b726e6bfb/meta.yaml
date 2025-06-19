@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b3e9fcc6ff6748ba8c9b127b726e6bfb/artifacts
+end_time: 1750376257756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e9fcc6ff6748ba8c9b127b726e6bfb
+run_name: charming-kite-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750376123229
+status: 3
+tags: []
+user_id: runner
