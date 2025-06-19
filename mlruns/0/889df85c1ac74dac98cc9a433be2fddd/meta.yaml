@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/889df85c1ac74dac98cc9a433be2fddd/artifacts
+end_time: 1750328551578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 889df85c1ac74dac98cc9a433be2fddd
+run_name: overjoyed-shrew-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750328414488
+status: 3
+tags: []
+user_id: runner
