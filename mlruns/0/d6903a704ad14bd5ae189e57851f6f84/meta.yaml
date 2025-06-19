@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d6903a704ad14bd5ae189e57851f6f84/artifacts
+end_time: 1750352552769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6903a704ad14bd5ae189e57851f6f84
+run_name: whimsical-seal-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750352417076
+status: 3
+tags: []
+user_id: runner
