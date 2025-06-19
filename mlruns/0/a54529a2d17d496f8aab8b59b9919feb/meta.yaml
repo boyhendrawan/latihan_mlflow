@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a54529a2d17d496f8aab8b59b9919feb/artifacts
+end_time: 1750293430796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a54529a2d17d496f8aab8b59b9919feb
+run_name: selective-hare-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750293294646
+status: 3
+tags: []
+user_id: runner
