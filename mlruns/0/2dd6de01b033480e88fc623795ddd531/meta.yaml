@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2dd6de01b033480e88fc623795ddd531/artifacts
+end_time: 1750332041292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dd6de01b033480e88fc623795ddd531
+run_name: able-crow-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331906094
+status: 3
+tags: []
+user_id: runner
