@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8788c18edaa14c02aff5e1a47ad9d2f2/artifacts
+end_time: 1750373732138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8788c18edaa14c02aff5e1a47ad9d2f2
+run_name: clean-roo-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750373596053
+status: 3
+tags: []
+user_id: runner
