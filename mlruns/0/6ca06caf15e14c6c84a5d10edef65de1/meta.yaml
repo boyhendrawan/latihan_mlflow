@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ca06caf15e14c6c84a5d10edef65de1/artifacts
+end_time: 1750296372819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ca06caf15e14c6c84a5d10edef65de1
+run_name: unruly-mink-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750296236258
+status: 3
+tags: []
+user_id: runner
