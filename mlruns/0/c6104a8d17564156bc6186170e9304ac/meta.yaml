@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c6104a8d17564156bc6186170e9304ac/artifacts
+end_time: 1750318561495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6104a8d17564156bc6186170e9304ac
+run_name: peaceful-toad-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750318423301
+status: 3
+tags: []
+user_id: runner
