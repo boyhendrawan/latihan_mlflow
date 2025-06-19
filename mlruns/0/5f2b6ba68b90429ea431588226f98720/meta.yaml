@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5f2b6ba68b90429ea431588226f98720/artifacts
+end_time: 1750325413404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f2b6ba68b90429ea431588226f98720
+run_name: sneaky-midge-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325276243
+status: 3
+tags: []
+user_id: runner
