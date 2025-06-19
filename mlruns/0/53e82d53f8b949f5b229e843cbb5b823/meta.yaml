@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53e82d53f8b949f5b229e843cbb5b823/artifacts
+end_time: 1750323059174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53e82d53f8b949f5b229e843cbb5b823
+run_name: amazing-mink-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750322924028
+status: 3
+tags: []
+user_id: runner
