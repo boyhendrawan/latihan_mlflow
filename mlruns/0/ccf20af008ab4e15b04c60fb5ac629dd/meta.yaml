@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ccf20af008ab4e15b04c60fb5ac629dd/artifacts
+end_time: 1750370826150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf20af008ab4e15b04c60fb5ac629dd
+run_name: grandiose-snail-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750370690140
+status: 3
+tags: []
+user_id: runner
