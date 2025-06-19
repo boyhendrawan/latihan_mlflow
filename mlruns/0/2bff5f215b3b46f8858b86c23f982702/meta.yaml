@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2bff5f215b3b46f8858b86c23f982702/artifacts
+end_time: 1750349256926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bff5f215b3b46f8858b86c23f982702
+run_name: orderly-dolphin-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750349118665
+status: 3
+tags: []
+user_id: runner
