@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d78abb2367e74aeb9613b625ab9c6745/artifacts
+end_time: 1750307079408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d78abb2367e74aeb9613b625ab9c6745
+run_name: glamorous-skunk-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750306942999
+status: 3
+tags: []
+user_id: runner
