@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a26c06309d52480fb9d6f598c2b2eac1/artifacts
+end_time: 1750319140334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a26c06309d52480fb9d6f598c2b2eac1
+run_name: defiant-fish-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750319003218
+status: 3
+tags: []
+user_id: runner
