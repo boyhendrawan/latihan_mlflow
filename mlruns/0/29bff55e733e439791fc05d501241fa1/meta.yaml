@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/29bff55e733e439791fc05d501241fa1/artifacts
+end_time: 1750312322417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29bff55e733e439791fc05d501241fa1
+run_name: ambitious-zebra-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750312186682
+status: 3
+tags: []
+user_id: runner
