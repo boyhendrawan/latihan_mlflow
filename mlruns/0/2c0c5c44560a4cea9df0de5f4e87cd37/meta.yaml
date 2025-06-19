@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c0c5c44560a4cea9df0de5f4e87cd37/artifacts
+end_time: 1750358517077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c0c5c44560a4cea9df0de5f4e87cd37
+run_name: capable-cub-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750358382342
+status: 3
+tags: []
+user_id: runner
