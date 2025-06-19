@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c26c7c629c824ee7b539fd24ee3fce3c/artifacts
+end_time: 1750309614991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c26c7c629c824ee7b539fd24ee3fce3c
+run_name: sneaky-cat-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750309477337
+status: 3
+tags: []
+user_id: runner
