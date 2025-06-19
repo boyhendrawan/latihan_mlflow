@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eeeb6c3433e841458a69525c087dd396/artifacts
+end_time: 1750328147853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeeb6c3433e841458a69525c087dd396
+run_name: secretive-shark-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750328012883
+status: 3
+tags: []
+user_id: runner
