@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8db63a1d218741bd9112c501cf6d4d13/artifacts
+end_time: 1750357941324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db63a1d218741bd9112c501cf6d4d13
+run_name: thundering-whale-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750357804494
+status: 3
+tags: []
+user_id: runner
