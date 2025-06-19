@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9644daeb933c45a3b32edf437652a0bb/artifacts
+end_time: 1750369059104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9644daeb933c45a3b32edf437652a0bb
+run_name: learned-wolf-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750368922784
+status: 3
+tags: []
+user_id: runner
