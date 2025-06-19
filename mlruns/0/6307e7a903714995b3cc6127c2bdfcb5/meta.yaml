@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6307e7a903714995b3cc6127c2bdfcb5/artifacts
+end_time: 1750352946417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6307e7a903714995b3cc6127c2bdfcb5
+run_name: bold-shrew-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750352811322
+status: 3
+tags: []
+user_id: runner
