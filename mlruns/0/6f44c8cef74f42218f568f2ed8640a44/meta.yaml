@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f44c8cef74f42218f568f2ed8640a44/artifacts
+end_time: 1750302788236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f44c8cef74f42218f568f2ed8640a44
+run_name: monumental-skink-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750302651124
+status: 3
+tags: []
+user_id: runner
