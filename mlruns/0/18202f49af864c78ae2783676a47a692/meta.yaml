@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18202f49af864c78ae2783676a47a692/artifacts
+end_time: 1750304363088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18202f49af864c78ae2783676a47a692
+run_name: gregarious-bug-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750304226972
+status: 3
+tags: []
+user_id: runner
