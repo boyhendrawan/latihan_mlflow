@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5308cbfd43540128771e590e117cbe3/artifacts
+end_time: 1750306106164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5308cbfd43540128771e590e117cbe3
+run_name: upset-bee-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750305971113
+status: 3
+tags: []
+user_id: runner
