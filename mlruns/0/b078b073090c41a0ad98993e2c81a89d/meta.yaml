@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b078b073090c41a0ad98993e2c81a89d/artifacts
+end_time: 1750338298688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b078b073090c41a0ad98993e2c81a89d
+run_name: charming-rat-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338162239
+status: 3
+tags: []
+user_id: runner
