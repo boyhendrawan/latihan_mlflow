@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90a4a7fe2c74419db4758f3a3b26faf1/artifacts
+end_time: 1750348468903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90a4a7fe2c74419db4758f3a3b26faf1
+run_name: puzzled-gull-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750348333082
+status: 3
+tags: []
+user_id: runner
