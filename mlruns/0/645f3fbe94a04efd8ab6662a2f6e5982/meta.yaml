@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/645f3fbe94a04efd8ab6662a2f6e5982/artifacts
+end_time: 1750368664808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645f3fbe94a04efd8ab6662a2f6e5982
+run_name: unruly-mare-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750368530743
+status: 3
+tags: []
+user_id: runner
