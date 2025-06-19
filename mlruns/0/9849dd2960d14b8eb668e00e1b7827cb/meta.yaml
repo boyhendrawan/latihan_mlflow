@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9849dd2960d14b8eb668e00e1b7827cb/artifacts
+end_time: 1750370224117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9849dd2960d14b8eb668e00e1b7827cb
+run_name: gentle-mare-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750370089229
+status: 3
+tags: []
+user_id: runner
