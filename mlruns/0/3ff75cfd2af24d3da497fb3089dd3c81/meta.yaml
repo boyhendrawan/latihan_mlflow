@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ff75cfd2af24d3da497fb3089dd3c81/artifacts
+end_time: 1750293624720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ff75cfd2af24d3da497fb3089dd3c81
+run_name: adorable-rat-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750293489034
+status: 3
+tags: []
+user_id: runner
