@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/938448ef5990463ba0ec91f8bd37d536/artifacts
+end_time: 1750317188021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938448ef5990463ba0ec91f8bd37d536
+run_name: glamorous-dog-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750317051474
+status: 3
+tags: []
+user_id: runner
