@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d72ff8900ab3419dadab553af5f0c89e/artifacts
+end_time: 1750314857274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72ff8900ab3419dadab553af5f0c89e
+run_name: orderly-steed-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750314721308
+status: 3
+tags: []
+user_id: runner
