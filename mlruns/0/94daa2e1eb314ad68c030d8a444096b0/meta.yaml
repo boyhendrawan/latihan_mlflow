@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94daa2e1eb314ad68c030d8a444096b0/artifacts
+end_time: 1750299679238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94daa2e1eb314ad68c030d8a444096b0
+run_name: salty-crow-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750299544203
+status: 3
+tags: []
+user_id: runner
