@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/60b7824babe243bf92125b57c06cb497/artifacts
+end_time: 1750298508422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60b7824babe243bf92125b57c06cb497
+run_name: bright-bat-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750298372405
+status: 3
+tags: []
+user_id: runner
