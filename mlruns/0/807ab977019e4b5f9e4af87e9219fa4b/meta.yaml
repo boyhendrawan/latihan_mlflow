@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/807ab977019e4b5f9e4af87e9219fa4b/artifacts
+end_time: 1750342205232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 807ab977019e4b5f9e4af87e9219fa4b
+run_name: aged-quail-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750342067608
+status: 3
+tags: []
+user_id: runner
