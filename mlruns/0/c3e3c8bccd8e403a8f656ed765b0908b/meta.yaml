@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3e3c8bccd8e403a8f656ed765b0908b/artifacts
+end_time: 1750328931532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e3c8bccd8e403a8f656ed765b0908b
+run_name: glamorous-goose-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750328800127
+status: 3
+tags: []
+user_id: runner
