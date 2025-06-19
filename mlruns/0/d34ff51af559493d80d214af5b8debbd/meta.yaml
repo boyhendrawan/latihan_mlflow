@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d34ff51af559493d80d214af5b8debbd/artifacts
+end_time: 1750330680594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d34ff51af559493d80d214af5b8debbd
+run_name: glamorous-cow-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750330544701
+status: 3
+tags: []
+user_id: runner
