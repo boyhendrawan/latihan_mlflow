@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c88caf17b8a34c4788d8194e6f6c89fe/artifacts
+end_time: 1750354432020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c88caf17b8a34c4788d8194e6f6c89fe
+run_name: victorious-pig-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750354297038
+status: 3
+tags: []
+user_id: runner
