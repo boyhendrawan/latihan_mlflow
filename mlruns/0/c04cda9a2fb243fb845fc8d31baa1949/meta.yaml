@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c04cda9a2fb243fb845fc8d31baa1949/artifacts
+end_time: 1750362828682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c04cda9a2fb243fb845fc8d31baa1949
+run_name: resilient-pug-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750362692704
+status: 3
+tags: []
+user_id: runner
