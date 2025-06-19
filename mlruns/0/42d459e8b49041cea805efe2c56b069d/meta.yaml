@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42d459e8b49041cea805efe2c56b069d/artifacts
+end_time: 1750308054768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42d459e8b49041cea805efe2c56b069d
+run_name: masked-seal-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750307918118
+status: 3
+tags: []
+user_id: runner
