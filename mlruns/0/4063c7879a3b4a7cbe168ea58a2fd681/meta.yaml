@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4063c7879a3b4a7cbe168ea58a2fd681/artifacts
+end_time: 1750299872317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4063c7879a3b4a7cbe168ea58a2fd681
+run_name: rogue-crane-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750299737140
+status: 3
+tags: []
+user_id: runner
