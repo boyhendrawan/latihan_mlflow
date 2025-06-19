@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f33e649b6a9c4e728988549cd2c1bc98/artifacts
+end_time: 1750359299226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f33e649b6a9c4e728988549cd2c1bc98
+run_name: tasteful-penguin-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750359163362
+status: 3
+tags: []
+user_id: runner
