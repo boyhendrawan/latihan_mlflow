@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa2f11b189974ff99af70be53dbd3ee9/artifacts
+end_time: 1750329320591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa2f11b189974ff99af70be53dbd3ee9
+run_name: bittersweet-yak-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750329183473
+status: 3
+tags: []
+user_id: runner
