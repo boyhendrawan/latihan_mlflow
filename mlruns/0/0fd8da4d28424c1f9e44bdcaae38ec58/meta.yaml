@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0fd8da4d28424c1f9e44bdcaae38ec58/artifacts
+end_time: 1750308445084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd8da4d28424c1f9e44bdcaae38ec58
+run_name: adventurous-mare-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750308309062
+status: 3
+tags: []
+user_id: runner
