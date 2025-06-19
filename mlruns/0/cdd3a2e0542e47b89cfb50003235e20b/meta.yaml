@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdd3a2e0542e47b89cfb50003235e20b/artifacts
+end_time: 1750358326704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdd3a2e0542e47b89cfb50003235e20b
+run_name: gentle-shrew-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750358191085
+status: 3
+tags: []
+user_id: runner
