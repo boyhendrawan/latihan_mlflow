@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63c292cb1ca541a7986827eb501d3f8f/artifacts
+end_time: 1750359888889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c292cb1ca541a7986827eb501d3f8f
+run_name: blushing-finch-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750359752527
+status: 3
+tags: []
+user_id: runner
