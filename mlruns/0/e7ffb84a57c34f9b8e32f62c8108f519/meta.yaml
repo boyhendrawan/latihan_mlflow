@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7ffb84a57c34f9b8e32f62c8108f519/artifacts
+end_time: 1750356583567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ffb84a57c34f9b8e32f62c8108f519
+run_name: upset-fox-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750356445510
+status: 3
+tags: []
+user_id: runner
