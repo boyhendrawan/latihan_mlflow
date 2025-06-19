@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e7c771a93d34274912b9947f9312155/artifacts
+end_time: 1750350217151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e7c771a93d34274912b9947f9312155
+run_name: popular-fox-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750350080356
+status: 3
+tags: []
+user_id: runner
