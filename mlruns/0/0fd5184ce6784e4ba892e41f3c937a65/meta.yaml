@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0fd5184ce6784e4ba892e41f3c937a65/artifacts
+end_time: 1750302985356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd5184ce6784e4ba892e41f3c937a65
+run_name: grandiose-whale-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750302849303
+status: 3
+tags: []
+user_id: runner
