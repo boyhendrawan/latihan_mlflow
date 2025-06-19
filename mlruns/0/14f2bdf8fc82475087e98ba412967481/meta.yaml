@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14f2bdf8fc82475087e98ba412967481/artifacts
+end_time: 1750324821834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f2bdf8fc82475087e98ba412967481
+run_name: traveling-bee-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750324686478
+status: 3
+tags: []
+user_id: runner
