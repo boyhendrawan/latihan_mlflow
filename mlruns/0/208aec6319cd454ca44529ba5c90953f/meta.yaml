@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/208aec6319cd454ca44529ba5c90953f/artifacts
+end_time: 1750451947796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 208aec6319cd454ca44529ba5c90953f
+run_name: shivering-robin-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750451811764
+status: 3
+tags: []
+user_id: runner
