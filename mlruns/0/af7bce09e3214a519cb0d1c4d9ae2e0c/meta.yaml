@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af7bce09e3214a519cb0d1c4d9ae2e0c/artifacts
+end_time: 1750458215458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af7bce09e3214a519cb0d1c4d9ae2e0c
+run_name: loud-conch-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750458078944
+status: 3
+tags: []
+user_id: runner
