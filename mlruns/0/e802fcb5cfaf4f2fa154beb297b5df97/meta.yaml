@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e802fcb5cfaf4f2fa154beb297b5df97/artifacts
+end_time: 1750381725082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e802fcb5cfaf4f2fa154beb297b5df97
+run_name: fun-fly-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750381589164
+status: 3
+tags: []
+user_id: runner
