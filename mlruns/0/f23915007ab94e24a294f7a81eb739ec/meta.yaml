@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f23915007ab94e24a294f7a81eb739ec/artifacts
+end_time: 1750435470197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f23915007ab94e24a294f7a81eb739ec
+run_name: dashing-shoat-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750435334405
+status: 3
+tags: []
+user_id: runner
