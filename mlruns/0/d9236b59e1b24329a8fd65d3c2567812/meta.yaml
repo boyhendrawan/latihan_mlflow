@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9236b59e1b24329a8fd65d3c2567812/artifacts
+end_time: 1750381526401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9236b59e1b24329a8fd65d3c2567812
+run_name: dapper-kite-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750381390146
+status: 3
+tags: []
+user_id: runner
