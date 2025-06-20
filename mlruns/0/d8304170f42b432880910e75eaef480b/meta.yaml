@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8304170f42b432880910e75eaef480b/artifacts
+end_time: 1750440581517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8304170f42b432880910e75eaef480b
+run_name: wise-worm-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750440445504
+status: 3
+tags: []
+user_id: runner
