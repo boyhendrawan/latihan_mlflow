@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f892a40c64d546758a52c9e892475af3/artifacts
+end_time: 1750441555158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f892a40c64d546758a52c9e892475af3
+run_name: ambitious-duck-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750441420114
+status: 3
+tags: []
+user_id: runner
