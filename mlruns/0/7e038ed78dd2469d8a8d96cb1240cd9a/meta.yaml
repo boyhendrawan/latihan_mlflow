@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e038ed78dd2469d8a8d96cb1240cd9a/artifacts
+end_time: 1750381327172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e038ed78dd2469d8a8d96cb1240cd9a
+run_name: marvelous-squid-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750381191392
+status: 3
+tags: []
+user_id: runner
