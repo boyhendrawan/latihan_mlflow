@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3eda9566d8c9492d98793110b82e2c88/artifacts
+end_time: 1750463475845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eda9566d8c9492d98793110b82e2c88
+run_name: unruly-midge-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750463340567
+status: 3
+tags: []
+user_id: runner
