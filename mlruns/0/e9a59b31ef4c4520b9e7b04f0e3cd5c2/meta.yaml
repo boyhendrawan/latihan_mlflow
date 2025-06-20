@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e9a59b31ef4c4520b9e7b04f0e3cd5c2/artifacts
+end_time: 1750382304978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9a59b31ef4c4520b9e7b04f0e3cd5c2
+run_name: resilient-zebra-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750382169478
+status: 3
+tags: []
+user_id: runner
