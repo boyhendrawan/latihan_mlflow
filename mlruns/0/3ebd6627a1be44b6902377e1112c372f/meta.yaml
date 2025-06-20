@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ebd6627a1be44b6902377e1112c372f/artifacts
+end_time: 1750389320879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ebd6627a1be44b6902377e1112c372f
+run_name: overjoyed-gnu-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389184457
+status: 3
+tags: []
+user_id: runner
