@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/36934d1aa1074727958dc875bf88a81c/artifacts
+end_time: 1750443900446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36934d1aa1074727958dc875bf88a81c
+run_name: bittersweet-hare-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750443764688
+status: 3
+tags: []
+user_id: runner
