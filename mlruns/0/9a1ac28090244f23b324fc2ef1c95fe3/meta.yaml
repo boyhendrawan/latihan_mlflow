@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a1ac28090244f23b324fc2ef1c95fe3/artifacts
+end_time: 1750409219257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1ac28090244f23b324fc2ef1c95fe3
+run_name: selective-sponge-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750409083994
+status: 3
+tags: []
+user_id: runner
