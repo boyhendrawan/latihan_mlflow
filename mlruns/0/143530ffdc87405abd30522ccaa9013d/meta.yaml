@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/143530ffdc87405abd30522ccaa9013d/artifacts
+end_time: 1750415882507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 143530ffdc87405abd30522ccaa9013d
+run_name: exultant-trout-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750415745008
+status: 3
+tags: []
+user_id: runner
