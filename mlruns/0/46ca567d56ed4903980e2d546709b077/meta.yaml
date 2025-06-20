@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46ca567d56ed4903980e2d546709b077/artifacts
+end_time: 1750461919234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46ca567d56ed4903980e2d546709b077
+run_name: trusting-frog-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750461782057
+status: 3
+tags: []
+user_id: runner
