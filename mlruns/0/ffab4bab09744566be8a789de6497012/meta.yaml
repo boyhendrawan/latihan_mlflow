@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ffab4bab09744566be8a789de6497012/artifacts
+end_time: 1750434301372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffab4bab09744566be8a789de6497012
+run_name: silent-smelt-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750434165281
+status: 3
+tags: []
+user_id: runner
