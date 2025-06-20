@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0eebeb46a92e4c1584e60ae89eb90bc1/artifacts
+end_time: 1750450377295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0eebeb46a92e4c1584e60ae89eb90bc1
+run_name: caring-smelt-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750450247335
+status: 3
+tags: []
+user_id: runner
