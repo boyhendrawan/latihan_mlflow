@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3b834d729a24f4fa3c7109ad0b87664/artifacts
+end_time: 1750449796768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3b834d729a24f4fa3c7109ad0b87664
+run_name: capricious-swan-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750449661529
+status: 3
+tags: []
+user_id: runner
