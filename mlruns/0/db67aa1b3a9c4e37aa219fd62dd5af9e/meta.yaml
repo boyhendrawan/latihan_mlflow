@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db67aa1b3a9c4e37aa219fd62dd5af9e/artifacts
+end_time: 1750389122559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db67aa1b3a9c4e37aa219fd62dd5af9e
+run_name: smiling-frog-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388986340
+status: 3
+tags: []
+user_id: runner
