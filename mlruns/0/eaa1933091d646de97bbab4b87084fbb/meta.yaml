@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eaa1933091d646de97bbab4b87084fbb/artifacts
+end_time: 1750426654133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa1933091d646de97bbab4b87084fbb
+run_name: awesome-crow-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750426517787
+status: 3
+tags: []
+user_id: runner
