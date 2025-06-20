@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/387168e4de8b4a77b8b4514cac3c96ed/artifacts
+end_time: 1750409808638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 387168e4de8b4a77b8b4514cac3c96ed
+run_name: marvelous-moth-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750409673471
+status: 3
+tags: []
+user_id: runner
