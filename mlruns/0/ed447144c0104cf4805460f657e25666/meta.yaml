@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed447144c0104cf4805460f657e25666/artifacts
+end_time: 1750445490468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed447144c0104cf4805460f657e25666
+run_name: awesome-wolf-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750445353053
+status: 3
+tags: []
+user_id: runner
