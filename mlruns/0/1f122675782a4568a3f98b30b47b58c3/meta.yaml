@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f122675782a4568a3f98b30b47b58c3/artifacts
+end_time: 1750395905554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f122675782a4568a3f98b30b47b58c3
+run_name: beautiful-vole-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750395767893
+status: 3
+tags: []
+user_id: runner
