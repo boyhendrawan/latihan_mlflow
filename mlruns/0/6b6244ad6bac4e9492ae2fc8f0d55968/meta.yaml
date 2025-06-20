@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b6244ad6bac4e9492ae2fc8f0d55968/artifacts
+end_time: 1750426848996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b6244ad6bac4e9492ae2fc8f0d55968
+run_name: intrigued-jay-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750426712775
+status: 3
+tags: []
+user_id: runner
