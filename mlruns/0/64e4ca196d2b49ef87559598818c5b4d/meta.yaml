@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64e4ca196d2b49ef87559598818c5b4d/artifacts
+end_time: 1750405870004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e4ca196d2b49ef87559598818c5b4d
+run_name: intelligent-sow-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750405734504
+status: 3
+tags: []
+user_id: runner
