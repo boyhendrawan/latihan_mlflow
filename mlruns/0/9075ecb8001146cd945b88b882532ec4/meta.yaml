@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9075ecb8001146cd945b88b882532ec4/artifacts
+end_time: 1750412740210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9075ecb8001146cd945b88b882532ec4
+run_name: zealous-calf-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750412604988
+status: 3
+tags: []
+user_id: runner
