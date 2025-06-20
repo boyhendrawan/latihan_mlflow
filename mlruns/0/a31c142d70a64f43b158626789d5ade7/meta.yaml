@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a31c142d70a64f43b158626789d5ade7/artifacts
+end_time: 1750449009333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a31c142d70a64f43b158626789d5ade7
+run_name: honorable-dove-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750448873046
+status: 3
+tags: []
+user_id: runner
