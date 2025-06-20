@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/894c5c3eb8614003a1a4f12b186c8827/artifacts
+end_time: 1750413920694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 894c5c3eb8614003a1a4f12b186c8827
+run_name: fun-slug-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750413784345
+status: 3
+tags: []
+user_id: runner
