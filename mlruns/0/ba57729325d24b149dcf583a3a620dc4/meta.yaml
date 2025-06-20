@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba57729325d24b149dcf583a3a620dc4/artifacts
+end_time: 1750453511414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba57729325d24b149dcf583a3a620dc4
+run_name: entertaining-yak-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750453376176
+status: 3
+tags: []
+user_id: runner
