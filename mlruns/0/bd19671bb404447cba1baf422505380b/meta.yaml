@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd19671bb404447cba1baf422505380b/artifacts
+end_time: 1750399047141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd19671bb404447cba1baf422505380b
+run_name: bright-fly-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750398909593
+status: 3
+tags: []
+user_id: runner
