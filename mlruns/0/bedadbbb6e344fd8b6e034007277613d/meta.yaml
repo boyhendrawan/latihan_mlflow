@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bedadbbb6e344fd8b6e034007277613d/artifacts
+end_time: 1750425680848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bedadbbb6e344fd8b6e034007277613d
+run_name: masked-mule-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750425545374
+status: 3
+tags: []
+user_id: runner
