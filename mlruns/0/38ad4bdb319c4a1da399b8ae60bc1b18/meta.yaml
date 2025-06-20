@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38ad4bdb319c4a1da399b8ae60bc1b18/artifacts
+end_time: 1750450188578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38ad4bdb319c4a1da399b8ae60bc1b18
+run_name: efficient-bird-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750450050205
+status: 3
+tags: []
+user_id: runner
