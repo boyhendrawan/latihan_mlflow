@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bb0b6487928f45b8bda78f13079847f8/artifacts
+end_time: 1750399437582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb0b6487928f45b8bda78f13079847f8
+run_name: mercurial-koi-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750399302376
+status: 3
+tags: []
+user_id: runner
