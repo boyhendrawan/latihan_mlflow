@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9b16d35fc16e49e7b1000f1523a37f3f/artifacts
+end_time: 1750379179332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b16d35fc16e49e7b1000f1523a37f3f
+run_name: victorious-flea-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750379043259
+status: 3
+tags: []
+user_id: runner
