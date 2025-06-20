@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a459a45fb3e84963bb79cb096235fe78/artifacts
+end_time: 1750391843195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a459a45fb3e84963bb79cb096235fe78
+run_name: gifted-horse-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750391707789
+status: 3
+tags: []
+user_id: runner
