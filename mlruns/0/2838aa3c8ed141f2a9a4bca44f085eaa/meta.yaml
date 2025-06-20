@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2838aa3c8ed141f2a9a4bca44f085eaa/artifacts
+end_time: 1750420369123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2838aa3c8ed141f2a9a4bca44f085eaa
+run_name: abrasive-shrike-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750420232800
+status: 3
+tags: []
+user_id: runner
