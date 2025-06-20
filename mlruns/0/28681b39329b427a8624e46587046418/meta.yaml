@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28681b39329b427a8624e46587046418/artifacts
+end_time: 1750405676260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28681b39329b427a8624e46587046418
+run_name: loud-lark-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750405540439
+status: 3
+tags: []
+user_id: runner
