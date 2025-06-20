@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f25898ce103b40968f2bf36fec80bc80/artifacts
+end_time: 1750440967067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f25898ce103b40968f2bf36fec80bc80
+run_name: magnificent-asp-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750440831881
+status: 3
+tags: []
+user_id: runner
