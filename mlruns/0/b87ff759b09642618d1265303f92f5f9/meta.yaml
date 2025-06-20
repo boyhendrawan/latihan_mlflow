@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b87ff759b09642618d1265303f92f5f9/artifacts
+end_time: 1750445683948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b87ff759b09642618d1265303f92f5f9
+run_name: whimsical-snail-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750445548642
+status: 3
+tags: []
+user_id: runner
