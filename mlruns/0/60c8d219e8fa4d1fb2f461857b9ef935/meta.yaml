@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/60c8d219e8fa4d1fb2f461857b9ef935/artifacts
+end_time: 1750386976829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c8d219e8fa4d1fb2f461857b9ef935
+run_name: selective-bass-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750386840644
+status: 3
+tags: []
+user_id: runner
