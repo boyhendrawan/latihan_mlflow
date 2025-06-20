@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5de7170493dd43b1ab81db623d11c923/artifacts
+end_time: 1750394357078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de7170493dd43b1ab81db623d11c923
+run_name: learned-fly-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750394221643
+status: 3
+tags: []
+user_id: runner
