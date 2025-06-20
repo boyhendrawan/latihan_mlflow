@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b3a0e4958032400a88b2e0f46e10345b/artifacts
+end_time: 1750423714851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3a0e4958032400a88b2e0f46e10345b
+run_name: clean-colt-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750423579085
+status: 3
+tags: []
+user_id: runner
