@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3bc7791e67114746afc990f2780d8507/artifacts
+end_time: 1750452534008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bc7791e67114746afc990f2780d8507
+run_name: auspicious-shrike-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750452397918
+status: 3
+tags: []
+user_id: runner
