@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2e3fc95f3b642a1ba23342f4d20a9bd/artifacts
+end_time: 1750448224304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e3fc95f3b642a1ba23342f4d20a9bd
+run_name: flawless-mare-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750448087546
+status: 3
+tags: []
+user_id: runner
