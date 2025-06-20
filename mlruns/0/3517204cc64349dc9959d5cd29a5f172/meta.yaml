@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3517204cc64349dc9959d5cd29a5f172/artifacts
+end_time: 1750406459713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3517204cc64349dc9959d5cd29a5f172
+run_name: placid-shoat-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750406322834
+status: 3
+tags: []
+user_id: runner
