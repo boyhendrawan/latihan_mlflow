@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b17e3ec8982f4f6984ec2d026e12f517/artifacts
+end_time: 1750378006486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b17e3ec8982f4f6984ec2d026e12f517
+run_name: bittersweet-mole-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750377870799
+status: 3
+tags: []
+user_id: runner
