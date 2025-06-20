@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2bca7acd8eed450b8765b361f34dd5b8/artifacts
+end_time: 1750434885201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bca7acd8eed450b8765b361f34dd5b8
+run_name: chill-crow-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750434749075
+status: 3
+tags: []
+user_id: runner
