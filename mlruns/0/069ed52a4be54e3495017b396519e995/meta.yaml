@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/069ed52a4be54e3495017b396519e995/artifacts
+end_time: 1750396489804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 069ed52a4be54e3495017b396519e995
+run_name: incongruous-hog-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750396354790
+status: 3
+tags: []
+user_id: runner
