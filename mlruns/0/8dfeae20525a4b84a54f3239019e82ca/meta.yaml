@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8dfeae20525a4b84a54f3239019e82ca/artifacts
+end_time: 1750418020515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dfeae20525a4b84a54f3239019e82ca
+run_name: handsome-quail-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750417884656
+status: 3
+tags: []
+user_id: runner
