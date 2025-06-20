@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5edfcc7902d43e98229587529edc5e2/artifacts
+end_time: 1750378785570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5edfcc7902d43e98229587529edc5e2
+run_name: merciful-chimp-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750378650205
+status: 3
+tags: []
+user_id: runner
