@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1c4f013d74f485f8e81a11ec080c3dc/artifacts
+end_time: 1750398254588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1c4f013d74f485f8e81a11ec080c3dc
+run_name: bustling-mole-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750398118131
+status: 3
+tags: []
+user_id: runner
