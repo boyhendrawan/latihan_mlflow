@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5dcd0a4fcff94c93a249b9e0d6b5d588/artifacts
+end_time: 1750450768504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dcd0a4fcff94c93a249b9e0d6b5d588
+run_name: resilient-midge-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750450632105
+status: 3
+tags: []
+user_id: runner
