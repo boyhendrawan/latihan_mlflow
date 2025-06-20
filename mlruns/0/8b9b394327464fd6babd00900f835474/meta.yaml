@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b9b394327464fd6babd00900f835474/artifacts
+end_time: 1750459766927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b9b394327464fd6babd00900f835474
+run_name: capable-snipe-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750459631747
+status: 3
+tags: []
+user_id: runner
