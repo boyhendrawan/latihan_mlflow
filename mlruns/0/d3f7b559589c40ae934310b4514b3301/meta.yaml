@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d3f7b559589c40ae934310b4514b3301/artifacts
+end_time: 1750400212564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3f7b559589c40ae934310b4514b3301
+run_name: vaunted-ray-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750400076526
+status: 3
+tags: []
+user_id: runner
