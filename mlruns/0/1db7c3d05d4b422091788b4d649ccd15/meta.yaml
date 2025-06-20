@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1db7c3d05d4b422091788b4d649ccd15/artifacts
+end_time: 1750410785389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1db7c3d05d4b422091788b4d649ccd15
+run_name: burly-crane-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750410649926
+status: 3
+tags: []
+user_id: runner
