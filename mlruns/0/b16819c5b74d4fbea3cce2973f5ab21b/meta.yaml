@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b16819c5b74d4fbea3cce2973f5ab21b/artifacts
+end_time: 1750409415054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b16819c5b74d4fbea3cce2973f5ab21b
+run_name: blushing-deer-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750409279585
+status: 3
+tags: []
+user_id: runner
