@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8006206143894a40a3919c874da88150/artifacts
+end_time: 1750387170315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8006206143894a40a3919c874da88150
+run_name: aged-snail-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750387035353
+status: 3
+tags: []
+user_id: runner
