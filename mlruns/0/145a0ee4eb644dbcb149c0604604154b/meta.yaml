@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/145a0ee4eb644dbcb149c0604604154b/artifacts
+end_time: 1750400015452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145a0ee4eb644dbcb149c0604604154b
+run_name: beautiful-turtle-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750399880296
+status: 3
+tags: []
+user_id: runner
