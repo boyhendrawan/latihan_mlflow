@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95c8ef4f64534637b65ce35cf465b74b/artifacts
+end_time: 1750406067087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c8ef4f64534637b65ce35cf465b74b
+run_name: fearless-bear-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750405930491
+status: 3
+tags: []
+user_id: runner
