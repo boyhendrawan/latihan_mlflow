@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/381a66c3c0124c26840d290132a93e7e/artifacts
+end_time: 1750460351667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 381a66c3c0124c26840d290132a93e7e
+run_name: inquisitive-crow-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750460216347
+status: 3
+tags: []
+user_id: runner
