@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aad626cb133549089369d48905612894/artifacts
+end_time: 1750436055625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aad626cb133549089369d48905612894
+run_name: nimble-stag-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750435919521
+status: 3
+tags: []
+user_id: runner
