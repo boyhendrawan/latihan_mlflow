@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1adff045e3e74d3caa59665f6320cc49/artifacts
+end_time: 1750407839066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1adff045e3e74d3caa59665f6320cc49
+run_name: chill-doe-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750407702987
+status: 3
+tags: []
+user_id: runner
