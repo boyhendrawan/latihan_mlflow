@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f3e736d9fd94c88b0c5dde74791e66b/artifacts
+end_time: 1750436252883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f3e736d9fd94c88b0c5dde74791e66b
+run_name: gaudy-crow-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436115881
+status: 3
+tags: []
+user_id: runner
