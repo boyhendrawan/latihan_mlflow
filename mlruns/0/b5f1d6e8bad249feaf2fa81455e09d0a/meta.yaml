@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5f1d6e8bad249feaf2fa81455e09d0a/artifacts
+end_time: 1750388340657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f1d6e8bad249feaf2fa81455e09d0a
+run_name: vaunted-pig-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388203595
+status: 3
+tags: []
+user_id: runner
