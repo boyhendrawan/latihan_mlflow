@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a4d51378f08b448899527bdefc0be7c6/artifacts
+end_time: 1750393972449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4d51378f08b448899527bdefc0be7c6
+run_name: flawless-robin-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750393836627
+status: 3
+tags: []
+user_id: runner
