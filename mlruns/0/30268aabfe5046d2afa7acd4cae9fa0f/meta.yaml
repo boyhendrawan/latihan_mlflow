@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/30268aabfe5046d2afa7acd4cae9fa0f/artifacts
+end_time: 1750416266975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30268aabfe5046d2afa7acd4cae9fa0f
+run_name: treasured-skink-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750416135063
+status: 3
+tags: []
+user_id: runner
