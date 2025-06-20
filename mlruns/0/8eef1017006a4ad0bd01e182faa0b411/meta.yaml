@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8eef1017006a4ad0bd01e182faa0b411/artifacts
+end_time: 1750394552340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8eef1017006a4ad0bd01e182faa0b411
+run_name: ambitious-stoat-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750394416593
+status: 3
+tags: []
+user_id: runner
