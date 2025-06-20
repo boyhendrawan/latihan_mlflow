@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/876e4e535be543acac501a9be0f3fea9/artifacts
+end_time: 1750392424198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 876e4e535be543acac501a9be0f3fea9
+run_name: fortunate-ray-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750392286772
+status: 3
+tags: []
+user_id: runner
