@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bea2b5ff11244e238a10941681dbd2fe/artifacts
+end_time: 1750437429844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea2b5ff11244e238a10941681dbd2fe
+run_name: capable-fish-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750437291878
+status: 3
+tags: []
+user_id: runner
