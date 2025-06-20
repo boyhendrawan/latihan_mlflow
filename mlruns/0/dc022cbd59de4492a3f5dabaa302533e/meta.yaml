@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc022cbd59de4492a3f5dabaa302533e/artifacts
+end_time: 1750441165495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc022cbd59de4492a3f5dabaa302533e
+run_name: rare-pig-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750441028437
+status: 3
+tags: []
+user_id: runner
