@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1925a687e8d8469a92690a928bb9492e/artifacts
+end_time: 1750402556799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1925a687e8d8469a92690a928bb9492e
+run_name: nebulous-goose-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750402422329
+status: 3
+tags: []
+user_id: runner
