@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f123a934291b421393b2135ae404dd0d/artifacts
+end_time: 1750394164385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f123a934291b421393b2135ae404dd0d
+run_name: blushing-goose-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750394028590
+status: 3
+tags: []
+user_id: runner
