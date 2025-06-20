@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdd1ec003ac3490aae0a82418dd718d6/artifacts
+end_time: 1750382893741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd1ec003ac3490aae0a82418dd718d6
+run_name: fearless-pig-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750382758276
+status: 3
+tags: []
+user_id: runner
