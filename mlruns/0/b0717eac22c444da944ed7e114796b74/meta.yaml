@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b0717eac22c444da944ed7e114796b74/artifacts
+end_time: 1750443313474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0717eac22c444da944ed7e114796b74
+run_name: stylish-skunk-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750443178439
+status: 3
+tags: []
+user_id: runner
