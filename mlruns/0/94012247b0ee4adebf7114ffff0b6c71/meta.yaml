@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94012247b0ee4adebf7114ffff0b6c71/artifacts
+end_time: 1750446271590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94012247b0ee4adebf7114ffff0b6c71
+run_name: capable-stag-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750446133764
+status: 3
+tags: []
+user_id: runner
