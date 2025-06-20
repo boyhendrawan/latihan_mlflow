@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a79f46e57f54b3fb49b45f4bf0f213d/artifacts
+end_time: 1750439797906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a79f46e57f54b3fb49b45f4bf0f213d
+run_name: nosy-penguin-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750439661573
+status: 3
+tags: []
+user_id: runner
