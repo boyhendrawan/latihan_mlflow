@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2f4c13f427cc4d2a886e7428a25bcfad/artifacts
+end_time: 1750421159009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f4c13f427cc4d2a886e7428a25bcfad
+run_name: mercurial-bat-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421022935
+status: 3
+tags: []
+user_id: runner
