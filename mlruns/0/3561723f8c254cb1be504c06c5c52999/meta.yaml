@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3561723f8c254cb1be504c06c5c52999/artifacts
+end_time: 1750386199100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3561723f8c254cb1be504c06c5c52999
+run_name: auspicious-smelt-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750386062858
+status: 3
+tags: []
+user_id: runner
