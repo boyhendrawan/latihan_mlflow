@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/812babe1b73d426ab68a6a30f17a058e/artifacts
+end_time: 1750431752165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 812babe1b73d426ab68a6a30f17a058e
+run_name: clumsy-koi-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750431615822
+status: 3
+tags: []
+user_id: runner
