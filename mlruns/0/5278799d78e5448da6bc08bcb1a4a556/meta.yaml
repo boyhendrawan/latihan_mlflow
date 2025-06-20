@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5278799d78e5448da6bc08bcb1a4a556/artifacts
+end_time: 1750425485976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5278799d78e5448da6bc08bcb1a4a556
+run_name: adaptable-kit-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750425349844
+status: 3
+tags: []
+user_id: runner
