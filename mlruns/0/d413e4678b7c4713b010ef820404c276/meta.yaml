@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d413e4678b7c4713b010ef820404c276/artifacts
+end_time: 1750453121980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d413e4678b7c4713b010ef820404c276
+run_name: burly-sheep-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750452985936
+status: 3
+tags: []
+user_id: runner
