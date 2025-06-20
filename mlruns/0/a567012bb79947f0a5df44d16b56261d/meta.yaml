@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a567012bb79947f0a5df44d16b56261d/artifacts
+end_time: 1750417039838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a567012bb79947f0a5df44d16b56261d
+run_name: orderly-hawk-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750416904303
+status: 3
+tags: []
+user_id: runner
