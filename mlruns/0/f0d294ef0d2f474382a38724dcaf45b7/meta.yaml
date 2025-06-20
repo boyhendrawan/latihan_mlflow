@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0d294ef0d2f474382a38724dcaf45b7/artifacts
+end_time: 1750382109054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d294ef0d2f474382a38724dcaf45b7
+run_name: able-fowl-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750381973694
+status: 3
+tags: []
+user_id: runner
