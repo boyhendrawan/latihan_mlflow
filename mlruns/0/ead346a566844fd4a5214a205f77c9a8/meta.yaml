@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ead346a566844fd4a5214a205f77c9a8/artifacts
+end_time: 1750389516310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ead346a566844fd4a5214a205f77c9a8
+run_name: orderly-wasp-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389381265
+status: 3
+tags: []
+user_id: runner
