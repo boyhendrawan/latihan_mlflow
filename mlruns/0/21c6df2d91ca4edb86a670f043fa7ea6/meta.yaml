@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21c6df2d91ca4edb86a670f043fa7ea6/artifacts
+end_time: 1750392618178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21c6df2d91ca4edb86a670f043fa7ea6
+run_name: trusting-gnu-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750392481725
+status: 3
+tags: []
+user_id: runner
