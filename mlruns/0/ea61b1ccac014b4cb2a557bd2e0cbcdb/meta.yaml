@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea61b1ccac014b4cb2a557bd2e0cbcdb/artifacts
+end_time: 1750446860954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea61b1ccac014b4cb2a557bd2e0cbcdb
+run_name: dashing-mouse-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750446725429
+status: 3
+tags: []
+user_id: runner
