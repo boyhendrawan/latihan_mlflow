@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db70e6eb4ed54e089be58260c3344e0d/artifacts
+end_time: 1750424111271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db70e6eb4ed54e089be58260c3344e0d
+run_name: bedecked-whale-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750423973365
+status: 3
+tags: []
+user_id: runner
