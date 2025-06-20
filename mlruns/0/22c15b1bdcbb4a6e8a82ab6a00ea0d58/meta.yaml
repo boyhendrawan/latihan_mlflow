@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22c15b1bdcbb4a6e8a82ab6a00ea0d58/artifacts
+end_time: 1750408227607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22c15b1bdcbb4a6e8a82ab6a00ea0d58
+run_name: welcoming-flea-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408092073
+status: 3
+tags: []
+user_id: runner
