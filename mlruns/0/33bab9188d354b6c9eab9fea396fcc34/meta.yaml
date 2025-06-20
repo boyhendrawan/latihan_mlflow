@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/33bab9188d354b6c9eab9fea396fcc34/artifacts
+end_time: 1750414312037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33bab9188d354b6c9eab9fea396fcc34
+run_name: peaceful-robin-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750414176183
+status: 3
+tags: []
+user_id: runner
