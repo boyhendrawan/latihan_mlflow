@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a04b5182a7d04609afca79bc326d9700/artifacts
+end_time: 1750422542422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a04b5182a7d04609afca79bc326d9700
+run_name: chill-fawn-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750422407352
+status: 3
+tags: []
+user_id: runner
