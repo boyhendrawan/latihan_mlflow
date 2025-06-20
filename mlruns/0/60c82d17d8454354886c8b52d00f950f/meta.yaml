@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/60c82d17d8454354886c8b52d00f950f/artifacts
+end_time: 1750405284537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c82d17d8454354886c8b52d00f950f
+run_name: bedecked-penguin-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750405148845
+status: 3
+tags: []
+user_id: runner
