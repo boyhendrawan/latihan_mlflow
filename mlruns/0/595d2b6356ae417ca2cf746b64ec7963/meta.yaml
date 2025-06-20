@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/595d2b6356ae417ca2cf746b64ec7963/artifacts
+end_time: 1750433911666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 595d2b6356ae417ca2cf746b64ec7963
+run_name: omniscient-skunk-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750433776121
+status: 3
+tags: []
+user_id: runner
