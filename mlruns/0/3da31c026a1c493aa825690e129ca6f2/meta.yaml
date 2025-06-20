@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3da31c026a1c493aa825690e129ca6f2/artifacts
+end_time: 1750451358906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da31c026a1c493aa825690e129ca6f2
+run_name: unleashed-snipe-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750451221905
+status: 3
+tags: []
+user_id: runner
