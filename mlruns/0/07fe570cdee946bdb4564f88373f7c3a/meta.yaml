@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07fe570cdee946bdb4564f88373f7c3a/artifacts
+end_time: 1750393006199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07fe570cdee946bdb4564f88373f7c3a
+run_name: sneaky-vole-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750392870370
+status: 3
+tags: []
+user_id: runner
