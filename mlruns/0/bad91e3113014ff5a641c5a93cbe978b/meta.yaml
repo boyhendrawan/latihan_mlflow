@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bad91e3113014ff5a641c5a93cbe978b/artifacts
+end_time: 1750430571317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad91e3113014ff5a641c5a93cbe978b
+run_name: redolent-turtle-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750430435946
+status: 3
+tags: []
+user_id: runner
