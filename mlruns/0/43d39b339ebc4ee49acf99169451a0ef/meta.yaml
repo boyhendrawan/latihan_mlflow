@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43d39b339ebc4ee49acf99169451a0ef/artifacts
+end_time: 1750446665011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43d39b339ebc4ee49acf99169451a0ef
+run_name: judicious-gull-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750446529936
+status: 3
+tags: []
+user_id: runner
