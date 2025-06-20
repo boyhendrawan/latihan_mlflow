@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c63e9f461e7d4484a9ecb5f23428dcbb/artifacts
+end_time: 1750437232273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c63e9f461e7d4484a9ecb5f23428dcbb
+run_name: dazzling-doe-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750437096152
+status: 3
+tags: []
+user_id: runner
