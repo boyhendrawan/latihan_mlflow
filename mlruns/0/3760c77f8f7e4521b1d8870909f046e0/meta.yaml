@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3760c77f8f7e4521b1d8870909f046e0/artifacts
+end_time: 1750430962266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3760c77f8f7e4521b1d8870909f046e0
+run_name: bemused-jay-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750430824642
+status: 3
+tags: []
+user_id: runner
