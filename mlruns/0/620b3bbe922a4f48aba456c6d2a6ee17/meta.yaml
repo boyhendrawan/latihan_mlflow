@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/620b3bbe922a4f48aba456c6d2a6ee17/artifacts
+end_time: 1750429789872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 620b3bbe922a4f48aba456c6d2a6ee17
+run_name: selective-sloth-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750429654903
+status: 3
+tags: []
+user_id: runner
