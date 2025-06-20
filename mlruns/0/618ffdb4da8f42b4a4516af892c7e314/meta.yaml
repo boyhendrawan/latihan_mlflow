@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/618ffdb4da8f42b4a4516af892c7e314/artifacts
+end_time: 1750431354485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 618ffdb4da8f42b4a4516af892c7e314
+run_name: bouncy-ox-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750431218408
+status: 3
+tags: []
+user_id: runner
