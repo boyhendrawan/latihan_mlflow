@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e8a107fb26094c8280ba1d9a025e4664/artifacts
+end_time: 1750444902333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8a107fb26094c8280ba1d9a025e4664
+run_name: worried-ape-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750444766497
+status: 3
+tags: []
+user_id: runner
