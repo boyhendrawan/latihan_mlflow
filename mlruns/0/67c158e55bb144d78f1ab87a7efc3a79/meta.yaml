@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67c158e55bb144d78f1ab87a7efc3a79/artifacts
+end_time: 1750435667271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67c158e55bb144d78f1ab87a7efc3a79
+run_name: nebulous-toad-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750435530585
+status: 3
+tags: []
+user_id: runner
