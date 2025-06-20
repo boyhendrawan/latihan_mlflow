@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b766a4ab24c44d529f8f374acf224027/artifacts
+end_time: 1750439990378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b766a4ab24c44d529f8f374acf224027
+run_name: receptive-fawn-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750439855639
+status: 3
+tags: []
+user_id: runner
