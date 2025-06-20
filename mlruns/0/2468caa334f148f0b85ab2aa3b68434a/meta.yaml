@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2468caa334f148f0b85ab2aa3b68434a/artifacts
+end_time: 1750380150902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2468caa334f148f0b85ab2aa3b68434a
+run_name: kindly-mule-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750380015252
+status: 3
+tags: []
+user_id: runner
