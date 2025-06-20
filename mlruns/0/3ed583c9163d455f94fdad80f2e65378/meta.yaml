@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ed583c9163d455f94fdad80f2e65378/artifacts
+end_time: 1750452143711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ed583c9163d455f94fdad80f2e65378
+run_name: victorious-shark-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750452008065
+status: 3
+tags: []
+user_id: runner
