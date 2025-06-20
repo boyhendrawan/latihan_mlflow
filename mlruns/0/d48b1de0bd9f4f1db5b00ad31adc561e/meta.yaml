@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d48b1de0bd9f4f1db5b00ad31adc561e/artifacts
+end_time: 1750396876265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d48b1de0bd9f4f1db5b00ad31adc561e
+run_name: overjoyed-snipe-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750396739734
+status: 3
+tags: []
+user_id: runner
