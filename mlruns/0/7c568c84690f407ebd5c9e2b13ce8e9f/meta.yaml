@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c568c84690f407ebd5c9e2b13ce8e9f/artifacts
+end_time: 1750456843018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c568c84690f407ebd5c9e2b13ce8e9f
+run_name: bald-shad-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750456703522
+status: 3
+tags: []
+user_id: runner
