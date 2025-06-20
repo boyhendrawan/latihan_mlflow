@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e22a35a59ccd4bc68bbdefe601feb832/artifacts
+end_time: 1750417623607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22a35a59ccd4bc68bbdefe601feb832
+run_name: melodic-crab-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750417485929
+status: 3
+tags: []
+user_id: runner
