@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82d2764d10154c09a4eb0798e8d3d6ef/artifacts
+end_time: 1750399627762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82d2764d10154c09a4eb0798e8d3d6ef
+run_name: puzzled-goat-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750399493337
+status: 3
+tags: []
+user_id: runner
