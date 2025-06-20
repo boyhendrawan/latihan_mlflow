@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4da81fc32213492d9f716feedeeabb66/artifacts
+end_time: 1750378199717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da81fc32213492d9f716feedeeabb66
+run_name: wise-shrimp-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750378064791
+status: 3
+tags: []
+user_id: runner
