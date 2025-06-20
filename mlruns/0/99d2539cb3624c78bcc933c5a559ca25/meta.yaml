@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/99d2539cb3624c78bcc933c5a559ca25/artifacts
+end_time: 1750411374091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99d2539cb3624c78bcc933c5a559ca25
+run_name: learned-croc-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411237894
+status: 3
+tags: []
+user_id: runner
