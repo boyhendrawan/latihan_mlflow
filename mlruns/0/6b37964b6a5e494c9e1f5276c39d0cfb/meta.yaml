@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b37964b6a5e494c9e1f5276c39d0cfb/artifacts
+end_time: 1750445291936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b37964b6a5e494c9e1f5276c39d0cfb
+run_name: clumsy-rat-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750445157060
+status: 3
+tags: []
+user_id: runner
