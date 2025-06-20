@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af04d3faa5a34394b6a091e3508a66c1/artifacts
+end_time: 1750388533710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af04d3faa5a34394b6a091e3508a66c1
+run_name: abrasive-zebra-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388397127
+status: 3
+tags: []
+user_id: runner
