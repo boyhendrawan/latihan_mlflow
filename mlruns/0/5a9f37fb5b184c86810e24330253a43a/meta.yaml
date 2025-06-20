@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5a9f37fb5b184c86810e24330253a43a/artifacts
+end_time: 1750433323328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a9f37fb5b184c86810e24330253a43a
+run_name: angry-cat-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750433188856
+status: 3
+tags: []
+user_id: runner
