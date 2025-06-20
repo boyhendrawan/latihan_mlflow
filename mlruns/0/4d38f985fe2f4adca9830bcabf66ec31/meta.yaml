@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d38f985fe2f4adca9830bcabf66ec31/artifacts
+end_time: 1750385232909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d38f985fe2f4adca9830bcabf66ec31
+run_name: illustrious-worm-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750385089559
+status: 3
+tags: []
+user_id: runner
