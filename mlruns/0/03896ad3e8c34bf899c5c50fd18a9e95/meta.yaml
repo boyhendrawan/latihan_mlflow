@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/03896ad3e8c34bf899c5c50fd18a9e95/artifacts
+end_time: 1750387947243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03896ad3e8c34bf899c5c50fd18a9e95
+run_name: adorable-pig-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750387811358
+status: 3
+tags: []
+user_id: runner
