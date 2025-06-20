@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3137cf98b7b142d1a73b63a8719221e9/artifacts
+end_time: 1750393587105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3137cf98b7b142d1a73b63a8719221e9
+run_name: adaptable-stag-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750393450122
+status: 3
+tags: []
+user_id: runner
