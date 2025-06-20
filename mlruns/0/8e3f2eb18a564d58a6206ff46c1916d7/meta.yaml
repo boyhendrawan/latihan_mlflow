@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e3f2eb18a564d58a6206ff46c1916d7/artifacts
+end_time: 1750404893271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e3f2eb18a564d58a6206ff46c1916d7
+run_name: unique-sow-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750404753815
+status: 3
+tags: []
+user_id: runner
