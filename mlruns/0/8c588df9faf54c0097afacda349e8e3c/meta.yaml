@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c588df9faf54c0097afacda349e8e3c/artifacts
+end_time: 1750388141408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c588df9faf54c0097afacda349e8e3c
+run_name: calm-trout-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388006562
+status: 3
+tags: []
+user_id: runner
