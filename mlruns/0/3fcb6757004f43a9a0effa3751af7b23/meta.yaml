@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3fcb6757004f43a9a0effa3751af7b23/artifacts
+end_time: 1750416078014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fcb6757004f43a9a0effa3751af7b23
+run_name: wise-pug-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750415942306
+status: 3
+tags: []
+user_id: runner
