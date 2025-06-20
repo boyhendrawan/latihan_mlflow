@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd3b35adec824995b396028f9c152f67/artifacts
+end_time: 1750419977669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3b35adec824995b396028f9c152f67
+run_name: tasteful-jay-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750419839282
+status: 3
+tags: []
+user_id: runner
