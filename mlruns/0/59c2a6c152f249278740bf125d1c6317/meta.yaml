@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/59c2a6c152f249278740bf125d1c6317/artifacts
+end_time: 1750459187907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59c2a6c152f249278740bf125d1c6317
+run_name: brawny-shoat-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750459053301
+status: 3
+tags: []
+user_id: runner
