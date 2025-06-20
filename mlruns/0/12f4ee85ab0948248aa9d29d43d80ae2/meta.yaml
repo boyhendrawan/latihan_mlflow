@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/12f4ee85ab0948248aa9d29d43d80ae2/artifacts
+end_time: 1750412355692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f4ee85ab0948248aa9d29d43d80ae2
+run_name: monumental-bird-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750412218499
+status: 3
+tags: []
+user_id: runner
