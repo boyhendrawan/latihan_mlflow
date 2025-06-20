@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c92b97693b31418cb3b8a7eb6a6b594f/artifacts
+end_time: 1750402361259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c92b97693b31418cb3b8a7eb6a6b594f
+run_name: debonair-boar-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750402225756
+status: 3
+tags: []
+user_id: runner
