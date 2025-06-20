@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ba89cb29cde4a75a80c6c51e60e229f/artifacts
+end_time: 1750419185921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ba89cb29cde4a75a80c6c51e60e229f
+run_name: youthful-shrike-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750419049844
+status: 3
+tags: []
+user_id: runner
