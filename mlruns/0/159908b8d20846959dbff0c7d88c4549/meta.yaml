@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/159908b8d20846959dbff0c7d88c4549/artifacts
+end_time: 1750450571482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 159908b8d20846959dbff0c7d88c4549
+run_name: omniscient-fly-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750450435991
+status: 3
+tags: []
+user_id: runner
