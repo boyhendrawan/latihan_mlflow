@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c37cb56832446c9b50e557bca2f566f/artifacts
+end_time: 1750455275898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c37cb56832446c9b50e557bca2f566f
+run_name: silent-lynx-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750455138632
+status: 3
+tags: []
+user_id: runner
