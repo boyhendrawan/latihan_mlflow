@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/85803c50ef5d408aaa37929028674d5b/artifacts
+end_time: 1750385814532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85803c50ef5d408aaa37929028674d5b
+run_name: rogue-rook-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750385679458
+status: 3
+tags: []
+user_id: runner
