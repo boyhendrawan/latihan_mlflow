@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd0939dfc9314355bde1f5c7e8029457/artifacts
+end_time: 1750436835781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd0939dfc9314355bde1f5c7e8029457
+run_name: rumbling-bug-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436701011
+status: 3
+tags: []
+user_id: runner
