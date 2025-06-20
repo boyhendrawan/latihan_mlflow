@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bca7dd2b368a4e36b3d1853abd4bec59/artifacts
+end_time: 1750378394016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bca7dd2b368a4e36b3d1853abd4bec59
+run_name: rumbling-ant-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750378258330
+status: 3
+tags: []
+user_id: runner
