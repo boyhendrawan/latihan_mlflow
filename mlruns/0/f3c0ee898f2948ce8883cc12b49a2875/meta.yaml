@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f3c0ee898f2948ce8883cc12b49a2875/artifacts
+end_time: 1750401384774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3c0ee898f2948ce8883cc12b49a2875
+run_name: grandiose-conch-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750401249673
+status: 3
+tags: []
+user_id: runner
