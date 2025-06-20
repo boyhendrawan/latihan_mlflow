@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18020ff60bd74d8ba557c461c00293af/artifacts
+end_time: 1750377814044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18020ff60bd74d8ba557c461c00293af
+run_name: clean-worm-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750377678266
+status: 3
+tags: []
+user_id: runner
