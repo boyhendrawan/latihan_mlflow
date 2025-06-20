@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8af88998a7e144d28b2ca83d6fb2668a/artifacts
+end_time: 1750422150483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af88998a7e144d28b2ca83d6fb2668a
+run_name: languid-ray-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750422015718
+status: 3
+tags: []
+user_id: runner
