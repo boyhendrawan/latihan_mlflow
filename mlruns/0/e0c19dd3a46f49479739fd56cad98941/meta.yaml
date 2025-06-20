@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e0c19dd3a46f49479739fd56cad98941/artifacts
+end_time: 1750415479831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0c19dd3a46f49479739fd56cad98941
+run_name: thoughtful-pug-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750415343500
+status: 3
+tags: []
+user_id: runner
