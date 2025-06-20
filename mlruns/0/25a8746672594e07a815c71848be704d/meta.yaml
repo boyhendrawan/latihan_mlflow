@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25a8746672594e07a815c71848be704d/artifacts
+end_time: 1750412933830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25a8746672594e07a815c71848be704d
+run_name: skillful-yak-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750412798975
+status: 3
+tags: []
+user_id: runner
