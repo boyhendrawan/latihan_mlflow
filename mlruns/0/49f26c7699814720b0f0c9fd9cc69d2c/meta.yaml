@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/49f26c7699814720b0f0c9fd9cc69d2c/artifacts
+end_time: 1750403527781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49f26c7699814720b0f0c9fd9cc69d2c
+run_name: capricious-stork-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750403391833
+status: 3
+tags: []
+user_id: runner
