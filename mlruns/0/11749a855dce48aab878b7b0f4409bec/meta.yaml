@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11749a855dce48aab878b7b0f4409bec/artifacts
+end_time: 1750409025748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11749a855dce48aab878b7b0f4409bec
+run_name: resilient-duck-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408889278
+status: 3
+tags: []
+user_id: runner
