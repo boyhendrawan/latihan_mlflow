@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18ae14db75814929bf83edc48006b3ae/artifacts
+end_time: 1750423910809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ae14db75814929bf83edc48006b3ae
+run_name: suave-boar-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750423774548
+status: 3
+tags: []
+user_id: runner
