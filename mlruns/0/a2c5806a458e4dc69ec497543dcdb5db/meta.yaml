@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a2c5806a458e4dc69ec497543dcdb5db/artifacts
+end_time: 1750397268158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c5806a458e4dc69ec497543dcdb5db
+run_name: nebulous-whale-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750397131197
+status: 3
+tags: []
+user_id: runner
