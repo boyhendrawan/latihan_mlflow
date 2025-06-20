@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc7744c2661346478361cb0669ccf18f/artifacts
+end_time: 1750463280142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc7744c2661346478361cb0669ccf18f
+run_name: caring-rat-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750463145428
+status: 3
+tags: []
+user_id: runner
