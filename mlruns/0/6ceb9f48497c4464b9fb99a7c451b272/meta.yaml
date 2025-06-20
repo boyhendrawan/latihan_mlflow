@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ceb9f48497c4464b9fb99a7c451b272/artifacts
+end_time: 1750442337168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ceb9f48497c4464b9fb99a7c451b272
+run_name: dashing-shark-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750442200583
+status: 3
+tags: []
+user_id: runner
