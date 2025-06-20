@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56a75aa3d8f843ae91b9b424e5f0269e/artifacts
+end_time: 1750407247741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56a75aa3d8f843ae91b9b424e5f0269e
+run_name: invincible-mule-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750407111634
+status: 3
+tags: []
+user_id: runner
