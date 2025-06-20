@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2f9230d03b52480394b8c3109c5e0675/artifacts
+end_time: 1750420571041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9230d03b52480394b8c3109c5e0675
+run_name: gentle-panda-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750420431679
+status: 3
+tags: []
+user_id: runner
