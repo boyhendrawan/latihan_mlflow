@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b9bcade00d894727b84627ecb16695c4/artifacts
+end_time: 1750379956685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9bcade00d894727b84627ecb16695c4
+run_name: bemused-panda-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750379822115
+status: 3
+tags: []
+user_id: runner
