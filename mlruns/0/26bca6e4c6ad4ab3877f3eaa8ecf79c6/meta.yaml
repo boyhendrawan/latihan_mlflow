@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26bca6e4c6ad4ab3877f3eaa8ecf79c6/artifacts
+end_time: 1750389708576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26bca6e4c6ad4ab3877f3eaa8ecf79c6
+run_name: dazzling-shrimp-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389572854
+status: 3
+tags: []
+user_id: runner
