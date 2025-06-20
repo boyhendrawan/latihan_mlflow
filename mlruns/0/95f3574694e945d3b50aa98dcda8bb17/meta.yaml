@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95f3574694e945d3b50aa98dcda8bb17/artifacts
+end_time: 1750421554234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95f3574694e945d3b50aa98dcda8bb17
+run_name: unique-horse-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421416907
+status: 3
+tags: []
+user_id: runner
