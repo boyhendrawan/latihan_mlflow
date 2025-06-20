@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77a20fd89f2241a1a6c78b6c401a271e/artifacts
+end_time: 1750414117356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77a20fd89f2241a1a6c78b6c401a271e
+run_name: charming-flea-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750413980654
+status: 3
+tags: []
+user_id: runner
