@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf9b8e3be3e340c58e5bd90bbaf6bd79/artifacts
+end_time: 1750403137167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf9b8e3be3e340c58e5bd90bbaf6bd79
+run_name: classy-foal-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750403000078
+status: 3
+tags: []
+user_id: runner
