@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad1a750025a94ab089a3947bdd9324ca/artifacts
+end_time: 1750389905658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1a750025a94ab089a3947bdd9324ca
+run_name: overjoyed-smelt-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389769990
+status: 3
+tags: []
+user_id: runner
