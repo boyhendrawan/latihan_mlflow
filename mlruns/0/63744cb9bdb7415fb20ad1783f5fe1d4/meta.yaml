@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63744cb9bdb7415fb20ad1783f5fe1d4/artifacts
+end_time: 1750458018542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63744cb9bdb7415fb20ad1783f5fe1d4
+run_name: bright-lamb-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750457883691
+status: 3
+tags: []
+user_id: runner
