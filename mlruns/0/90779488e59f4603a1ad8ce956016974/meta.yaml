@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90779488e59f4603a1ad8ce956016974/artifacts
+end_time: 1750410589204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90779488e59f4603a1ad8ce956016974
+run_name: amazing-bee-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750410453478
+status: 3
+tags: []
+user_id: runner
