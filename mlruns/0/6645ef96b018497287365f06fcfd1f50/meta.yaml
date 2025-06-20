@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6645ef96b018497287365f06fcfd1f50/artifacts
+end_time: 1750386391927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6645ef96b018497287365f06fcfd1f50
+run_name: kindly-pig-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750386256654
+status: 3
+tags: []
+user_id: runner
