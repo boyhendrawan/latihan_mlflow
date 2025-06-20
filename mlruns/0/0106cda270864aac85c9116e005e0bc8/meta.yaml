@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0106cda270864aac85c9116e005e0bc8/artifacts
+end_time: 1750401780985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0106cda270864aac85c9116e005e0bc8
+run_name: chill-horse-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750401645097
+status: 3
+tags: []
+user_id: runner
