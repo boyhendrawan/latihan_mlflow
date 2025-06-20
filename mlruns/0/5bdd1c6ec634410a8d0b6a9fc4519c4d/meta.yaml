@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5bdd1c6ec634410a8d0b6a9fc4519c4d/artifacts
+end_time: 1750428022045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bdd1c6ec634410a8d0b6a9fc4519c4d
+run_name: whimsical-lynx-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750427885594
+status: 3
+tags: []
+user_id: runner
