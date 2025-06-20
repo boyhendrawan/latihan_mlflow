@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/48d0e5bb957a47938385c517d6605735/artifacts
+end_time: 1750445877748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48d0e5bb957a47938385c517d6605735
+run_name: likeable-sloth-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750445741999
+status: 3
+tags: []
+user_id: runner
