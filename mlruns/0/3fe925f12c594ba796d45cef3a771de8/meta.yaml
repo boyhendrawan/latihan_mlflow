@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3fe925f12c594ba796d45cef3a771de8/artifacts
+end_time: 1750451158024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fe925f12c594ba796d45cef3a771de8
+run_name: honorable-hound-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750451022930
+status: 3
+tags: []
+user_id: runner
