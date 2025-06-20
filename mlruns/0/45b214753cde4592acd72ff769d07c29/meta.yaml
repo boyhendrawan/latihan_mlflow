@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/45b214753cde4592acd72ff769d07c29/artifacts
+end_time: 1750396682609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45b214753cde4592acd72ff769d07c29
+run_name: marvelous-ram-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750396546639
+status: 3
+tags: []
+user_id: runner
