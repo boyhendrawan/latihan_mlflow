@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15dcb16920624da08ff1c29d86c866c7/artifacts
+end_time: 1750401192413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15dcb16920624da08ff1c29d86c866c7
+run_name: polite-lark-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750401055062
+status: 3
+tags: []
+user_id: runner
