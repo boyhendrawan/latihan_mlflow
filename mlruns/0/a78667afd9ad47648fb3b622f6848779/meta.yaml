@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a78667afd9ad47648fb3b622f6848779/artifacts
+end_time: 1750408625278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a78667afd9ad47648fb3b622f6848779
+run_name: gaudy-conch-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408485705
+status: 3
+tags: []
+user_id: runner
