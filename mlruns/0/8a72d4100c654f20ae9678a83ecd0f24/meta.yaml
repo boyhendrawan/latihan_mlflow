@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a72d4100c654f20ae9678a83ecd0f24/artifacts
+end_time: 1750402169521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a72d4100c654f20ae9678a83ecd0f24
+run_name: burly-fox-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750402035061
+status: 3
+tags: []
+user_id: runner
