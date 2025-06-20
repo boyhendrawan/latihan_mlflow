@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/841b239443db4c52a62812c1816a935c/artifacts
+end_time: 1750387560542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 841b239443db4c52a62812c1816a935c
+run_name: calm-vole-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750387424866
+status: 3
+tags: []
+user_id: runner
