@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/85752f5f78344999a73a2936301d6506/artifacts
+end_time: 1750392812483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85752f5f78344999a73a2936301d6506
+run_name: honorable-crow-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750392676423
+status: 3
+tags: []
+user_id: runner
