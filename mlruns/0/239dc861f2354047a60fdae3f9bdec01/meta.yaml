@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/239dc861f2354047a60fdae3f9bdec01/artifacts
+end_time: 1750454303072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 239dc861f2354047a60fdae3f9bdec01
+run_name: dapper-shoat-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750454167623
+status: 3
+tags: []
+user_id: runner
