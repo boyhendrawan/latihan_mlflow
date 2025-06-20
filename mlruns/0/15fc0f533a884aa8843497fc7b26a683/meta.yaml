@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15fc0f533a884aa8843497fc7b26a683/artifacts
+end_time: 1750378591334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15fc0f533a884aa8843497fc7b26a683
+run_name: dapper-lamb-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750378455208
+status: 3
+tags: []
+user_id: runner
