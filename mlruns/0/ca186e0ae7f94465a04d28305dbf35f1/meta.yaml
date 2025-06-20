@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ca186e0ae7f94465a04d28305dbf35f1/artifacts
+end_time: 1750442921854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca186e0ae7f94465a04d28305dbf35f1
+run_name: silent-seal-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750442785786
+status: 3
+tags: []
+user_id: runner
