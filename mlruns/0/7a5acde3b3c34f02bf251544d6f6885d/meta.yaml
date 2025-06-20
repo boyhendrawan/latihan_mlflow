@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7a5acde3b3c34f02bf251544d6f6885d/artifacts
+end_time: 1750436450416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a5acde3b3c34f02bf251544d6f6885d
+run_name: fearless-horse-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750436313149
+status: 3
+tags: []
+user_id: runner
