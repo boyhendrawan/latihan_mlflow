@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ca95dbcec4942a792e3a27c582ebc16/artifacts
+end_time: 1750384056989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca95dbcec4942a792e3a27c582ebc16
+run_name: luminous-newt-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750383922726
+status: 3
+tags: []
+user_id: runner
