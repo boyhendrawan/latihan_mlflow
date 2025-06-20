@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ba161aea0124b0aa7f87f54a3a7d85c/artifacts
+end_time: 1750417822864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba161aea0124b0aa7f87f54a3a7d85c
+run_name: bright-chimp-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750417687056
+status: 3
+tags: []
+user_id: runner
