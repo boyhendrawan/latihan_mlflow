@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/165f04222ef844cb98f0354289167f3d/artifacts
+end_time: 1750432338748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 165f04222ef844cb98f0354289167f3d
+run_name: honorable-crane-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750432202338
+status: 3
+tags: []
+user_id: runner
