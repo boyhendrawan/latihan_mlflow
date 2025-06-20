@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/463b29a7dcc74dda83b6b17104c9ab36/artifacts
+end_time: 1750391649784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 463b29a7dcc74dda83b6b17104c9ab36
+run_name: big-mink-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750391514265
+status: 3
+tags: []
+user_id: runner
