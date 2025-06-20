@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/043efabf37934d3fa2872859fd75a209/artifacts
+end_time: 1750446071986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 043efabf37934d3fa2872859fd75a209
+run_name: receptive-moose-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750445935700
+status: 3
+tags: []
+user_id: runner
