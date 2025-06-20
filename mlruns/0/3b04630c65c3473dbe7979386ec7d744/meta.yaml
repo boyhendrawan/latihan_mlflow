@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b04630c65c3473dbe7979386ec7d744/artifacts
+end_time: 1750422733978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b04630c65c3473dbe7979386ec7d744
+run_name: hilarious-finch-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750422599188
+status: 3
+tags: []
+user_id: runner
