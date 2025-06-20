@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2fd5d45965694ec785c932e016ed6ec1/artifacts
+end_time: 1750455668371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fd5d45965694ec785c932e016ed6ec1
+run_name: learned-vole-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750455532924
+status: 3
+tags: []
+user_id: runner
