@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfd15fcb22ab47408e4e6452418d7e4f/artifacts
+end_time: 1750440774891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd15fcb22ab47408e4e6452418d7e4f
+run_name: rumbling-wasp-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750440639403
+status: 3
+tags: []
+user_id: runner
