@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53b41a2b2589435190dd39c3b3f9d3ac/artifacts
+end_time: 1750400413763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53b41a2b2589435190dd39c3b3f9d3ac
+run_name: receptive-carp-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750400277181
+status: 3
+tags: []
+user_id: runner
