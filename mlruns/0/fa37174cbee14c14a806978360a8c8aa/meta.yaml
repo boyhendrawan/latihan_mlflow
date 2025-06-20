@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa37174cbee14c14a806978360a8c8aa/artifacts
+end_time: 1750406264999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa37174cbee14c14a806978360a8c8aa
+run_name: stylish-crane-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750406128587
+status: 3
+tags: []
+user_id: runner
