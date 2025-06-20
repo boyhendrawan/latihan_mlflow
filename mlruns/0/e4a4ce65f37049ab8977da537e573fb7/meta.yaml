@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e4a4ce65f37049ab8977da537e573fb7/artifacts
+end_time: 1750413531480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4a4ce65f37049ab8977da537e573fb7
+run_name: dazzling-robin-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750413394950
+status: 3
+tags: []
+user_id: runner
