@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e3bca7ef49a24bde81c569f0a9602022/artifacts
+end_time: 1750408826212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3bca7ef49a24bde81c569f0a9602022
+run_name: flawless-crow-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750408688393
+status: 3
+tags: []
+user_id: runner
