@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0adc5ce0e13a431485319362699fa9f5/artifacts
+end_time: 1750411765297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0adc5ce0e13a431485319362699fa9f5
+run_name: trusting-mink-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411628817
+status: 3
+tags: []
+user_id: runner
