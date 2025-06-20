@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d505be7f6bfd4197b3986a572a407532/artifacts
+end_time: 1750406653336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d505be7f6bfd4197b3986a572a407532
+run_name: able-moose-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750406518857
+status: 3
+tags: []
+user_id: runner
