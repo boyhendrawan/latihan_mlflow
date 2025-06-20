@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bba374d075f548ec980b1c77ced16e3b/artifacts
+end_time: 1750429006690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba374d075f548ec980b1c77ced16e3b
+run_name: lyrical-sheep-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750428870463
+status: 3
+tags: []
+user_id: runner
