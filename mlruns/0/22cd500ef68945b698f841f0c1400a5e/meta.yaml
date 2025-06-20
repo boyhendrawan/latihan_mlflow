@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22cd500ef68945b698f841f0c1400a5e/artifacts
+end_time: 1750390877330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22cd500ef68945b698f841f0c1400a5e
+run_name: intrigued-flea-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750390741895
+status: 3
+tags: []
+user_id: runner
