@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c56a69ebd7a04399b0c04bee538c1732/artifacts
+end_time: 1750461718192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c56a69ebd7a04399b0c04bee538c1732
+run_name: receptive-sponge-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750461582913
+status: 3
+tags: []
+user_id: runner
