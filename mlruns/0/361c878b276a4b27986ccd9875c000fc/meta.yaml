@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/361c878b276a4b27986ccd9875c000fc/artifacts
+end_time: 1750438217315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 361c878b276a4b27986ccd9875c000fc
+run_name: efficient-cow-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750438081808
+status: 3
+tags: []
+user_id: runner
