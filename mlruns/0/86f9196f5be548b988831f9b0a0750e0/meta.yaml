@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/86f9196f5be548b988831f9b0a0750e0/artifacts
+end_time: 1750420173903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86f9196f5be548b988831f9b0a0750e0
+run_name: rare-loon-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750420038585
+status: 3
+tags: []
+user_id: runner
