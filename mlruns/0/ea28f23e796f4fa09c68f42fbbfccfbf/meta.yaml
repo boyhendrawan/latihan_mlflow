@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea28f23e796f4fa09c68f42fbbfccfbf/artifacts
+end_time: 1750395516827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea28f23e796f4fa09c68f42fbbfccfbf
+run_name: placid-trout-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750395381612
+status: 3
+tags: []
+user_id: runner
