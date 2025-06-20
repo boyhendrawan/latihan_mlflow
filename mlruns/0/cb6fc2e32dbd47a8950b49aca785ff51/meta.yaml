@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb6fc2e32dbd47a8950b49aca785ff51/artifacts
+end_time: 1750399821043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb6fc2e32dbd47a8950b49aca785ff51
+run_name: welcoming-mule-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750399683850
+status: 3
+tags: []
+user_id: runner
