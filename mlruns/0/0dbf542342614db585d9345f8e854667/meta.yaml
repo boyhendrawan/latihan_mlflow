@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0dbf542342614db585d9345f8e854667/artifacts
+end_time: 1750379568530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dbf542342614db585d9345f8e854667
+run_name: rogue-kite-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750379433035
+status: 3
+tags: []
+user_id: runner
