@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89407446ff894896b17121211d285be6/artifacts
+end_time: 1750419580032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89407446ff894896b17121211d285be6
+run_name: carefree-donkey-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750419444905
+status: 3
+tags: []
+user_id: runner
