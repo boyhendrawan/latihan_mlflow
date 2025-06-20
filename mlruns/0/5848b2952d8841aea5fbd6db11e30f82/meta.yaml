@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5848b2952d8841aea5fbd6db11e30f82/artifacts
+end_time: 1750460158262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5848b2952d8841aea5fbd6db11e30f82
+run_name: blushing-roo-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750460023616
+status: 3
+tags: []
+user_id: runner
