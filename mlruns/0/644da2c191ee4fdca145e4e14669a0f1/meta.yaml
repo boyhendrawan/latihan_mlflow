@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/644da2c191ee4fdca145e4e14669a0f1/artifacts
+end_time: 1750421354299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 644da2c191ee4fdca145e4e14669a0f1
+run_name: delightful-croc-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421218573
+status: 3
+tags: []
+user_id: runner
