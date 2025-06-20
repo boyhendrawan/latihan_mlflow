@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b29249e77c334346baa846c2fc7aef15/artifacts
+end_time: 1750439404585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b29249e77c334346baa846c2fc7aef15
+run_name: illustrious-fly-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750439269572
+status: 3
+tags: []
+user_id: runner
