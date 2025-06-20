@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a8e72cb859444e119a2a34f34bdff730/artifacts
+end_time: 1750447254127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e72cb859444e119a2a34f34bdff730
+run_name: smiling-gull-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750447117898
+status: 3
+tags: []
+user_id: runner
