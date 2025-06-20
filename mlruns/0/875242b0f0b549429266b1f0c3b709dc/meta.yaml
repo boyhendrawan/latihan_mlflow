@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/875242b0f0b549429266b1f0c3b709dc/artifacts
+end_time: 1750460547806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 875242b0f0b549429266b1f0c3b709dc
+run_name: tasteful-hound-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750460412762
+status: 3
+tags: []
+user_id: runner
