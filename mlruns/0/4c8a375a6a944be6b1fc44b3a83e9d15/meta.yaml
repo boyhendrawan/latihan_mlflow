@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c8a375a6a944be6b1fc44b3a83e9d15/artifacts
+end_time: 1750419778517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c8a375a6a944be6b1fc44b3a83e9d15
+run_name: unleashed-ox-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750419642015
+status: 3
+tags: []
+user_id: runner
