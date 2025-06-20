@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/314585b35be440a393bf075576b82b0a/artifacts
+end_time: 1750400993271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314585b35be440a393bf075576b82b0a
+run_name: learned-stag-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750400857814
+status: 3
+tags: []
+user_id: runner
