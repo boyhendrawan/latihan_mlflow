@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d10619c979304e388469f3cbe19890b9/artifacts
+end_time: 1750441949423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d10619c979304e388469f3cbe19890b9
+run_name: delicate-trout-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750441813414
+status: 3
+tags: []
+user_id: runner
