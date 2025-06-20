@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f2e8e4645944b25a0c6813a05829170/artifacts
+end_time: 1750435079206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f2e8e4645944b25a0c6813a05829170
+run_name: auspicious-conch-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750434942259
+status: 3
+tags: []
+user_id: runner
