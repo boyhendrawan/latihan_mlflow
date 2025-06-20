@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cef205174dbd4f74b877a3e461d0b869/artifacts
+end_time: 1750423122449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cef205174dbd4f74b877a3e461d0b869
+run_name: kindly-crane-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750422986682
+status: 3
+tags: []
+user_id: runner
