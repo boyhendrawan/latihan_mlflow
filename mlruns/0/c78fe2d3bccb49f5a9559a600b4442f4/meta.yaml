@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c78fe2d3bccb49f5a9559a600b4442f4/artifacts
+end_time: 1750391457452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c78fe2d3bccb49f5a9559a600b4442f4
+run_name: adventurous-bug-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750391322362
+status: 3
+tags: []
+user_id: runner
