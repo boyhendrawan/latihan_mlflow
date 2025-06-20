@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2849538fdc24254a059a2cca906ea51/artifacts
+end_time: 1750385622798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2849538fdc24254a059a2cca906ea51
+run_name: unleashed-sow-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750385488454
+status: 3
+tags: []
+user_id: runner
