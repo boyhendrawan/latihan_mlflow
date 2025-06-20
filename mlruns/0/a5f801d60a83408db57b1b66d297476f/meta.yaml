@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5f801d60a83408db57b1b66d297476f/artifacts
+end_time: 1750391071993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f801d60a83408db57b1b66d297476f
+run_name: able-dolphin-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750390936539
+status: 3
+tags: []
+user_id: runner
