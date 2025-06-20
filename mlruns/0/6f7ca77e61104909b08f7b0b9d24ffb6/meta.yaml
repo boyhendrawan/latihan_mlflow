@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f7ca77e61104909b08f7b0b9d24ffb6/artifacts
+end_time: 1750418409781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f7ca77e61104909b08f7b0b9d24ffb6
+run_name: puzzled-bee-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750418273757
+status: 3
+tags: []
+user_id: runner
