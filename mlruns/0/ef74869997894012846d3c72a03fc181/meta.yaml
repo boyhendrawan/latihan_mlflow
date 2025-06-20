@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef74869997894012846d3c72a03fc181/artifacts
+end_time: 1750413334040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef74869997894012846d3c72a03fc181
+run_name: invincible-conch-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750413198657
+status: 3
+tags: []
+user_id: runner
