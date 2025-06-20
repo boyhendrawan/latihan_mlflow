@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e758f24876b54a179fd8b5e3bf9b8ebc/artifacts
+end_time: 1750447449102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e758f24876b54a179fd8b5e3bf9b8ebc
+run_name: nervous-bird-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750447313200
+status: 3
+tags: []
+user_id: runner
