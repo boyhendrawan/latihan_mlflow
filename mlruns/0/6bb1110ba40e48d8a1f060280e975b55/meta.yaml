@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6bb1110ba40e48d8a1f060280e975b55/artifacts
+end_time: 1750426067180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bb1110ba40e48d8a1f060280e975b55
+run_name: worried-cod-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750425931745
+status: 3
+tags: []
+user_id: runner
