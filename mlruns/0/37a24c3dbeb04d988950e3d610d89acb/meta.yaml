@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/37a24c3dbeb04d988950e3d610d89acb/artifacts
+end_time: 1750455470153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37a24c3dbeb04d988950e3d610d89acb
+run_name: mysterious-stork-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750455334541
+status: 3
+tags: []
+user_id: runner
