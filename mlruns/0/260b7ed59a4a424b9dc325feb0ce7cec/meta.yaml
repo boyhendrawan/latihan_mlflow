@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/260b7ed59a4a424b9dc325feb0ce7cec/artifacts
+end_time: 1750433714665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 260b7ed59a4a424b9dc325feb0ce7cec
+run_name: tasteful-shrimp-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750433579370
+status: 3
+tags: []
+user_id: runner
