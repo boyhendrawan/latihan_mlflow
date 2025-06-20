@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abd54a8fdd4a4bbe8b668a753dbdc4e3/artifacts
+end_time: 1750441360374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd54a8fdd4a4bbe8b668a753dbdc4e3
+run_name: invincible-quail-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750441224808
+status: 3
+tags: []
+user_id: runner
