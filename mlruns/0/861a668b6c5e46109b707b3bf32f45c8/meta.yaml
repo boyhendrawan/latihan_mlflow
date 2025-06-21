@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/861a668b6c5e46109b707b3bf32f45c8/artifacts
+end_time: 1750491012495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 861a668b6c5e46109b707b3bf32f45c8
+run_name: able-pig-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750490878055
+status: 3
+tags: []
+user_id: runner
