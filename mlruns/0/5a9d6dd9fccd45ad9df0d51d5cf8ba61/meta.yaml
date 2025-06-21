@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5a9d6dd9fccd45ad9df0d51d5cf8ba61/artifacts
+end_time: 1750509509355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a9d6dd9fccd45ad9df0d51d5cf8ba61
+run_name: awesome-koi-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750509374444
+status: 3
+tags: []
+user_id: runner
