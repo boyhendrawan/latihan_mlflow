@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8de86621a1e9470887a6d955bb412ca4/artifacts
+end_time: 1750470953250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de86621a1e9470887a6d955bb412ca4
+run_name: sassy-frog-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750470814414
+status: 3
+tags: []
+user_id: runner
