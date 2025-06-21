@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b639dee2a13347a8bd1a78513e20d5dd/artifacts
+end_time: 1750528666202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b639dee2a13347a8bd1a78513e20d5dd
+run_name: spiffy-perch-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750528525263
+status: 3
+tags: []
+user_id: runner
