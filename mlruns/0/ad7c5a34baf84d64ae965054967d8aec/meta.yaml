@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad7c5a34baf84d64ae965054967d8aec/artifacts
+end_time: 1750538595495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad7c5a34baf84d64ae965054967d8aec
+run_name: amazing-carp-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750538460255
+status: 3
+tags: []
+user_id: runner
