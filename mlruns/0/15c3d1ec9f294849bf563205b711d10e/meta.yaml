@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15c3d1ec9f294849bf563205b711d10e/artifacts
+end_time: 1750525132768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15c3d1ec9f294849bf563205b711d10e
+run_name: zealous-crow-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750524997715
+status: 3
+tags: []
+user_id: runner
