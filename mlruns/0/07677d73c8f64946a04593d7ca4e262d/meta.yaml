@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07677d73c8f64946a04593d7ca4e262d/artifacts
+end_time: 1750530619748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07677d73c8f64946a04593d7ca4e262d
+run_name: worried-fish-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750530484402
+status: 3
+tags: []
+user_id: runner
