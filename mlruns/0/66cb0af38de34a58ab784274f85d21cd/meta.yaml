@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/66cb0af38de34a58ab784274f85d21cd/artifacts
+end_time: 1750503673414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66cb0af38de34a58ab784274f85d21cd
+run_name: lyrical-mouse-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750503538895
+status: 3
+tags: []
+user_id: runner
