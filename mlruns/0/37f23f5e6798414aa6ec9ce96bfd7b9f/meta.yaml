@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/37f23f5e6798414aa6ec9ce96bfd7b9f/artifacts
+end_time: 1750535873367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37f23f5e6798414aa6ec9ce96bfd7b9f
+run_name: delightful-smelt-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750535736967
+status: 3
+tags: []
+user_id: runner
