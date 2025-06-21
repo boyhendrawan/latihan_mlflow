@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a27c9c144a064c54af7406dede996483/artifacts
+end_time: 1750508151013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27c9c144a064c54af7406dede996483
+run_name: nimble-smelt-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750508016061
+status: 3
+tags: []
+user_id: runner
