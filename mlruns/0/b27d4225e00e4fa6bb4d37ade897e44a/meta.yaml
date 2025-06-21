@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b27d4225e00e4fa6bb4d37ade897e44a/artifacts
+end_time: 1750529252930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b27d4225e00e4fa6bb4d37ade897e44a
+run_name: victorious-colt-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750529114602
+status: 3
+tags: []
+user_id: runner
