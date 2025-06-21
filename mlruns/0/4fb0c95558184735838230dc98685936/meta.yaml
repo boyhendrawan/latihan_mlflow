@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4fb0c95558184735838230dc98685936/artifacts
+end_time: 1750534704700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb0c95558184735838230dc98685936
+run_name: zealous-shoat-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750534569056
+status: 3
+tags: []
+user_id: runner
