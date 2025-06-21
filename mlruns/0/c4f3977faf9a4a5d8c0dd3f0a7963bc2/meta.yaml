@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c4f3977faf9a4a5d8c0dd3f0a7963bc2/artifacts
+end_time: 1750511274753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4f3977faf9a4a5d8c0dd3f0a7963bc2
+run_name: capable-ape-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750511139503
+status: 3
+tags: []
+user_id: runner
