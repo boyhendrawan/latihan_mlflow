@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93673e0b23ea4ed8a06cecf1e301e688/artifacts
+end_time: 1750470558171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93673e0b23ea4ed8a06cecf1e301e688
+run_name: rumbling-hound-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750470420340
+status: 3
+tags: []
+user_id: runner
