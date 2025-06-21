@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f65ee6fe217049e7b4f8895689d29514/artifacts
+end_time: 1750480113761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f65ee6fe217049e7b4f8895689d29514
+run_name: luminous-kite-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750479974357
+status: 3
+tags: []
+user_id: runner
