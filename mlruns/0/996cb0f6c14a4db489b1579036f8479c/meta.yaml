@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/996cb0f6c14a4db489b1579036f8479c/artifacts
+end_time: 1750531796523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 996cb0f6c14a4db489b1579036f8479c
+run_name: whimsical-wolf-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750531660449
+status: 3
+tags: []
+user_id: runner
