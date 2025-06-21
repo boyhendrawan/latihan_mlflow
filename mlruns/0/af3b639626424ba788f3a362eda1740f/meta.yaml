@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/af3b639626424ba788f3a362eda1740f/artifacts
+end_time: 1750496870409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3b639626424ba788f3a362eda1740f
+run_name: loud-frog-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750496733774
+status: 3
+tags: []
+user_id: runner
