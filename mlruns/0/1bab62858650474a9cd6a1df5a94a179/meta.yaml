@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1bab62858650474a9cd6a1df5a94a179/artifacts
+end_time: 1750484198486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bab62858650474a9cd6a1df5a94a179
+run_name: magnificent-sow-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750484062364
+status: 3
+tags: []
+user_id: runner
