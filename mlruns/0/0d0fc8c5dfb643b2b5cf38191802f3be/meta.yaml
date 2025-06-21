@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0d0fc8c5dfb643b2b5cf38191802f3be/artifacts
+end_time: 1750486539859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d0fc8c5dfb643b2b5cf38191802f3be
+run_name: incongruous-rat-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750486404340
+status: 3
+tags: []
+user_id: runner
