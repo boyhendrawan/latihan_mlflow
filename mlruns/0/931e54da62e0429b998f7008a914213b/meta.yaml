@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/931e54da62e0429b998f7008a914213b/artifacts
+end_time: 1750540939810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 931e54da62e0429b998f7008a914213b
+run_name: caring-mare-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750540804380
+status: 3
+tags: []
+user_id: runner
