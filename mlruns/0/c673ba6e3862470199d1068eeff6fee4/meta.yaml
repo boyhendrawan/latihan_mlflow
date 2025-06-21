@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c673ba6e3862470199d1068eeff6fee4/artifacts
+end_time: 1750512057214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c673ba6e3862470199d1068eeff6fee4
+run_name: angry-wren-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750511920664
+status: 3
+tags: []
+user_id: runner
