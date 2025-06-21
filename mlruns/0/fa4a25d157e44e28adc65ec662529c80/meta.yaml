@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa4a25d157e44e28adc65ec662529c80/artifacts
+end_time: 1750504642633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa4a25d157e44e28adc65ec662529c80
+run_name: zealous-eel-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750504506708
+status: 3
+tags: []
+user_id: runner
