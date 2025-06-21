@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e13e687a7764b4f96e4c9a3103ebf6a/artifacts
+end_time: 1750524939854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e13e687a7764b4f96e4c9a3103ebf6a
+run_name: big-worm-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750524803137
+status: 3
+tags: []
+user_id: runner
