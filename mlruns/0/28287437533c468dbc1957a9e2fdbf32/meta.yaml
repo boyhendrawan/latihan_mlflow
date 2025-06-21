@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28287437533c468dbc1957a9e2fdbf32/artifacts
+end_time: 1750497255322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28287437533c468dbc1957a9e2fdbf32
+run_name: adventurous-fawn-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750497119938
+status: 3
+tags: []
+user_id: runner
