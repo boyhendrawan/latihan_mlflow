@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b3d428375df64281a375d7a5a3564098/artifacts
+end_time: 1750494328045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3d428375df64281a375d7a5a3564098
+run_name: bouncy-rat-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494193477
+status: 3
+tags: []
+user_id: runner
