@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bdfc40ed7c34451cb095fcaa49968167/artifacts
+end_time: 1750490042291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdfc40ed7c34451cb095fcaa49968167
+run_name: peaceful-sheep-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750489906447
+status: 3
+tags: []
+user_id: runner
