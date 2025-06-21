@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff1b1f1866ab46fabcaf201e8a36a5a2/artifacts
+end_time: 1750508920160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff1b1f1866ab46fabcaf201e8a36a5a2
+run_name: upbeat-cod-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750508784658
+status: 3
+tags: []
+user_id: runner
