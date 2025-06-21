@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3bfe56a3b8a7400bb3663b6ae60e0935/artifacts
+end_time: 1750532568339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bfe56a3b8a7400bb3663b6ae60e0935
+run_name: stately-kit-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750532433292
+status: 3
+tags: []
+user_id: runner
