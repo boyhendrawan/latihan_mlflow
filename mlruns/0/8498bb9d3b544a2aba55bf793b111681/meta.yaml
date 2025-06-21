@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8498bb9d3b544a2aba55bf793b111681/artifacts
+end_time: 1750484391882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8498bb9d3b544a2aba55bf793b111681
+run_name: gaudy-crane-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750484256548
+status: 3
+tags: []
+user_id: runner
