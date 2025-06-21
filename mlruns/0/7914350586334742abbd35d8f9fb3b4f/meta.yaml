@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7914350586334742abbd35d8f9fb3b4f/artifacts
+end_time: 1750515964436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7914350586334742abbd35d8f9fb3b4f
+run_name: skittish-moth-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750515828520
+status: 3
+tags: []
+user_id: runner
