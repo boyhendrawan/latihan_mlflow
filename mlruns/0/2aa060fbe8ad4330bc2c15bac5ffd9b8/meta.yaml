@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2aa060fbe8ad4330bc2c15bac5ffd9b8/artifacts
+end_time: 1750547368547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aa060fbe8ad4330bc2c15bac5ffd9b8
+run_name: big-stag-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750547232271
+status: 3
+tags: []
+user_id: runner
