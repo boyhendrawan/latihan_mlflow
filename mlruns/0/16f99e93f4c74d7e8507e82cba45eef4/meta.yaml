@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/16f99e93f4c74d7e8507e82cba45eef4/artifacts
+end_time: 1750521045748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16f99e93f4c74d7e8507e82cba45eef4
+run_name: capable-rook-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750520909883
+status: 3
+tags: []
+user_id: runner
