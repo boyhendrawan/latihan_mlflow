@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/56f4dd2310fd49529c6e4862a74e76c9/artifacts
+end_time: 1750489652841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56f4dd2310fd49529c6e4862a74e76c9
+run_name: crawling-lark-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750489517730
+status: 3
+tags: []
+user_id: runner
