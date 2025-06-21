@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a7eee29d1664c6887daa1db8ec562d5/artifacts
+end_time: 1750476400960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a7eee29d1664c6887daa1db8ec562d5
+run_name: bright-snail-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750476265124
+status: 3
+tags: []
+user_id: runner
