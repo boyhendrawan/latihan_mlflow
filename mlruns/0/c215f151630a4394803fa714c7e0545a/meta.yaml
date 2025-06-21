@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c215f151630a4394803fa714c7e0545a/artifacts
+end_time: 1750490819385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c215f151630a4394803fa714c7e0545a
+run_name: adorable-ape-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750490683817
+status: 3
+tags: []
+user_id: runner
