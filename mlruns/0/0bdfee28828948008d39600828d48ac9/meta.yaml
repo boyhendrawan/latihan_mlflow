@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0bdfee28828948008d39600828d48ac9/artifacts
+end_time: 1750465828225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bdfee28828948008d39600828d48ac9
+run_name: industrious-worm-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750465693671
+status: 3
+tags: []
+user_id: runner
