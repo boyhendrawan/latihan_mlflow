@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/287ab0625a214cad880dea8f519669f0/artifacts
+end_time: 1750540353459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 287ab0625a214cad880dea8f519669f0
+run_name: bright-foal-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750540219104
+status: 3
+tags: []
+user_id: runner
