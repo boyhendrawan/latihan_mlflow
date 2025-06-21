@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a049bdd3384482799c8ca9c0a5d3aa6/artifacts
+end_time: 1750522983850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a049bdd3384482799c8ca9c0a5d3aa6
+run_name: able-carp-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750522848460
+status: 3
+tags: []
+user_id: runner
