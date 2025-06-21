@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75e7764b6eeb4609b397b56dfe8d6007/artifacts
+end_time: 1750549707927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75e7764b6eeb4609b397b56dfe8d6007
+run_name: nervous-auk-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750549573369
+status: 3
+tags: []
+user_id: runner
