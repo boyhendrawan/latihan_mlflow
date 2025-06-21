@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a7de897865f44bcfa5985438df7f4d9a/artifacts
+end_time: 1750476987158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7de897865f44bcfa5985438df7f4d9a
+run_name: big-ape-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750476851071
+status: 3
+tags: []
+user_id: runner
