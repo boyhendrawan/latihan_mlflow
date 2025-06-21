@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1cc3f762ebfb4cf89291dc8996473c36/artifacts
+end_time: 1750535089342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cc3f762ebfb4cf89291dc8996473c36
+run_name: secretive-dove-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750534956541
+status: 3
+tags: []
+user_id: runner
