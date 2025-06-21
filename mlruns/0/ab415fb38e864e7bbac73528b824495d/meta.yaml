@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab415fb38e864e7bbac73528b824495d/artifacts
+end_time: 1750477181153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab415fb38e864e7bbac73528b824495d
+run_name: blushing-vole-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750477045957
+status: 3
+tags: []
+user_id: runner
