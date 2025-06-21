@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7708df6ac52a4a7ba56b82019c5f2c3a/artifacts
+end_time: 1750487511585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7708df6ac52a4a7ba56b82019c5f2c3a
+run_name: beautiful-lamb-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750487376959
+status: 3
+tags: []
+user_id: runner
