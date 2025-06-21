@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e295d20413af4118b4a2d95825b88e4a/artifacts
+end_time: 1750506386040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e295d20413af4118b4a2d95825b88e4a
+run_name: upbeat-lark-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750506251078
+status: 3
+tags: []
+user_id: runner
