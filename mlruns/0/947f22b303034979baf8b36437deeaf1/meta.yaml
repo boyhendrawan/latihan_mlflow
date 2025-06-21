@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/947f22b303034979baf8b36437deeaf1/artifacts
+end_time: 1750506000510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 947f22b303034979baf8b36437deeaf1
+run_name: casual-squid-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750505865008
+status: 3
+tags: []
+user_id: runner
