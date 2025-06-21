@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ec950f3dc0c451fa0aa094e125c89bf/artifacts
+end_time: 1750470753707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec950f3dc0c451fa0aa094e125c89bf
+run_name: vaunted-mink-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750470617216
+status: 3
+tags: []
+user_id: runner
