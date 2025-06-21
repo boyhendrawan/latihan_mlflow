@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f67fd28b3725451fbfc02e1bb61856d6/artifacts
+end_time: 1750519083293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67fd28b3725451fbfc02e1bb61856d6
+run_name: omniscient-stork-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750518947340
+status: 3
+tags: []
+user_id: runner
