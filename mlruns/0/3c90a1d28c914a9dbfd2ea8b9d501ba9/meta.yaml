@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c90a1d28c914a9dbfd2ea8b9d501ba9/artifacts
+end_time: 1750542316899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c90a1d28c914a9dbfd2ea8b9d501ba9
+run_name: handsome-eel-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750542181501
+status: 3
+tags: []
+user_id: runner
