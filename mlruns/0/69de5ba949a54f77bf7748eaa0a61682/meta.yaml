@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/69de5ba949a54f77bf7748eaa0a61682/artifacts
+end_time: 1750471933612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69de5ba949a54f77bf7748eaa0a61682
+run_name: adventurous-kite-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750471797891
+status: 3
+tags: []
+user_id: runner
