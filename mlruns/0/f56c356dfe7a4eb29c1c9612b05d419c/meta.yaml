@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f56c356dfe7a4eb29c1c9612b05d419c/artifacts
+end_time: 1750543679107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f56c356dfe7a4eb29c1c9612b05d419c
+run_name: hilarious-hog-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750543544312
+status: 3
+tags: []
+user_id: runner
