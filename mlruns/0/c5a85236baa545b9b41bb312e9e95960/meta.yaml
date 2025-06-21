@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5a85236baa545b9b41bb312e9e95960/artifacts
+end_time: 1750550102892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5a85236baa545b9b41bb312e9e95960
+run_name: skittish-boar-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750549965478
+status: 3
+tags: []
+user_id: runner
