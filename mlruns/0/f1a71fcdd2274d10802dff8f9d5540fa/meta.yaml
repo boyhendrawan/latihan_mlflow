@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1a71fcdd2274d10802dff8f9d5540fa/artifacts
+end_time: 1750483223316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a71fcdd2274d10802dff8f9d5540fa
+run_name: debonair-asp-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750483087831
+status: 3
+tags: []
+user_id: runner
