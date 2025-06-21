@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5e2b7a83e274e6396d73a10ecae1a26/artifacts
+end_time: 1750513225382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5e2b7a83e274e6396d73a10ecae1a26
+run_name: sincere-seal-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750513089933
+status: 3
+tags: []
+user_id: runner
