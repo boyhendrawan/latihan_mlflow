@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2e02bb4eb2d43e694072398fc617b29/artifacts
+end_time: 1750546001033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e02bb4eb2d43e694072398fc617b29
+run_name: enchanting-goose-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750545865730
+status: 3
+tags: []
+user_id: runner
