@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c7b0d9059104685b53b51647e97e330/artifacts
+end_time: 1750538979700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c7b0d9059104685b53b51647e97e330
+run_name: languid-ram-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750538844915
+status: 3
+tags: []
+user_id: runner
