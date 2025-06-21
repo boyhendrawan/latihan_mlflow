@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdb1f12f5fdd435989d8edb0d335a635/artifacts
+end_time: 1750498422368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdb1f12f5fdd435989d8edb0d335a635
+run_name: awesome-lark-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750498285319
+status: 3
+tags: []
+user_id: runner
