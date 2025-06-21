@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7cbc44ec752a49aeb309c533bce0921a/artifacts
+end_time: 1750469002298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cbc44ec752a49aeb309c533bce0921a
+run_name: spiffy-boar-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468864918
+status: 3
+tags: []
+user_id: runner
