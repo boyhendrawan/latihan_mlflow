@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e75d6a9daa3c4aa5aba9454c38fb6076/artifacts
+end_time: 1750497639676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75d6a9daa3c4aa5aba9454c38fb6076
+run_name: hilarious-auk-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750497504162
+status: 3
+tags: []
+user_id: runner
