@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2f0dc03526494c989ba6ac66ca188849/artifacts
+end_time: 1750501728639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f0dc03526494c989ba6ac66ca188849
+run_name: classy-shrew-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750501593069
+status: 3
+tags: []
+user_id: runner
