@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c45338e68e143acbcd50abd5f9eeeff/artifacts
+end_time: 1750489076122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c45338e68e143acbcd50abd5f9eeeff
+run_name: delicate-horse-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750488939139
+status: 3
+tags: []
+user_id: runner
