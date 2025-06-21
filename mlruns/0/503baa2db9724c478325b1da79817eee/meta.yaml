@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/503baa2db9724c478325b1da79817eee/artifacts
+end_time: 1750473106207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503baa2db9724c478325b1da79817eee
+run_name: wise-whale-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750472970338
+status: 3
+tags: []
+user_id: runner
