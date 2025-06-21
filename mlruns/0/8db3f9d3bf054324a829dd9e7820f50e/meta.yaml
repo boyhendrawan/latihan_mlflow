@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8db3f9d3bf054324a829dd9e7820f50e/artifacts
+end_time: 1750504254641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db3f9d3bf054324a829dd9e7820f50e
+run_name: illustrious-ape-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750504119216
+status: 3
+tags: []
+user_id: runner
