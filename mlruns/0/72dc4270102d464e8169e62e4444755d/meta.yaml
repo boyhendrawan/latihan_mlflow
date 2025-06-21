@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/72dc4270102d464e8169e62e4444755d/artifacts
+end_time: 1750510687428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72dc4270102d464e8169e62e4444755d
+run_name: sedate-loon-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750510549300
+status: 3
+tags: []
+user_id: runner
