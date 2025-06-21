@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7475bd164e2249a88432efaefc7de4a5/artifacts
+end_time: 1750487709524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7475bd164e2249a88432efaefc7de4a5
+run_name: beautiful-skink-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750487573434
+status: 3
+tags: []
+user_id: runner
