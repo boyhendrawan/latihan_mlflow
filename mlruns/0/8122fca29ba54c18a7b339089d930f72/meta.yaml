@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8122fca29ba54c18a7b339089d930f72/artifacts
+end_time: 1750479331869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8122fca29ba54c18a7b339089d930f72
+run_name: legendary-seal-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750479196736
+status: 3
+tags: []
+user_id: runner
