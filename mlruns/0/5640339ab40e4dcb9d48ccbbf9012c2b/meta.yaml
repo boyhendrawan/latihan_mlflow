@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5640339ab40e4dcb9d48ccbbf9012c2b/artifacts
+end_time: 1750541331653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5640339ab40e4dcb9d48ccbbf9012c2b
+run_name: sassy-squid-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750541195442
+status: 3
+tags: []
+user_id: runner
