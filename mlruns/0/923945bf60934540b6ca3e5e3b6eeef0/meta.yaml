@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/923945bf60934540b6ca3e5e3b6eeef0/artifacts
+end_time: 1750510885536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 923945bf60934540b6ca3e5e3b6eeef0
+run_name: mysterious-stoat-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750510749461
+status: 3
+tags: []
+user_id: runner
