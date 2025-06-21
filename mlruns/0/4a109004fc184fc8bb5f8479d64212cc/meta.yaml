@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a109004fc184fc8bb5f8479d64212cc/artifacts
+end_time: 1750517514650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a109004fc184fc8bb5f8479d64212cc
+run_name: fun-bee-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517378720
+status: 3
+tags: []
+user_id: runner
