@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6411cbea363742129faa73a3f119959d/artifacts
+end_time: 1750523564106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6411cbea363742129faa73a3f119959d
+run_name: valuable-gull-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750523428642
+status: 3
+tags: []
+user_id: runner
