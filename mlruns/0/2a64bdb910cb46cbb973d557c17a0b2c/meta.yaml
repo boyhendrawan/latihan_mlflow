@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a64bdb910cb46cbb973d557c17a0b2c/artifacts
+end_time: 1750503867753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a64bdb910cb46cbb973d557c17a0b2c
+run_name: capricious-grouse-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750503731330
+status: 3
+tags: []
+user_id: runner
