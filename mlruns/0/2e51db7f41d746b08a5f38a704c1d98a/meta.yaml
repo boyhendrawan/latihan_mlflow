@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e51db7f41d746b08a5f38a704c1d98a/artifacts
+end_time: 1750510490017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e51db7f41d746b08a5f38a704c1d98a
+run_name: bustling-koi-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750510354294
+status: 3
+tags: []
+user_id: runner
