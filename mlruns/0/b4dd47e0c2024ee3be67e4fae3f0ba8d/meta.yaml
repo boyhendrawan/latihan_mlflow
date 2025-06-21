@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4dd47e0c2024ee3be67e4fae3f0ba8d/artifacts
+end_time: 1750492771103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4dd47e0c2024ee3be67e4fae3f0ba8d
+run_name: merciful-hog-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750492633594
+status: 3
+tags: []
+user_id: runner
