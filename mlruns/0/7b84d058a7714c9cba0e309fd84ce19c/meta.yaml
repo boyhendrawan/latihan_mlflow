@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b84d058a7714c9cba0e309fd84ce19c/artifacts
+end_time: 1750502897226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b84d058a7714c9cba0e309fd84ce19c
+run_name: angry-horse-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750502760477
+status: 3
+tags: []
+user_id: runner
