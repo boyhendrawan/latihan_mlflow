@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77859453aa7545a2b272d84f262bd0f2/artifacts
+end_time: 1750481279190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77859453aa7545a2b272d84f262bd0f2
+run_name: bemused-vole-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750481141596
+status: 3
+tags: []
+user_id: runner
