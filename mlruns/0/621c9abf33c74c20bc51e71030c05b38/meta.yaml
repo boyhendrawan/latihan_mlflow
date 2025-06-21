@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/621c9abf33c74c20bc51e71030c05b38/artifacts
+end_time: 1750490429830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 621c9abf33c74c20bc51e71030c05b38
+run_name: adaptable-kite-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750490292716
+status: 3
+tags: []
+user_id: runner
