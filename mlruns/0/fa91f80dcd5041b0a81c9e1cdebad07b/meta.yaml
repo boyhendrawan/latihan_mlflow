@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa91f80dcd5041b0a81c9e1cdebad07b/artifacts
+end_time: 1750530425560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa91f80dcd5041b0a81c9e1cdebad07b
+run_name: amazing-crane-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750530289625
+status: 3
+tags: []
+user_id: runner
