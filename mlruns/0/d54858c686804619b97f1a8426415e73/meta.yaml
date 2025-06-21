@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d54858c686804619b97f1a8426415e73/artifacts
+end_time: 1750530232450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54858c686804619b97f1a8426415e73
+run_name: handsome-fish-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750530097756
+status: 3
+tags: []
+user_id: runner
