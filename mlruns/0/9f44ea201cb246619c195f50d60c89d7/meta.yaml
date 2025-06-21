@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f44ea201cb246619c195f50d60c89d7/artifacts
+end_time: 1750492378726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f44ea201cb246619c195f50d60c89d7
+run_name: popular-ape-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750492243210
+status: 3
+tags: []
+user_id: runner
