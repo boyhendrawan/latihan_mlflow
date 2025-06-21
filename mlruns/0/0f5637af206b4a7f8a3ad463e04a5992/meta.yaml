@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0f5637af206b4a7f8a3ad463e04a5992/artifacts
+end_time: 1750514990452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f5637af206b4a7f8a3ad463e04a5992
+run_name: omniscient-shrew-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750514854699
+status: 3
+tags: []
+user_id: runner
