@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/48240fcffd87432281ae22e409a98db7/artifacts
+end_time: 1750502503016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48240fcffd87432281ae22e409a98db7
+run_name: silent-penguin-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750502366852
+status: 3
+tags: []
+user_id: runner
