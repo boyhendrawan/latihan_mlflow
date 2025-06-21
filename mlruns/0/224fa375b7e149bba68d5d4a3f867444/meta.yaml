@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/224fa375b7e149bba68d5d4a3f867444/artifacts
+end_time: 1750525330084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224fa375b7e149bba68d5d4a3f867444
+run_name: gregarious-hawk-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750525194315
+status: 3
+tags: []
+user_id: runner
