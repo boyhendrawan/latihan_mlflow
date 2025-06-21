@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a5fb485f7c00421383c43c6fe445e003/artifacts
+end_time: 1750497065264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fb485f7c00421383c43c6fe445e003
+run_name: glamorous-asp-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750496929439
+status: 3
+tags: []
+user_id: runner
