@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/499c557b5ed84ada8cd0b4cfdbe69aa8/artifacts
+end_time: 1750511666413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 499c557b5ed84ada8cd0b4cfdbe69aa8
+run_name: worried-sow-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750511531578
+status: 3
+tags: []
+user_id: runner
