@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/adbb7a053e7a4d6fa4cb0480d75fe686/artifacts
+end_time: 1750480498773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adbb7a053e7a4d6fa4cb0480d75fe686
+run_name: thundering-gnat-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750480364369
+status: 3
+tags: []
+user_id: runner
