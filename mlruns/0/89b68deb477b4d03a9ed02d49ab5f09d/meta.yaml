@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89b68deb477b4d03a9ed02d49ab5f09d/artifacts
+end_time: 1750523370406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b68deb477b4d03a9ed02d49ab5f09d
+run_name: burly-rat-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750523234705
+status: 3
+tags: []
+user_id: runner
