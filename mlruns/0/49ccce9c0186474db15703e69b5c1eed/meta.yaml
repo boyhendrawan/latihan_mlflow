@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/49ccce9c0186474db15703e69b5c1eed/artifacts
+end_time: 1750488678433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ccce9c0186474db15703e69b5c1eed
+run_name: industrious-hen-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750488543791
+status: 3
+tags: []
+user_id: runner
