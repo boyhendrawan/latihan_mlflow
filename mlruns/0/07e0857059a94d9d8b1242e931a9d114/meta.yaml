@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/07e0857059a94d9d8b1242e931a9d114/artifacts
+end_time: 1750544064178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e0857059a94d9d8b1242e931a9d114
+run_name: exultant-grub-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750543929497
+status: 3
+tags: []
+user_id: runner
