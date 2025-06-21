@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9304e4f52e37494d99f904b012b58106/artifacts
+end_time: 1750486734856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9304e4f52e37494d99f904b012b58106
+run_name: crawling-perch-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750486599328
+status: 3
+tags: []
+user_id: runner
