@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b1a40309370418ba1924e2393f3d3d1/artifacts
+end_time: 1750469586373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b1a40309370418ba1924e2393f3d3d1
+run_name: funny-cat-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750469450664
+status: 3
+tags: []
+user_id: runner
