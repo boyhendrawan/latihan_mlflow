@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5bfcc962fe8c4cd6a36c520e965d88ad/artifacts
+end_time: 1750530037283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bfcc962fe8c4cd6a36c520e965d88ad
+run_name: rumbling-doe-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750529901259
+status: 3
+tags: []
+user_id: runner
