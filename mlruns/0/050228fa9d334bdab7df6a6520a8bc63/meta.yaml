@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/050228fa9d334bdab7df6a6520a8bc63/artifacts
+end_time: 1750520460144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 050228fa9d334bdab7df6a6520a8bc63
+run_name: nervous-dove-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750520324259
+status: 3
+tags: []
+user_id: runner
