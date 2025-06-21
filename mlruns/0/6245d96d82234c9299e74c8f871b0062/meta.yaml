@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6245d96d82234c9299e74c8f871b0062/artifacts
+end_time: 1750543485361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6245d96d82234c9299e74c8f871b0062
+run_name: auspicious-shoat-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750543350224
+status: 3
+tags: []
+user_id: runner
