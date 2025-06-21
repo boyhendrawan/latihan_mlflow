@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dd0d90567aba4714bd0783c228e62cbb/artifacts
+end_time: 1750469196306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd0d90567aba4714bd0783c228e62cbb
+run_name: rebellious-hare-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750469061736
+status: 3
+tags: []
+user_id: runner
