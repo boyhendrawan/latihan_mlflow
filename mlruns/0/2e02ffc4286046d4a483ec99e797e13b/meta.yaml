@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e02ffc4286046d4a483ec99e797e13b/artifacts
+end_time: 1750489849482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e02ffc4286046d4a483ec99e797e13b
+run_name: unleashed-foal-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750489713232
+status: 3
+tags: []
+user_id: runner
