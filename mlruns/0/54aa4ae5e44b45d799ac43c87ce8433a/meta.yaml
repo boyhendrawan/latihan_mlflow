@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/54aa4ae5e44b45d799ac43c87ce8433a/artifacts
+end_time: 1750488289302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54aa4ae5e44b45d799ac43c87ce8433a
+run_name: nimble-moose-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750488154272
+status: 3
+tags: []
+user_id: runner
