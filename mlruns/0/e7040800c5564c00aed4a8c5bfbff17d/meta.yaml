@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7040800c5564c00aed4a8c5bfbff17d/artifacts
+end_time: 1750467401724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7040800c5564c00aed4a8c5bfbff17d
+run_name: trusting-finch-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750467265315
+status: 3
+tags: []
+user_id: runner
