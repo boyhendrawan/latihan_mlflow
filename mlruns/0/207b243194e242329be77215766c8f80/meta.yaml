@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/207b243194e242329be77215766c8f80/artifacts
+end_time: 1750502113726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 207b243194e242329be77215766c8f80
+run_name: ambitious-quail-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750501978117
+status: 3
+tags: []
+user_id: runner
