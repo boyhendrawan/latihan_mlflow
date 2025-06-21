@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11410190fe124226ae2ddbee5adb02ae/artifacts
+end_time: 1750468219170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11410190fe124226ae2ddbee5adb02ae
+run_name: beautiful-rat-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468083495
+status: 3
+tags: []
+user_id: runner
