@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43110b22425e4a589abb069b4c16aa43/artifacts
+end_time: 1750526898521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43110b22425e4a589abb069b4c16aa43
+run_name: bold-penguin-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750526762800
+status: 3
+tags: []
+user_id: runner
