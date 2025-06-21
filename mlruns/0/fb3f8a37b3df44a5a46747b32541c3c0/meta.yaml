@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fb3f8a37b3df44a5a46747b32541c3c0/artifacts
+end_time: 1750513812141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb3f8a37b3df44a5a46747b32541c3c0
+run_name: persistent-squid-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750513676728
+status: 3
+tags: []
+user_id: runner
