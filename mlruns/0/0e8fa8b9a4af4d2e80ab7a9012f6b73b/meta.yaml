@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e8fa8b9a4af4d2e80ab7a9012f6b73b/artifacts
+end_time: 1750471736292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e8fa8b9a4af4d2e80ab7a9012f6b73b
+run_name: classy-dolphin-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750471600799
+status: 3
+tags: []
+user_id: runner
