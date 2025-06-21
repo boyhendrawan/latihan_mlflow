@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9e563f909eaa42eb9e86e94f41108052/artifacts
+end_time: 1750546581970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e563f909eaa42eb9e86e94f41108052
+run_name: puzzled-mink-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750546447087
+status: 3
+tags: []
+user_id: runner
