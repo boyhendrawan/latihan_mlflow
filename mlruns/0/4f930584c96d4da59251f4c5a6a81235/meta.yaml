@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f930584c96d4da59251f4c5a6a81235/artifacts
+end_time: 1750546775955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f930584c96d4da59251f4c5a6a81235
+run_name: unique-cat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750546639869
+status: 3
+tags: []
+user_id: runner
