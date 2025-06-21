@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87d2e5d7fc72433eab11ee194c0e7d1b/artifacts
+end_time: 1750522402315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87d2e5d7fc72433eab11ee194c0e7d1b
+run_name: languid-moose-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750522266406
+status: 3
+tags: []
+user_id: runner
