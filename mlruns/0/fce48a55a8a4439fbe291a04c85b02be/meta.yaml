@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fce48a55a8a4439fbe291a04c85b02be/artifacts
+end_time: 1750495893805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fce48a55a8a4439fbe291a04c85b02be
+run_name: dapper-mink-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750495759008
+status: 3
+tags: []
+user_id: runner
