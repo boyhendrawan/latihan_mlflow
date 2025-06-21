@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/688d03d0c90d4b2bb022470f13e7906e/artifacts
+end_time: 1750528077526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688d03d0c90d4b2bb022470f13e7906e
+run_name: lyrical-skunk-626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750527942086
+status: 3
+tags: []
+user_id: runner
