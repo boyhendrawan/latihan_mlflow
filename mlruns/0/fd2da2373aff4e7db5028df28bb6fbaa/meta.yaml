@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fd2da2373aff4e7db5028df28bb6fbaa/artifacts
+end_time: 1750549903264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2da2373aff4e7db5028df28bb6fbaa
+run_name: useful-croc-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750549768948
+status: 3
+tags: []
+user_id: runner
