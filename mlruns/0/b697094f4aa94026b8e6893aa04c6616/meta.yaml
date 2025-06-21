@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b697094f4aa94026b8e6893aa04c6616/artifacts
+end_time: 1750466219531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b697094f4aa94026b8e6893aa04c6616
+run_name: secretive-smelt-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750466082833
+status: 3
+tags: []
+user_id: runner
