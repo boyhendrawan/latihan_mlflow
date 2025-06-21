@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/929e6d8464204a558ed85ad9d99cb1c9/artifacts
+end_time: 1750493162899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 929e6d8464204a558ed85ad9d99cb1c9
+run_name: monumental-panda-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750493027739
+status: 3
+tags: []
+user_id: runner
