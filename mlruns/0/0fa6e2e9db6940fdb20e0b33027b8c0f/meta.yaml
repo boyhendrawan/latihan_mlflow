@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0fa6e2e9db6940fdb20e0b33027b8c0f/artifacts
+end_time: 1750466025801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fa6e2e9db6940fdb20e0b33027b8c0f
+run_name: unruly-bear-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750465890009
+status: 3
+tags: []
+user_id: runner
