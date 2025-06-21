@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/228471dc8e984030bf9ede7847a5483d/artifacts
+end_time: 1750464842949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228471dc8e984030bf9ede7847a5483d
+run_name: enthused-fawn-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750464707380
+status: 3
+tags: []
+user_id: runner
