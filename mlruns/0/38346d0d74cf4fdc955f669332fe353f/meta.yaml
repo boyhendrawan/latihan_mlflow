@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38346d0d74cf4fdc955f669332fe353f/artifacts
+end_time: 1750473687799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38346d0d74cf4fdc955f669332fe353f
+run_name: peaceful-dolphin-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750473551548
+status: 3
+tags: []
+user_id: runner
