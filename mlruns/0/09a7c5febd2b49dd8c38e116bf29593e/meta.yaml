@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09a7c5febd2b49dd8c38e116bf29593e/artifacts
+end_time: 1750493551783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09a7c5febd2b49dd8c38e116bf29593e
+run_name: dapper-gull-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750493416574
+status: 3
+tags: []
+user_id: runner
