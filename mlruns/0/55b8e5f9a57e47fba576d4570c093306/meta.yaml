@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/55b8e5f9a57e47fba576d4570c093306/artifacts
+end_time: 1750486928895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55b8e5f9a57e47fba576d4570c093306
+run_name: inquisitive-hog-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750486792943
+status: 3
+tags: []
+user_id: runner
