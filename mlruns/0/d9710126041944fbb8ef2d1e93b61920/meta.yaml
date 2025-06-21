@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d9710126041944fbb8ef2d1e93b61920/artifacts
+end_time: 1750527879734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9710126041944fbb8ef2d1e93b61920
+run_name: burly-newt-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750527743491
+status: 3
+tags: []
+user_id: runner
