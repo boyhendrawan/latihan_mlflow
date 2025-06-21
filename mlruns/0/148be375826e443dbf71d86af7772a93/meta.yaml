@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/148be375826e443dbf71d86af7772a93/artifacts
+end_time: 1750485955937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 148be375826e443dbf71d86af7772a93
+run_name: serious-seal-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750485821473
+status: 3
+tags: []
+user_id: runner
