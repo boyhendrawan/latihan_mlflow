@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f5eb6802d6d40898ad9c6daa85cb7bb/artifacts
+end_time: 1750495313632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f5eb6802d6d40898ad9c6daa85cb7bb
+run_name: stylish-roo-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750495175960
+status: 3
+tags: []
+user_id: runner
