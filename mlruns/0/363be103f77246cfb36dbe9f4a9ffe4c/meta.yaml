@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/363be103f77246cfb36dbe9f4a9ffe4c/artifacts
+end_time: 1750469971629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 363be103f77246cfb36dbe9f4a9ffe4c
+run_name: mercurial-seal-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750469836872
+status: 3
+tags: []
+user_id: runner
