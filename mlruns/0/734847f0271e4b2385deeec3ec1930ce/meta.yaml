@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/734847f0271e4b2385deeec3ec1930ce/artifacts
+end_time: 1750478360792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 734847f0271e4b2385deeec3ec1930ce
+run_name: intrigued-shrike-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750478225599
+status: 3
+tags: []
+user_id: runner
