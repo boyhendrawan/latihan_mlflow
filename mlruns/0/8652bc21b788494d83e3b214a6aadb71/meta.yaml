@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8652bc21b788494d83e3b214a6aadb71/artifacts
+end_time: 1750473490890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8652bc21b788494d83e3b214a6aadb71
+run_name: worried-shrew-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750473355808
+status: 3
+tags: []
+user_id: runner
