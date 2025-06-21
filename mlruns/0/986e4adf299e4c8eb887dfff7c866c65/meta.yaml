@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/986e4adf299e4c8eb887dfff7c866c65/artifacts
+end_time: 1750472320826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 986e4adf299e4c8eb887dfff7c866c65
+run_name: magnificent-colt-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750472185151
+status: 3
+tags: []
+user_id: runner
