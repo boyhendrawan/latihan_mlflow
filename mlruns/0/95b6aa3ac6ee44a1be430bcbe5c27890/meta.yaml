@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/95b6aa3ac6ee44a1be430bcbe5c27890/artifacts
+end_time: 1750536066683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b6aa3ac6ee44a1be430bcbe5c27890
+run_name: secretive-mule-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750535931154
+status: 3
+tags: []
+user_id: runner
