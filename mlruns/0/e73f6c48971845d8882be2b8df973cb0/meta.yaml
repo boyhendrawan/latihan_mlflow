@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e73f6c48971845d8882be2b8df973cb0/artifacts
+end_time: 1750508346747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e73f6c48971845d8882be2b8df973cb0
+run_name: fearless-wasp-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750508210228
+status: 3
+tags: []
+user_id: runner
