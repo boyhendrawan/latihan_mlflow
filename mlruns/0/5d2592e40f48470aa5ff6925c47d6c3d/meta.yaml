@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d2592e40f48470aa5ff6925c47d6c3d/artifacts
+end_time: 1750481667448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d2592e40f48470aa5ff6925c47d6c3d
+run_name: amazing-swan-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750481531680
+status: 3
+tags: []
+user_id: runner
