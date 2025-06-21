@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c0ad4711f6f94c54b6c6a5a45d444030/artifacts
+end_time: 1750546388995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0ad4711f6f94c54b6c6a5a45d444030
+run_name: fortunate-bear-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750546254224
+status: 3
+tags: []
+user_id: runner
