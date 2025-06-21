@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/206004ce3c604c26b8497146d03b87b5/artifacts
+end_time: 1750539174537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206004ce3c604c26b8497146d03b87b5
+run_name: skillful-bee-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750539039097
+status: 3
+tags: []
+user_id: runner
