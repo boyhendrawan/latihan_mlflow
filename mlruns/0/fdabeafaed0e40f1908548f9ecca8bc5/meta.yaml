@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdabeafaed0e40f1908548f9ecca8bc5/artifacts
+end_time: 1750545418041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdabeafaed0e40f1908548f9ecca8bc5
+run_name: blushing-snake-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750545283361
+status: 3
+tags: []
+user_id: runner
