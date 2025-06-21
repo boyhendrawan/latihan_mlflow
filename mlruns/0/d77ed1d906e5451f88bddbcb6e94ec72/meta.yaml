@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d77ed1d906e5451f88bddbcb6e94ec72/artifacts
+end_time: 1750505221611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d77ed1d906e5451f88bddbcb6e94ec72
+run_name: delightful-yak-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750505087472
+status: 3
+tags: []
+user_id: runner
