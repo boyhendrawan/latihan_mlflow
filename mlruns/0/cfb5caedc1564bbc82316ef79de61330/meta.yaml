@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cfb5caedc1564bbc82316ef79de61330/artifacts
+end_time: 1750470358198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb5caedc1564bbc82316ef79de61330
+run_name: stately-ram-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750470222499
+status: 3
+tags: []
+user_id: runner
