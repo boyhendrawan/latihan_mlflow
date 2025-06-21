@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c5b69b986c094aff929220dd3b249b27/artifacts
+end_time: 1750537624272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b69b986c094aff929220dd3b249b27
+run_name: entertaining-auk-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750537487820
+status: 3
+tags: []
+user_id: runner
