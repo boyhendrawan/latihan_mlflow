@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/26cf84836e39499195f2f51ab7d5e80c/artifacts
+end_time: 1750499004946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26cf84836e39499195f2f51ab7d5e80c
+run_name: victorious-crane-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750498869326
+status: 3
+tags: []
+user_id: runner
