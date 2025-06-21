@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0b00b8eec5da465e9bc3488223a9160a/artifacts
+end_time: 1750542516349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b00b8eec5da465e9bc3488223a9160a
+run_name: mysterious-calf-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750542378604
+status: 3
+tags: []
+user_id: runner
