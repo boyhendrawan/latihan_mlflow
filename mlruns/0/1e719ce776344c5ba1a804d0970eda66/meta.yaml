@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e719ce776344c5ba1a804d0970eda66/artifacts
+end_time: 1750491598584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e719ce776344c5ba1a804d0970eda66
+run_name: welcoming-goose-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750491461863
+status: 3
+tags: []
+user_id: runner
