@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a2746aedfe474c24921e15f55e668a98/artifacts
+end_time: 1750532377112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2746aedfe474c24921e15f55e668a98
+run_name: salty-boar-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750532241614
+status: 3
+tags: []
+user_id: runner
