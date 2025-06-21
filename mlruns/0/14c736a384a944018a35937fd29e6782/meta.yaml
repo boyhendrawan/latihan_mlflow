@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14c736a384a944018a35937fd29e6782/artifacts
+end_time: 1750479522706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14c736a384a944018a35937fd29e6782
+run_name: thundering-hog-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750479388055
+status: 3
+tags: []
+user_id: runner
