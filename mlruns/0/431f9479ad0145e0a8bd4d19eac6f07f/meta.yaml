@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/431f9479ad0145e0a8bd4d19eac6f07f/artifacts
+end_time: 1750520851635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 431f9479ad0145e0a8bd4d19eac6f07f
+run_name: luminous-bass-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750520716213
+status: 3
+tags: []
+user_id: runner
