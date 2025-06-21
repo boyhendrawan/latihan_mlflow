@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5349b57e7e504d61b971d15118b68d56/artifacts
+end_time: 1750528861598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5349b57e7e504d61b971d15118b68d56
+run_name: luxuriant-gull-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750528724981
+status: 3
+tags: []
+user_id: runner
