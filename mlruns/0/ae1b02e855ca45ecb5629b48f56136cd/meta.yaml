@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae1b02e855ca45ecb5629b48f56136cd/artifacts
+end_time: 1750507757773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae1b02e855ca45ecb5629b48f56136cd
+run_name: traveling-fish-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750507621377
+status: 3
+tags: []
+user_id: runner
