@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38a02bd0679949e7812d204775bfc2af/artifacts
+end_time: 1750542118039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38a02bd0679949e7812d204775bfc2af
+run_name: luminous-calf-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750541983129
+status: 3
+tags: []
+user_id: runner
