@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/01a78d98900046d3a0893c1d7e045def/artifacts
+end_time: 1750548536556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01a78d98900046d3a0893c1d7e045def
+run_name: skillful-chimp-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750548400091
+status: 3
+tags: []
+user_id: runner
