@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06b57adadb7946c8a0f5b302e221a737/artifacts
+end_time: 1750548338918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06b57adadb7946c8a0f5b302e221a737
+run_name: adaptable-pug-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750548203867
+status: 3
+tags: []
+user_id: runner
