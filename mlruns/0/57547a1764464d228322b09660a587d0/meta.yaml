@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/57547a1764464d228322b09660a587d0/artifacts
+end_time: 1750504448580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57547a1764464d228322b09660a587d0
+run_name: learned-shark-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750504313132
+status: 3
+tags: []
+user_id: runner
