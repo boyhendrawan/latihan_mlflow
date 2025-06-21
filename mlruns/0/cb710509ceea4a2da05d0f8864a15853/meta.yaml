@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cb710509ceea4a2da05d0f8864a15853/artifacts
+end_time: 1750522011512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb710509ceea4a2da05d0f8864a15853
+run_name: merciful-hare-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750521875669
+status: 3
+tags: []
+user_id: runner
