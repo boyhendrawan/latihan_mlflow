@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f8f5be71d4a04e37a3e3b06ccb99c80f/artifacts
+end_time: 1750539760622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8f5be71d4a04e37a3e3b06ccb99c80f
+run_name: zealous-moth-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750539624557
+status: 3
+tags: []
+user_id: runner
