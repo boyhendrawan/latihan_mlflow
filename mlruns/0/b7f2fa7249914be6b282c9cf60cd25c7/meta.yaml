@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b7f2fa7249914be6b282c9cf60cd25c7/artifacts
+end_time: 1750482647183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7f2fa7249914be6b282c9cf60cd25c7
+run_name: mercurial-asp-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750482511959
+status: 3
+tags: []
+user_id: runner
