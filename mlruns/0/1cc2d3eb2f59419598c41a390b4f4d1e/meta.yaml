@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1cc2d3eb2f59419598c41a390b4f4d1e/artifacts
+end_time: 1750488876993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cc2d3eb2f59419598c41a390b4f4d1e
+run_name: blushing-wolf-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750488740772
+status: 3
+tags: []
+user_id: runner
