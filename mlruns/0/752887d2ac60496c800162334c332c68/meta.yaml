@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/752887d2ac60496c800162334c332c68/artifacts
+end_time: 1750524548511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 752887d2ac60496c800162334c332c68
+run_name: merciful-fish-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750524405000
+status: 3
+tags: []
+user_id: runner
