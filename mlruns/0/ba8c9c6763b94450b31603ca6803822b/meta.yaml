@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba8c9c6763b94450b31603ca6803822b/artifacts
+end_time: 1750538011423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba8c9c6763b94450b31603ca6803822b
+run_name: mercurial-hound-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750537876227
+status: 3
+tags: []
+user_id: runner
