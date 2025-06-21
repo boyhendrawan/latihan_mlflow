@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/adf58cb8545249e5abb97a22b8e83441/artifacts
+end_time: 1750487902741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf58cb8545249e5abb97a22b8e83441
+run_name: bright-shrimp-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750487768432
+status: 3
+tags: []
+user_id: runner
