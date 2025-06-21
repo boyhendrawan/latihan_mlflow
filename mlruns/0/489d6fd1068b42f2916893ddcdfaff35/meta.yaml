@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/489d6fd1068b42f2916893ddcdfaff35/artifacts
+end_time: 1750510097080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 489d6fd1068b42f2916893ddcdfaff35
+run_name: rebellious-carp-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750509961076
+status: 3
+tags: []
+user_id: runner
