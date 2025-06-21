@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1a26a77515e04604b508b8997963fd37/artifacts
+end_time: 1750526116894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a26a77515e04604b508b8997963fd37
+run_name: casual-stag-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750525981235
+status: 3
+tags: []
+user_id: runner
