@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38e38ca2d68642e98448daebd0ab4484/artifacts
+end_time: 1750545615107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e38ca2d68642e98448daebd0ab4484
+run_name: indecisive-snail-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750545477522
+status: 3
+tags: []
+user_id: runner
