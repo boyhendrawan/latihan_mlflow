@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82b59b904f0f47f5aff9a0e37b8a27dc/artifacts
+end_time: 1750495509105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b59b904f0f47f5aff9a0e37b8a27dc
+run_name: charming-wolf-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750495373602
+status: 3
+tags: []
+user_id: runner
