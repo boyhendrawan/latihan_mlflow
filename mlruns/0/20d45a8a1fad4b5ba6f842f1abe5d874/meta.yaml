@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/20d45a8a1fad4b5ba6f842f1abe5d874/artifacts
+end_time: 1750548927174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d45a8a1fad4b5ba6f842f1abe5d874
+run_name: rumbling-wren-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750548791000
+status: 3
+tags: []
+user_id: runner
