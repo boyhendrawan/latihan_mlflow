@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/92b59ee103dd45aaa493e3ee48e51c40/artifacts
+end_time: 1750545807321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92b59ee103dd45aaa493e3ee48e51c40
+run_name: dashing-crab-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750545672053
+status: 3
+tags: []
+user_id: runner
