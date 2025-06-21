@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e2867303269e4e9fac6cd3c2644e2ad0/artifacts
+end_time: 1750468608700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2867303269e4e9fac6cd3c2644e2ad0
+run_name: treasured-conch-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468471809
+status: 3
+tags: []
+user_id: runner
