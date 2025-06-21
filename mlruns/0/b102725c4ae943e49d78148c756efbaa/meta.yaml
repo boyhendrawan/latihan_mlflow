@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b102725c4ae943e49d78148c756efbaa/artifacts
+end_time: 1750509117463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b102725c4ae943e49d78148c756efbaa
+run_name: crawling-asp-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750508982066
+status: 3
+tags: []
+user_id: runner
