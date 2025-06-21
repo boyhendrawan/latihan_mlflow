@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eff7183c60584d148950a294cea9a602/artifacts
+end_time: 1750515183545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eff7183c60584d148950a294cea9a602
+run_name: rumbling-wolf-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750515048039
+status: 3
+tags: []
+user_id: runner
