@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d769f0e3bbc4d9d828731e80009b796/artifacts
+end_time: 1750472126908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d769f0e3bbc4d9d828731e80009b796
+run_name: puzzled-robin-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750471991751
+status: 3
+tags: []
+user_id: runner
