@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b510244e704841e88625d569cb437c55/artifacts
+end_time: 1750496481802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b510244e704841e88625d569cb437c55
+run_name: stylish-ape-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750496346537
+status: 3
+tags: []
+user_id: runner
