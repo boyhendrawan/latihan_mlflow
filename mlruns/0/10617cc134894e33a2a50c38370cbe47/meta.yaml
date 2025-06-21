@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10617cc134894e33a2a50c38370cbe47/artifacts
+end_time: 1750494918044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10617cc134894e33a2a50c38370cbe47
+run_name: defiant-wasp-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494782765
+status: 3
+tags: []
+user_id: runner
