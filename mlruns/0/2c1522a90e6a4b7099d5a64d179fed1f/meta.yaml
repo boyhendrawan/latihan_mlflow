@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c1522a90e6a4b7099d5a64d179fed1f/artifacts
+end_time: 1750494724536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c1522a90e6a4b7099d5a64d179fed1f
+run_name: colorful-mule-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750494588499
+status: 3
+tags: []
+user_id: runner
