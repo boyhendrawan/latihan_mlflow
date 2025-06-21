@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f2e13520dff64ff48ec361c1530fbae5/artifacts
+end_time: 1750467006624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e13520dff64ff48ec361c1530fbae5
+run_name: ambitious-fish-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750466870748
+status: 3
+tags: []
+user_id: runner
