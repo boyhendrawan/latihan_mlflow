@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ec6e2a4251340fb8f0ef25261199700/artifacts
+end_time: 1750507560605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ec6e2a4251340fb8f0ef25261199700
+run_name: angry-bear-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750507425312
+status: 3
+tags: []
+user_id: runner
