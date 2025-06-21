@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a7793a3203524e2faf521cfaee5ecf24/artifacts
+end_time: 1750468413550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7793a3203524e2faf521cfaee5ecf24
+run_name: able-squirrel-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750468277078
+status: 3
+tags: []
+user_id: runner
