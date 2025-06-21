@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ff3c15cc737411594d217c4a7f1be2e/artifacts
+end_time: 1750473298077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ff3c15cc737411594d217c4a7f1be2e
+run_name: fun-shrike-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750473163232
+status: 3
+tags: []
+user_id: runner
