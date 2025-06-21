@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a3086faf27734bf58b291c488b5ba8a8/artifacts
+end_time: 1750534316466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3086faf27734bf58b291c488b5ba8a8
+run_name: invincible-asp-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750534180062
+status: 3
+tags: []
+user_id: runner
