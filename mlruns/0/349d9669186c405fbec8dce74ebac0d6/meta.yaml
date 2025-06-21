@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/349d9669186c405fbec8dce74ebac0d6/artifacts
+end_time: 1750519869881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 349d9669186c405fbec8dce74ebac0d6
+run_name: fearless-boar-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750519734754
+status: 3
+tags: []
+user_id: runner
