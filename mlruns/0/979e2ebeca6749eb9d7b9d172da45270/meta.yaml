@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/979e2ebeca6749eb9d7b9d172da45270/artifacts
+end_time: 1750516550714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 979e2ebeca6749eb9d7b9d172da45270
+run_name: sedate-mouse-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750516415010
+status: 3
+tags: []
+user_id: runner
