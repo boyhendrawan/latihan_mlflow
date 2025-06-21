@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abbcb745e53c415cb491576bce077477/artifacts
+end_time: 1750510294610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abbcb745e53c415cb491576bce077477
+run_name: angry-mule-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750510154700
+status: 3
+tags: []
+user_id: runner
