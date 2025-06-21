@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63491dcba92a45fb98994d868d5c5389/artifacts
+end_time: 1750488482003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63491dcba92a45fb98994d868d5c5389
+run_name: intelligent-boar-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750488347105
+status: 3
+tags: []
+user_id: runner
