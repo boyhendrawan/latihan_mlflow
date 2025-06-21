@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c40fe4518524e519052d65db71246cc/artifacts
+end_time: 1750522787636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c40fe4518524e519052d65db71246cc
+run_name: glamorous-kit-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750522652004
+status: 3
+tags: []
+user_id: runner
