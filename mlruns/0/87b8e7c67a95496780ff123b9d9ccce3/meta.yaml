@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87b8e7c67a95496780ff123b9d9ccce3/artifacts
+end_time: 1750493943585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87b8e7c67a95496780ff123b9d9ccce3
+run_name: auspicious-koi-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750493807838
+status: 3
+tags: []
+user_id: runner
