@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c7f334f70fd447d8baf244668ba0c3e/artifacts
+end_time: 1750537036286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c7f334f70fd447d8baf244668ba0c3e
+run_name: mysterious-grub-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750536900099
+status: 3
+tags: []
+user_id: runner
