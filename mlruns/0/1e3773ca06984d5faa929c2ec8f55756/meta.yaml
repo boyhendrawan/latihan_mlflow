@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1e3773ca06984d5faa929c2ec8f55756/artifacts
+end_time: 1750474654394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e3773ca06984d5faa929c2ec8f55756
+run_name: unique-dog-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750474517997
+status: 3
+tags: []
+user_id: runner
