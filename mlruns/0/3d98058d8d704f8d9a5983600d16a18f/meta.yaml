@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3d98058d8d704f8d9a5983600d16a18f/artifacts
+end_time: 1750475816819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d98058d8d704f8d9a5983600d16a18f
+run_name: dapper-moose-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750475682281
+status: 3
+tags: []
+user_id: runner
