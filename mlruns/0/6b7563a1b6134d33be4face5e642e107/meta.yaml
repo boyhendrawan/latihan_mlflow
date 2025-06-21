@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b7563a1b6134d33be4face5e642e107/artifacts
+end_time: 1750544643188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7563a1b6134d33be4face5e642e107
+run_name: nosy-gull-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750544508174
+status: 3
+tags: []
+user_id: runner
