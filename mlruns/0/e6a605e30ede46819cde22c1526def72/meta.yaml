@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e6a605e30ede46819cde22c1526def72/artifacts
+end_time: 1750477975044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6a605e30ede46819cde22c1526def72
+run_name: magnificent-vole-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750477838371
+status: 3
+tags: []
+user_id: runner
