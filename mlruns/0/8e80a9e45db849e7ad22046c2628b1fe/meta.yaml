@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8e80a9e45db849e7ad22046c2628b1fe/artifacts
+end_time: 1750514008007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e80a9e45db849e7ad22046c2628b1fe
+run_name: gifted-asp-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750513872975
+status: 3
+tags: []
+user_id: runner
