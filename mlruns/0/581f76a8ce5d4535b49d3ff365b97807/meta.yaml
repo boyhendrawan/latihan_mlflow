@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/581f76a8ce5d4535b49d3ff365b97807/artifacts
+end_time: 1750527483756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 581f76a8ce5d4535b49d3ff365b97807
+run_name: invincible-midge-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750527348021
+status: 3
+tags: []
+user_id: runner
