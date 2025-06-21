@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed883d0880cc4e2d9067b774cda40b24/artifacts
+end_time: 1750511470694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed883d0880cc4e2d9067b774cda40b24
+run_name: sincere-fly-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750511335025
+status: 3
+tags: []
+user_id: runner
