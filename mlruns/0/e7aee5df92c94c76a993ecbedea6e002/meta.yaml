@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7aee5df92c94c76a993ecbedea6e002/artifacts
+end_time: 1750486343982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7aee5df92c94c76a993ecbedea6e002
+run_name: clumsy-hare-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750486207256
+status: 3
+tags: []
+user_id: runner
