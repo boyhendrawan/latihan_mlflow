@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b33dd0929c7f4335ad1ab4597cb350fd/artifacts
+end_time: 1750475626822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b33dd0929c7f4335ad1ab4597cb350fd
+run_name: whimsical-ant-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750475489683
+status: 3
+tags: []
+user_id: runner
