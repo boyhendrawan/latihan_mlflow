@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/778c1454a6c44f0fa6f5bb5e309242b5/artifacts
+end_time: 1750504836160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 778c1454a6c44f0fa6f5bb5e309242b5
+run_name: delicate-bug-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750504700459
+status: 3
+tags: []
+user_id: runner
