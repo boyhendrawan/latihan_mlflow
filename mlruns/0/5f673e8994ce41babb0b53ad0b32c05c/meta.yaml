@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5f673e8994ce41babb0b53ad0b32c05c/artifacts
+end_time: 1750513030394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f673e8994ce41babb0b53ad0b32c05c
+run_name: valuable-bass-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750512895609
+status: 3
+tags: []
+user_id: runner
