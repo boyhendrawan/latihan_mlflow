@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6d423722451e499397f5439b469dc415/artifacts
+end_time: 1750504058927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d423722451e499397f5439b469dc415
+run_name: whimsical-perch-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750503925743
+status: 3
+tags: []
+user_id: runner
