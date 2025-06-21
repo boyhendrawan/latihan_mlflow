@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a71445e533dc48ed9055afd8ba177507/artifacts
+end_time: 1750518098835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a71445e533dc48ed9055afd8ba177507
+run_name: salty-sponge-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517963451
+status: 3
+tags: []
+user_id: runner
