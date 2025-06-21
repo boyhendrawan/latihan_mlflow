@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0eaa47b3e7f24650af62f5c4dc7f6f46/artifacts
+end_time: 1750517904867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0eaa47b3e7f24650af62f5c4dc7f6f46
+run_name: learned-boar-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750517769449
+status: 3
+tags: []
+user_id: runner
