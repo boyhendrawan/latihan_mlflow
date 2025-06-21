@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/91cdc52c9cb9439083be34ea20ec1e58/artifacts
+end_time: 1750514202792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91cdc52c9cb9439083be34ea20ec1e58
+run_name: efficient-mole-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750514067088
+status: 3
+tags: []
+user_id: runner
