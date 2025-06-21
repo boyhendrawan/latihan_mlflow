@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2aff42a01f2649b398dbbcbe4885386a/artifacts
+end_time: 1750525919675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aff42a01f2649b398dbbcbe4885386a
+run_name: burly-crab-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750525782275
+status: 3
+tags: []
+user_id: runner
