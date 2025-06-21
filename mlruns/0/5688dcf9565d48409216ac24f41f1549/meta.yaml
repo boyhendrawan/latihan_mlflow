@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5688dcf9565d48409216ac24f41f1549/artifacts
+end_time: 1750505803482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5688dcf9565d48409216ac24f41f1549
+run_name: agreeable-tern-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750505668287
+status: 3
+tags: []
+user_id: runner
