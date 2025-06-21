@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b6d7fed16fc0465ca9c3583b01481748/artifacts
+end_time: 1750467203122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6d7fed16fc0465ca9c3583b01481748
+run_name: glamorous-mouse-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750467067266
+status: 3
+tags: []
+user_id: runner
