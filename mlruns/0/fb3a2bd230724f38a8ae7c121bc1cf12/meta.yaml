@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fb3a2bd230724f38a8ae7c121bc1cf12/artifacts
+end_time: 1750481864576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb3a2bd230724f38a8ae7c121bc1cf12
+run_name: righteous-lynx-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750481727953
+status: 3
+tags: []
+user_id: runner
