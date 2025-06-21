@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ece52bc25ecc41ce9351908eae54cb67/artifacts
+end_time: 1750519676674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ece52bc25ecc41ce9351908eae54cb67
+run_name: valuable-cow-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750519539721
+status: 3
+tags: []
+user_id: runner
