@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df43cb5c342b4823ab70f31e622ee613/artifacts
+end_time: 1750477380271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df43cb5c342b4823ab70f31e622ee613
+run_name: redolent-hen-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750477244228
+status: 3
+tags: []
+user_id: runner
