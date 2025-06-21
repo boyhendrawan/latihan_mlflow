@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/87088fe2ae554b4894b10308b2def2be/artifacts
+end_time: 1750514595169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87088fe2ae554b4894b10308b2def2be
+run_name: awesome-fly-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750514457797
+status: 3
+tags: []
+user_id: runner
