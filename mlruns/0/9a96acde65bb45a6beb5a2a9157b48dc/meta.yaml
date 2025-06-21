@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a96acde65bb45a6beb5a2a9157b48dc/artifacts
+end_time: 1750548728886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a96acde65bb45a6beb5a2a9157b48dc
+run_name: melodic-hawk-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750548594130
+status: 3
+tags: []
+user_id: runner
