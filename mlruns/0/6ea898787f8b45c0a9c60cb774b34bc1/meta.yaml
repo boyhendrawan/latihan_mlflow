@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6ea898787f8b45c0a9c60cb774b34bc1/artifacts
+end_time: 1750475234840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ea898787f8b45c0a9c60cb774b34bc1
+run_name: unleashed-horse-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750475099046
+status: 3
+tags: []
+user_id: runner
