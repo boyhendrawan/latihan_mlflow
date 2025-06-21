@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8742754684b34beebada152c6dc2d579/artifacts
+end_time: 1750521630677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8742754684b34beebada152c6dc2d579
+run_name: chill-hare-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750521495235
+status: 3
+tags: []
+user_id: runner
