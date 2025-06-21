@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a3f41f0888614eddb1aeb726c994efdd/artifacts
+end_time: 1750515769408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3f41f0888614eddb1aeb726c994efdd
+run_name: upbeat-gnu-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750515634039
+status: 3
+tags: []
+user_id: runner
