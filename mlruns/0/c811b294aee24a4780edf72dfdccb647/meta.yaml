@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c811b294aee24a4780edf72dfdccb647/artifacts
+end_time: 1750490621797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c811b294aee24a4780edf72dfdccb647
+run_name: omniscient-bear-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750490486404
+status: 3
+tags: []
+user_id: runner
