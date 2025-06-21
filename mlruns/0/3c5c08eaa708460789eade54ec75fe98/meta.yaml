@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c5c08eaa708460789eade54ec75fe98/artifacts
+end_time: 1750498811407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c5c08eaa708460789eade54ec75fe98
+run_name: melodic-zebra-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750498676942
+status: 3
+tags: []
+user_id: runner
