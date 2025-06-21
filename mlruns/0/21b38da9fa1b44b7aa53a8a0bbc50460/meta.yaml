@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/21b38da9fa1b44b7aa53a8a0bbc50460/artifacts
+end_time: 1750464455465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21b38da9fa1b44b7aa53a8a0bbc50460
+run_name: merciful-finch-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750464319808
+status: 3
+tags: []
+user_id: runner
