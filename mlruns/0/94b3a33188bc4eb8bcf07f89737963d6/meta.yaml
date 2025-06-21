@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94b3a33188bc4eb8bcf07f89737963d6/artifacts
+end_time: 1750491402901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94b3a33188bc4eb8bcf07f89737963d6
+run_name: abundant-cat-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750491266509
+status: 3
+tags: []
+user_id: runner
