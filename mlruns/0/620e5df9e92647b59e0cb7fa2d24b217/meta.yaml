@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/620e5df9e92647b59e0cb7fa2d24b217/artifacts
+end_time: 1750465041013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 620e5df9e92647b59e0cb7fa2d24b217
+run_name: peaceful-hawk-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750464904475
+status: 3
+tags: []
+user_id: runner
