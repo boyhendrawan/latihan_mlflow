@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c38dac466fd443169b1f1f600391a9a7/artifacts
+end_time: 1750557945240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c38dac466fd443169b1f1f600391a9a7
+run_name: peaceful-calf-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750557805934
+status: 3
+tags: []
+user_id: runner
