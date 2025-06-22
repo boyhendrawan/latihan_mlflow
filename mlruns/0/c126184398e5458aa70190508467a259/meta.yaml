@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c126184398e5458aa70190508467a259/artifacts
+end_time: 1750575526734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c126184398e5458aa70190508467a259
+run_name: nebulous-skunk-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750575386823
+status: 3
+tags: []
+user_id: runner
