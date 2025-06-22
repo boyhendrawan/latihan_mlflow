@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9762cac909be4c24b5e8d48dd2355a97/artifacts
+end_time: 1750585074293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9762cac909be4c24b5e8d48dd2355a97
+run_name: resilient-fawn-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750584939117
+status: 3
+tags: []
+user_id: runner
