@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/adcd1ff4040a4d8d8875cc89ba840888/artifacts
+end_time: 1750579412549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adcd1ff4040a4d8d8875cc89ba840888
+run_name: learned-gnu-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750579277801
+status: 3
+tags: []
+user_id: runner
