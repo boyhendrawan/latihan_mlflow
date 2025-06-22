@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94a0d6b5aba548e8971bf12a50ba56ed/artifacts
+end_time: 1750575135120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94a0d6b5aba548e8971bf12a50ba56ed
+run_name: orderly-smelt-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750575000483
+status: 3
+tags: []
+user_id: runner
