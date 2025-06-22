@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e15b18974f9742ce8f09ebf9e8d7256e/artifacts
+end_time: 1750567538767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15b18974f9742ce8f09ebf9e8d7256e
+run_name: nervous-shrimp-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750567400461
+status: 3
+tags: []
+user_id: runner
