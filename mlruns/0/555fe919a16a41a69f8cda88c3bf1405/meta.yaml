@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/555fe919a16a41a69f8cda88c3bf1405/artifacts
+end_time: 1750566938724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 555fe919a16a41a69f8cda88c3bf1405
+run_name: big-skunk-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750566802305
+status: 3
+tags: []
+user_id: runner
