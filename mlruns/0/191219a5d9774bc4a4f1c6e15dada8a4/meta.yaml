@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/191219a5d9774bc4a4f1c6e15dada8a4/artifacts
+end_time: 1750558524590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191219a5d9774bc4a4f1c6e15dada8a4
+run_name: delightful-mare-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750558389636
+status: 3
+tags: []
+user_id: runner
