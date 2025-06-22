@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/935f7ee90b0644a2b94bb0812dbd4e01/artifacts
+end_time: 1750586640399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 935f7ee90b0644a2b94bb0812dbd4e01
+run_name: salty-lark-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750586504651
+status: 3
+tags: []
+user_id: runner
