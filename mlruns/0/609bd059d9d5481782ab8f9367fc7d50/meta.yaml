@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/609bd059d9d5481782ab8f9367fc7d50/artifacts
+end_time: 1750590335219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 609bd059d9d5481782ab8f9367fc7d50
+run_name: carefree-midge-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750590199149
+status: 3
+tags: []
+user_id: runner
