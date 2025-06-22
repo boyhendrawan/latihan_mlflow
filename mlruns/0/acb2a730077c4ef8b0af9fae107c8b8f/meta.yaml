@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/acb2a730077c4ef8b0af9fae107c8b8f/artifacts
+end_time: 1750562821463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb2a730077c4ef8b0af9fae107c8b8f
+run_name: sincere-calf-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750562685064
+status: 3
+tags: []
+user_id: runner
