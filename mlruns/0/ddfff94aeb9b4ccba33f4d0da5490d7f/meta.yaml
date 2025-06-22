@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ddfff94aeb9b4ccba33f4d0da5490d7f/artifacts
+end_time: 1750570853671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddfff94aeb9b4ccba33f4d0da5490d7f
+run_name: victorious-ape-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750570717591
+status: 3
+tags: []
+user_id: runner
