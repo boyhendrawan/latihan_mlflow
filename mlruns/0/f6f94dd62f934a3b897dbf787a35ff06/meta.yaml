@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f6f94dd62f934a3b897dbf787a35ff06/artifacts
+end_time: 1750551472020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6f94dd62f934a3b897dbf787a35ff06
+run_name: suave-goose-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750551336596
+status: 3
+tags: []
+user_id: runner
