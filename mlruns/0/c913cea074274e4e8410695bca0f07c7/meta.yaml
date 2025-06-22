@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c913cea074274e4e8410695bca0f07c7/artifacts
+end_time: 1750581171623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c913cea074274e4e8410695bca0f07c7
+run_name: classy-rat-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750581033655
+status: 3
+tags: []
+user_id: runner
