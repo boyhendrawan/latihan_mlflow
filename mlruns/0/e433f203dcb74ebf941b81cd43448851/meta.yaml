@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e433f203dcb74ebf941b81cd43448851/artifacts
+end_time: 1750583896664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e433f203dcb74ebf941b81cd43448851
+run_name: gentle-colt-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750583761597
+status: 3
+tags: []
+user_id: runner
