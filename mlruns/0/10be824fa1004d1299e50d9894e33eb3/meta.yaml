@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10be824fa1004d1299e50d9894e33eb3/artifacts
+end_time: 1750569284572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10be824fa1004d1299e50d9894e33eb3
+run_name: ambitious-lamb-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750569149467
+status: 3
+tags: []
+user_id: runner
