@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/68c9aa0fd16b4bff92998f3148db0d50/artifacts
+end_time: 1750580391182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68c9aa0fd16b4bff92998f3148db0d50
+run_name: silent-ray-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750580254920
+status: 3
+tags: []
+user_id: runner
