@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6d58515c54af466785637f44ff15e6b7/artifacts
+end_time: 1750555781211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d58515c54af466785637f44ff15e6b7
+run_name: marvelous-owl-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750555646849
+status: 3
+tags: []
+user_id: runner
