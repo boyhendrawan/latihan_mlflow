@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fcce62c8eb6445d9f2c70490aa044d1/artifacts
+end_time: 1750562427152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fcce62c8eb6445d9f2c70490aa044d1
+run_name: nebulous-turtle-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750562291829
+status: 3
+tags: []
+user_id: runner
