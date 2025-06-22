@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6492205ef3ce4682938051a72d873e99/artifacts
+end_time: 1750587222758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6492205ef3ce4682938051a72d873e99
+run_name: victorious-lamb-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750587085912
+status: 3
+tags: []
+user_id: runner
