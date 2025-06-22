@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bad66d36652d4f3f95e758d89956519f/artifacts
+end_time: 1750559692984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad66d36652d4f3f95e758d89956519f
+run_name: valuable-trout-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750559555796
+status: 3
+tags: []
+user_id: runner
