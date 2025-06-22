@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5634b1f7f53d4647a8f83851e4a51cc7/artifacts
+end_time: 1750585271636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5634b1f7f53d4647a8f83851e4a51cc7
+run_name: clean-mink-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750585136315
+status: 3
+tags: []
+user_id: runner
