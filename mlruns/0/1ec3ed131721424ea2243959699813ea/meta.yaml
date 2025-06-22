@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1ec3ed131721424ea2243959699813ea/artifacts
+end_time: 1750580195919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ec3ed131721424ea2243959699813ea
+run_name: merciful-penguin-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750580059592
+status: 3
+tags: []
+user_id: runner
