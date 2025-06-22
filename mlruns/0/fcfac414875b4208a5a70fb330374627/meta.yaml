@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fcfac414875b4208a5a70fb330374627/artifacts
+end_time: 1750560675029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcfac414875b4208a5a70fb330374627
+run_name: rebellious-calf-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750560536018
+status: 3
+tags: []
+user_id: runner
