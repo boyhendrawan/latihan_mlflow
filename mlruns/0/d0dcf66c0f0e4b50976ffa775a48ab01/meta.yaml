@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d0dcf66c0f0e4b50976ffa775a48ab01/artifacts
+end_time: 1750555192611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0dcf66c0f0e4b50976ffa775a48ab01
+run_name: adventurous-worm-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750555057654
+status: 3
+tags: []
+user_id: runner
