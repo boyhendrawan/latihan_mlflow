@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff80bd9fa0ae40d8949ede613420bea3/artifacts
+end_time: 1750572024298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff80bd9fa0ae40d8949ede613420bea3
+run_name: worried-deer-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750571889537
+status: 3
+tags: []
+user_id: runner
