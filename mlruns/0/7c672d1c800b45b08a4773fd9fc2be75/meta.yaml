@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c672d1c800b45b08a4773fd9fc2be75/artifacts
+end_time: 1750581946554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c672d1c800b45b08a4773fd9fc2be75
+run_name: rare-bug-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750581811324
+status: 3
+tags: []
+user_id: runner
