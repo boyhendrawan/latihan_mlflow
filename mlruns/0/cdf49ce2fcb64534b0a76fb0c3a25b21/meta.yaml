@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cdf49ce2fcb64534b0a76fb0c3a25b21/artifacts
+end_time: 1750567731013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf49ce2fcb64534b0a76fb0c3a25b21
+run_name: nimble-dove-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750567595341
+status: 3
+tags: []
+user_id: runner
