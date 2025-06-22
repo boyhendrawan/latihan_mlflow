@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18eac048df5f416ea9a62ed0664d4da5/artifacts
+end_time: 1750580775759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18eac048df5f416ea9a62ed0664d4da5
+run_name: aged-wren-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750580641082
+status: 3
+tags: []
+user_id: runner
