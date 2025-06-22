@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93897be9ccba4192bc676ff38c2896cb/artifacts
+end_time: 1750588199019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93897be9ccba4192bc676ff38c2896cb
+run_name: dazzling-seal-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750588063717
+status: 3
+tags: []
+user_id: runner
