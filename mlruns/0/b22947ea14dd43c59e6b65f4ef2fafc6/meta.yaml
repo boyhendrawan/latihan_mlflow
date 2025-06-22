@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b22947ea14dd43c59e6b65f4ef2fafc6/artifacts
+end_time: 1750559498504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b22947ea14dd43c59e6b65f4ef2fafc6
+run_name: shivering-dove-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750559362699
+status: 3
+tags: []
+user_id: runner
