@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bdef9947f988437ca939b5afdef24ebb/artifacts
+end_time: 1750586050242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdef9947f988437ca939b5afdef24ebb
+run_name: judicious-sow-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750585915198
+status: 3
+tags: []
+user_id: runner
