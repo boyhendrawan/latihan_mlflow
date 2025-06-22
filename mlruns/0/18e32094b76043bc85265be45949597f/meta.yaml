@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/18e32094b76043bc85265be45949597f/artifacts
+end_time: 1750574749374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18e32094b76043bc85265be45949597f
+run_name: bald-worm-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750574621359
+status: 3
+tags: []
+user_id: runner
