@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7fa963750af5442ab8a148e962235ab0/artifacts
+end_time: 1750563991687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fa963750af5442ab8a148e962235ab0
+run_name: valuable-loon-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750563855263
+status: 3
+tags: []
+user_id: runner
