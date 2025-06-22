@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0f134c3b85af44bca9959349165c7a2c/artifacts
+end_time: 1750585466331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f134c3b85af44bca9959349165c7a2c
+run_name: redolent-lark-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750585331599
+status: 3
+tags: []
+user_id: runner
