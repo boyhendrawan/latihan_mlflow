@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3484a779df16476c9095bae54ea6f362/artifacts
+end_time: 1750575914723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3484a779df16476c9095bae54ea6f362
+run_name: mysterious-colt-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750575779106
+status: 3
+tags: []
+user_id: runner
