@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/19d94fb9a9cb4bf08859001fe03a2b47/artifacts
+end_time: 1750556173270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19d94fb9a9cb4bf08859001fe03a2b47
+run_name: wise-squirrel-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750556036124
+status: 3
+tags: []
+user_id: runner
