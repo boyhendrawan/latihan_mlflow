@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/222e1e84fb7347a69d8ff189b0967b26/artifacts
+end_time: 1750554402938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222e1e84fb7347a69d8ff189b0967b26
+run_name: orderly-snipe-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750554266982
+status: 3
+tags: []
+user_id: runner
