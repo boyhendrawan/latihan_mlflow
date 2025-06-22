@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cbb33e4eec32498fa6adf0c4038791e0/artifacts
+end_time: 1750570453359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbb33e4eec32498fa6adf0c4038791e0
+run_name: resilient-dove-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750570317938
+status: 3
+tags: []
+user_id: runner
