@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a6ee5d9f0ad04a6ba02933229f29030e/artifacts
+end_time: 1750588973366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6ee5d9f0ad04a6ba02933229f29030e
+run_name: luminous-perch-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750588837825
+status: 3
+tags: []
+user_id: runner
