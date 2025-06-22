@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/994e1dcbe14044ea9e88c1b8f78461f1/artifacts
+end_time: 1750589750782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994e1dcbe14044ea9e88c1b8f78461f1
+run_name: delightful-mink-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750589615882
+status: 3
+tags: []
+user_id: runner
