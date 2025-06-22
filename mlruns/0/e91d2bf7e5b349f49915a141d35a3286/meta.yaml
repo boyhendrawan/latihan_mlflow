@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e91d2bf7e5b349f49915a141d35a3286/artifacts
+end_time: 1750591914115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e91d2bf7e5b349f49915a141d35a3286
+run_name: caring-chimp-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750591778347
+status: 3
+tags: []
+user_id: runner
