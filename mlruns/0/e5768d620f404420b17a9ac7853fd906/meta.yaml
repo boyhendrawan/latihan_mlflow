@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e5768d620f404420b17a9ac7853fd906/artifacts
+end_time: 1750588780042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5768d620f404420b17a9ac7853fd906
+run_name: powerful-zebra-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750588643748
+status: 3
+tags: []
+user_id: runner
