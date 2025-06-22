@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/002f6102d9fb4594876271fc4e2abbd3/artifacts
+end_time: 1750559886995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 002f6102d9fb4594876271fc4e2abbd3
+run_name: bemused-pig-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750559750757
+status: 3
+tags: []
+user_id: runner
