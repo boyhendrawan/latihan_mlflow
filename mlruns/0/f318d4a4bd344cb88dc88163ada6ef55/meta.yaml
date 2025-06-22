@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f318d4a4bd344cb88dc88163ada6ef55/artifacts
+end_time: 1750592691777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f318d4a4bd344cb88dc88163ada6ef55
+run_name: nervous-newt-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750592556986
+status: 3
+tags: []
+user_id: runner
