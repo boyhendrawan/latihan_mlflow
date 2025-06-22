@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b68949a3a92140a1a52574cf284f8a4f/artifacts
+end_time: 1750584684172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b68949a3a92140a1a52574cf284f8a4f
+run_name: resilient-fly-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750584547912
+status: 3
+tags: []
+user_id: runner
