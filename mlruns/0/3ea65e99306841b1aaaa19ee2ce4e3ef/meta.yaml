@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3ea65e99306841b1aaaa19ee2ce4e3ef/artifacts
+end_time: 1750553625272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea65e99306841b1aaaa19ee2ce4e3ef
+run_name: gentle-trout-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553489140
+status: 3
+tags: []
+user_id: runner
