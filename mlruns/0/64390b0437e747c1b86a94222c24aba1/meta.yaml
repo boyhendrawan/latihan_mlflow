@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64390b0437e747c1b86a94222c24aba1/artifacts
+end_time: 1750558139643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64390b0437e747c1b86a94222c24aba1
+run_name: colorful-cat-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750558003998
+status: 3
+tags: []
+user_id: runner
