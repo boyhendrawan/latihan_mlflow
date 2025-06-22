@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/04b8c1313e2b40f0ab325871c066ddca/artifacts
+end_time: 1750556959977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04b8c1313e2b40f0ab325871c066ddca
+run_name: suave-owl-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750556822586
+status: 3
+tags: []
+user_id: runner
