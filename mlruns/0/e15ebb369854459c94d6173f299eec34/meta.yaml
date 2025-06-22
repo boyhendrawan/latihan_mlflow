@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e15ebb369854459c94d6173f299eec34/artifacts
+end_time: 1750564384653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15ebb369854459c94d6173f299eec34
+run_name: grandiose-asp-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564249371
+status: 3
+tags: []
+user_id: runner
