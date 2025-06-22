@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3f46feaf1cae475aa847583c99d6e496/artifacts
+end_time: 1750574362736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f46feaf1cae475aa847583c99d6e496
+run_name: learned-toad-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750574226810
+status: 3
+tags: []
+user_id: runner
