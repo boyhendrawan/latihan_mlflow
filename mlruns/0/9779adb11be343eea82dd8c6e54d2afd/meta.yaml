@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9779adb11be343eea82dd8c6e54d2afd/artifacts
+end_time: 1750564984964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9779adb11be343eea82dd8c6e54d2afd
+run_name: grandiose-gull-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564848660
+status: 3
+tags: []
+user_id: runner
