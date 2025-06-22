@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/447b054aff4644648c526040445e3f34/artifacts
+end_time: 1750578641057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 447b054aff4644648c526040445e3f34
+run_name: beautiful-sheep-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750578506643
+status: 3
+tags: []
+user_id: runner
