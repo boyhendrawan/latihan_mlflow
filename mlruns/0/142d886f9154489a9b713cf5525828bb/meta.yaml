@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/142d886f9154489a9b713cf5525828bb/artifacts
+end_time: 1750570063466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 142d886f9154489a9b713cf5525828bb
+run_name: exultant-hawk-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750569926420
+status: 3
+tags: []
+user_id: runner
