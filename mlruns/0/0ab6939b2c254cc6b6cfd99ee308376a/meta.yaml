@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ab6939b2c254cc6b6cfd99ee308376a/artifacts
+end_time: 1750587809495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ab6939b2c254cc6b6cfd99ee308376a
+run_name: gifted-crow-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750587674228
+status: 3
+tags: []
+user_id: runner
