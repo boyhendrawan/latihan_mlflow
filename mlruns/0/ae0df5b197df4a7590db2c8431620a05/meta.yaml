@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae0df5b197df4a7590db2c8431620a05/artifacts
+end_time: 1750564788757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae0df5b197df4a7590db2c8431620a05
+run_name: worried-grub-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750564652844
+status: 3
+tags: []
+user_id: runner
