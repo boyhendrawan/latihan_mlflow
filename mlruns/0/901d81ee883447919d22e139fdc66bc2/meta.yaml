@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/901d81ee883447919d22e139fdc66bc2/artifacts
+end_time: 1750554015141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 901d81ee883447919d22e139fdc66bc2
+run_name: crawling-colt-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553878687
+status: 3
+tags: []
+user_id: runner
