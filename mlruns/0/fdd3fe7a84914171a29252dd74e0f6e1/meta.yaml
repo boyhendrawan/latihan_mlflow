@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdd3fe7a84914171a29252dd74e0f6e1/artifacts
+end_time: 1750552453577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd3fe7a84914171a29252dd74e0f6e1
+run_name: calm-loon-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750552318306
+status: 3
+tags: []
+user_id: runner
