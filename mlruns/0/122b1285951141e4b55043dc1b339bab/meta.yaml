@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/122b1285951141e4b55043dc1b339bab/artifacts
+end_time: 1750569672113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 122b1285951141e4b55043dc1b339bab
+run_name: puzzled-goose-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750569535007
+status: 3
+tags: []
+user_id: runner
