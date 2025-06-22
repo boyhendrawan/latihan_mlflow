@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a6688d7836b46d9a102241e357df844/artifacts
+end_time: 1750557152757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a6688d7836b46d9a102241e357df844
+run_name: able-bass-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750557017428
+status: 3
+tags: []
+user_id: runner
