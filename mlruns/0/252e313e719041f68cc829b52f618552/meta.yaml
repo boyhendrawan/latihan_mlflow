@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/252e313e719041f68cc829b52f618552/artifacts
+end_time: 1750572606736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 252e313e719041f68cc829b52f618552
+run_name: caring-squirrel-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572471858
+status: 3
+tags: []
+user_id: runner
