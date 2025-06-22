@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aee272154cf34a8286ebe0c75993158c/artifacts
+end_time: 1750555976265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aee272154cf34a8286ebe0c75993158c
+run_name: serious-carp-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750555841080
+status: 3
+tags: []
+user_id: runner
