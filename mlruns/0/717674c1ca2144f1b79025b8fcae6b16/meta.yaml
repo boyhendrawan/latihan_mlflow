@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/717674c1ca2144f1b79025b8fcae6b16/artifacts
+end_time: 1750591716982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 717674c1ca2144f1b79025b8fcae6b16
+run_name: angry-shrike-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750591579828
+status: 3
+tags: []
+user_id: runner
