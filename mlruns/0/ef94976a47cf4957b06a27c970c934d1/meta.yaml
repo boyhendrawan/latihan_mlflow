@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef94976a47cf4957b06a27c970c934d1/artifacts
+end_time: 1750567138426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef94976a47cf4957b06a27c970c934d1
+run_name: delicate-duck-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750567000938
+status: 3
+tags: []
+user_id: runner
