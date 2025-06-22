@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ceef2488a3e4af2bc961111bb2296e5/artifacts
+end_time: 1750563018650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ceef2488a3e4af2bc961111bb2296e5
+run_name: delightful-squid-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750562882231
+status: 3
+tags: []
+user_id: runner
