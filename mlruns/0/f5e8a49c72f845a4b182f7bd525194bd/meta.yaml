@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5e8a49c72f845a4b182f7bd525194bd/artifacts
+end_time: 1750583509302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5e8a49c72f845a4b182f7bd525194bd
+run_name: welcoming-sloth-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750583374132
+status: 3
+tags: []
+user_id: runner
