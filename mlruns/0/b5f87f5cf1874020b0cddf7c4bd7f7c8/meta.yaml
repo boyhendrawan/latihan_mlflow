@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b5f87f5cf1874020b0cddf7c4bd7f7c8/artifacts
+end_time: 1750580973800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f87f5cf1874020b0cddf7c4bd7f7c8
+run_name: youthful-koi-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750580837274
+status: 3
+tags: []
+user_id: runner
