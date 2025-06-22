@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ffd13fb4a51f40a5a08c92ff8caf81b3/artifacts
+end_time: 1750561458537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd13fb4a51f40a5a08c92ff8caf81b3
+run_name: nimble-hare-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750561322906
+status: 3
+tags: []
+user_id: runner
