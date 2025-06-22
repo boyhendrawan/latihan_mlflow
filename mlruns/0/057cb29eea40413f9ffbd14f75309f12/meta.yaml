@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/057cb29eea40413f9ffbd14f75309f12/artifacts
+end_time: 1750578252129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 057cb29eea40413f9ffbd14f75309f12
+run_name: fearless-shark-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750578117447
+status: 3
+tags: []
+user_id: runner
