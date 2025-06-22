@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/addbcbb1075648609a710dfdd7fb7ad9/artifacts
+end_time: 1750583317016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: addbcbb1075648609a710dfdd7fb7ad9
+run_name: grandiose-ox-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750583181119
+status: 3
+tags: []
+user_id: runner
