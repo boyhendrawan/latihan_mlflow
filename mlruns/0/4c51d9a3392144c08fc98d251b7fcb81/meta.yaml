@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c51d9a3392144c08fc98d251b7fcb81/artifacts
+end_time: 1750584289830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c51d9a3392144c08fc98d251b7fcb81
+run_name: debonair-carp-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750584153682
+status: 3
+tags: []
+user_id: runner
