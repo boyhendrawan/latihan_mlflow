@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ee9f711a083741399e9a91eb821f8878/artifacts
+end_time: 1750579022000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee9f711a083741399e9a91eb821f8878
+run_name: big-fox-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750578887186
+status: 3
+tags: []
+user_id: runner
