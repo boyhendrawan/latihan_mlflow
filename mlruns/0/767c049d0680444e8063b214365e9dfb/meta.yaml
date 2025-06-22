@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/767c049d0680444e8063b214365e9dfb/artifacts
+end_time: 1750576494731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 767c049d0680444e8063b214365e9dfb
+run_name: mercurial-grub-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750576357441
+status: 3
+tags: []
+user_id: runner
