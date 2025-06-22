@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/394689f569174c46b04bf17f06880914/artifacts
+end_time: 1750574559435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 394689f569174c46b04bf17f06880914
+run_name: luxuriant-asp-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750574423082
+status: 3
+tags: []
+user_id: runner
