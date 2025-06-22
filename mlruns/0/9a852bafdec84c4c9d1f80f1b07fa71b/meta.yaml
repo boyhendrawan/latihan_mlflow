@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a852bafdec84c4c9d1f80f1b07fa71b/artifacts
+end_time: 1750572410112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a852bafdec84c4c9d1f80f1b07fa71b
+run_name: agreeable-hare-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572274167
+status: 3
+tags: []
+user_id: runner
