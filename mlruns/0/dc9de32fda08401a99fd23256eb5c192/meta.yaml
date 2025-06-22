@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc9de32fda08401a99fd23256eb5c192/artifacts
+end_time: 1750562038909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc9de32fda08401a99fd23256eb5c192
+run_name: bustling-mole-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750561903041
+status: 3
+tags: []
+user_id: runner
