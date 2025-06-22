@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d8be06dd65664bb985c242261f17e9a4/artifacts
+end_time: 1750591324452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8be06dd65664bb985c242261f17e9a4
+run_name: painted-cub-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750591188465
+status: 3
+tags: []
+user_id: runner
