@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/999b03b2784f4a7db70ab4166a85f06e/artifacts
+end_time: 1750593478838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 999b03b2784f4a7db70ab4166a85f06e
+run_name: sedate-calf-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750593342498
+status: 3
+tags: []
+user_id: runner
