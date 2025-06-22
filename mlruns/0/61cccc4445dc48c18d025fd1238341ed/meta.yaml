@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/61cccc4445dc48c18d025fd1238341ed/artifacts
+end_time: 1750572805743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61cccc4445dc48c18d025fd1238341ed
+run_name: thundering-fowl-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572669794
+status: 3
+tags: []
+user_id: runner
