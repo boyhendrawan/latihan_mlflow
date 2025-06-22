@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d42fd23b59fa41f8ae229fcaea05ae8d/artifacts
+end_time: 1750554996494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d42fd23b59fa41f8ae229fcaea05ae8d
+run_name: nervous-fly-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750554860859
+status: 3
+tags: []
+user_id: runner
