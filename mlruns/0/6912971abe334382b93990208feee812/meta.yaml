@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6912971abe334382b93990208feee812/artifacts
+end_time: 1750563792635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6912971abe334382b93990208feee812
+run_name: welcoming-fowl-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750563656557
+status: 3
+tags: []
+user_id: runner
