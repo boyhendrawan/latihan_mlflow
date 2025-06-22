@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9fff188fa5c7475eb4bfadd337ee8e66/artifacts
+end_time: 1750556367414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fff188fa5c7475eb4bfadd337ee8e66
+run_name: defiant-perch-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750556232439
+status: 3
+tags: []
+user_id: runner
