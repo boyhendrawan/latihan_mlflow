@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/20cfad12c9ec4953aa77746ffd44c8c1/artifacts
+end_time: 1750551870751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20cfad12c9ec4953aa77746ffd44c8c1
+run_name: resilient-finch-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750551735412
+status: 3
+tags: []
+user_id: runner
