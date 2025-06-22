@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e05369e8bf1e4df88ddcd5aa5f7edd85/artifacts
+end_time: 1750554801171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e05369e8bf1e4df88ddcd5aa5f7edd85
+run_name: dapper-sloth-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750554664485
+status: 3
+tags: []
+user_id: runner
