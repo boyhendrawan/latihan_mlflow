@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8a4786bd986544dd91f838af91abcb0e/artifacts
+end_time: 1750591127505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a4786bd986544dd91f838af91abcb0e
+run_name: powerful-shark-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750590992334
+status: 3
+tags: []
+user_id: runner
