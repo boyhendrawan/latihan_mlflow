@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec902687045b48a694daa77faaa9fe33/artifacts
+end_time: 1750585663102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec902687045b48a694daa77faaa9fe33
+run_name: fearless-bug-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750585527396
+status: 3
+tags: []
+user_id: runner
