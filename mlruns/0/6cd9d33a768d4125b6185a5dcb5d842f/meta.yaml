@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6cd9d33a768d4125b6185a5dcb5d842f/artifacts
+end_time: 1750565180379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cd9d33a768d4125b6185a5dcb5d842f
+run_name: rogue-koi-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750565043626
+status: 3
+tags: []
+user_id: runner
