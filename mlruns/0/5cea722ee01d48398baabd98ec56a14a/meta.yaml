@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5cea722ee01d48398baabd98ec56a14a/artifacts
+end_time: 1750550885580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cea722ee01d48398baabd98ec56a14a
+run_name: aged-sloth-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750550749652
+status: 3
+tags: []
+user_id: runner
