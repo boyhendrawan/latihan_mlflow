@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f86e879e9a084069957625ccb1e17b5a/artifacts
+end_time: 1750552260755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f86e879e9a084069957625ccb1e17b5a
+run_name: enthused-kite-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750552124155
+status: 3
+tags: []
+user_id: runner
