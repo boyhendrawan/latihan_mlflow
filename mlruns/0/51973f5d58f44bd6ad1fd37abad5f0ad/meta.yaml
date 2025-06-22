@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51973f5d58f44bd6ad1fd37abad5f0ad/artifacts
+end_time: 1750586836163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51973f5d58f44bd6ad1fd37abad5f0ad
+run_name: overjoyed-asp-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750586700179
+status: 3
+tags: []
+user_id: runner
