@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/de7aaf415714410e89e8fef826dfa94f/artifacts
+end_time: 1750572216466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de7aaf415714410e89e8fef826dfa94f
+run_name: delightful-mule-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572081425
+status: 3
+tags: []
+user_id: runner
