@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f3c30b849a94720b67623b2b737aa06/artifacts
+end_time: 1750551275027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f3c30b849a94720b67623b2b737aa06
+run_name: shivering-owl-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750551139579
+status: 3
+tags: []
+user_id: runner
