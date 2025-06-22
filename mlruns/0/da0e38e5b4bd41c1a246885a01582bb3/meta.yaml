@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da0e38e5b4bd41c1a246885a01582bb3/artifacts
+end_time: 1750568311537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0e38e5b4bd41c1a246885a01582bb3
+run_name: serious-cat-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750568175890
+status: 3
+tags: []
+user_id: runner
