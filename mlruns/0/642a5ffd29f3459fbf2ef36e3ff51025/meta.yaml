@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/642a5ffd29f3459fbf2ef36e3ff51025/artifacts
+end_time: 1750589361346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 642a5ffd29f3459fbf2ef36e3ff51025
+run_name: spiffy-grouse-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750589225970
+status: 3
+tags: []
+user_id: runner
