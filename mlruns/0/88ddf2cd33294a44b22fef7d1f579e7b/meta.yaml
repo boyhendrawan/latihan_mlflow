@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/88ddf2cd33294a44b22fef7d1f579e7b/artifacts
+end_time: 1750578445655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ddf2cd33294a44b22fef7d1f579e7b
+run_name: incongruous-ox-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750578311100
+status: 3
+tags: []
+user_id: runner
