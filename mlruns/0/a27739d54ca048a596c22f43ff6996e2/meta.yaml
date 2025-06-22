@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a27739d54ca048a596c22f43ff6996e2/artifacts
+end_time: 1750550692335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27739d54ca048a596c22f43ff6996e2
+run_name: wise-hound-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750550555586
+status: 3
+tags: []
+user_id: runner
