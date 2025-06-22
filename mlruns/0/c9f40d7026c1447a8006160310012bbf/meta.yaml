@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9f40d7026c1447a8006160310012bbf/artifacts
+end_time: 1750557743989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9f40d7026c1447a8006160310012bbf
+run_name: righteous-fish-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750557608118
+status: 3
+tags: []
+user_id: runner
