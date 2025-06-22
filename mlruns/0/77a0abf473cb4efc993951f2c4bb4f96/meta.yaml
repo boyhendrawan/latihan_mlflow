@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/77a0abf473cb4efc993951f2c4bb4f96/artifacts
+end_time: 1750573001509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77a0abf473cb4efc993951f2c4bb4f96
+run_name: sedate-mole-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750572866726
+status: 3
+tags: []
+user_id: runner
