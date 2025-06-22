@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75c7f4e3350f4136a1a3b1343a841bbf/artifacts
+end_time: 1750576883644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c7f4e3350f4136a1a3b1343a841bbf
+run_name: upbeat-hawk-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750576747245
+status: 3
+tags: []
+user_id: runner
