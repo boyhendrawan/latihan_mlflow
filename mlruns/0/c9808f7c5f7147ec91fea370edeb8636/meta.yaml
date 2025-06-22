@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9808f7c5f7147ec91fea370edeb8636/artifacts
+end_time: 1750568701064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9808f7c5f7147ec91fea370edeb8636
+run_name: upbeat-grouse-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750568565253
+status: 3
+tags: []
+user_id: runner
