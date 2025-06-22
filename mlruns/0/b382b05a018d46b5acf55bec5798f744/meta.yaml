@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b382b05a018d46b5acf55bec5798f744/artifacts
+end_time: 1750570259854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b382b05a018d46b5acf55bec5798f744
+run_name: victorious-bass-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750570123594
+status: 3
+tags: []
+user_id: runner
