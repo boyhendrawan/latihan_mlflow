@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/843469c781024a06912900e911f4003f/artifacts
+end_time: 1750553229730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 843469c781024a06912900e911f4003f
+run_name: fearless-hen-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750553093706
+status: 3
+tags: []
+user_id: runner
