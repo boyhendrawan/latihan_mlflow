@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a47411be1644532ab48040c3e672d4c/artifacts
+end_time: 1750566158462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a47411be1644532ab48040c3e672d4c
+run_name: bemused-cod-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750566022380
+status: 3
+tags: []
+user_id: runner
