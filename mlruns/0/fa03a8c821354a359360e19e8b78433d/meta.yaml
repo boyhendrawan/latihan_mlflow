@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fa03a8c821354a359360e19e8b78433d/artifacts
+end_time: 1750550494566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa03a8c821354a359360e19e8b78433d
+run_name: awesome-wasp-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750550359697
+status: 3
+tags: []
+user_id: runner
