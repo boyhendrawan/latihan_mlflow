@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/676566821672492f8344b097af8826cf/artifacts
+end_time: 1750582928838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 676566821672492f8344b097af8826cf
+run_name: stately-lynx-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750582793174
+status: 3
+tags: []
+user_id: runner
