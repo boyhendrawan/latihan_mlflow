@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fcb5d6cdacdf4e15968c4d5b63386600/artifacts
+end_time: 1750592501299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcb5d6cdacdf4e15968c4d5b63386600
+run_name: mysterious-gull-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750592366472
+status: 3
+tags: []
+user_id: runner
