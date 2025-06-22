@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4775ed44692246c2aada8454b6a983e9/artifacts
+end_time: 1750583704801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4775ed44692246c2aada8454b6a983e9
+run_name: enthused-finch-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750583568165
+status: 3
+tags: []
+user_id: runner
