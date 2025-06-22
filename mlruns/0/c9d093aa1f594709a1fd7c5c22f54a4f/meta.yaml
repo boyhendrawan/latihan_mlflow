@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9d093aa1f594709a1fd7c5c22f54a4f/artifacts
+end_time: 1750588390628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d093aa1f594709a1fd7c5c22f54a4f
+run_name: beautiful-stag-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750588255093
+status: 3
+tags: []
+user_id: runner
