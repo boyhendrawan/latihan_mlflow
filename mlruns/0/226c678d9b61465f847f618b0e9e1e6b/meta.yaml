@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/226c678d9b61465f847f618b0e9e1e6b/artifacts
+end_time: 1750581752994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 226c678d9b61465f847f618b0e9e1e6b
+run_name: abrasive-crow-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750581618188
+status: 3
+tags: []
+user_id: runner
