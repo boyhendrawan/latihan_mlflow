@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b80f80740ce42f897f914d72b3c42f6/artifacts
+end_time: 1750578830326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b80f80740ce42f897f914d72b3c42f6
+run_name: nervous-bee-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750578695975
+status: 3
+tags: []
+user_id: runner
