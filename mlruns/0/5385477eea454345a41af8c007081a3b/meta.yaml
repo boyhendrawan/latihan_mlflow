@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5385477eea454345a41af8c007081a3b/artifacts
+end_time: 1750577269947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5385477eea454345a41af8c007081a3b
+run_name: fortunate-rook-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750577135544
+status: 3
+tags: []
+user_id: runner
