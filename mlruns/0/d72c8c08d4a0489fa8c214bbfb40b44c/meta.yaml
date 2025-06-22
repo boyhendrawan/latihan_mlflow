@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d72c8c08d4a0489fa8c214bbfb40b44c/artifacts
+end_time: 1750566742741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72c8c08d4a0489fa8c214bbfb40b44c
+run_name: skillful-stoat-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750566608245
+status: 3
+tags: []
+user_id: runner
