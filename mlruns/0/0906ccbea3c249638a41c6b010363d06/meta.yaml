@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0906ccbea3c249638a41c6b010363d06/artifacts
+end_time: 1750592113191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0906ccbea3c249638a41c6b010363d06
+run_name: capable-whale-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750591977387
+status: 3
+tags: []
+user_id: runner
