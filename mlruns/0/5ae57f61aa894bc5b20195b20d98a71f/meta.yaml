@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5ae57f61aa894bc5b20195b20d98a71f/artifacts
+end_time: 1750565571003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ae57f61aa894bc5b20195b20d98a71f
+run_name: unruly-goose-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750565436403
+status: 3
+tags: []
+user_id: runner
