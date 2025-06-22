@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7b8e6c105e9c4021b30f42a4b228549e/artifacts
+end_time: 1750568506272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b8e6c105e9c4021b30f42a4b228549e
+run_name: peaceful-kite-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750568369483
+status: 3
+tags: []
+user_id: runner
