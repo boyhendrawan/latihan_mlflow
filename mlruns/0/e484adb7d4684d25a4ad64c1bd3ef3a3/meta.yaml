@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e484adb7d4684d25a4ad64c1bd3ef3a3/artifacts
+end_time: 1750587027854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e484adb7d4684d25a4ad64c1bd3ef3a3
+run_name: treasured-finch-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750586893133
+status: 3
+tags: []
+user_id: runner
