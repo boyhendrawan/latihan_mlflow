@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e08c852cc520495295efe123dc3a0451/artifacts
+end_time: 1750560083416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e08c852cc520495295efe123dc3a0451
+run_name: wistful-rat-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750559948238
+status: 3
+tags: []
+user_id: runner
