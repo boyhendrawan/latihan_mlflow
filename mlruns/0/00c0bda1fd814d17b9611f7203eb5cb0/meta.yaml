@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/00c0bda1fd814d17b9611f7203eb5cb0/artifacts
+end_time: 1750562231586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c0bda1fd814d17b9611f7203eb5cb0
+run_name: likeable-duck-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750562096661
+status: 3
+tags: []
+user_id: runner
