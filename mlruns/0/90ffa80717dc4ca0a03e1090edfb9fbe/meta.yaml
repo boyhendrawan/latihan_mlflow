@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90ffa80717dc4ca0a03e1090edfb9fbe/artifacts
+end_time: 1750573197542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90ffa80717dc4ca0a03e1090edfb9fbe
+run_name: blushing-bat-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750573062145
+status: 3
+tags: []
+user_id: runner
