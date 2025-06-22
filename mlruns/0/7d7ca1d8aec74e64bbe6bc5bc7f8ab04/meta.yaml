@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7d7ca1d8aec74e64bbe6bc5bc7f8ab04/artifacts
+end_time: 1750568898248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d7ca1d8aec74e64bbe6bc5bc7f8ab04
+run_name: calm-bee-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750568762829
+status: 3
+tags: []
+user_id: runner
